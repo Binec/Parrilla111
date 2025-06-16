@@ -1,0 +1,36 @@
+[18-May-2025 06:38:34 America/New_York] PHP Fatal error:  Uncaught Error: Interface 'SimplePie\Cache\DataCache' not found in /home/parrilla111/public_html/wp-includes/SimplePie/src/Cache/BaseDataCache.php:56
+Stack trace:
+#0 {main}
+  thrown in /home/parrilla111/public_html/wp-includes/SimplePie/src/Cache/BaseDataCache.php on line 56
+[18-May-2025 06:38:44 America/New_York] PHP Fatal error:  Uncaught Error: Interface 'SimplePie\Cache\NameFilter' not found in /home/parrilla111/public_html/wp-includes/SimplePie/src/Cache/CallableNameFilter.php:52
+Stack trace:
+#0 {main}
+  thrown in /home/parrilla111/public_html/wp-includes/SimplePie/src/Cache/CallableNameFilter.php on line 52
+[18-May-2025 06:38:54 America/New_York] PHP Fatal error:  Uncaught Error: Interface 'SimplePie\Cache\Base' not found in /home/parrilla111/public_html/wp-includes/SimplePie/src/Cache/DB.php:54
+Stack trace:
+#0 {main}
+  thrown in /home/parrilla111/public_html/wp-includes/SimplePie/src/Cache/DB.php on line 54
+[18-May-2025 06:39:05 America/New_York] PHP Fatal error:  Uncaught Error: Interface 'SimplePie\Cache\Base' not found in /home/parrilla111/public_html/wp-includes/SimplePie/src/Cache/File.php:54
+Stack trace:
+#0 {main}
+  thrown in /home/parrilla111/public_html/wp-includes/SimplePie/src/Cache/File.php on line 54
+[18-May-2025 06:39:10 America/New_York] PHP Fatal error:  Uncaught Error: Interface 'SimplePie\Cache\Base' not found in /home/parrilla111/public_html/wp-includes/SimplePie/src/Cache/Memcache.php:63
+Stack trace:
+#0 {main}
+  thrown in /home/parrilla111/public_html/wp-includes/SimplePie/src/Cache/Memcache.php on line 63
+[18-May-2025 06:39:14 America/New_York] PHP Fatal error:  Uncaught Error: Interface 'SimplePie\Cache\Base' not found in /home/parrilla111/public_html/wp-includes/SimplePie/src/Cache/Memcached.php:64
+Stack trace:
+#0 {main}
+  thrown in /home/parrilla111/public_html/wp-includes/SimplePie/src/Cache/Memcached.php on line 64
+[18-May-2025 06:39:19 America/New_York] PHP Fatal error:  Uncaught Error: Class 'SimplePie\Cache\DB' not found in /home/parrilla111/public_html/wp-includes/SimplePie/src/Cache/MySQL.php:60
+Stack trace:
+#0 {main}
+  thrown in /home/parrilla111/public_html/wp-includes/SimplePie/src/Cache/MySQL.php on line 60
+[18-May-2025 06:39:28 America/New_York] PHP Fatal error:  Uncaught Error: Interface 'SimplePie\Cache\DataCache' not found in /home/parrilla111/public_html/wp-includes/SimplePie/src/Cache/Psr16.php:57
+Stack trace:
+#0 {main}
+  thrown in /home/parrilla111/public_html/wp-includes/SimplePie/src/Cache/Psr16.php on line 57
+[18-May-2025 06:39:34 America/New_York] PHP Fatal error:  Uncaught Error: Interface 'SimplePie\Cache\Base' not found in /home/parrilla111/public_html/wp-includes/SimplePie/src/Cache/Redis.php:63
+Stack trace:
+#0 {main}
+  thrown in /home/parrilla111/public_html/wp-includes/SimplePie/src/Cache/Redis.php on line 63

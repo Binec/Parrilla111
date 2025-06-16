@@ -1,0 +1,96 @@
+[30-May-2024 01:05:49 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function add_action() in /home/parrilla111/public_html/wp-includes/block-bindings/pattern-overrides.php:47
+Stack trace:
+#0 {main}
+  thrown in /home/parrilla111/public_html/wp-includes/block-bindings/pattern-overrides.php on line 47
+[30-May-2024 01:05:55 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function add_action() in /home/parrilla111/public_html/wp-includes/block-bindings/post-meta.php:70
+Stack trace:
+#0 {main}
+  thrown in /home/parrilla111/public_html/wp-includes/block-bindings/post-meta.php on line 70
+[21-Jul-2024 01:11:56 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function add_action() in /home/parrilla111/public_html/wp-includes/block-bindings/pattern-overrides.php:47
+Stack trace:
+#0 {main}
+  thrown in /home/parrilla111/public_html/wp-includes/block-bindings/pattern-overrides.php on line 47
+[21-Jul-2024 01:12:04 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function add_action() in /home/parrilla111/public_html/wp-includes/block-bindings/post-meta.php:70
+Stack trace:
+#0 {main}
+  thrown in /home/parrilla111/public_html/wp-includes/block-bindings/post-meta.php on line 70
+[20-Aug-2024 09:32:01 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function add_action() in /home/parrilla111/public_html/wp-includes/block-bindings/pattern-overrides.php:47
+Stack trace:
+#0 {main}
+  thrown in /home/parrilla111/public_html/wp-includes/block-bindings/pattern-overrides.php on line 47
+[20-Aug-2024 09:32:04 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function add_action() in /home/parrilla111/public_html/wp-includes/block-bindings/post-meta.php:70
+Stack trace:
+#0 {main}
+  thrown in /home/parrilla111/public_html/wp-includes/block-bindings/post-meta.php on line 70
+[21-Aug-2024 02:20:23 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function add_action() in /home/parrilla111/public_html/wp-includes/block-bindings/pattern-overrides.php:47
+Stack trace:
+#0 {main}
+  thrown in /home/parrilla111/public_html/wp-includes/block-bindings/pattern-overrides.php on line 47
+[21-Aug-2024 02:20:26 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function add_action() in /home/parrilla111/public_html/wp-includes/block-bindings/post-meta.php:70
+Stack trace:
+#0 {main}
+  thrown in /home/parrilla111/public_html/wp-includes/block-bindings/post-meta.php on line 70
+[21-Aug-2024 05:29:03 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function add_action() in /home/parrilla111/public_html/wp-includes/block-bindings/pattern-overrides.php:47
+Stack trace:
+#0 {main}
+  thrown in /home/parrilla111/public_html/wp-includes/block-bindings/pattern-overrides.php on line 47
+[21-Aug-2024 05:29:07 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function add_action() in /home/parrilla111/public_html/wp-includes/block-bindings/post-meta.php:70
+Stack trace:
+#0 {main}
+  thrown in /home/parrilla111/public_html/wp-includes/block-bindings/post-meta.php on line 70
+[31-Oct-2024 23:06:33 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function add_action() in /home/parrilla111/public_html/wp-includes/block-bindings/pattern-overrides.php:47
+Stack trace:
+#0 {main}
+  thrown in /home/parrilla111/public_html/wp-includes/block-bindings/pattern-overrides.php on line 47
+[31-Oct-2024 23:06:34 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function add_action() in /home/parrilla111/public_html/wp-includes/block-bindings/post-meta.php:70
+Stack trace:
+#0 {main}
+  thrown in /home/parrilla111/public_html/wp-includes/block-bindings/post-meta.php on line 70
+[07-Nov-2024 08:13:24 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function add_action() in /home/parrilla111/public_html/wp-includes/block-bindings/pattern-overrides.php:47
+Stack trace:
+#0 {main}
+  thrown in /home/parrilla111/public_html/wp-includes/block-bindings/pattern-overrides.php on line 47
+[07-Nov-2024 08:13:25 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function add_action() in /home/parrilla111/public_html/wp-includes/block-bindings/post-meta.php:70
+Stack trace:
+#0 {main}
+  thrown in /home/parrilla111/public_html/wp-includes/block-bindings/post-meta.php on line 70
+[12-Mar-2025 08:55:46 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function add_action() in /home/parrilla111/public_html/wp-includes/block-bindings/pattern-overrides.php:47
+Stack trace:
+#0 {main}
+  thrown in /home/parrilla111/public_html/wp-includes/block-bindings/pattern-overrides.php on line 47
+[12-Mar-2025 08:55:47 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function add_action() in /home/parrilla111/public_html/wp-includes/block-bindings/post-meta.php:70
+Stack trace:
+#0 {main}
+  thrown in /home/parrilla111/public_html/wp-includes/block-bindings/post-meta.php on line 70
+[14-Mar-2025 00:25:48 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function add_action() in /home/parrilla111/public_html/wp-includes/block-bindings/pattern-overrides.php:47
+Stack trace:
+#0 {main}
+  thrown in /home/parrilla111/public_html/wp-includes/block-bindings/pattern-overrides.php on line 47
+[14-Mar-2025 00:25:50 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function add_action() in /home/parrilla111/public_html/wp-includes/block-bindings/post-meta.php:70
+Stack trace:
+#0 {main}
+  thrown in /home/parrilla111/public_html/wp-includes/block-bindings/post-meta.php on line 70
+[15-Mar-2025 09:21:41 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function add_action() in /home/parrilla111/public_html/wp-includes/block-bindings/pattern-overrides.php:47
+Stack trace:
+#0 {main}
+  thrown in /home/parrilla111/public_html/wp-includes/block-bindings/pattern-overrides.php on line 47
+[15-Mar-2025 09:21:43 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function add_action() in /home/parrilla111/public_html/wp-includes/block-bindings/post-meta.php:70
+Stack trace:
+#0 {main}
+  thrown in /home/parrilla111/public_html/wp-includes/block-bindings/post-meta.php on line 70
+[16-Mar-2025 07:24:22 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function add_action() in /home/parrilla111/public_html/wp-includes/block-bindings/pattern-overrides.php:47
+Stack trace:
+#0 {main}
+  thrown in /home/parrilla111/public_html/wp-includes/block-bindings/pattern-overrides.php on line 47
+[16-Mar-2025 07:24:24 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function add_action() in /home/parrilla111/public_html/wp-includes/block-bindings/post-meta.php:70
+Stack trace:
+#0 {main}
+  thrown in /home/parrilla111/public_html/wp-includes/block-bindings/post-meta.php on line 70
+[18-May-2025 06:49:29 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function add_action() in /home/parrilla111/public_html/wp-includes/block-bindings/pattern-overrides.php:47
+Stack trace:
+#0 {main}
+  thrown in /home/parrilla111/public_html/wp-includes/block-bindings/pattern-overrides.php on line 47
+[18-May-2025 06:49:34 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function add_action() in /home/parrilla111/public_html/wp-includes/block-bindings/post-meta.php:70
+Stack trace:
+#0 {main}
+  thrown in /home/parrilla111/public_html/wp-includes/block-bindings/post-meta.php on line 70

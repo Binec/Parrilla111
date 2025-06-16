@@ -1,0 +1,490 @@
+AWSTATS DATA FILE 7.9 (build 20230108)
+# If you remove this file, all statistics for date 202504 will be lost/reset.
+# Last config file used to build this data file was /home/parrilla111/tmp/awstats/awstats.parrilla111.com.conf.
+
+# Position (offset in bytes) in this file for beginning of each section for
+# direct I/O access. If you made changes somewhere in this file, you should
+# also remove completely the MAP section (AWStats will rewrite it at next
+# update).
+BEGIN_MAP 28
+POS_GENERAL 2049                
+POS_TIME 2731                
+POS_VISITOR 9632                
+POS_DAY 11171               
+POS_DOMAIN 3608                
+POS_LOGIN 3911                
+POS_ROBOT 4066                
+POS_WORMS 4284                
+POS_EMAILSENDER 4415                
+POS_EMAILRECEIVER 4558                
+POS_SESSION 11816               
+POS_FILESIZE 16293               
+POS_SIDER 12017               
+POS_FILETYPES 4693                
+POS_DOWNLOADS 4830                
+POS_OS 4964                
+POS_BROWSER 5114                
+POS_SCREENSIZE 5316                
+POS_UNKNOWNREFERER 5390                
+POS_UNKNOWNREFERERBROWSER 5616                
+POS_ORIGIN 5837                
+POS_SEREFERRALS 5975                
+POS_PAGEREFS 6119                
+POS_SEARCHWORDS 6267                
+POS_KEYWORDS 6419                
+POS_MISC 2395                
+POS_ERRORS 6478                
+POS_CLUSTER 3767                
+POS_SIDER_404 6657                
+END_MAP
+
+# LastLine    = Date of last record processed - Last record line number in last log - Last record offset in last log - Last record signature value
+# FirstTime   = Date of first visit for history file
+# LastTime    = Date of last visit for history file
+# LastUpdate  = Date of last update - Nb of parsed records - Nb of parsed old records - Nb of parsed new records - Nb of parsed corrupted - Nb of parsed dropped
+# TotalVisits = Number of visits
+# TotalUnique = Number of unique visitors
+# MonthHostsKnown   = Number of hosts known
+# MonthHostsUnKnown = Number of hosts unknown
+BEGIN_GENERAL 8
+LastLine 20250501002738 426 43730 13015756425920
+FirstTime 20250401022440
+LastTime 20250429145402
+LastUpdate 20250501070624 426 0 425 0 0
+TotalVisits 58                  
+TotalUnique 32                  
+MonthHostsKnown 0                   
+MonthHostsUnknown 36                  
+END_GENERAL
+
+# Misc ID - Pages - Hits - Bandwidth
+BEGIN_MISC 10
+AddToFavourites 0 1 0
+QuickTimeSupport 0 0 0
+DirectorSupport 0 0 0
+TotalMisc 0 0 0
+JavaEnabled 0 0 0
+PDFSupport 0 0 0
+RealPlayerSupport 0 0 0
+WindowsMediaPlayerSupport 0 0 0
+JavascriptDisabled 0 0 0
+FlashSupport 0 0 0
+END_MISC
+
+# Hour - Pages - Hits - Bandwidth - Not viewed Pages - Not viewed Hits - Not viewed Bandwidth
+BEGIN_TIME 24
+0 213 213 712574 804 872 121421
+1 190 190 656426 178 187 106
+2 236 236 769376 311 315 9815
+3 205 205 706352 2147 2163 606612
+4 0 0 0 1430 1437 638713
+5 443 443 1581982 296 347 49190
+6 110 110 357274 509 515 364409
+7 113 113 428982 83 88 210
+8 108 108 357274 890 894 14789
+9 311 311 1065900 409 412 3122
+10 210 211 710951 494 499 12880
+11 305 305 1041480 472 479 7939
+12 131 131 499548 1305 1372 499602
+13 90 92 4008671 518 523 112376
+14 303 303 1100581 1463 1470 596933
+15 141 141 446594 1044 1051 42041
+16 103 103 333368 1794 1800 244764
+17 117 117 574386 970 971 12421
+18 212 212 564068 1615 1622 319915
+19 106 106 355954 900 914 238262
+20 109 109 357274 909 917 47472
+21 0 0 0 733 749 325023
+22 0 1 285334 749 757 218570
+23 0 0 0 1015 1029 423424
+END_TIME
+
+# Domain - Pages - Hits - Bandwidth
+# The 25 first Pages must be first (order not required for others)
+BEGIN_DOMAIN 5
+us 3295 3299 15187931
+fr 212 212 712574
+au 104 104 355300
+gb 100 100 350398
+de 45 45 308146
+END_DOMAIN
+
+# Cluster ID - Pages - Hits - Bandwidth
+BEGIN_CLUSTER 0
+END_CLUSTER
+
+# Login - Pages - Hits - Bandwidth - Last visit
+# The 10 first Pages must be first (order not required for others)
+BEGIN_LOGIN 0
+END_LOGIN
+
+# Robot ID - Hits - Bandwidth - Last visit - Hits on robots.txt
+# The 25 first Hits must be first (order not required for others)
+BEGIN_ROBOT 2
+no_user_agent 1068 4449727 20250430145657 0
+Go\-http\-client/ 4 2543 20250407113943 0
+END_ROBOT
+
+# Worm ID - Hits - Bandwidth - Last visit
+# The 5 first Hits must be first (order not required for others)
+BEGIN_WORMS 0
+END_WORMS
+
+# EMail - Hits - Bandwidth - Last visit
+# The 20 first Hits must be first (order not required for others)
+BEGIN_EMAILSENDER 0
+END_EMAILSENDER
+
+# EMail - Hits - Bandwidth - Last visit
+# The 20 first hits must be first (order not required for others)
+BEGIN_EMAILRECEIVER 0
+END_EMAILRECEIVER
+
+# Files type - Hits - Bandwidth - Bandwidth without compression - Bandwidth after compression
+BEGIN_FILETYPES 4
+js 3 571019 0 0
+pdf 1 3488778 0 0
+html 2100 12854532 0 0
+php 1656 20 0 0
+END_FILETYPES
+
+# Downloads - Hits - Bandwidth
+BEGIN_DOWNLOADS 1
+/storage/2023/04/Menu-Digital-Desayunos-Almuerzos-_-Comidas-y-Cenas-2.pdf 1 0 3488778
+END_DOWNLOADS
+
+# OS ID - Hits
+BEGIN_OS ID - Hits - Pages 6
+win10 3687 3686
+androidnougat 54 54
+macosx9 1 0
+Unknown 15 15
+macosx10 2 0
+linux 1 1
+END_OS
+
+# Browser ID - Hits - Pages
+BEGIN_BROWSER 7
+chrome60.0.3112.107 54 54
+safari7.0.3 1 0
+chrome134.0.0.0 1 0
+chrome39.0.2171.95 2 0
+Unknown 15 15
+chrome90.0.4430.85 3686 3686
+chrome91.0.4472.114 1 1
+END_BROWSER
+
+# Screen size - Hits
+BEGIN_SCREENSIZE 0
+END_SCREENSIZE
+
+# Unknown referer OS - Last visit date
+BEGIN_UNKNOWNREFERER 3
+WordPress/6.8;_https://parrilla111.com 20250418175947
+get_local:DCV 20250415192413
+WordPress/6.7.2;_https://parrilla111.com 20250414204252
+END_UNKNOWNREFERER
+
+# Unknown referer Browser - Last visit date
+BEGIN_UNKNOWNREFERERBROWSER 3
+WordPress/6.7.2;_https://parrilla111.com 20250414204252
+WordPress/6.8;_https://parrilla111.com 20250418175947
+get_local:DCV 20250415192413
+END_UNKNOWNREFERERBROWSER
+
+# Origin - Pages - Hits 
+BEGIN_ORIGIN 6
+From0 25 29
+From1 3731 3731
+From2 0 0
+From3 0 0
+From4 0 0
+From5 0 0
+END_ORIGIN
+
+# Search engine referers ID - Pages - Hits
+BEGIN_SEREFERRALS 0
+END_SEREFERRALS
+
+# External page referers - Pages - Hits
+# The 25 first Pages must be first (order not required for others)
+BEGIN_PAGEREFS 0
+END_PAGEREFS
+
+# Search keyphrases - Number of search
+# The 10 first number of search must be first (order not required for others)
+BEGIN_SEARCHWORDS 0
+END_SEARCHWORDS
+
+# Search keywords - Number of search
+# The 25 first number of search must be first (order not required for others)
+BEGIN_KEYWORDS 0
+END_KEYWORDS
+
+# Errors - Hits - Bandwidth
+BEGIN_ERRORS 9
+400 9 9
+405 8 0
+301 16188 3461
+404 451 0
+302 3095 0
+409 17 45424
+101 20 0
+403 208 94255
+500 314 314590
+END_ERRORS
+
+# URL with 404 errors - Hits - Last URL referrer
+BEGIN_SIDER_404 58
+/.well-known/pki-validation/xmrlpc.php 31 -
+/.well-known/pki-validation/lang-load-role.php 8 -
+/.well-known/pki-validation/cux.php 1 -
+/.well-known/pki-validation/wp-scripts.php 2 -
+/.well-known/pki-validation/about.php%3fp= 4 -
+/.well-known/pki-validation/index.php 34 -
+/.well-known/pki-validation/xl2023.php 1 -
+/.well-known/pki-validation/iR7SzrsOUEP.php 7 -
+/.well-known/pki-validation/3c2b55bd-fabd-419b-9718-66fbcf89acc5.php 7 -
+/.well-known/pki-validation/akrcovxu.php 7 -
+/.well-known/pki-validation/doc.php 1 -
+/.well-known/pki-validation/cloud.php 35 -
+/.well-known/pki-validation/xp.php 7 -
+/.well-known/pki-validation/x.php 2 -
+/.well-known/pki-validation/wp-error_log.php 1 -
+/.well-known/pki-validation/wp-admin/ 10 -
+/.well-known/pki-validation/sxo.php 7 -
+/.well-known/pki-validation/admin.php 11 -
+/.well-known/pki-validation/autoload_classmap.php 1 -
+//.well-known/pki-validation/cloud.php 1 -
+//.well-known/pki-validation/index.php 1 -
+/.well-known/pki-validation/LA.php 2 -
+/.well-known/pki-validation/file.php 30 -
+/.well-known/pki-validation/ssl.php 2 -
+/.well-known/pki-validation/wp-login.php 11 -
+/.well-known/pki-validation/ahzjhofz.php 7 -
+/.well-known/pki-validation/install.php 10 -
+/.well-known/pki-validation/top.php 12 -
+/.well-known/pki-validation/ckyocyyp.php 2 -
+/.well-known/pki-validation/parx.php 19 -
+/.well-known/acme-challenge/index_php 7 -
+/.well-known/pki-validation/ibkejxnu.php 6 -
+/.well-known/pki-validation/101d2ae2-f2f3-4977-b35d-b3a0ad74a469.php 2 -
+/.well-known/pki-validation/sx.php 12 -
+/.well-known/pki-validation/class_api.php999 7 -
+/.well-known/pki-validation/pwnd.php 2 -
+/.well-known/pki-validation/about.php 50 -
+/.well-known/pki-validation/themes.php 4 -
+/.well-known/pki-validation/amaxx.php 2 -
+/.well-known/pki-validation/Newsupway.php 2 -
+/.well-known/pki-validation/classwithtostring.php 3 -
+/.well-known/pki-validation/43e0da16-f4f8-4f0a-91d6-f41bf52aec3f.php 1 -
+/.well-known/pki-validation/afnew.php 9 -
+/.well-known/pki-validation/dropdown.php 2 -
+/.well-known/pki-validation/muse.php 1 -
+/.well-known/pki-validation/asyaddpi.php 7 -
+/.well-known/pki-validation//parx.php 1 -
+/.well-known/pki-validation/fond.php 8 -
+/.well-known/pki-validation/mariju.php 2 -
+/.well-known/pki-validation/shell.php 6 -
+/.well-known/pki-validation/xmrlpc.php%3fp= 15 -
+/.well-known/pki-validation/plugins.php 4 -
+/.well-known/pki-validation/gkiliuew.php 3 -
+/.well-known/pki-validation/65d9b536-ce5f-497e-8c82-8ee66c78d293.php 7 -
+/.well-known/pki-validation/wp-config.php 4 -
+/.well-known/pki-validation/worksec.php 7 -
+/.well-known/pki-validation/wp-sigunq.php 2 -
+/.well-known/pki-validation/dbform69.php 1 -
+END_SIDER_404
+
+# Host - Pages - Hits - Bandwidth - Last visit date - [Start date of last visit] - [Last page of last visit]
+# [Start date of last visit] and [Last page of last visit] are saved only if session is not finished
+# The 25 first Hits must be first (order not required for others)
+BEGIN_VISITOR 36
+74.225.152.45 416 416 1421200 20250416003651
+104.211.112.103 320 320 1069848 20250419180719
+68.183.91.137 216 216 714548 20250424003838
+74.225.188.199 216 216 714548 20250424064416
+135.235.161.63 212 212 712574 20250424150358
+52.172.143.149 208 208 710600 20250410023811
+4.213.70.69 208 208 710600 20250406094815
+198.44.189.9 208 208 710600 20250414142436
+4.247.178.178 119 119 454741 20250402053351
+138.197.31.192 108 108 357274 20250418024613
+107.151.218.149 108 108 357274 20250429145402
+13.126.29.176 106 106 352198 20250425180546
+64.227.154.193 104 104 355300 20250414160921
+64.227.174.124 104 104 355300 20250411094035
+139.59.70.57 104 104 355300 20250401051240
+165.22.3.31 104 104 355300 20250409031847
+134.209.215.33 104 104 355300 20250401050728
+104.131.166.33 104 104 355300 20250401104037
+74.225.191.162 104 104 355300 20250412131005
+157.230.1.83 104 104 355300 20250406120010
+157.230.185.203 104 104 355300 20250405100842
+107.151.219.183 103 103 355300 20250410093827
+165.227.188.67 102 102 353733 20250402113506
+167.172.130.206 100 100 350398 20250405033605
+213.136.76.172 45 45 308146 20250427072202
+35.204.247.23 0 1 285334 
+207.244.240.242 1 1 0 20250419105911
+13.201.31.40 2 2 0 20250415130356
+13.201.1.202 2 2 0 20250402115907
+13.235.33.200 2 2 0 20250410124422
+13.201.30.227 2 2 0 20250407063902
+35.245.238.76 0 1 285334 
+35.225.82.182 0 1 3488778 
+23.95.132.51 0 1 351 
+107.161.179.87 15 15 3270 20250418175947
+161.97.113.29 1 1 0 20250401022440
+END_VISITOR
+
+# Date - Pages - Hits - Bandwidth - Visits
+BEGIN_DAY 24
+20250401 328 330 4654470 5
+20250402 313 313 1064333 5
+20250403 1 1 0 1
+20250405 205 205 705698 3
+20250406 210 210 710600 4
+20250407 2 2 0 1
+20250409 416 416 1421200 4
+20250410 209 209 710600 3
+20250411 208 208 710600 2
+20250412 208 208 710600 2
+20250413 1 1 0 1
+20250414 316 316 1066554 6
+20250415 110 110 357916 5
+20250416 104 104 355300 1
+20250417 108 108 357274 1
+20250418 109 109 357274 2
+20250419 217 217 714548 3
+20250423 108 108 357274 1
+20250424 324 324 1071822 3
+20250425 133 133 512980 2
+20250426 9 9 73682 1
+20250427 9 9 73682 1
+20250429 108 108 357274 1
+20250430 0 2 570668 0
+END_DAY
+
+# Session range - Number of visits
+BEGIN_SESSION 6
+5mn-15mn 26
+15mn-30mn 2
+0s-30s 16
+30s-2mn 7
+2mn-5mn 6
+30mn-1h 1
+END_SESSION
+
+# URL - Pages - Bandwidth - Entry - Exit
+# The 25 first Pages must be first (order not required for others)
+BEGIN_SIDER 98
+/wp-admin/includes/ 75 1574700 0 2
+/wp-admin/maint/ 75 60375 0 1
+/wp-content/languages/ 73 1190484 0 0
+/wp-includes/ 73 3748013 3 0
+/wp-admin/css/ 72 1394568 36 0
+/wp-includes/Text/Diff/Engine/ 70 96460 0 0
+/wp-includes/ID3/ 70 282940 0 0
+/wp-includes/fonts/ 70 176540 0 0
+/wp-includes/pomo/ 70 119420 0 0
+/wp-includes/widgets/ 70 323470 0 0
+/wp-includes/sitemaps/ 70 140910 0 0
+/wp-includes/Text/Diff/Renderer/ 70 59500 0 0
+/wp-includes/Text/ 70 81480 0 0
+/wp-includes/Text/Diff/ 70 82670 0 0
+/wp-includes/sitemaps/providers/ 70 88900 0 0
+/wp-includes/PHPMailer/ 68 80376 0 0
+/wp-includes/IXR/ 67 170046 0 0
+/wp-includes/class-avif-info.php 38 0 0 0
+/wp-includes/class-wp-token-map.php 38 0 0 0
+/wp-includes/fonts.php 38 0 0 0
+/wp-includes/script-modules.php 38 0 0 0
+/wp-includes/class-wp-exception.php 38 0 0 0
+/wp-content/languages/es_ES.l10n.php 37 0 0 0
+/wp-content/uploads/ 37 69745 0 1
+/wp-content/upgrade/ 37 23569 0 0
+/wp-content/languages/admin-network-es_ES.l10n.php 36 0 0 0
+/wp-includes/fonts/class-wp-font-collection.php 35 0 0 0
+/wp-includes/class-wp-navigation-fallback.php 35 0 0 0
+/wp-includes/block-bindings.php 35 0 0 0
+/wp-includes/class-wp-theme-json-schema.php 35 0 0 0
+/wp-includes/class-wp-url-pattern-prefixer.php 10 0 0 0
+/wp-content/uploads/2025/04/ 33 21978 0 0
+/wp-admin/js/ 36 672588 0 0
+/wp-includes/class-wp-theme-json-data.php 35 0 0 0
+/wp-includes/class-wp-block-templates-registry.php 35 0 0 0
+/.well-known/ 35 34230 0 35
+/wp-admin/css/colors/blue/ 36 56340 0 0
+/wp-includes/fonts/class-wp-font-library.php 35 0 0 0
+/wp-includes/images/media/ 35 135695 0 0
+/wp-includes/https-migration.php 35 0 0 0
+/wp-includes/class-wp-block-template.php 35 0 0 0
+/wp-content/themes/ 1 0 0 0
+/wp-includes/images/ 35 201880 0 0
+/wp-includes/class-wp-theme-json-resolver.php 35 0 0 0
+/wp-content/plugins/ 1 0 0 0
+/wp-includes/class-wpdb.php 35 0 0 0
+/wp-admin/js/widgets/ 36 119268 0 0
+/wp-includes/theme-previews.php 35 0 0 0
+/wp-includes/images/crystal/ 35 85750 0 0
+/wp-includes/images/smilies/ 35 188895 0 0
+/wp-includes/block-template-utils.php 35 0 0 0
+/wp-admin/css/colors/midnight/ 36 56628 0 0
+/wp-includes/https-detection.php 35 0 0 0
+/wp-includes/fonts/class-wp-font-face.php 35 0 0 0
+/.well-known/pki-validation/ 5 3270 3 4
+/wp-includes/class-wp-dependencies.php 35 0 0 0
+/wp-includes/speculative-loading.php 13 0 0 0
+/wp-includes/class-wp-duotone.php 35 0 0 0
+/wp-content/index.php 4 0 0 4
+/wp-content/plugins/index.php 6 0 6 2
+/wp-includes/block-template.php 35 0 0 0
+/wp-includes/fonts/class-wp-font-face-resolver.php 35 0 0 0
+/wp-admin/css/colors/ocean/ 35 54845 0 0
+/wp-includes/css/dist/ 35 129780 0 0
+/wp-includes/js/codemirror/ 35 73675 0 0
+/wp-includes/js/plupload/ 35 79730 0 0
+/wp-content/uploads/2025/03/ 36 23976 0 0
+/wp-admin/images/ 36 536472 0 0
+/wp-includes/class-wp-block-metadata-registry.php 34 0 0 0
+/wp-admin/css/colors/light/ 35 54845 0 0
+/wp-includes/block-editor.php 35 0 0 0
+/wp-includes/class-wp-block-parser-frame.php 35 0 0 0
+/wp-admin/css/colors/modern/ 36 56484 0 0
+/wp-includes/robots-template.php 35 0 0 0
+/wp-content/uploads/2025/02/ 3 1998 0 0
+/wp-includes/class-wp-block-bindings-registry.php 34 0 0 0
+/wp-includes/fonts/class-wp-font-utils.php 34 0 0 0
+/wp-admin/css/colors/ 36 93060 0 0
+/wp-includes/class-wp-plugin-dependencies.php 35 0 0 0
+/wp-includes/class-wp-block-editor-context.php 35 0 0 0
+/wp-admin/css/colors/ectoplasm/ 36 56700 0 0
+/wp-cron.php 10 0 10 9
+/wp-includes/class-wp-theme-json.php 35 0 0 0
+/wp-includes/blocks/ 35 70 0 0
+/wp-includes/class-wp-http.php 10 20 0 0
+/wp-includes/global-styles-and-settings.php 35 0 0 0
+/wp-includes/style-engine.php 35 0 0 0
+/wp-content/languages/admin-es_ES.l10n.php 37 0 0 0
+/wp-content/languages/continents-cities-es_ES.l10n.php 36 0 0 0
+/wp-includes/class-wp-script-modules.php 35 0 0 0
+/wp-admin/css/colors/coffee/ 36 56484 0 0
+/wp-includes/class-wp-classic-to-block-menu-converter.php 35 0 0 0
+/wp-includes/class-wp-block-parser-block.php 35 0 0 0
+/wp-includes/theme-templates.php 35 0 0 0
+/wp-includes/class-wp-speculation-rules.php 10 0 0 0
+/wp-includes/class-wp-textdomain-registry.php 35 0 0 0
+/wp-includes/css/ 35 295725 0 0
+/wp-includes/class-wp-block-bindings-source.php 35 0 0 0
+END_SIDER
+
+# Payload Range - Payload Frequency
+BEGIN_FILESIZE 6
+5K+ 591
+2K-5K 906
+500-1K 456
+1K-2K 1156
+100-500 21
+0-44 22013
+END_FILESIZE

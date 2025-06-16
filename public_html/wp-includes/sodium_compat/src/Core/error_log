@@ -1,0 +1,1150 @@
+[15-Jun-2023 08:10:25 America/New_York] PHP Fatal error:  Uncaught Error: Class 'ParagonIE_Sodium_Core_Util' not found in /home/parrilla111/public_html/wp-includes/sodium_compat/src/Core/BLAKE2b.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/parrilla111/public_html/wp-includes/sodium_compat/src/Core/BLAKE2b.php on line 12
+[15-Jun-2023 08:10:26 America/New_York] PHP Fatal error:  Uncaught Error: Class 'ParagonIE_Sodium_Core_Util' not found in /home/parrilla111/public_html/wp-includes/sodium_compat/src/Core/BLAKE2b.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/parrilla111/public_html/wp-includes/sodium_compat/src/Core/BLAKE2b.php on line 12
+[15-Jun-2023 08:10:45 America/New_York] PHP Fatal error:  Uncaught Error: Class 'ParagonIE_Sodium_Core_Util' not found in /home/parrilla111/public_html/wp-includes/sodium_compat/src/Core/ChaCha20.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/parrilla111/public_html/wp-includes/sodium_compat/src/Core/ChaCha20.php on line 10
+[15-Jun-2023 08:10:45 America/New_York] PHP Fatal error:  Uncaught Error: Class 'ParagonIE_Sodium_Core_Util' not found in /home/parrilla111/public_html/wp-includes/sodium_compat/src/Core/ChaCha20.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/parrilla111/public_html/wp-includes/sodium_compat/src/Core/ChaCha20.php on line 10
+[15-Jun-2023 08:10:53 America/New_York] PHP Fatal error:  Uncaught Error: Class 'ParagonIE_Sodium_Core_Curve25519_H' not found in /home/parrilla111/public_html/wp-includes/sodium_compat/src/Core/Curve25519.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/parrilla111/public_html/wp-includes/sodium_compat/src/Core/Curve25519.php on line 16
+[15-Jun-2023 08:10:54 America/New_York] PHP Fatal error:  Uncaught Error: Class 'ParagonIE_Sodium_Core_Curve25519_H' not found in /home/parrilla111/public_html/wp-includes/sodium_compat/src/Core/Curve25519.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/parrilla111/public_html/wp-includes/sodium_compat/src/Core/Curve25519.php on line 16
+[15-Jun-2023 08:11:04 America/New_York] PHP Fatal error:  Uncaught Error: Class 'ParagonIE_Sodium_Core_Curve25519_H' not found in /home/parrilla111/public_html/wp-includes/sodium_compat/src/Core/Curve25519.php:16
+Stack trace:
+#0 /home/parrilla111/public_html/wp-includes/sodium_compat/src/Core/Ed25519.php(7): require_once()
+#1 {main}
+  thrown in /home/parrilla111/public_html/wp-includes/sodium_compat/src/Core/Curve25519.php on line 16
+[15-Jun-2023 08:11:05 America/New_York] PHP Fatal error:  Uncaught Error: Class 'ParagonIE_Sodium_Core_Curve25519_H' not found in /home/parrilla111/public_html/wp-includes/sodium_compat/src/Core/Curve25519.php:16
+Stack trace:
+#0 /home/parrilla111/public_html/wp-includes/sodium_compat/src/Core/Ed25519.php(7): require_once()
+#1 {main}
+  thrown in /home/parrilla111/public_html/wp-includes/sodium_compat/src/Core/Curve25519.php on line 16
+[15-Jun-2023 08:11:22 America/New_York] PHP Fatal error:  Uncaught Error: Class 'ParagonIE_Sodium_Core_ChaCha20' not found in /home/parrilla111/public_html/wp-includes/sodium_compat/src/Core/HChaCha20.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/parrilla111/public_html/wp-includes/sodium_compat/src/Core/HChaCha20.php on line 10
+[15-Jun-2023 08:11:23 America/New_York] PHP Fatal error:  Uncaught Error: Class 'ParagonIE_Sodium_Core_ChaCha20' not found in /home/parrilla111/public_html/wp-includes/sodium_compat/src/Core/HChaCha20.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/parrilla111/public_html/wp-includes/sodium_compat/src/Core/HChaCha20.php on line 10
+[15-Jun-2023 08:11:39 America/New_York] PHP Fatal error:  Uncaught Error: Class 'ParagonIE_Sodium_Core_Salsa20' not found in /home/parrilla111/public_html/wp-includes/sodium_compat/src/Core/HSalsa20.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/parrilla111/public_html/wp-includes/sodium_compat/src/Core/HSalsa20.php on line 10
+[15-Jun-2023 08:11:40 America/New_York] PHP Fatal error:  Uncaught Error: Class 'ParagonIE_Sodium_Core_Salsa20' not found in /home/parrilla111/public_html/wp-includes/sodium_compat/src/Core/HSalsa20.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/parrilla111/public_html/wp-includes/sodium_compat/src/Core/HSalsa20.php on line 10
+[15-Jun-2023 08:11:50 America/New_York] PHP Fatal error:  Uncaught Error: Class 'ParagonIE_Sodium_Core_Util' not found in /home/parrilla111/public_html/wp-includes/sodium_compat/src/Core/Poly1305.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/parrilla111/public_html/wp-includes/sodium_compat/src/Core/Poly1305.php on line 10
+[15-Jun-2023 08:11:51 America/New_York] PHP Fatal error:  Uncaught Error: Class 'ParagonIE_Sodium_Core_Util' not found in /home/parrilla111/public_html/wp-includes/sodium_compat/src/Core/Poly1305.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/parrilla111/public_html/wp-includes/sodium_compat/src/Core/Poly1305.php on line 10
+[15-Jun-2023 08:12:05 America/New_York] PHP Fatal error:  Uncaught Error: Class 'ParagonIE_Sodium_Core_Ed25519' not found in /home/parrilla111/public_html/wp-includes/sodium_compat/src/Core/Ristretto255.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/parrilla111/public_html/wp-includes/sodium_compat/src/Core/Ristretto255.php on line 6
+[15-Jun-2023 08:12:05 America/New_York] PHP Fatal error:  Uncaught Error: Class 'ParagonIE_Sodium_Core_Ed25519' not found in /home/parrilla111/public_html/wp-includes/sodium_compat/src/Core/Ristretto255.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/parrilla111/public_html/wp-includes/sodium_compat/src/Core/Ristretto255.php on line 6
+[15-Jun-2023 08:12:12 America/New_York] PHP Fatal error:  Uncaught Error: Class 'ParagonIE_Sodium_Core_Util' not found in /home/parrilla111/public_html/wp-includes/sodium_compat/src/Core/Salsa20.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/parrilla111/public_html/wp-includes/sodium_compat/src/Core/Salsa20.php on line 10
+[15-Jun-2023 08:12:13 America/New_York] PHP Fatal error:  Uncaught Error: Class 'ParagonIE_Sodium_Core_Util' not found in /home/parrilla111/public_html/wp-includes/sodium_compat/src/Core/Salsa20.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/parrilla111/public_html/wp-includes/sodium_compat/src/Core/Salsa20.php on line 10
+[15-Jun-2023 08:12:33 America/New_York] PHP Fatal error:  Uncaught Error: Class 'ParagonIE_Sodium_Core_Util' not found in /home/parrilla111/public_html/wp-includes/sodium_compat/src/Core/SipHash.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/parrilla111/public_html/wp-includes/sodium_compat/src/Core/SipHash.php on line 12
+[15-Jun-2023 08:12:34 America/New_York] PHP Fatal error:  Uncaught Error: Class 'ParagonIE_Sodium_Core_Util' not found in /home/parrilla111/public_html/wp-includes/sodium_compat/src/Core/SipHash.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/parrilla111/public_html/wp-includes/sodium_compat/src/Core/SipHash.php on line 12
+[15-Jun-2023 08:12:59 America/New_York] PHP Fatal error:  Uncaught Error: Class 'ParagonIE_Sodium_Core_Curve25519' not found in /home/parrilla111/public_html/wp-includes/sodium_compat/src/Core/X25519.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/parrilla111/public_html/wp-includes/sodium_compat/src/Core/X25519.php on line 10
+[15-Jun-2023 08:13:00 America/New_York] PHP Fatal error:  Uncaught Error: Class 'ParagonIE_Sodium_Core_Curve25519' not found in /home/parrilla111/public_html/wp-includes/sodium_compat/src/Core/X25519.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/parrilla111/public_html/wp-includes/sodium_compat/src/Core/X25519.php on line 10
+[15-Jun-2023 08:13:17 America/New_York] PHP Fatal error:  Uncaught Error: Class 'ParagonIE_Sodium_Core_HChaCha20' not found in /home/parrilla111/public_html/wp-includes/sodium_compat/src/Core/XChaCha20.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/parrilla111/public_html/wp-includes/sodium_compat/src/Core/XChaCha20.php on line 10
+[15-Jun-2023 08:13:17 America/New_York] PHP Fatal error:  Uncaught Error: Class 'ParagonIE_Sodium_Core_HChaCha20' not found in /home/parrilla111/public_html/wp-includes/sodium_compat/src/Core/XChaCha20.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/parrilla111/public_html/wp-includes/sodium_compat/src/Core/XChaCha20.php on line 10
+[15-Jun-2023 08:13:29 America/New_York] PHP Fatal error:  Uncaught Error: Class 'ParagonIE_Sodium_Core_HSalsa20' not found in /home/parrilla111/public_html/wp-includes/sodium_compat/src/Core/XSalsa20.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/parrilla111/public_html/wp-includes/sodium_compat/src/Core/XSalsa20.php on line 10
+[15-Jun-2023 08:13:30 America/New_York] PHP Fatal error:  Uncaught Error: Class 'ParagonIE_Sodium_Core_HSalsa20' not found in /home/parrilla111/public_html/wp-includes/sodium_compat/src/Core/XSalsa20.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/parrilla111/public_html/wp-includes/sodium_compat/src/Core/XSalsa20.php on line 10
+[15-Jun-2023 08:38:21 America/New_York] PHP Fatal error:  Uncaught Error: Class 'ParagonIE_Sodium_Core_Util' not found in /home/parrilla111/public_html/wp-includes/sodium_compat/src/Core/BLAKE2b.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/parrilla111/public_html/wp-includes/sodium_compat/src/Core/BLAKE2b.php on line 12
+[15-Jun-2023 08:38:22 America/New_York] PHP Fatal error:  Uncaught Error: Class 'ParagonIE_Sodium_Core_Util' not found in /home/parrilla111/public_html/wp-includes/sodium_compat/src/Core/BLAKE2b.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/parrilla111/public_html/wp-includes/sodium_compat/src/Core/BLAKE2b.php on line 12
+[15-Jun-2023 08:39:12 America/New_York] PHP Fatal error:  Uncaught Error: Class 'ParagonIE_Sodium_Core_Util' not found in /home/parrilla111/public_html/wp-includes/sodium_compat/src/Core/ChaCha20.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/parrilla111/public_html/wp-includes/sodium_compat/src/Core/ChaCha20.php on line 10
+[15-Jun-2023 08:39:12 America/New_York] PHP Fatal error:  Uncaught Error: Class 'ParagonIE_Sodium_Core_Util' not found in /home/parrilla111/public_html/wp-includes/sodium_compat/src/Core/ChaCha20.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/parrilla111/public_html/wp-includes/sodium_compat/src/Core/ChaCha20.php on line 10
+[15-Jun-2023 08:39:49 America/New_York] PHP Fatal error:  Uncaught Error: Class 'ParagonIE_Sodium_Core_Curve25519_H' not found in /home/parrilla111/public_html/wp-includes/sodium_compat/src/Core/Curve25519.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/parrilla111/public_html/wp-includes/sodium_compat/src/Core/Curve25519.php on line 16
+[15-Jun-2023 08:39:50 America/New_York] PHP Fatal error:  Uncaught Error: Class 'ParagonIE_Sodium_Core_Curve25519_H' not found in /home/parrilla111/public_html/wp-includes/sodium_compat/src/Core/Curve25519.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/parrilla111/public_html/wp-includes/sodium_compat/src/Core/Curve25519.php on line 16
+[15-Jun-2023 08:40:32 America/New_York] PHP Fatal error:  Uncaught Error: Class 'ParagonIE_Sodium_Core_Curve25519_H' not found in /home/parrilla111/public_html/wp-includes/sodium_compat/src/Core/Curve25519.php:16
+Stack trace:
+#0 /home/parrilla111/public_html/wp-includes/sodium_compat/src/Core/Ed25519.php(7): require_once()
+#1 {main}
+  thrown in /home/parrilla111/public_html/wp-includes/sodium_compat/src/Core/Curve25519.php on line 16
+[15-Jun-2023 08:40:33 America/New_York] PHP Fatal error:  Uncaught Error: Class 'ParagonIE_Sodium_Core_Curve25519_H' not found in /home/parrilla111/public_html/wp-includes/sodium_compat/src/Core/Curve25519.php:16
+Stack trace:
+#0 /home/parrilla111/public_html/wp-includes/sodium_compat/src/Core/Ed25519.php(7): require_once()
+#1 {main}
+  thrown in /home/parrilla111/public_html/wp-includes/sodium_compat/src/Core/Curve25519.php on line 16
+[15-Jun-2023 08:40:44 America/New_York] PHP Fatal error:  Uncaught Error: Class 'ParagonIE_Sodium_Core_ChaCha20' not found in /home/parrilla111/public_html/wp-includes/sodium_compat/src/Core/HChaCha20.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/parrilla111/public_html/wp-includes/sodium_compat/src/Core/HChaCha20.php on line 10
+[15-Jun-2023 08:40:44 America/New_York] PHP Fatal error:  Uncaught Error: Class 'ParagonIE_Sodium_Core_ChaCha20' not found in /home/parrilla111/public_html/wp-includes/sodium_compat/src/Core/HChaCha20.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/parrilla111/public_html/wp-includes/sodium_compat/src/Core/HChaCha20.php on line 10
+[15-Jun-2023 08:40:52 America/New_York] PHP Fatal error:  Uncaught Error: Class 'ParagonIE_Sodium_Core_Salsa20' not found in /home/parrilla111/public_html/wp-includes/sodium_compat/src/Core/HSalsa20.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/parrilla111/public_html/wp-includes/sodium_compat/src/Core/HSalsa20.php on line 10
+[15-Jun-2023 08:40:53 America/New_York] PHP Fatal error:  Uncaught Error: Class 'ParagonIE_Sodium_Core_Salsa20' not found in /home/parrilla111/public_html/wp-includes/sodium_compat/src/Core/HSalsa20.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/parrilla111/public_html/wp-includes/sodium_compat/src/Core/HSalsa20.php on line 10
+[15-Jun-2023 08:41:10 America/New_York] PHP Fatal error:  Uncaught Error: Class 'ParagonIE_Sodium_Core_Util' not found in /home/parrilla111/public_html/wp-includes/sodium_compat/src/Core/Poly1305.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/parrilla111/public_html/wp-includes/sodium_compat/src/Core/Poly1305.php on line 10
+[15-Jun-2023 08:41:10 America/New_York] PHP Fatal error:  Uncaught Error: Class 'ParagonIE_Sodium_Core_Util' not found in /home/parrilla111/public_html/wp-includes/sodium_compat/src/Core/Poly1305.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/parrilla111/public_html/wp-includes/sodium_compat/src/Core/Poly1305.php on line 10
+[15-Jun-2023 08:41:37 America/New_York] PHP Fatal error:  Uncaught Error: Class 'ParagonIE_Sodium_Core_Ed25519' not found in /home/parrilla111/public_html/wp-includes/sodium_compat/src/Core/Ristretto255.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/parrilla111/public_html/wp-includes/sodium_compat/src/Core/Ristretto255.php on line 6
+[15-Jun-2023 08:41:38 America/New_York] PHP Fatal error:  Uncaught Error: Class 'ParagonIE_Sodium_Core_Ed25519' not found in /home/parrilla111/public_html/wp-includes/sodium_compat/src/Core/Ristretto255.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/parrilla111/public_html/wp-includes/sodium_compat/src/Core/Ristretto255.php on line 6
+[15-Jun-2023 08:41:41 America/New_York] PHP Fatal error:  Uncaught Error: Class 'ParagonIE_Sodium_Core_Util' not found in /home/parrilla111/public_html/wp-includes/sodium_compat/src/Core/Salsa20.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/parrilla111/public_html/wp-includes/sodium_compat/src/Core/Salsa20.php on line 10
+[15-Jun-2023 08:41:41 America/New_York] PHP Fatal error:  Uncaught Error: Class 'ParagonIE_Sodium_Core_Util' not found in /home/parrilla111/public_html/wp-includes/sodium_compat/src/Core/Salsa20.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/parrilla111/public_html/wp-includes/sodium_compat/src/Core/Salsa20.php on line 10
+[15-Jun-2023 08:42:12 America/New_York] PHP Fatal error:  Uncaught Error: Class 'ParagonIE_Sodium_Core_Util' not found in /home/parrilla111/public_html/wp-includes/sodium_compat/src/Core/SipHash.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/parrilla111/public_html/wp-includes/sodium_compat/src/Core/SipHash.php on line 12
+[15-Jun-2023 08:42:13 America/New_York] PHP Fatal error:  Uncaught Error: Class 'ParagonIE_Sodium_Core_Util' not found in /home/parrilla111/public_html/wp-includes/sodium_compat/src/Core/SipHash.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/parrilla111/public_html/wp-includes/sodium_compat/src/Core/SipHash.php on line 12
+[15-Jun-2023 08:42:42 America/New_York] PHP Fatal error:  Uncaught Error: Class 'ParagonIE_Sodium_Core_Curve25519' not found in /home/parrilla111/public_html/wp-includes/sodium_compat/src/Core/X25519.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/parrilla111/public_html/wp-includes/sodium_compat/src/Core/X25519.php on line 10
+[15-Jun-2023 08:42:42 America/New_York] PHP Fatal error:  Uncaught Error: Class 'ParagonIE_Sodium_Core_Curve25519' not found in /home/parrilla111/public_html/wp-includes/sodium_compat/src/Core/X25519.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/parrilla111/public_html/wp-includes/sodium_compat/src/Core/X25519.php on line 10
+[15-Jun-2023 08:42:54 America/New_York] PHP Fatal error:  Uncaught Error: Class 'ParagonIE_Sodium_Core_HChaCha20' not found in /home/parrilla111/public_html/wp-includes/sodium_compat/src/Core/XChaCha20.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/parrilla111/public_html/wp-includes/sodium_compat/src/Core/XChaCha20.php on line 10
+[15-Jun-2023 08:42:54 America/New_York] PHP Fatal error:  Uncaught Error: Class 'ParagonIE_Sodium_Core_HChaCha20' not found in /home/parrilla111/public_html/wp-includes/sodium_compat/src/Core/XChaCha20.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/parrilla111/public_html/wp-includes/sodium_compat/src/Core/XChaCha20.php on line 10
+[15-Jun-2023 08:43:06 America/New_York] PHP Fatal error:  Uncaught Error: Class 'ParagonIE_Sodium_Core_HSalsa20' not found in /home/parrilla111/public_html/wp-includes/sodium_compat/src/Core/XSalsa20.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/parrilla111/public_html/wp-includes/sodium_compat/src/Core/XSalsa20.php on line 10
+[15-Jun-2023 08:43:06 America/New_York] PHP Fatal error:  Uncaught Error: Class 'ParagonIE_Sodium_Core_HSalsa20' not found in /home/parrilla111/public_html/wp-includes/sodium_compat/src/Core/XSalsa20.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/parrilla111/public_html/wp-includes/sodium_compat/src/Core/XSalsa20.php on line 10
+[30-Jun-2023 18:30:35 America/New_York] PHP Fatal error:  Uncaught Error: Class 'ParagonIE_Sodium_Core_Util' not found in /home/parrilla111/public_html/wp-includes/sodium_compat/src/Core/BLAKE2b.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/parrilla111/public_html/wp-includes/sodium_compat/src/Core/BLAKE2b.php on line 12
+[30-Jun-2023 18:30:56 America/New_York] PHP Fatal error:  Uncaught Error: Class 'ParagonIE_Sodium_Core_Util' not found in /home/parrilla111/public_html/wp-includes/sodium_compat/src/Core/BLAKE2b.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/parrilla111/public_html/wp-includes/sodium_compat/src/Core/BLAKE2b.php on line 12
+[30-Jun-2023 18:31:22 America/New_York] PHP Fatal error:  Uncaught Error: Class 'ParagonIE_Sodium_Core_Util' not found in /home/parrilla111/public_html/wp-includes/sodium_compat/src/Core/ChaCha20.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/parrilla111/public_html/wp-includes/sodium_compat/src/Core/ChaCha20.php on line 10
+[30-Jun-2023 18:31:47 America/New_York] PHP Fatal error:  Uncaught Error: Class 'ParagonIE_Sodium_Core_Util' not found in /home/parrilla111/public_html/wp-includes/sodium_compat/src/Core/ChaCha20.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/parrilla111/public_html/wp-includes/sodium_compat/src/Core/ChaCha20.php on line 10
+[30-Jun-2023 18:32:12 America/New_York] PHP Fatal error:  Uncaught Error: Class 'ParagonIE_Sodium_Core_Curve25519_H' not found in /home/parrilla111/public_html/wp-includes/sodium_compat/src/Core/Curve25519.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/parrilla111/public_html/wp-includes/sodium_compat/src/Core/Curve25519.php on line 16
+[30-Jun-2023 18:32:36 America/New_York] PHP Fatal error:  Uncaught Error: Class 'ParagonIE_Sodium_Core_Curve25519_H' not found in /home/parrilla111/public_html/wp-includes/sodium_compat/src/Core/Curve25519.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/parrilla111/public_html/wp-includes/sodium_compat/src/Core/Curve25519.php on line 16
+[30-Jun-2023 18:33:01 America/New_York] PHP Fatal error:  Uncaught Error: Class 'ParagonIE_Sodium_Core_Curve25519_H' not found in /home/parrilla111/public_html/wp-includes/sodium_compat/src/Core/Curve25519.php:16
+Stack trace:
+#0 /home/parrilla111/public_html/wp-includes/sodium_compat/src/Core/Ed25519.php(7): require_once()
+#1 {main}
+  thrown in /home/parrilla111/public_html/wp-includes/sodium_compat/src/Core/Curve25519.php on line 16
+[30-Jun-2023 18:33:26 America/New_York] PHP Fatal error:  Uncaught Error: Class 'ParagonIE_Sodium_Core_Curve25519_H' not found in /home/parrilla111/public_html/wp-includes/sodium_compat/src/Core/Curve25519.php:16
+Stack trace:
+#0 /home/parrilla111/public_html/wp-includes/sodium_compat/src/Core/Ed25519.php(7): require_once()
+#1 {main}
+  thrown in /home/parrilla111/public_html/wp-includes/sodium_compat/src/Core/Curve25519.php on line 16
+[30-Jun-2023 18:33:50 America/New_York] PHP Fatal error:  Uncaught Error: Class 'ParagonIE_Sodium_Core_ChaCha20' not found in /home/parrilla111/public_html/wp-includes/sodium_compat/src/Core/HChaCha20.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/parrilla111/public_html/wp-includes/sodium_compat/src/Core/HChaCha20.php on line 10
+[30-Jun-2023 18:34:14 America/New_York] PHP Fatal error:  Uncaught Error: Class 'ParagonIE_Sodium_Core_ChaCha20' not found in /home/parrilla111/public_html/wp-includes/sodium_compat/src/Core/HChaCha20.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/parrilla111/public_html/wp-includes/sodium_compat/src/Core/HChaCha20.php on line 10
+[30-Jun-2023 18:34:37 America/New_York] PHP Fatal error:  Uncaught Error: Class 'ParagonIE_Sodium_Core_Salsa20' not found in /home/parrilla111/public_html/wp-includes/sodium_compat/src/Core/HSalsa20.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/parrilla111/public_html/wp-includes/sodium_compat/src/Core/HSalsa20.php on line 10
+[30-Jun-2023 18:35:02 America/New_York] PHP Fatal error:  Uncaught Error: Class 'ParagonIE_Sodium_Core_Salsa20' not found in /home/parrilla111/public_html/wp-includes/sodium_compat/src/Core/HSalsa20.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/parrilla111/public_html/wp-includes/sodium_compat/src/Core/HSalsa20.php on line 10
+[30-Jun-2023 18:35:26 America/New_York] PHP Fatal error:  Uncaught Error: Class 'ParagonIE_Sodium_Core_Util' not found in /home/parrilla111/public_html/wp-includes/sodium_compat/src/Core/Poly1305.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/parrilla111/public_html/wp-includes/sodium_compat/src/Core/Poly1305.php on line 10
+[30-Jun-2023 18:35:54 America/New_York] PHP Fatal error:  Uncaught Error: Class 'ParagonIE_Sodium_Core_Util' not found in /home/parrilla111/public_html/wp-includes/sodium_compat/src/Core/Poly1305.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/parrilla111/public_html/wp-includes/sodium_compat/src/Core/Poly1305.php on line 10
+[30-Jun-2023 18:36:20 America/New_York] PHP Fatal error:  Uncaught Error: Class 'ParagonIE_Sodium_Core_Ed25519' not found in /home/parrilla111/public_html/wp-includes/sodium_compat/src/Core/Ristretto255.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/parrilla111/public_html/wp-includes/sodium_compat/src/Core/Ristretto255.php on line 6
+[30-Jun-2023 18:36:45 America/New_York] PHP Fatal error:  Uncaught Error: Class 'ParagonIE_Sodium_Core_Ed25519' not found in /home/parrilla111/public_html/wp-includes/sodium_compat/src/Core/Ristretto255.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/parrilla111/public_html/wp-includes/sodium_compat/src/Core/Ristretto255.php on line 6
+[30-Jun-2023 18:37:10 America/New_York] PHP Fatal error:  Uncaught Error: Class 'ParagonIE_Sodium_Core_Util' not found in /home/parrilla111/public_html/wp-includes/sodium_compat/src/Core/Salsa20.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/parrilla111/public_html/wp-includes/sodium_compat/src/Core/Salsa20.php on line 10
+[30-Jun-2023 18:37:33 America/New_York] PHP Fatal error:  Uncaught Error: Class 'ParagonIE_Sodium_Core_Util' not found in /home/parrilla111/public_html/wp-includes/sodium_compat/src/Core/Salsa20.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/parrilla111/public_html/wp-includes/sodium_compat/src/Core/Salsa20.php on line 10
+[30-Jun-2023 18:37:57 America/New_York] PHP Fatal error:  Uncaught Error: Class 'ParagonIE_Sodium_Core_Util' not found in /home/parrilla111/public_html/wp-includes/sodium_compat/src/Core/SipHash.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/parrilla111/public_html/wp-includes/sodium_compat/src/Core/SipHash.php on line 12
+[30-Jun-2023 18:38:22 America/New_York] PHP Fatal error:  Uncaught Error: Class 'ParagonIE_Sodium_Core_Util' not found in /home/parrilla111/public_html/wp-includes/sodium_compat/src/Core/SipHash.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/parrilla111/public_html/wp-includes/sodium_compat/src/Core/SipHash.php on line 12
+[30-Jun-2023 18:39:32 America/New_York] PHP Fatal error:  Uncaught Error: Class 'ParagonIE_Sodium_Core_Curve25519' not found in /home/parrilla111/public_html/wp-includes/sodium_compat/src/Core/X25519.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/parrilla111/public_html/wp-includes/sodium_compat/src/Core/X25519.php on line 10
+[30-Jun-2023 18:39:56 America/New_York] PHP Fatal error:  Uncaught Error: Class 'ParagonIE_Sodium_Core_Curve25519' not found in /home/parrilla111/public_html/wp-includes/sodium_compat/src/Core/X25519.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/parrilla111/public_html/wp-includes/sodium_compat/src/Core/X25519.php on line 10
+[30-Jun-2023 18:40:20 America/New_York] PHP Fatal error:  Uncaught Error: Class 'ParagonIE_Sodium_Core_HChaCha20' not found in /home/parrilla111/public_html/wp-includes/sodium_compat/src/Core/XChaCha20.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/parrilla111/public_html/wp-includes/sodium_compat/src/Core/XChaCha20.php on line 10
+[30-Jun-2023 18:40:44 America/New_York] PHP Fatal error:  Uncaught Error: Class 'ParagonIE_Sodium_Core_HChaCha20' not found in /home/parrilla111/public_html/wp-includes/sodium_compat/src/Core/XChaCha20.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/parrilla111/public_html/wp-includes/sodium_compat/src/Core/XChaCha20.php on line 10
+[30-Jun-2023 18:41:08 America/New_York] PHP Fatal error:  Uncaught Error: Class 'ParagonIE_Sodium_Core_HSalsa20' not found in /home/parrilla111/public_html/wp-includes/sodium_compat/src/Core/XSalsa20.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/parrilla111/public_html/wp-includes/sodium_compat/src/Core/XSalsa20.php on line 10
+[30-Jun-2023 18:41:32 America/New_York] PHP Fatal error:  Uncaught Error: Class 'ParagonIE_Sodium_Core_HSalsa20' not found in /home/parrilla111/public_html/wp-includes/sodium_compat/src/Core/XSalsa20.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/parrilla111/public_html/wp-includes/sodium_compat/src/Core/XSalsa20.php on line 10
+[06-Jul-2023 05:23:00 America/New_York] PHP Fatal error:  Uncaught Error: Class 'ParagonIE_Sodium_Core_Util' not found in /home/parrilla111/public_html/wp-includes/sodium_compat/src/Core/BLAKE2b.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/parrilla111/public_html/wp-includes/sodium_compat/src/Core/BLAKE2b.php on line 12
+[06-Jul-2023 05:23:00 America/New_York] PHP Fatal error:  Uncaught Error: Class 'ParagonIE_Sodium_Core_Util' not found in /home/parrilla111/public_html/wp-includes/sodium_compat/src/Core/BLAKE2b.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/parrilla111/public_html/wp-includes/sodium_compat/src/Core/BLAKE2b.php on line 12
+[06-Jul-2023 05:23:00 America/New_York] PHP Fatal error:  Uncaught Error: Class 'ParagonIE_Sodium_Core_Util' not found in /home/parrilla111/public_html/wp-includes/sodium_compat/src/Core/ChaCha20.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/parrilla111/public_html/wp-includes/sodium_compat/src/Core/ChaCha20.php on line 10
+[06-Jul-2023 05:23:01 America/New_York] PHP Fatal error:  Uncaught Error: Class 'ParagonIE_Sodium_Core_Util' not found in /home/parrilla111/public_html/wp-includes/sodium_compat/src/Core/ChaCha20.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/parrilla111/public_html/wp-includes/sodium_compat/src/Core/ChaCha20.php on line 10
+[06-Jul-2023 05:23:01 America/New_York] PHP Fatal error:  Uncaught Error: Class 'ParagonIE_Sodium_Core_Curve25519_H' not found in /home/parrilla111/public_html/wp-includes/sodium_compat/src/Core/Curve25519.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/parrilla111/public_html/wp-includes/sodium_compat/src/Core/Curve25519.php on line 16
+[06-Jul-2023 05:23:02 America/New_York] PHP Fatal error:  Uncaught Error: Class 'ParagonIE_Sodium_Core_Curve25519_H' not found in /home/parrilla111/public_html/wp-includes/sodium_compat/src/Core/Curve25519.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/parrilla111/public_html/wp-includes/sodium_compat/src/Core/Curve25519.php on line 16
+[06-Jul-2023 05:23:02 America/New_York] PHP Fatal error:  Uncaught Error: Class 'ParagonIE_Sodium_Core_Curve25519_H' not found in /home/parrilla111/public_html/wp-includes/sodium_compat/src/Core/Curve25519.php:16
+Stack trace:
+#0 /home/parrilla111/public_html/wp-includes/sodium_compat/src/Core/Ed25519.php(7): require_once()
+#1 {main}
+  thrown in /home/parrilla111/public_html/wp-includes/sodium_compat/src/Core/Curve25519.php on line 16
+[06-Jul-2023 05:23:02 America/New_York] PHP Fatal error:  Uncaught Error: Class 'ParagonIE_Sodium_Core_Curve25519_H' not found in /home/parrilla111/public_html/wp-includes/sodium_compat/src/Core/Curve25519.php:16
+Stack trace:
+#0 /home/parrilla111/public_html/wp-includes/sodium_compat/src/Core/Ed25519.php(7): require_once()
+#1 {main}
+  thrown in /home/parrilla111/public_html/wp-includes/sodium_compat/src/Core/Curve25519.php on line 16
+[06-Jul-2023 05:23:03 America/New_York] PHP Fatal error:  Uncaught Error: Class 'ParagonIE_Sodium_Core_ChaCha20' not found in /home/parrilla111/public_html/wp-includes/sodium_compat/src/Core/HChaCha20.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/parrilla111/public_html/wp-includes/sodium_compat/src/Core/HChaCha20.php on line 10
+[06-Jul-2023 05:23:03 America/New_York] PHP Fatal error:  Uncaught Error: Class 'ParagonIE_Sodium_Core_ChaCha20' not found in /home/parrilla111/public_html/wp-includes/sodium_compat/src/Core/HChaCha20.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/parrilla111/public_html/wp-includes/sodium_compat/src/Core/HChaCha20.php on line 10
+[06-Jul-2023 05:23:03 America/New_York] PHP Fatal error:  Uncaught Error: Class 'ParagonIE_Sodium_Core_Salsa20' not found in /home/parrilla111/public_html/wp-includes/sodium_compat/src/Core/HSalsa20.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/parrilla111/public_html/wp-includes/sodium_compat/src/Core/HSalsa20.php on line 10
+[06-Jul-2023 05:23:04 America/New_York] PHP Fatal error:  Uncaught Error: Class 'ParagonIE_Sodium_Core_Salsa20' not found in /home/parrilla111/public_html/wp-includes/sodium_compat/src/Core/HSalsa20.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/parrilla111/public_html/wp-includes/sodium_compat/src/Core/HSalsa20.php on line 10
+[06-Jul-2023 05:23:04 America/New_York] PHP Fatal error:  Uncaught Error: Class 'ParagonIE_Sodium_Core_Util' not found in /home/parrilla111/public_html/wp-includes/sodium_compat/src/Core/Poly1305.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/parrilla111/public_html/wp-includes/sodium_compat/src/Core/Poly1305.php on line 10
+[06-Jul-2023 05:23:04 America/New_York] PHP Fatal error:  Uncaught Error: Class 'ParagonIE_Sodium_Core_Util' not found in /home/parrilla111/public_html/wp-includes/sodium_compat/src/Core/Poly1305.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/parrilla111/public_html/wp-includes/sodium_compat/src/Core/Poly1305.php on line 10
+[06-Jul-2023 05:23:04 America/New_York] PHP Fatal error:  Uncaught Error: Class 'ParagonIE_Sodium_Core_Ed25519' not found in /home/parrilla111/public_html/wp-includes/sodium_compat/src/Core/Ristretto255.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/parrilla111/public_html/wp-includes/sodium_compat/src/Core/Ristretto255.php on line 6
+[06-Jul-2023 05:23:05 America/New_York] PHP Fatal error:  Uncaught Error: Class 'ParagonIE_Sodium_Core_Ed25519' not found in /home/parrilla111/public_html/wp-includes/sodium_compat/src/Core/Ristretto255.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/parrilla111/public_html/wp-includes/sodium_compat/src/Core/Ristretto255.php on line 6
+[06-Jul-2023 05:23:05 America/New_York] PHP Fatal error:  Uncaught Error: Class 'ParagonIE_Sodium_Core_Util' not found in /home/parrilla111/public_html/wp-includes/sodium_compat/src/Core/Salsa20.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/parrilla111/public_html/wp-includes/sodium_compat/src/Core/Salsa20.php on line 10
+[06-Jul-2023 05:23:05 America/New_York] PHP Fatal error:  Uncaught Error: Class 'ParagonIE_Sodium_Core_Util' not found in /home/parrilla111/public_html/wp-includes/sodium_compat/src/Core/Salsa20.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/parrilla111/public_html/wp-includes/sodium_compat/src/Core/Salsa20.php on line 10
+[06-Jul-2023 05:23:06 America/New_York] PHP Fatal error:  Uncaught Error: Class 'ParagonIE_Sodium_Core_Util' not found in /home/parrilla111/public_html/wp-includes/sodium_compat/src/Core/SipHash.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/parrilla111/public_html/wp-includes/sodium_compat/src/Core/SipHash.php on line 12
+[06-Jul-2023 05:23:06 America/New_York] PHP Fatal error:  Uncaught Error: Class 'ParagonIE_Sodium_Core_Util' not found in /home/parrilla111/public_html/wp-includes/sodium_compat/src/Core/SipHash.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/parrilla111/public_html/wp-includes/sodium_compat/src/Core/SipHash.php on line 12
+[06-Jul-2023 05:23:07 America/New_York] PHP Fatal error:  Uncaught Error: Class 'ParagonIE_Sodium_Core_Curve25519' not found in /home/parrilla111/public_html/wp-includes/sodium_compat/src/Core/X25519.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/parrilla111/public_html/wp-includes/sodium_compat/src/Core/X25519.php on line 10
+[06-Jul-2023 05:23:07 America/New_York] PHP Fatal error:  Uncaught Error: Class 'ParagonIE_Sodium_Core_Curve25519' not found in /home/parrilla111/public_html/wp-includes/sodium_compat/src/Core/X25519.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/parrilla111/public_html/wp-includes/sodium_compat/src/Core/X25519.php on line 10
+[06-Jul-2023 05:23:08 America/New_York] PHP Fatal error:  Uncaught Error: Class 'ParagonIE_Sodium_Core_HChaCha20' not found in /home/parrilla111/public_html/wp-includes/sodium_compat/src/Core/XChaCha20.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/parrilla111/public_html/wp-includes/sodium_compat/src/Core/XChaCha20.php on line 10
+[06-Jul-2023 05:23:08 America/New_York] PHP Fatal error:  Uncaught Error: Class 'ParagonIE_Sodium_Core_HChaCha20' not found in /home/parrilla111/public_html/wp-includes/sodium_compat/src/Core/XChaCha20.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/parrilla111/public_html/wp-includes/sodium_compat/src/Core/XChaCha20.php on line 10
+[06-Jul-2023 05:23:08 America/New_York] PHP Fatal error:  Uncaught Error: Class 'ParagonIE_Sodium_Core_HSalsa20' not found in /home/parrilla111/public_html/wp-includes/sodium_compat/src/Core/XSalsa20.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/parrilla111/public_html/wp-includes/sodium_compat/src/Core/XSalsa20.php on line 10
+[06-Jul-2023 05:23:09 America/New_York] PHP Fatal error:  Uncaught Error: Class 'ParagonIE_Sodium_Core_HSalsa20' not found in /home/parrilla111/public_html/wp-includes/sodium_compat/src/Core/XSalsa20.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/parrilla111/public_html/wp-includes/sodium_compat/src/Core/XSalsa20.php on line 10
+[19-Jul-2023 14:48:42 America/New_York] PHP Fatal error:  Uncaught Error: Class 'ParagonIE_Sodium_Core_Util' not found in /home/parrilla111/public_html/wp-includes/sodium_compat/src/Core/BLAKE2b.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/parrilla111/public_html/wp-includes/sodium_compat/src/Core/BLAKE2b.php on line 12
+[19-Jul-2023 14:48:44 America/New_York] PHP Fatal error:  Uncaught Error: Class 'ParagonIE_Sodium_Core_Util' not found in /home/parrilla111/public_html/wp-includes/sodium_compat/src/Core/BLAKE2b.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/parrilla111/public_html/wp-includes/sodium_compat/src/Core/BLAKE2b.php on line 12
+[19-Jul-2023 14:49:04 America/New_York] PHP Fatal error:  Uncaught Error: Class 'ParagonIE_Sodium_Core_Util' not found in /home/parrilla111/public_html/wp-includes/sodium_compat/src/Core/ChaCha20.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/parrilla111/public_html/wp-includes/sodium_compat/src/Core/ChaCha20.php on line 10
+[19-Jul-2023 14:49:05 America/New_York] PHP Fatal error:  Uncaught Error: Class 'ParagonIE_Sodium_Core_Util' not found in /home/parrilla111/public_html/wp-includes/sodium_compat/src/Core/ChaCha20.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/parrilla111/public_html/wp-includes/sodium_compat/src/Core/ChaCha20.php on line 10
+[19-Jul-2023 14:49:41 America/New_York] PHP Fatal error:  Uncaught Error: Class 'ParagonIE_Sodium_Core_Curve25519_H' not found in /home/parrilla111/public_html/wp-includes/sodium_compat/src/Core/Curve25519.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/parrilla111/public_html/wp-includes/sodium_compat/src/Core/Curve25519.php on line 16
+[19-Jul-2023 14:49:42 America/New_York] PHP Fatal error:  Uncaught Error: Class 'ParagonIE_Sodium_Core_Curve25519_H' not found in /home/parrilla111/public_html/wp-includes/sodium_compat/src/Core/Curve25519.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/parrilla111/public_html/wp-includes/sodium_compat/src/Core/Curve25519.php on line 16
+[19-Jul-2023 14:49:59 America/New_York] PHP Fatal error:  Uncaught Error: Class 'ParagonIE_Sodium_Core_Curve25519_H' not found in /home/parrilla111/public_html/wp-includes/sodium_compat/src/Core/Curve25519.php:16
+Stack trace:
+#0 /home/parrilla111/public_html/wp-includes/sodium_compat/src/Core/Ed25519.php(7): require_once()
+#1 {main}
+  thrown in /home/parrilla111/public_html/wp-includes/sodium_compat/src/Core/Curve25519.php on line 16
+[19-Jul-2023 14:50:01 America/New_York] PHP Fatal error:  Uncaught Error: Class 'ParagonIE_Sodium_Core_Curve25519_H' not found in /home/parrilla111/public_html/wp-includes/sodium_compat/src/Core/Curve25519.php:16
+Stack trace:
+#0 /home/parrilla111/public_html/wp-includes/sodium_compat/src/Core/Ed25519.php(7): require_once()
+#1 {main}
+  thrown in /home/parrilla111/public_html/wp-includes/sodium_compat/src/Core/Curve25519.php on line 16
+[19-Jul-2023 14:50:26 America/New_York] PHP Fatal error:  Uncaught Error: Class 'ParagonIE_Sodium_Core_ChaCha20' not found in /home/parrilla111/public_html/wp-includes/sodium_compat/src/Core/HChaCha20.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/parrilla111/public_html/wp-includes/sodium_compat/src/Core/HChaCha20.php on line 10
+[19-Jul-2023 14:50:28 America/New_York] PHP Fatal error:  Uncaught Error: Class 'ParagonIE_Sodium_Core_ChaCha20' not found in /home/parrilla111/public_html/wp-includes/sodium_compat/src/Core/HChaCha20.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/parrilla111/public_html/wp-includes/sodium_compat/src/Core/HChaCha20.php on line 10
+[19-Jul-2023 14:50:55 America/New_York] PHP Fatal error:  Uncaught Error: Class 'ParagonIE_Sodium_Core_Salsa20' not found in /home/parrilla111/public_html/wp-includes/sodium_compat/src/Core/HSalsa20.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/parrilla111/public_html/wp-includes/sodium_compat/src/Core/HSalsa20.php on line 10
+[19-Jul-2023 14:50:59 America/New_York] PHP Fatal error:  Uncaught Error: Class 'ParagonIE_Sodium_Core_Salsa20' not found in /home/parrilla111/public_html/wp-includes/sodium_compat/src/Core/HSalsa20.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/parrilla111/public_html/wp-includes/sodium_compat/src/Core/HSalsa20.php on line 10
+[19-Jul-2023 14:51:17 America/New_York] PHP Fatal error:  Uncaught Error: Class 'ParagonIE_Sodium_Core_Util' not found in /home/parrilla111/public_html/wp-includes/sodium_compat/src/Core/Poly1305.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/parrilla111/public_html/wp-includes/sodium_compat/src/Core/Poly1305.php on line 10
+[19-Jul-2023 14:51:17 America/New_York] PHP Fatal error:  Uncaught Error: Class 'ParagonIE_Sodium_Core_Util' not found in /home/parrilla111/public_html/wp-includes/sodium_compat/src/Core/Poly1305.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/parrilla111/public_html/wp-includes/sodium_compat/src/Core/Poly1305.php on line 10
+[19-Jul-2023 14:51:56 America/New_York] PHP Fatal error:  Uncaught Error: Class 'ParagonIE_Sodium_Core_Ed25519' not found in /home/parrilla111/public_html/wp-includes/sodium_compat/src/Core/Ristretto255.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/parrilla111/public_html/wp-includes/sodium_compat/src/Core/Ristretto255.php on line 6
+[19-Jul-2023 14:51:56 America/New_York] PHP Fatal error:  Uncaught Error: Class 'ParagonIE_Sodium_Core_Ed25519' not found in /home/parrilla111/public_html/wp-includes/sodium_compat/src/Core/Ristretto255.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/parrilla111/public_html/wp-includes/sodium_compat/src/Core/Ristretto255.php on line 6
+[19-Jul-2023 14:52:10 America/New_York] PHP Fatal error:  Uncaught Error: Class 'ParagonIE_Sodium_Core_Util' not found in /home/parrilla111/public_html/wp-includes/sodium_compat/src/Core/Salsa20.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/parrilla111/public_html/wp-includes/sodium_compat/src/Core/Salsa20.php on line 10
+[19-Jul-2023 14:52:12 America/New_York] PHP Fatal error:  Uncaught Error: Class 'ParagonIE_Sodium_Core_Util' not found in /home/parrilla111/public_html/wp-includes/sodium_compat/src/Core/Salsa20.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/parrilla111/public_html/wp-includes/sodium_compat/src/Core/Salsa20.php on line 10
+[19-Jul-2023 14:52:32 America/New_York] PHP Fatal error:  Uncaught Error: Class 'ParagonIE_Sodium_Core_Util' not found in /home/parrilla111/public_html/wp-includes/sodium_compat/src/Core/SipHash.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/parrilla111/public_html/wp-includes/sodium_compat/src/Core/SipHash.php on line 12
+[19-Jul-2023 14:52:33 America/New_York] PHP Fatal error:  Uncaught Error: Class 'ParagonIE_Sodium_Core_Util' not found in /home/parrilla111/public_html/wp-includes/sodium_compat/src/Core/SipHash.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/parrilla111/public_html/wp-includes/sodium_compat/src/Core/SipHash.php on line 12
+[19-Jul-2023 14:53:30 America/New_York] PHP Fatal error:  Uncaught Error: Class 'ParagonIE_Sodium_Core_Curve25519' not found in /home/parrilla111/public_html/wp-includes/sodium_compat/src/Core/X25519.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/parrilla111/public_html/wp-includes/sodium_compat/src/Core/X25519.php on line 10
+[19-Jul-2023 14:53:30 America/New_York] PHP Fatal error:  Uncaught Error: Class 'ParagonIE_Sodium_Core_Curve25519' not found in /home/parrilla111/public_html/wp-includes/sodium_compat/src/Core/X25519.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/parrilla111/public_html/wp-includes/sodium_compat/src/Core/X25519.php on line 10
+[19-Jul-2023 14:53:50 America/New_York] PHP Fatal error:  Uncaught Error: Class 'ParagonIE_Sodium_Core_HChaCha20' not found in /home/parrilla111/public_html/wp-includes/sodium_compat/src/Core/XChaCha20.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/parrilla111/public_html/wp-includes/sodium_compat/src/Core/XChaCha20.php on line 10
+[19-Jul-2023 14:53:51 America/New_York] PHP Fatal error:  Uncaught Error: Class 'ParagonIE_Sodium_Core_HChaCha20' not found in /home/parrilla111/public_html/wp-includes/sodium_compat/src/Core/XChaCha20.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/parrilla111/public_html/wp-includes/sodium_compat/src/Core/XChaCha20.php on line 10
+[19-Jul-2023 14:54:05 America/New_York] PHP Fatal error:  Uncaught Error: Class 'ParagonIE_Sodium_Core_HSalsa20' not found in /home/parrilla111/public_html/wp-includes/sodium_compat/src/Core/XSalsa20.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/parrilla111/public_html/wp-includes/sodium_compat/src/Core/XSalsa20.php on line 10
+[19-Jul-2023 14:54:06 America/New_York] PHP Fatal error:  Uncaught Error: Class 'ParagonIE_Sodium_Core_HSalsa20' not found in /home/parrilla111/public_html/wp-includes/sodium_compat/src/Core/XSalsa20.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/parrilla111/public_html/wp-includes/sodium_compat/src/Core/XSalsa20.php on line 10
+[19-Jul-2023 15:42:30 America/New_York] PHP Fatal error:  Uncaught Error: Class 'ParagonIE_Sodium_Core_Util' not found in /home/parrilla111/public_html/wp-includes/sodium_compat/src/Core/BLAKE2b.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/parrilla111/public_html/wp-includes/sodium_compat/src/Core/BLAKE2b.php on line 12
+[19-Jul-2023 15:42:33 America/New_York] PHP Fatal error:  Uncaught Error: Class 'ParagonIE_Sodium_Core_Util' not found in /home/parrilla111/public_html/wp-includes/sodium_compat/src/Core/BLAKE2b.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/parrilla111/public_html/wp-includes/sodium_compat/src/Core/BLAKE2b.php on line 12
+[19-Jul-2023 15:44:08 America/New_York] PHP Fatal error:  Uncaught Error: Class 'ParagonIE_Sodium_Core_Util' not found in /home/parrilla111/public_html/wp-includes/sodium_compat/src/Core/ChaCha20.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/parrilla111/public_html/wp-includes/sodium_compat/src/Core/ChaCha20.php on line 10
+[19-Jul-2023 15:44:10 America/New_York] PHP Fatal error:  Uncaught Error: Class 'ParagonIE_Sodium_Core_Util' not found in /home/parrilla111/public_html/wp-includes/sodium_compat/src/Core/ChaCha20.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/parrilla111/public_html/wp-includes/sodium_compat/src/Core/ChaCha20.php on line 10
+[19-Jul-2023 15:45:35 America/New_York] PHP Fatal error:  Uncaught Error: Class 'ParagonIE_Sodium_Core_Curve25519_H' not found in /home/parrilla111/public_html/wp-includes/sodium_compat/src/Core/Curve25519.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/parrilla111/public_html/wp-includes/sodium_compat/src/Core/Curve25519.php on line 16
+[19-Jul-2023 15:45:36 America/New_York] PHP Fatal error:  Uncaught Error: Class 'ParagonIE_Sodium_Core_Curve25519_H' not found in /home/parrilla111/public_html/wp-includes/sodium_compat/src/Core/Curve25519.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/parrilla111/public_html/wp-includes/sodium_compat/src/Core/Curve25519.php on line 16
+[19-Jul-2023 15:46:58 America/New_York] PHP Fatal error:  Uncaught Error: Class 'ParagonIE_Sodium_Core_Curve25519_H' not found in /home/parrilla111/public_html/wp-includes/sodium_compat/src/Core/Curve25519.php:16
+Stack trace:
+#0 /home/parrilla111/public_html/wp-includes/sodium_compat/src/Core/Ed25519.php(7): require_once()
+#1 {main}
+  thrown in /home/parrilla111/public_html/wp-includes/sodium_compat/src/Core/Curve25519.php on line 16
+[19-Jul-2023 15:47:04 America/New_York] PHP Fatal error:  Uncaught Error: Class 'ParagonIE_Sodium_Core_Curve25519_H' not found in /home/parrilla111/public_html/wp-includes/sodium_compat/src/Core/Curve25519.php:16
+Stack trace:
+#0 /home/parrilla111/public_html/wp-includes/sodium_compat/src/Core/Ed25519.php(7): require_once()
+#1 {main}
+  thrown in /home/parrilla111/public_html/wp-includes/sodium_compat/src/Core/Curve25519.php on line 16
+[19-Jul-2023 15:47:26 America/New_York] PHP Fatal error:  Uncaught Error: Class 'ParagonIE_Sodium_Core_ChaCha20' not found in /home/parrilla111/public_html/wp-includes/sodium_compat/src/Core/HChaCha20.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/parrilla111/public_html/wp-includes/sodium_compat/src/Core/HChaCha20.php on line 10
+[19-Jul-2023 15:47:27 America/New_York] PHP Fatal error:  Uncaught Error: Class 'ParagonIE_Sodium_Core_ChaCha20' not found in /home/parrilla111/public_html/wp-includes/sodium_compat/src/Core/HChaCha20.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/parrilla111/public_html/wp-includes/sodium_compat/src/Core/HChaCha20.php on line 10
+[19-Jul-2023 15:47:48 America/New_York] PHP Fatal error:  Uncaught Error: Class 'ParagonIE_Sodium_Core_Salsa20' not found in /home/parrilla111/public_html/wp-includes/sodium_compat/src/Core/HSalsa20.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/parrilla111/public_html/wp-includes/sodium_compat/src/Core/HSalsa20.php on line 10
+[19-Jul-2023 15:47:53 America/New_York] PHP Fatal error:  Uncaught Error: Class 'ParagonIE_Sodium_Core_Salsa20' not found in /home/parrilla111/public_html/wp-includes/sodium_compat/src/Core/HSalsa20.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/parrilla111/public_html/wp-includes/sodium_compat/src/Core/HSalsa20.php on line 10
+[19-Jul-2023 15:48:34 America/New_York] PHP Fatal error:  Uncaught Error: Class 'ParagonIE_Sodium_Core_Util' not found in /home/parrilla111/public_html/wp-includes/sodium_compat/src/Core/Poly1305.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/parrilla111/public_html/wp-includes/sodium_compat/src/Core/Poly1305.php on line 10
+[19-Jul-2023 15:48:34 America/New_York] PHP Fatal error:  Uncaught Error: Class 'ParagonIE_Sodium_Core_Util' not found in /home/parrilla111/public_html/wp-includes/sodium_compat/src/Core/Poly1305.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/parrilla111/public_html/wp-includes/sodium_compat/src/Core/Poly1305.php on line 10
+[19-Jul-2023 15:49:09 America/New_York] PHP Fatal error:  Uncaught Error: Class 'ParagonIE_Sodium_Core_Ed25519' not found in /home/parrilla111/public_html/wp-includes/sodium_compat/src/Core/Ristretto255.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/parrilla111/public_html/wp-includes/sodium_compat/src/Core/Ristretto255.php on line 6
+[19-Jul-2023 15:49:09 America/New_York] PHP Fatal error:  Uncaught Error: Class 'ParagonIE_Sodium_Core_Ed25519' not found in /home/parrilla111/public_html/wp-includes/sodium_compat/src/Core/Ristretto255.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/parrilla111/public_html/wp-includes/sodium_compat/src/Core/Ristretto255.php on line 6
+[19-Jul-2023 15:49:33 America/New_York] PHP Fatal error:  Uncaught Error: Class 'ParagonIE_Sodium_Core_Util' not found in /home/parrilla111/public_html/wp-includes/sodium_compat/src/Core/Salsa20.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/parrilla111/public_html/wp-includes/sodium_compat/src/Core/Salsa20.php on line 10
+[19-Jul-2023 15:49:34 America/New_York] PHP Fatal error:  Uncaught Error: Class 'ParagonIE_Sodium_Core_Util' not found in /home/parrilla111/public_html/wp-includes/sodium_compat/src/Core/Salsa20.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/parrilla111/public_html/wp-includes/sodium_compat/src/Core/Salsa20.php on line 10
+[19-Jul-2023 15:50:24 America/New_York] PHP Fatal error:  Uncaught Error: Class 'ParagonIE_Sodium_Core_Util' not found in /home/parrilla111/public_html/wp-includes/sodium_compat/src/Core/SipHash.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/parrilla111/public_html/wp-includes/sodium_compat/src/Core/SipHash.php on line 12
+[19-Jul-2023 15:50:27 America/New_York] PHP Fatal error:  Uncaught Error: Class 'ParagonIE_Sodium_Core_Util' not found in /home/parrilla111/public_html/wp-includes/sodium_compat/src/Core/SipHash.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/parrilla111/public_html/wp-includes/sodium_compat/src/Core/SipHash.php on line 12
+[19-Jul-2023 15:51:08 America/New_York] PHP Fatal error:  Uncaught Error: Class 'ParagonIE_Sodium_Core_Curve25519' not found in /home/parrilla111/public_html/wp-includes/sodium_compat/src/Core/X25519.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/parrilla111/public_html/wp-includes/sodium_compat/src/Core/X25519.php on line 10
+[19-Jul-2023 15:51:09 America/New_York] PHP Fatal error:  Uncaught Error: Class 'ParagonIE_Sodium_Core_Curve25519' not found in /home/parrilla111/public_html/wp-includes/sodium_compat/src/Core/X25519.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/parrilla111/public_html/wp-includes/sodium_compat/src/Core/X25519.php on line 10
+[19-Jul-2023 15:51:48 America/New_York] PHP Fatal error:  Uncaught Error: Class 'ParagonIE_Sodium_Core_HChaCha20' not found in /home/parrilla111/public_html/wp-includes/sodium_compat/src/Core/XChaCha20.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/parrilla111/public_html/wp-includes/sodium_compat/src/Core/XChaCha20.php on line 10
+[19-Jul-2023 15:51:50 America/New_York] PHP Fatal error:  Uncaught Error: Class 'ParagonIE_Sodium_Core_HChaCha20' not found in /home/parrilla111/public_html/wp-includes/sodium_compat/src/Core/XChaCha20.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/parrilla111/public_html/wp-includes/sodium_compat/src/Core/XChaCha20.php on line 10
+[19-Jul-2023 15:52:08 America/New_York] PHP Fatal error:  Uncaught Error: Class 'ParagonIE_Sodium_Core_HSalsa20' not found in /home/parrilla111/public_html/wp-includes/sodium_compat/src/Core/XSalsa20.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/parrilla111/public_html/wp-includes/sodium_compat/src/Core/XSalsa20.php on line 10
+[19-Jul-2023 15:52:08 America/New_York] PHP Fatal error:  Uncaught Error: Class 'ParagonIE_Sodium_Core_HSalsa20' not found in /home/parrilla111/public_html/wp-includes/sodium_compat/src/Core/XSalsa20.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/parrilla111/public_html/wp-includes/sodium_compat/src/Core/XSalsa20.php on line 10
+[25-Jul-2023 15:09:55 America/New_York] PHP Fatal error:  Uncaught Error: Class 'ParagonIE_Sodium_Core_Util' not found in /home/parrilla111/public_html/wp-includes/sodium_compat/src/Core/BLAKE2b.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/parrilla111/public_html/wp-includes/sodium_compat/src/Core/BLAKE2b.php on line 12
+[25-Jul-2023 15:10:01 America/New_York] PHP Fatal error:  Uncaught Error: Class 'ParagonIE_Sodium_Core_Util' not found in /home/parrilla111/public_html/wp-includes/sodium_compat/src/Core/BLAKE2b.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/parrilla111/public_html/wp-includes/sodium_compat/src/Core/BLAKE2b.php on line 12
+[25-Jul-2023 15:10:28 America/New_York] PHP Fatal error:  Uncaught Error: Class 'ParagonIE_Sodium_Core_Util' not found in /home/parrilla111/public_html/wp-includes/sodium_compat/src/Core/ChaCha20.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/parrilla111/public_html/wp-includes/sodium_compat/src/Core/ChaCha20.php on line 10
+[25-Jul-2023 15:10:29 America/New_York] PHP Fatal error:  Uncaught Error: Class 'ParagonIE_Sodium_Core_Util' not found in /home/parrilla111/public_html/wp-includes/sodium_compat/src/Core/ChaCha20.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/parrilla111/public_html/wp-includes/sodium_compat/src/Core/ChaCha20.php on line 10
+[25-Jul-2023 15:10:44 America/New_York] PHP Fatal error:  Uncaught Error: Class 'ParagonIE_Sodium_Core_Curve25519_H' not found in /home/parrilla111/public_html/wp-includes/sodium_compat/src/Core/Curve25519.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/parrilla111/public_html/wp-includes/sodium_compat/src/Core/Curve25519.php on line 16
+[25-Jul-2023 15:10:45 America/New_York] PHP Fatal error:  Uncaught Error: Class 'ParagonIE_Sodium_Core_Curve25519_H' not found in /home/parrilla111/public_html/wp-includes/sodium_compat/src/Core/Curve25519.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/parrilla111/public_html/wp-includes/sodium_compat/src/Core/Curve25519.php on line 16
+[25-Jul-2023 15:11:03 America/New_York] PHP Fatal error:  Uncaught Error: Class 'ParagonIE_Sodium_Core_Curve25519_H' not found in /home/parrilla111/public_html/wp-includes/sodium_compat/src/Core/Curve25519.php:16
+Stack trace:
+#0 /home/parrilla111/public_html/wp-includes/sodium_compat/src/Core/Ed25519.php(7): require_once()
+#1 {main}
+  thrown in /home/parrilla111/public_html/wp-includes/sodium_compat/src/Core/Curve25519.php on line 16
+[25-Jul-2023 15:11:04 America/New_York] PHP Fatal error:  Uncaught Error: Class 'ParagonIE_Sodium_Core_Curve25519_H' not found in /home/parrilla111/public_html/wp-includes/sodium_compat/src/Core/Curve25519.php:16
+Stack trace:
+#0 /home/parrilla111/public_html/wp-includes/sodium_compat/src/Core/Ed25519.php(7): require_once()
+#1 {main}
+  thrown in /home/parrilla111/public_html/wp-includes/sodium_compat/src/Core/Curve25519.php on line 16
+[25-Jul-2023 15:11:32 America/New_York] PHP Fatal error:  Uncaught Error: Class 'ParagonIE_Sodium_Core_ChaCha20' not found in /home/parrilla111/public_html/wp-includes/sodium_compat/src/Core/HChaCha20.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/parrilla111/public_html/wp-includes/sodium_compat/src/Core/HChaCha20.php on line 10
+[25-Jul-2023 15:11:32 America/New_York] PHP Fatal error:  Uncaught Error: Class 'ParagonIE_Sodium_Core_ChaCha20' not found in /home/parrilla111/public_html/wp-includes/sodium_compat/src/Core/HChaCha20.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/parrilla111/public_html/wp-includes/sodium_compat/src/Core/HChaCha20.php on line 10
+[25-Jul-2023 15:11:48 America/New_York] PHP Fatal error:  Uncaught Error: Class 'ParagonIE_Sodium_Core_Salsa20' not found in /home/parrilla111/public_html/wp-includes/sodium_compat/src/Core/HSalsa20.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/parrilla111/public_html/wp-includes/sodium_compat/src/Core/HSalsa20.php on line 10
+[25-Jul-2023 15:11:48 America/New_York] PHP Fatal error:  Uncaught Error: Class 'ParagonIE_Sodium_Core_Salsa20' not found in /home/parrilla111/public_html/wp-includes/sodium_compat/src/Core/HSalsa20.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/parrilla111/public_html/wp-includes/sodium_compat/src/Core/HSalsa20.php on line 10
+[25-Jul-2023 15:11:55 America/New_York] PHP Fatal error:  Uncaught Error: Class 'ParagonIE_Sodium_Core_Util' not found in /home/parrilla111/public_html/wp-includes/sodium_compat/src/Core/Poly1305.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/parrilla111/public_html/wp-includes/sodium_compat/src/Core/Poly1305.php on line 10
+[25-Jul-2023 15:11:56 America/New_York] PHP Fatal error:  Uncaught Error: Class 'ParagonIE_Sodium_Core_Util' not found in /home/parrilla111/public_html/wp-includes/sodium_compat/src/Core/Poly1305.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/parrilla111/public_html/wp-includes/sodium_compat/src/Core/Poly1305.php on line 10
+[25-Jul-2023 15:12:12 America/New_York] PHP Fatal error:  Uncaught Error: Class 'ParagonIE_Sodium_Core_Ed25519' not found in /home/parrilla111/public_html/wp-includes/sodium_compat/src/Core/Ristretto255.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/parrilla111/public_html/wp-includes/sodium_compat/src/Core/Ristretto255.php on line 6
+[25-Jul-2023 15:12:12 America/New_York] PHP Fatal error:  Uncaught Error: Class 'ParagonIE_Sodium_Core_Ed25519' not found in /home/parrilla111/public_html/wp-includes/sodium_compat/src/Core/Ristretto255.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/parrilla111/public_html/wp-includes/sodium_compat/src/Core/Ristretto255.php on line 6
+[25-Jul-2023 15:12:24 America/New_York] PHP Fatal error:  Uncaught Error: Class 'ParagonIE_Sodium_Core_Util' not found in /home/parrilla111/public_html/wp-includes/sodium_compat/src/Core/Salsa20.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/parrilla111/public_html/wp-includes/sodium_compat/src/Core/Salsa20.php on line 10
+[25-Jul-2023 15:12:25 America/New_York] PHP Fatal error:  Uncaught Error: Class 'ParagonIE_Sodium_Core_Util' not found in /home/parrilla111/public_html/wp-includes/sodium_compat/src/Core/Salsa20.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/parrilla111/public_html/wp-includes/sodium_compat/src/Core/Salsa20.php on line 10
+[25-Jul-2023 15:12:31 America/New_York] PHP Fatal error:  Uncaught Error: Class 'ParagonIE_Sodium_Core_Util' not found in /home/parrilla111/public_html/wp-includes/sodium_compat/src/Core/SipHash.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/parrilla111/public_html/wp-includes/sodium_compat/src/Core/SipHash.php on line 12
+[25-Jul-2023 15:12:32 America/New_York] PHP Fatal error:  Uncaught Error: Class 'ParagonIE_Sodium_Core_Util' not found in /home/parrilla111/public_html/wp-includes/sodium_compat/src/Core/SipHash.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/parrilla111/public_html/wp-includes/sodium_compat/src/Core/SipHash.php on line 12
+[25-Jul-2023 15:13:12 America/New_York] PHP Fatal error:  Uncaught Error: Class 'ParagonIE_Sodium_Core_Curve25519' not found in /home/parrilla111/public_html/wp-includes/sodium_compat/src/Core/X25519.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/parrilla111/public_html/wp-includes/sodium_compat/src/Core/X25519.php on line 10
+[25-Jul-2023 15:13:12 America/New_York] PHP Fatal error:  Uncaught Error: Class 'ParagonIE_Sodium_Core_Curve25519' not found in /home/parrilla111/public_html/wp-includes/sodium_compat/src/Core/X25519.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/parrilla111/public_html/wp-includes/sodium_compat/src/Core/X25519.php on line 10
+[25-Jul-2023 15:13:29 America/New_York] PHP Fatal error:  Uncaught Error: Class 'ParagonIE_Sodium_Core_HChaCha20' not found in /home/parrilla111/public_html/wp-includes/sodium_compat/src/Core/XChaCha20.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/parrilla111/public_html/wp-includes/sodium_compat/src/Core/XChaCha20.php on line 10
+[25-Jul-2023 15:13:32 America/New_York] PHP Fatal error:  Uncaught Error: Class 'ParagonIE_Sodium_Core_HChaCha20' not found in /home/parrilla111/public_html/wp-includes/sodium_compat/src/Core/XChaCha20.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/parrilla111/public_html/wp-includes/sodium_compat/src/Core/XChaCha20.php on line 10
+[25-Jul-2023 15:13:48 America/New_York] PHP Fatal error:  Uncaught Error: Class 'ParagonIE_Sodium_Core_HSalsa20' not found in /home/parrilla111/public_html/wp-includes/sodium_compat/src/Core/XSalsa20.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/parrilla111/public_html/wp-includes/sodium_compat/src/Core/XSalsa20.php on line 10
+[25-Jul-2023 15:13:49 America/New_York] PHP Fatal error:  Uncaught Error: Class 'ParagonIE_Sodium_Core_HSalsa20' not found in /home/parrilla111/public_html/wp-includes/sodium_compat/src/Core/XSalsa20.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/parrilla111/public_html/wp-includes/sodium_compat/src/Core/XSalsa20.php on line 10
+[25-Jul-2023 15:46:45 America/New_York] PHP Fatal error:  Uncaught Error: Class 'ParagonIE_Sodium_Core_Util' not found in /home/parrilla111/public_html/wp-includes/sodium_compat/src/Core/BLAKE2b.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/parrilla111/public_html/wp-includes/sodium_compat/src/Core/BLAKE2b.php on line 12
+[25-Jul-2023 15:46:46 America/New_York] PHP Fatal error:  Uncaught Error: Class 'ParagonIE_Sodium_Core_Util' not found in /home/parrilla111/public_html/wp-includes/sodium_compat/src/Core/BLAKE2b.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/parrilla111/public_html/wp-includes/sodium_compat/src/Core/BLAKE2b.php on line 12
+[25-Jul-2023 15:47:53 America/New_York] PHP Fatal error:  Uncaught Error: Class 'ParagonIE_Sodium_Core_Util' not found in /home/parrilla111/public_html/wp-includes/sodium_compat/src/Core/ChaCha20.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/parrilla111/public_html/wp-includes/sodium_compat/src/Core/ChaCha20.php on line 10
+[25-Jul-2023 15:47:54 America/New_York] PHP Fatal error:  Uncaught Error: Class 'ParagonIE_Sodium_Core_Util' not found in /home/parrilla111/public_html/wp-includes/sodium_compat/src/Core/ChaCha20.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/parrilla111/public_html/wp-includes/sodium_compat/src/Core/ChaCha20.php on line 10
+[25-Jul-2023 15:48:36 America/New_York] PHP Fatal error:  Uncaught Error: Class 'ParagonIE_Sodium_Core_Curve25519_H' not found in /home/parrilla111/public_html/wp-includes/sodium_compat/src/Core/Curve25519.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/parrilla111/public_html/wp-includes/sodium_compat/src/Core/Curve25519.php on line 16
+[25-Jul-2023 15:48:38 America/New_York] PHP Fatal error:  Uncaught Error: Class 'ParagonIE_Sodium_Core_Curve25519_H' not found in /home/parrilla111/public_html/wp-includes/sodium_compat/src/Core/Curve25519.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/parrilla111/public_html/wp-includes/sodium_compat/src/Core/Curve25519.php on line 16
+[25-Jul-2023 15:49:44 America/New_York] PHP Fatal error:  Uncaught Error: Class 'ParagonIE_Sodium_Core_Curve25519_H' not found in /home/parrilla111/public_html/wp-includes/sodium_compat/src/Core/Curve25519.php:16
+Stack trace:
+#0 /home/parrilla111/public_html/wp-includes/sodium_compat/src/Core/Ed25519.php(7): require_once()
+#1 {main}
+  thrown in /home/parrilla111/public_html/wp-includes/sodium_compat/src/Core/Curve25519.php on line 16
+[25-Jul-2023 15:49:44 America/New_York] PHP Fatal error:  Uncaught Error: Class 'ParagonIE_Sodium_Core_Curve25519_H' not found in /home/parrilla111/public_html/wp-includes/sodium_compat/src/Core/Curve25519.php:16
+Stack trace:
+#0 /home/parrilla111/public_html/wp-includes/sodium_compat/src/Core/Ed25519.php(7): require_once()
+#1 {main}
+  thrown in /home/parrilla111/public_html/wp-includes/sodium_compat/src/Core/Curve25519.php on line 16
+[25-Jul-2023 15:49:47 America/New_York] PHP Fatal error:  Uncaught Error: Class 'ParagonIE_Sodium_Core_ChaCha20' not found in /home/parrilla111/public_html/wp-includes/sodium_compat/src/Core/HChaCha20.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/parrilla111/public_html/wp-includes/sodium_compat/src/Core/HChaCha20.php on line 10
+[25-Jul-2023 15:49:48 America/New_York] PHP Fatal error:  Uncaught Error: Class 'ParagonIE_Sodium_Core_ChaCha20' not found in /home/parrilla111/public_html/wp-includes/sodium_compat/src/Core/HChaCha20.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/parrilla111/public_html/wp-includes/sodium_compat/src/Core/HChaCha20.php on line 10
+[25-Jul-2023 15:50:13 America/New_York] PHP Fatal error:  Uncaught Error: Class 'ParagonIE_Sodium_Core_Salsa20' not found in /home/parrilla111/public_html/wp-includes/sodium_compat/src/Core/HSalsa20.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/parrilla111/public_html/wp-includes/sodium_compat/src/Core/HSalsa20.php on line 10
+[25-Jul-2023 15:50:14 America/New_York] PHP Fatal error:  Uncaught Error: Class 'ParagonIE_Sodium_Core_Salsa20' not found in /home/parrilla111/public_html/wp-includes/sodium_compat/src/Core/HSalsa20.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/parrilla111/public_html/wp-includes/sodium_compat/src/Core/HSalsa20.php on line 10
+[25-Jul-2023 15:50:26 America/New_York] PHP Fatal error:  Uncaught Error: Class 'ParagonIE_Sodium_Core_Util' not found in /home/parrilla111/public_html/wp-includes/sodium_compat/src/Core/Poly1305.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/parrilla111/public_html/wp-includes/sodium_compat/src/Core/Poly1305.php on line 10
+[25-Jul-2023 15:50:28 America/New_York] PHP Fatal error:  Uncaught Error: Class 'ParagonIE_Sodium_Core_Util' not found in /home/parrilla111/public_html/wp-includes/sodium_compat/src/Core/Poly1305.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/parrilla111/public_html/wp-includes/sodium_compat/src/Core/Poly1305.php on line 10
+[25-Jul-2023 15:51:07 America/New_York] PHP Fatal error:  Uncaught Error: Class 'ParagonIE_Sodium_Core_Ed25519' not found in /home/parrilla111/public_html/wp-includes/sodium_compat/src/Core/Ristretto255.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/parrilla111/public_html/wp-includes/sodium_compat/src/Core/Ristretto255.php on line 6
+[25-Jul-2023 15:51:08 America/New_York] PHP Fatal error:  Uncaught Error: Class 'ParagonIE_Sodium_Core_Ed25519' not found in /home/parrilla111/public_html/wp-includes/sodium_compat/src/Core/Ristretto255.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/parrilla111/public_html/wp-includes/sodium_compat/src/Core/Ristretto255.php on line 6
+[25-Jul-2023 15:51:20 America/New_York] PHP Fatal error:  Uncaught Error: Class 'ParagonIE_Sodium_Core_Util' not found in /home/parrilla111/public_html/wp-includes/sodium_compat/src/Core/Salsa20.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/parrilla111/public_html/wp-includes/sodium_compat/src/Core/Salsa20.php on line 10
+[25-Jul-2023 15:51:30 America/New_York] PHP Fatal error:  Uncaught Error: Class 'ParagonIE_Sodium_Core_Util' not found in /home/parrilla111/public_html/wp-includes/sodium_compat/src/Core/Salsa20.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/parrilla111/public_html/wp-includes/sodium_compat/src/Core/Salsa20.php on line 10
+[25-Jul-2023 15:51:57 America/New_York] PHP Fatal error:  Uncaught Error: Class 'ParagonIE_Sodium_Core_Util' not found in /home/parrilla111/public_html/wp-includes/sodium_compat/src/Core/SipHash.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/parrilla111/public_html/wp-includes/sodium_compat/src/Core/SipHash.php on line 12
+[25-Jul-2023 15:52:03 America/New_York] PHP Fatal error:  Uncaught Error: Class 'ParagonIE_Sodium_Core_Util' not found in /home/parrilla111/public_html/wp-includes/sodium_compat/src/Core/SipHash.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/parrilla111/public_html/wp-includes/sodium_compat/src/Core/SipHash.php on line 12
+[25-Jul-2023 15:52:26 America/New_York] PHP Fatal error:  Uncaught Error: Class 'ParagonIE_Sodium_Core_Curve25519' not found in /home/parrilla111/public_html/wp-includes/sodium_compat/src/Core/X25519.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/parrilla111/public_html/wp-includes/sodium_compat/src/Core/X25519.php on line 10
+[25-Jul-2023 15:52:27 America/New_York] PHP Fatal error:  Uncaught Error: Class 'ParagonIE_Sodium_Core_Curve25519' not found in /home/parrilla111/public_html/wp-includes/sodium_compat/src/Core/X25519.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/parrilla111/public_html/wp-includes/sodium_compat/src/Core/X25519.php on line 10
+[25-Jul-2023 15:52:46 America/New_York] PHP Fatal error:  Uncaught Error: Class 'ParagonIE_Sodium_Core_HChaCha20' not found in /home/parrilla111/public_html/wp-includes/sodium_compat/src/Core/XChaCha20.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/parrilla111/public_html/wp-includes/sodium_compat/src/Core/XChaCha20.php on line 10
+[25-Jul-2023 15:52:47 America/New_York] PHP Fatal error:  Uncaught Error: Class 'ParagonIE_Sodium_Core_HChaCha20' not found in /home/parrilla111/public_html/wp-includes/sodium_compat/src/Core/XChaCha20.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/parrilla111/public_html/wp-includes/sodium_compat/src/Core/XChaCha20.php on line 10
+[25-Jul-2023 15:53:00 America/New_York] PHP Fatal error:  Uncaught Error: Class 'ParagonIE_Sodium_Core_HSalsa20' not found in /home/parrilla111/public_html/wp-includes/sodium_compat/src/Core/XSalsa20.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/parrilla111/public_html/wp-includes/sodium_compat/src/Core/XSalsa20.php on line 10
+[25-Jul-2023 15:53:05 America/New_York] PHP Fatal error:  Uncaught Error: Class 'ParagonIE_Sodium_Core_HSalsa20' not found in /home/parrilla111/public_html/wp-includes/sodium_compat/src/Core/XSalsa20.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/parrilla111/public_html/wp-includes/sodium_compat/src/Core/XSalsa20.php on line 10
+[31-Jul-2023 07:32:26 America/New_York] PHP Fatal error:  Uncaught Error: Class 'ParagonIE_Sodium_Core_Util' not found in /home/parrilla111/public_html/wp-includes/sodium_compat/src/Core/BLAKE2b.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/parrilla111/public_html/wp-includes/sodium_compat/src/Core/BLAKE2b.php on line 12
+[31-Jul-2023 07:32:27 America/New_York] PHP Fatal error:  Uncaught Error: Class 'ParagonIE_Sodium_Core_Util' not found in /home/parrilla111/public_html/wp-includes/sodium_compat/src/Core/BLAKE2b.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/parrilla111/public_html/wp-includes/sodium_compat/src/Core/BLAKE2b.php on line 12
+[31-Jul-2023 07:32:27 America/New_York] PHP Fatal error:  Uncaught Error: Class 'ParagonIE_Sodium_Core_Util' not found in /home/parrilla111/public_html/wp-includes/sodium_compat/src/Core/ChaCha20.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/parrilla111/public_html/wp-includes/sodium_compat/src/Core/ChaCha20.php on line 10
+[31-Jul-2023 07:32:28 America/New_York] PHP Fatal error:  Uncaught Error: Class 'ParagonIE_Sodium_Core_Util' not found in /home/parrilla111/public_html/wp-includes/sodium_compat/src/Core/ChaCha20.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/parrilla111/public_html/wp-includes/sodium_compat/src/Core/ChaCha20.php on line 10
+[31-Jul-2023 07:32:28 America/New_York] PHP Fatal error:  Uncaught Error: Class 'ParagonIE_Sodium_Core_Curve25519_H' not found in /home/parrilla111/public_html/wp-includes/sodium_compat/src/Core/Curve25519.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/parrilla111/public_html/wp-includes/sodium_compat/src/Core/Curve25519.php on line 16
+[31-Jul-2023 07:32:29 America/New_York] PHP Fatal error:  Uncaught Error: Class 'ParagonIE_Sodium_Core_Curve25519_H' not found in /home/parrilla111/public_html/wp-includes/sodium_compat/src/Core/Curve25519.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/parrilla111/public_html/wp-includes/sodium_compat/src/Core/Curve25519.php on line 16
+[31-Jul-2023 07:32:29 America/New_York] PHP Fatal error:  Uncaught Error: Class 'ParagonIE_Sodium_Core_Curve25519_H' not found in /home/parrilla111/public_html/wp-includes/sodium_compat/src/Core/Curve25519.php:16
+Stack trace:
+#0 /home/parrilla111/public_html/wp-includes/sodium_compat/src/Core/Ed25519.php(7): require_once()
+#1 {main}
+  thrown in /home/parrilla111/public_html/wp-includes/sodium_compat/src/Core/Curve25519.php on line 16
+[31-Jul-2023 07:32:30 America/New_York] PHP Fatal error:  Uncaught Error: Class 'ParagonIE_Sodium_Core_Curve25519_H' not found in /home/parrilla111/public_html/wp-includes/sodium_compat/src/Core/Curve25519.php:16
+Stack trace:
+#0 /home/parrilla111/public_html/wp-includes/sodium_compat/src/Core/Ed25519.php(7): require_once()
+#1 {main}
+  thrown in /home/parrilla111/public_html/wp-includes/sodium_compat/src/Core/Curve25519.php on line 16
+[31-Jul-2023 07:32:30 America/New_York] PHP Fatal error:  Uncaught Error: Class 'ParagonIE_Sodium_Core_ChaCha20' not found in /home/parrilla111/public_html/wp-includes/sodium_compat/src/Core/HChaCha20.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/parrilla111/public_html/wp-includes/sodium_compat/src/Core/HChaCha20.php on line 10
+[31-Jul-2023 07:32:31 America/New_York] PHP Fatal error:  Uncaught Error: Class 'ParagonIE_Sodium_Core_ChaCha20' not found in /home/parrilla111/public_html/wp-includes/sodium_compat/src/Core/HChaCha20.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/parrilla111/public_html/wp-includes/sodium_compat/src/Core/HChaCha20.php on line 10
+[31-Jul-2023 07:32:31 America/New_York] PHP Fatal error:  Uncaught Error: Class 'ParagonIE_Sodium_Core_Salsa20' not found in /home/parrilla111/public_html/wp-includes/sodium_compat/src/Core/HSalsa20.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/parrilla111/public_html/wp-includes/sodium_compat/src/Core/HSalsa20.php on line 10
+[31-Jul-2023 07:32:32 America/New_York] PHP Fatal error:  Uncaught Error: Class 'ParagonIE_Sodium_Core_Salsa20' not found in /home/parrilla111/public_html/wp-includes/sodium_compat/src/Core/HSalsa20.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/parrilla111/public_html/wp-includes/sodium_compat/src/Core/HSalsa20.php on line 10
+[31-Jul-2023 07:32:32 America/New_York] PHP Fatal error:  Uncaught Error: Class 'ParagonIE_Sodium_Core_Util' not found in /home/parrilla111/public_html/wp-includes/sodium_compat/src/Core/Poly1305.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/parrilla111/public_html/wp-includes/sodium_compat/src/Core/Poly1305.php on line 10
+[31-Jul-2023 07:32:33 America/New_York] PHP Fatal error:  Uncaught Error: Class 'ParagonIE_Sodium_Core_Util' not found in /home/parrilla111/public_html/wp-includes/sodium_compat/src/Core/Poly1305.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/parrilla111/public_html/wp-includes/sodium_compat/src/Core/Poly1305.php on line 10
+[31-Jul-2023 07:32:33 America/New_York] PHP Fatal error:  Uncaught Error: Class 'ParagonIE_Sodium_Core_Ed25519' not found in /home/parrilla111/public_html/wp-includes/sodium_compat/src/Core/Ristretto255.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/parrilla111/public_html/wp-includes/sodium_compat/src/Core/Ristretto255.php on line 6
+[31-Jul-2023 07:32:34 America/New_York] PHP Fatal error:  Uncaught Error: Class 'ParagonIE_Sodium_Core_Ed25519' not found in /home/parrilla111/public_html/wp-includes/sodium_compat/src/Core/Ristretto255.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/parrilla111/public_html/wp-includes/sodium_compat/src/Core/Ristretto255.php on line 6
+[31-Jul-2023 07:32:34 America/New_York] PHP Fatal error:  Uncaught Error: Class 'ParagonIE_Sodium_Core_Util' not found in /home/parrilla111/public_html/wp-includes/sodium_compat/src/Core/Salsa20.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/parrilla111/public_html/wp-includes/sodium_compat/src/Core/Salsa20.php on line 10
+[31-Jul-2023 07:32:34 America/New_York] PHP Fatal error:  Uncaught Error: Class 'ParagonIE_Sodium_Core_Util' not found in /home/parrilla111/public_html/wp-includes/sodium_compat/src/Core/Salsa20.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/parrilla111/public_html/wp-includes/sodium_compat/src/Core/Salsa20.php on line 10
+[31-Jul-2023 07:32:35 America/New_York] PHP Fatal error:  Uncaught Error: Class 'ParagonIE_Sodium_Core_Util' not found in /home/parrilla111/public_html/wp-includes/sodium_compat/src/Core/SipHash.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/parrilla111/public_html/wp-includes/sodium_compat/src/Core/SipHash.php on line 12
+[31-Jul-2023 07:32:35 America/New_York] PHP Fatal error:  Uncaught Error: Class 'ParagonIE_Sodium_Core_Util' not found in /home/parrilla111/public_html/wp-includes/sodium_compat/src/Core/SipHash.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/parrilla111/public_html/wp-includes/sodium_compat/src/Core/SipHash.php on line 12
+[31-Jul-2023 07:32:37 America/New_York] PHP Fatal error:  Uncaught Error: Class 'ParagonIE_Sodium_Core_Curve25519' not found in /home/parrilla111/public_html/wp-includes/sodium_compat/src/Core/X25519.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/parrilla111/public_html/wp-includes/sodium_compat/src/Core/X25519.php on line 10
+[31-Jul-2023 07:32:37 America/New_York] PHP Fatal error:  Uncaught Error: Class 'ParagonIE_Sodium_Core_Curve25519' not found in /home/parrilla111/public_html/wp-includes/sodium_compat/src/Core/X25519.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/parrilla111/public_html/wp-includes/sodium_compat/src/Core/X25519.php on line 10
+[31-Jul-2023 07:32:38 America/New_York] PHP Fatal error:  Uncaught Error: Class 'ParagonIE_Sodium_Core_HChaCha20' not found in /home/parrilla111/public_html/wp-includes/sodium_compat/src/Core/XChaCha20.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/parrilla111/public_html/wp-includes/sodium_compat/src/Core/XChaCha20.php on line 10
+[31-Jul-2023 07:32:38 America/New_York] PHP Fatal error:  Uncaught Error: Class 'ParagonIE_Sodium_Core_HChaCha20' not found in /home/parrilla111/public_html/wp-includes/sodium_compat/src/Core/XChaCha20.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/parrilla111/public_html/wp-includes/sodium_compat/src/Core/XChaCha20.php on line 10
+[31-Jul-2023 07:32:39 America/New_York] PHP Fatal error:  Uncaught Error: Class 'ParagonIE_Sodium_Core_HSalsa20' not found in /home/parrilla111/public_html/wp-includes/sodium_compat/src/Core/XSalsa20.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/parrilla111/public_html/wp-includes/sodium_compat/src/Core/XSalsa20.php on line 10
+[31-Jul-2023 07:32:39 America/New_York] PHP Fatal error:  Uncaught Error: Class 'ParagonIE_Sodium_Core_HSalsa20' not found in /home/parrilla111/public_html/wp-includes/sodium_compat/src/Core/XSalsa20.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/parrilla111/public_html/wp-includes/sodium_compat/src/Core/XSalsa20.php on line 10
+[05-Aug-2023 19:40:52 America/New_York] PHP Fatal error:  Uncaught Error: Class 'ParagonIE_Sodium_Core_Util' not found in /home/parrilla111/public_html/wp-includes/sodium_compat/src/Core/BLAKE2b.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/parrilla111/public_html/wp-includes/sodium_compat/src/Core/BLAKE2b.php on line 12
+[05-Aug-2023 19:40:58 America/New_York] PHP Fatal error:  Uncaught Error: Class 'ParagonIE_Sodium_Core_Util' not found in /home/parrilla111/public_html/wp-includes/sodium_compat/src/Core/BLAKE2b.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/parrilla111/public_html/wp-includes/sodium_compat/src/Core/BLAKE2b.php on line 12
+[05-Aug-2023 19:41:05 America/New_York] PHP Fatal error:  Uncaught Error: Class 'ParagonIE_Sodium_Core_Util' not found in /home/parrilla111/public_html/wp-includes/sodium_compat/src/Core/ChaCha20.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/parrilla111/public_html/wp-includes/sodium_compat/src/Core/ChaCha20.php on line 10
+[05-Aug-2023 19:41:08 America/New_York] PHP Fatal error:  Uncaught Error: Class 'ParagonIE_Sodium_Core_Util' not found in /home/parrilla111/public_html/wp-includes/sodium_compat/src/Core/ChaCha20.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/parrilla111/public_html/wp-includes/sodium_compat/src/Core/ChaCha20.php on line 10
+[05-Aug-2023 19:41:10 America/New_York] PHP Fatal error:  Uncaught Error: Class 'ParagonIE_Sodium_Core_Curve25519_H' not found in /home/parrilla111/public_html/wp-includes/sodium_compat/src/Core/Curve25519.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/parrilla111/public_html/wp-includes/sodium_compat/src/Core/Curve25519.php on line 16
+[05-Aug-2023 19:41:12 America/New_York] PHP Fatal error:  Uncaught Error: Class 'ParagonIE_Sodium_Core_Curve25519_H' not found in /home/parrilla111/public_html/wp-includes/sodium_compat/src/Core/Curve25519.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/parrilla111/public_html/wp-includes/sodium_compat/src/Core/Curve25519.php on line 16
+[05-Aug-2023 19:41:20 America/New_York] PHP Fatal error:  Uncaught Error: Class 'ParagonIE_Sodium_Core_Curve25519_H' not found in /home/parrilla111/public_html/wp-includes/sodium_compat/src/Core/Curve25519.php:16
+Stack trace:
+#0 /home/parrilla111/public_html/wp-includes/sodium_compat/src/Core/Ed25519.php(7): require_once()
+#1 {main}
+  thrown in /home/parrilla111/public_html/wp-includes/sodium_compat/src/Core/Curve25519.php on line 16
+[05-Aug-2023 19:41:24 America/New_York] PHP Fatal error:  Uncaught Error: Class 'ParagonIE_Sodium_Core_Curve25519_H' not found in /home/parrilla111/public_html/wp-includes/sodium_compat/src/Core/Curve25519.php:16
+Stack trace:
+#0 /home/parrilla111/public_html/wp-includes/sodium_compat/src/Core/Ed25519.php(7): require_once()
+#1 {main}
+  thrown in /home/parrilla111/public_html/wp-includes/sodium_compat/src/Core/Curve25519.php on line 16
+[05-Aug-2023 19:41:25 America/New_York] PHP Fatal error:  Uncaught Error: Class 'ParagonIE_Sodium_Core_ChaCha20' not found in /home/parrilla111/public_html/wp-includes/sodium_compat/src/Core/HChaCha20.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/parrilla111/public_html/wp-includes/sodium_compat/src/Core/HChaCha20.php on line 10
+[05-Aug-2023 19:41:26 America/New_York] PHP Fatal error:  Uncaught Error: Class 'ParagonIE_Sodium_Core_ChaCha20' not found in /home/parrilla111/public_html/wp-includes/sodium_compat/src/Core/HChaCha20.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/parrilla111/public_html/wp-includes/sodium_compat/src/Core/HChaCha20.php on line 10
+[05-Aug-2023 19:41:38 America/New_York] PHP Fatal error:  Uncaught Error: Class 'ParagonIE_Sodium_Core_Salsa20' not found in /home/parrilla111/public_html/wp-includes/sodium_compat/src/Core/HSalsa20.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/parrilla111/public_html/wp-includes/sodium_compat/src/Core/HSalsa20.php on line 10
+[05-Aug-2023 19:41:44 America/New_York] PHP Fatal error:  Uncaught Error: Class 'ParagonIE_Sodium_Core_Salsa20' not found in /home/parrilla111/public_html/wp-includes/sodium_compat/src/Core/HSalsa20.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/parrilla111/public_html/wp-includes/sodium_compat/src/Core/HSalsa20.php on line 10
+[05-Aug-2023 19:41:58 America/New_York] PHP Fatal error:  Uncaught Error: Class 'ParagonIE_Sodium_Core_Util' not found in /home/parrilla111/public_html/wp-includes/sodium_compat/src/Core/Poly1305.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/parrilla111/public_html/wp-includes/sodium_compat/src/Core/Poly1305.php on line 10
+[05-Aug-2023 19:41:59 America/New_York] PHP Fatal error:  Uncaught Error: Class 'ParagonIE_Sodium_Core_Util' not found in /home/parrilla111/public_html/wp-includes/sodium_compat/src/Core/Poly1305.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/parrilla111/public_html/wp-includes/sodium_compat/src/Core/Poly1305.php on line 10
+[05-Aug-2023 19:42:06 America/New_York] PHP Fatal error:  Uncaught Error: Class 'ParagonIE_Sodium_Core_Ed25519' not found in /home/parrilla111/public_html/wp-includes/sodium_compat/src/Core/Ristretto255.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/parrilla111/public_html/wp-includes/sodium_compat/src/Core/Ristretto255.php on line 6
+[05-Aug-2023 19:42:08 America/New_York] PHP Fatal error:  Uncaught Error: Class 'ParagonIE_Sodium_Core_Ed25519' not found in /home/parrilla111/public_html/wp-includes/sodium_compat/src/Core/Ristretto255.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/parrilla111/public_html/wp-includes/sodium_compat/src/Core/Ristretto255.php on line 6
+[05-Aug-2023 19:42:13 America/New_York] PHP Fatal error:  Uncaught Error: Class 'ParagonIE_Sodium_Core_Util' not found in /home/parrilla111/public_html/wp-includes/sodium_compat/src/Core/Salsa20.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/parrilla111/public_html/wp-includes/sodium_compat/src/Core/Salsa20.php on line 10
+[05-Aug-2023 19:42:14 America/New_York] PHP Fatal error:  Uncaught Error: Class 'ParagonIE_Sodium_Core_Util' not found in /home/parrilla111/public_html/wp-includes/sodium_compat/src/Core/Salsa20.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/parrilla111/public_html/wp-includes/sodium_compat/src/Core/Salsa20.php on line 10
+[05-Aug-2023 19:42:23 America/New_York] PHP Fatal error:  Uncaught Error: Class 'ParagonIE_Sodium_Core_Util' not found in /home/parrilla111/public_html/wp-includes/sodium_compat/src/Core/SipHash.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/parrilla111/public_html/wp-includes/sodium_compat/src/Core/SipHash.php on line 12
+[05-Aug-2023 19:42:27 America/New_York] PHP Fatal error:  Uncaught Error: Class 'ParagonIE_Sodium_Core_Util' not found in /home/parrilla111/public_html/wp-includes/sodium_compat/src/Core/SipHash.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/parrilla111/public_html/wp-includes/sodium_compat/src/Core/SipHash.php on line 12
+[05-Aug-2023 19:42:36 America/New_York] PHP Fatal error:  Uncaught Error: Class 'ParagonIE_Sodium_Core_Curve25519' not found in /home/parrilla111/public_html/wp-includes/sodium_compat/src/Core/X25519.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/parrilla111/public_html/wp-includes/sodium_compat/src/Core/X25519.php on line 10
+[05-Aug-2023 19:42:40 America/New_York] PHP Fatal error:  Uncaught Error: Class 'ParagonIE_Sodium_Core_Curve25519' not found in /home/parrilla111/public_html/wp-includes/sodium_compat/src/Core/X25519.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/parrilla111/public_html/wp-includes/sodium_compat/src/Core/X25519.php on line 10
+[05-Aug-2023 19:42:42 America/New_York] PHP Fatal error:  Uncaught Error: Class 'ParagonIE_Sodium_Core_HSalsa20' not found in /home/parrilla111/public_html/wp-includes/sodium_compat/src/Core/XSalsa20.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/parrilla111/public_html/wp-includes/sodium_compat/src/Core/XSalsa20.php on line 10
+[05-Aug-2023 19:42:45 America/New_York] PHP Fatal error:  Uncaught Error: Class 'ParagonIE_Sodium_Core_HSalsa20' not found in /home/parrilla111/public_html/wp-includes/sodium_compat/src/Core/XSalsa20.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/parrilla111/public_html/wp-includes/sodium_compat/src/Core/XSalsa20.php on line 10
+[05-Aug-2023 20:08:07 America/New_York] PHP Fatal error:  Uncaught Error: Class 'ParagonIE_Sodium_Core_Util' not found in /home/parrilla111/public_html/wp-includes/sodium_compat/src/Core/BLAKE2b.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/parrilla111/public_html/wp-includes/sodium_compat/src/Core/BLAKE2b.php on line 12
+[05-Aug-2023 20:08:09 America/New_York] PHP Fatal error:  Uncaught Error: Class 'ParagonIE_Sodium_Core_Util' not found in /home/parrilla111/public_html/wp-includes/sodium_compat/src/Core/BLAKE2b.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/parrilla111/public_html/wp-includes/sodium_compat/src/Core/BLAKE2b.php on line 12
+[05-Aug-2023 20:08:56 America/New_York] PHP Fatal error:  Uncaught Error: Class 'ParagonIE_Sodium_Core_Util' not found in /home/parrilla111/public_html/wp-includes/sodium_compat/src/Core/ChaCha20.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/parrilla111/public_html/wp-includes/sodium_compat/src/Core/ChaCha20.php on line 10
+[05-Aug-2023 20:09:02 America/New_York] PHP Fatal error:  Uncaught Error: Class 'ParagonIE_Sodium_Core_Util' not found in /home/parrilla111/public_html/wp-includes/sodium_compat/src/Core/ChaCha20.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/parrilla111/public_html/wp-includes/sodium_compat/src/Core/ChaCha20.php on line 10
+[05-Aug-2023 20:09:47 America/New_York] PHP Fatal error:  Uncaught Error: Class 'ParagonIE_Sodium_Core_Curve25519_H' not found in /home/parrilla111/public_html/wp-includes/sodium_compat/src/Core/Curve25519.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/parrilla111/public_html/wp-includes/sodium_compat/src/Core/Curve25519.php on line 16
+[05-Aug-2023 20:09:55 America/New_York] PHP Fatal error:  Uncaught Error: Class 'ParagonIE_Sodium_Core_Curve25519_H' not found in /home/parrilla111/public_html/wp-includes/sodium_compat/src/Core/Curve25519.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/parrilla111/public_html/wp-includes/sodium_compat/src/Core/Curve25519.php on line 16
+[05-Aug-2023 20:10:24 America/New_York] PHP Fatal error:  Uncaught Error: Class 'ParagonIE_Sodium_Core_Curve25519_H' not found in /home/parrilla111/public_html/wp-includes/sodium_compat/src/Core/Curve25519.php:16
+Stack trace:
+#0 /home/parrilla111/public_html/wp-includes/sodium_compat/src/Core/Ed25519.php(7): require_once()
+#1 {main}
+  thrown in /home/parrilla111/public_html/wp-includes/sodium_compat/src/Core/Curve25519.php on line 16
+[05-Aug-2023 20:10:28 America/New_York] PHP Fatal error:  Uncaught Error: Class 'ParagonIE_Sodium_Core_Curve25519_H' not found in /home/parrilla111/public_html/wp-includes/sodium_compat/src/Core/Curve25519.php:16
+Stack trace:
+#0 /home/parrilla111/public_html/wp-includes/sodium_compat/src/Core/Ed25519.php(7): require_once()
+#1 {main}
+  thrown in /home/parrilla111/public_html/wp-includes/sodium_compat/src/Core/Curve25519.php on line 16
+[05-Aug-2023 20:10:32 America/New_York] PHP Fatal error:  Uncaught Error: Class 'ParagonIE_Sodium_Core_ChaCha20' not found in /home/parrilla111/public_html/wp-includes/sodium_compat/src/Core/HChaCha20.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/parrilla111/public_html/wp-includes/sodium_compat/src/Core/HChaCha20.php on line 10
+[05-Aug-2023 20:10:50 America/New_York] PHP Fatal error:  Uncaught Error: Class 'ParagonIE_Sodium_Core_ChaCha20' not found in /home/parrilla111/public_html/wp-includes/sodium_compat/src/Core/HChaCha20.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/parrilla111/public_html/wp-includes/sodium_compat/src/Core/HChaCha20.php on line 10
+[05-Aug-2023 20:11:00 America/New_York] PHP Fatal error:  Uncaught Error: Class 'ParagonIE_Sodium_Core_Salsa20' not found in /home/parrilla111/public_html/wp-includes/sodium_compat/src/Core/HSalsa20.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/parrilla111/public_html/wp-includes/sodium_compat/src/Core/HSalsa20.php on line 10
+[05-Aug-2023 20:11:01 America/New_York] PHP Fatal error:  Uncaught Error: Class 'ParagonIE_Sodium_Core_Salsa20' not found in /home/parrilla111/public_html/wp-includes/sodium_compat/src/Core/HSalsa20.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/parrilla111/public_html/wp-includes/sodium_compat/src/Core/HSalsa20.php on line 10
+[05-Aug-2023 20:11:08 America/New_York] PHP Fatal error:  Uncaught Error: Class 'ParagonIE_Sodium_Core_Util' not found in /home/parrilla111/public_html/wp-includes/sodium_compat/src/Core/Poly1305.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/parrilla111/public_html/wp-includes/sodium_compat/src/Core/Poly1305.php on line 10
+[05-Aug-2023 20:11:11 America/New_York] PHP Fatal error:  Uncaught Error: Class 'ParagonIE_Sodium_Core_Util' not found in /home/parrilla111/public_html/wp-includes/sodium_compat/src/Core/Poly1305.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/parrilla111/public_html/wp-includes/sodium_compat/src/Core/Poly1305.php on line 10
+[05-Aug-2023 20:11:31 America/New_York] PHP Fatal error:  Uncaught Error: Class 'ParagonIE_Sodium_Core_Ed25519' not found in /home/parrilla111/public_html/wp-includes/sodium_compat/src/Core/Ristretto255.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/parrilla111/public_html/wp-includes/sodium_compat/src/Core/Ristretto255.php on line 6
+[05-Aug-2023 20:11:35 America/New_York] PHP Fatal error:  Uncaught Error: Class 'ParagonIE_Sodium_Core_Ed25519' not found in /home/parrilla111/public_html/wp-includes/sodium_compat/src/Core/Ristretto255.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/parrilla111/public_html/wp-includes/sodium_compat/src/Core/Ristretto255.php on line 6
+[05-Aug-2023 20:11:42 America/New_York] PHP Fatal error:  Uncaught Error: Class 'ParagonIE_Sodium_Core_Util' not found in /home/parrilla111/public_html/wp-includes/sodium_compat/src/Core/Salsa20.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/parrilla111/public_html/wp-includes/sodium_compat/src/Core/Salsa20.php on line 10
+[05-Aug-2023 20:11:44 America/New_York] PHP Fatal error:  Uncaught Error: Class 'ParagonIE_Sodium_Core_Util' not found in /home/parrilla111/public_html/wp-includes/sodium_compat/src/Core/Salsa20.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/parrilla111/public_html/wp-includes/sodium_compat/src/Core/Salsa20.php on line 10
+[05-Aug-2023 20:12:13 America/New_York] PHP Fatal error:  Uncaught Error: Class 'ParagonIE_Sodium_Core_Util' not found in /home/parrilla111/public_html/wp-includes/sodium_compat/src/Core/SipHash.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/parrilla111/public_html/wp-includes/sodium_compat/src/Core/SipHash.php on line 12
+[05-Aug-2023 20:12:15 America/New_York] PHP Fatal error:  Uncaught Error: Class 'ParagonIE_Sodium_Core_Util' not found in /home/parrilla111/public_html/wp-includes/sodium_compat/src/Core/SipHash.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/parrilla111/public_html/wp-includes/sodium_compat/src/Core/SipHash.php on line 12
+[05-Aug-2023 20:12:32 America/New_York] PHP Fatal error:  Uncaught Error: Class 'ParagonIE_Sodium_Core_Curve25519' not found in /home/parrilla111/public_html/wp-includes/sodium_compat/src/Core/X25519.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/parrilla111/public_html/wp-includes/sodium_compat/src/Core/X25519.php on line 10
+[05-Aug-2023 20:12:37 America/New_York] PHP Fatal error:  Uncaught Error: Class 'ParagonIE_Sodium_Core_Curve25519' not found in /home/parrilla111/public_html/wp-includes/sodium_compat/src/Core/X25519.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/parrilla111/public_html/wp-includes/sodium_compat/src/Core/X25519.php on line 10
+[05-Aug-2023 20:12:42 America/New_York] PHP Fatal error:  Uncaught Error: Class 'ParagonIE_Sodium_Core_HSalsa20' not found in /home/parrilla111/public_html/wp-includes/sodium_compat/src/Core/XSalsa20.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/parrilla111/public_html/wp-includes/sodium_compat/src/Core/XSalsa20.php on line 10
+[05-Aug-2023 20:12:43 America/New_York] PHP Fatal error:  Uncaught Error: Class 'ParagonIE_Sodium_Core_HSalsa20' not found in /home/parrilla111/public_html/wp-includes/sodium_compat/src/Core/XSalsa20.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/parrilla111/public_html/wp-includes/sodium_compat/src/Core/XSalsa20.php on line 10

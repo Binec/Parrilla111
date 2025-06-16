@@ -1,0 +1,20 @@
+[12-Mar-2025 08:54:16 America/New_York] PHP Fatal error:  Uncaught Error: Class 'SimplePie\SimplePie' not found in /home/parrilla111/public_html/wp-includes/SimplePie/library/SimplePie.php:63
+Stack trace:
+#0 {main}
+  thrown in /home/parrilla111/public_html/wp-includes/SimplePie/library/SimplePie.php on line 63
+[14-Mar-2025 00:24:13 America/New_York] PHP Fatal error:  Uncaught Error: Class 'SimplePie\SimplePie' not found in /home/parrilla111/public_html/wp-includes/SimplePie/library/SimplePie.php:63
+Stack trace:
+#0 {main}
+  thrown in /home/parrilla111/public_html/wp-includes/SimplePie/library/SimplePie.php on line 63
+[15-Mar-2025 09:20:27 America/New_York] PHP Fatal error:  Uncaught Error: Class 'SimplePie\SimplePie' not found in /home/parrilla111/public_html/wp-includes/SimplePie/library/SimplePie.php:63
+Stack trace:
+#0 {main}
+  thrown in /home/parrilla111/public_html/wp-includes/SimplePie/library/SimplePie.php on line 63
+[16-Mar-2025 07:22:58 America/New_York] PHP Fatal error:  Uncaught Error: Class 'SimplePie\SimplePie' not found in /home/parrilla111/public_html/wp-includes/SimplePie/library/SimplePie.php:63
+Stack trace:
+#0 {main}
+  thrown in /home/parrilla111/public_html/wp-includes/SimplePie/library/SimplePie.php on line 63
+[18-May-2025 06:33:03 America/New_York] PHP Fatal error:  Uncaught Error: Class 'SimplePie\SimplePie' not found in /home/parrilla111/public_html/wp-includes/SimplePie/library/SimplePie.php:63
+Stack trace:
+#0 {main}
+  thrown in /home/parrilla111/public_html/wp-includes/SimplePie/library/SimplePie.php on line 63

@@ -1,0 +1,895 @@
+Return-Path: <>
+Delivered-To: parrilla111@rmx12.dizinc.com
+Received: from rmx12.dizinc.com
+	by rmx12.dizinc.com with LMTP
+	id ULc8IAav+mY08BsAhmHcww
+	(envelope-from <>)
+	for <parrilla111@rmx12.dizinc.com>; Mon, 30 Sep 2024 08:00:38 -0600
+Return-path: <>
+Envelope-to: parrilla111@rmx12.dizinc.com
+Delivery-date: Mon, 30 Sep 2024 08:00:38 -0600
+Received: from mailnull by rmx12.dizinc.com with local (Exim 4.97.1)
+	id 1svGx4-00000007gzz-1xDY
+	for parrilla111@rmx12.dizinc.com;
+	Mon, 30 Sep 2024 08:00:38 -0600
+X-Failed-Recipients: imagen.comercial@hotmail.com
+Auto-Submitted: auto-replied
+From: Mail Delivery System <Mailer-Daemon@rmx12.dizinc.com>
+To: parrilla111@rmx12.dizinc.com
+References: <lobt9exhW4lDpRZ59QUFnpY0XXAsYF3qlSNM9HvEIk@parrilla111.com>
+Content-Type: multipart/report; report-type=delivery-status; boundary=1727704838-eximdsn-65638842
+MIME-Version: 1.0
+Subject: Mail delivery failed: returning message to sender
+Message-Id: <E1svGx4-00000007gzz-1xDY@rmx12.dizinc.com>
+Date: Mon, 30 Sep 2024 08:00:38 -0600
+
+--1727704838-eximdsn-65638842
+Content-type: text/plain; charset=us-ascii
+
+This message was created automatically by mail delivery software.
+
+A message that you sent could not be delivered to one or more of its
+recipients. This is a permanent error. The following address(es) failed:
+
+  imagen.comercial@hotmail.com
+    host tree.mfilter.dimenoc.com [72.29.89.3]
+    SMTP error from remote mail server after end of data:
+    554 5.7.0 Reject, id=18967-16 hVqXB6Fv5gb1:40 - SPAM. See http://tree.mfilter.dimenoc.com/block
+
+--1727704838-eximdsn-65638842
+Content-type: message/delivery-status
+
+Reporting-MTA: dns; rmx12.dizinc.com
+
+Action: failed
+Final-Recipient: rfc822;imagen.comercial@hotmail.com
+Status: 5.0.0
+Remote-MTA: dns; tree.mfilter.dimenoc.com
+Diagnostic-Code: smtp; 554 5.7.0 Reject, id=18967-16 hVqXB6Fv5gb1:40 - SPAM. See http://tree.mfilter.dimenoc.com/block
+
+--1727704838-eximdsn-65638842
+Content-type: message/rfc822
+
+Return-path: <parrilla111@rmx12.dizinc.com>
+Received: from parrilla111 by rmx12.dizinc.com with local (Exim 4.97.1)
+	(envelope-from <parrilla111@rmx12.dizinc.com>)
+	id 1svGx3-00000007gzj-0LJ1
+	for imagen.comercial@hotmail.com;
+	Mon, 30 Sep 2024 08:00:37 -0600
+To: imagen.comercial@hotmail.com
+Subject: =?us-ascii?Q?Tu_resumen_semanal_de_WPForms_para_parrilla111.?=  =?us-ascii?Q?com?=
+X-PHP-Script: parrilla111.com/wp-cron.php for 107.161.179.87
+X-PHP-Originating-Script: 2203:PHPMailer.php
+Date: Mon, 30 Sep 2024 14:00:37 +0000
+From: imagen.comercial@hotmail.com
+Reply-To: imagen.comercial@hotmail.com
+Message-ID: <lobt9exhW4lDpRZ59QUFnpY0XXAsYF3qlSNM9HvEIk@parrilla111.com>
+X-Mailer: PHPMailer 6.9.1 (https://github.com/PHPMailer/PHPMailer)
+MIME-Version: 1.0
+Content-Type: text/html; charset=utf-8
+Content-Transfer-Encoding: quoted-printable
+
+<!doctype html>=0A<html lang=3D"es">=0A<head>=0A=09<meta http-equiv=3D"Cont=
+ent-Type" content=3D"text/html; charset=3DUTF-8">=0A=09<meta content=3D"wid=
+th=3Ddevice-width, initial-scale=3D1.0" name=3D"viewport">=0A=09<meta http-=
+equiv=3D"X-UA-Compatible" content=3D"IE=3Dedge">=0A=09<meta name=3D"color-s=
+cheme" content=3D"light dark">=0A=09<title>WPForms</title>=0A<style type=3D=
+"text/css">@media only screen and (max-width: 700px) {=0A  .header .header-=
+image {=0A    max-width: 221px;=0A  }=0A  .body-inner {=0A    padding-botto=
+m: 0 !important;=0A  }=0A  .summary-content {=0A    border-radius: 0 !impor=
+tant;=0A    padding: 30px !important;=0A  }=0A  .summary-header,=0A  .email=
+-summaries-overview-wrapper {=0A    margin-bottom: 30px !important;=0A    M=
+argin-bottom: 30px !important;=0A  }=0A  .email-summaries-overview h5 {=0A =
+   font-size: 18px !important;=0A    line-height: 26px !important;=0A  }=0A=
+  .email-summaries-overview p {=0A    font-size: 14px !important;=0A    lin=
+e-height: 20px !important;=0A  }=0A  .email-summaries .entry-count,=0A  .em=
+ail-summaries .form-name {=0A    font-size: 14px !important;=0A  }=0A  .sum=
+mary-notice h4 {=0A    font-size: 20px !important;=0A    line-height: 30px =
+!important;=0A  }=0A  .summary-notification-block,=0A  .summary-info-block =
+{=0A    border-radius: 0 !important;=0A    padding: 30px 30px 6px 30px !imp=
+ortant;=0A  }=0A}=0A=0A@media only screen and (max-width: 320px) {=0A  .ema=
+il-summaries th {=0A    padding: 15px !important;=0A  }=0A  .email-summarie=
+s .form-name,=0A  .email-summaries .entry-count,=0A  .email-summaries .summ=
+ary-trend {=0A    padding: 12px !important;=0A  }=0A}=0A=0A@media (prefers-=
+color-scheme: light) {=0A  tr.dark-mode {=0A    display: none !important;=
+=0A  }=0A}=0A=0A@media (prefers-color-scheme: dark) {=0A  tr.dark-mode {=0A=
+    display: table-row !important;=0A  }=0A  tr.light-mode {=0A    display:=
+ none !important;=0A  }=0A  body,=0A  table.body,=0A  .email-summaries th {=
+=0A    background-color: #2d2f31 !important;=0A  }=0A  .email-summaries td,=
+=0A  .summary-header,=0A  .summary-content {=0A    background-color: #1f1f1=
+f !important;=0A  }=0A  body, table.body, h4, h6, p, td, th {=0A    color: =
+#dddddd !important;=0A  }=0A  .email-summaries th, .email-summaries td {=0A=
+    border: 1px solid #424446 !important;=0A  }=0A  .email-summaries-overvi=
+ew {=0A    border: 1px solid #424446 !important;=0A    background: #2d2f31 =
+!important;=0A  }=0A  .email-summaries-overview h5 {=0A    color: #dddddd !=
+important;=0A  }=0A  .email-summaries-overview p {=0A    color: #999999 !im=
+portant;=0A  }=0A  .footer,=0A  .entry-count {=0A    color: #999999 !import=
+ant;=0A  }=0A  .footer a,=0A  .entry-count a {=0A    color: #999999 !import=
+ant;=0A  }=0A  .footer a:hover,=0A  .entry-count a:hover {=0A    color: #99=
+9999 !important;=0A  }=0A  .summary-notice {=0A    color: #ffffff !importan=
+t;=0A  }=0A  .summary-notice h4, .summary-notice p {=0A    color: #ffffff !=
+important;=0A  }=0A  .summary-info-block {=0A    background-color: #383230 =
+!important;=0A  }=0A  .summary-notification-block {=0A    background-color:=
+ #2e353b !important;=0A  }=0A  .summary-notification-block .summary-notice-=
+content a {=0A    color: #3389bd !important;=0A  }=0A  .button-blue a,=0A  =
+.button-orange a {=0A    color: #ffffff !important;=0A  }=0A  .button-blue-=
+outline {=0A    border: 1px solid #3389bd !important;=0A  }=0A  .button-blu=
+e-outline a {=0A    color: #3389bd !important;=0A  }=0A}=0A=0A[data-ogsc] t=
+r.dark-mode {=0A  display: table-row !important;=0A}=0A=0A[data-ogsc] tr.li=
+ght-mode {=0A  display: none !important;=0A}=0A=0A[data-ogsc] body,=0A[data=
+-ogsc] table.body,=0A[data-ogsc] .email-summaries th {=0A  background-color=
+: #2d2f31 !important;=0A}=0A=0A[data-ogsc] .email-summaries td,=0A[data-ogs=
+c] .summary-header,=0A[data-ogsc] .summary-content {=0A  background-color: =
+#1f1f1f !important;=0A}=0A=0A[data-ogsc] body, [data-ogsc] table.body, [dat=
+a-ogsc] h4, [data-ogsc] h6, [data-ogsc] p, [data-ogsc] td, [data-ogsc] th {=
+=0A  color: #dddddd !important;=0A}=0A=0A[data-ogsc] .email-summaries th, [=
+data-ogsc] .email-summaries td {=0A  border: 1px solid #424446 !important;=
+=0A}=0A=0A[data-ogsc] .email-summaries-overview {=0A  border: 1px solid #42=
+4446 !important;=0A  background: #2d2f31 !important;=0A}=0A=0A[data-ogsc] .=
+email-summaries-overview h5 {=0A  color: #dddddd !important;=0A}=0A=0A[data=
+-ogsc] .email-summaries-overview p {=0A  color: #999999 !important;=0A}=0A=
+=0A[data-ogsc] .footer,=0A[data-ogsc] .entry-count {=0A  color: #999999 !im=
+portant;=0A}=0A=0A[data-ogsc] .footer a,=0A[data-ogsc] .entry-count a {=0A =
+ color: #999999 !important;=0A}=0A=0A[data-ogsc] .footer a:hover,=0A[data-o=
+gsc] .entry-count a:hover {=0A  color: #999999 !important;=0A}=0A=0A[data-o=
+gsc] .summary-notice {=0A  color: #ffffff !important;=0A}=0A=0A[data-ogsc] =
+.summary-notice h4, [data-ogsc] .summary-notice p {=0A  color: #ffffff !imp=
+ortant;=0A}=0A=0A[data-ogsc] .summary-info-block {=0A  background-color: #3=
+83230 !important;=0A}=0A=0A[data-ogsc] .summary-notification-block {=0A  ba=
+ckground-color: #2e353b !important;=0A}=0A=0A[data-ogsc] .summary-notificat=
+ion-block .summary-notice-content a {=0A  color: #3389bd !important;=0A}=0A=
+=0A[data-ogsc] .button-blue a,=0A[data-ogsc] .button-orange a {=0A  color: =
+#ffffff !important;=0A}=0A=0A[data-ogsc] .button-blue-outline {=0A  border:=
+ 1px solid #3389bd !important;=0A}=0A=0A[data-ogsc] .button-blue-outline a =
+{=0A  color: #3389bd !important;=0A}=0A=0A/*# sourceMappingURL=3Ddata:appli=
+cation/json;charset=3Dutf8;base64,eyJ2ZXJzaW9uIjozLCJmaWxlIjoiYXNzZXRzL2Nzc=
+y9lbWFpbHMvcGFydGlhbHMvc3VtbWFyeV9tZWRpYV9xdWVyaWVzLmNzcyIsInNvdXJjZXMiOlsi=
+YXNzZXRzL3Njc3MvZW1haWxzL3BhcnRpYWxzL3N1bW1hcnlfbWVkaWFfcXVlcmllcy5zY3NzIl0=
+sInNvdXJjZXNDb250ZW50IjpbIiRkYXJrcHJpbWFyeTogI2ZmZmZmZjtcbiRkYXJrU2Vjb25kYX=
+J5OiAjOTk5OTk5O1xuJGRhcmtCbHVlOiAjMzM4OWJkO1xuJGRhcmtGb250Q29sb3I6ICNkZGRkZ=
+GQ7XG4kZGFya1RhYmxlQm9yZGVyOiAjNDI0NDQ2O1xuJGRhcmtPcmFuZ2VCYWNrZ3JvdW5kOiAj=
+MzgzMjMwO1xuJGRhcmtCYWNrZ3JvdW5kQ29sb3I6ICMyZDJmMzE7XG4kZGFya0JsdWVCYWNrZ3J=
+vdW5kOiAjMmUzNTNiO1xuXG5AbWVkaWEgb25seSBzY3JlZW4gYW5kIChtYXgtd2lkdGg6IDcwMH=
+B4KSB7XG5cdC5oZWFkZXIge1xuXHRcdC5oZWFkZXItaW1hZ2Uge1xuXHRcdFx0bWF4LXdpZHRoO=
+iAyMjFweDtcblx0XHR9XG5cdH1cblxuXHQuYm9keS1pbm5lciB7XG5cdFx0cGFkZGluZy1ib3R0=
+b206IDAgIWltcG9ydGFudDtcblx0fVxuXG5cdC5zdW1tYXJ5LWNvbnRlbnQge1xuXHRcdGJvcmR=
+lci1yYWRpdXM6IDAgIWltcG9ydGFudDtcblx0XHRwYWRkaW5nOiAzMHB4ICFpbXBvcnRhbnQ7XG=
+5cdH1cblxuXHQuc3VtbWFyeS1oZWFkZXIsXG5cdC5lbWFpbC1zdW1tYXJpZXMtb3ZlcnZpZXctd=
+3JhcHBlciB7XG5cdFx0bWFyZ2luLWJvdHRvbTogMzBweCAhaW1wb3J0YW50O1xuXHRcdE1hcmdp=
+bi1ib3R0b206IDMwcHggIWltcG9ydGFudDtcblx0fVxuXG5cdC5lbWFpbC1zdW1tYXJpZXMtb3Z=
+lcnZpZXcge1xuXHRcdGg1IHtcblx0XHRcdGZvbnQtc2l6ZTogMThweCAhaW1wb3J0YW50O1xuXH=
+RcdFx0bGluZS1oZWlnaHQ6IDI2cHggIWltcG9ydGFudDtcblx0XHR9XG5cblx0XHRwIHtcblx0X=
+HRcdGZvbnQtc2l6ZTogMTRweCAhaW1wb3J0YW50O1xuXHRcdFx0bGluZS1oZWlnaHQ6IDIwcHgg=
+IWltcG9ydGFudDtcblx0XHR9XG5cdH1cblxuXHQuZW1haWwtc3VtbWFyaWVzIHtcblx0XHQuZW5=
+0cnktY291bnQsXG5cdFx0LmZvcm0tbmFtZSB7XG5cdFx0XHRmb250LXNpemU6IDE0cHggIWltcG=
+9ydGFudDtcblx0XHR9XG5cdH1cblxuXHQuc3VtbWFyeS1ub3RpY2Uge1xuXHRcdGg0IHtcblx0X=
+HRcdGZvbnQtc2l6ZTogMjBweCAhaW1wb3J0YW50O1xuXHRcdFx0bGluZS1oZWlnaHQ6IDMwcHgg=
+IWltcG9ydGFudDtcblx0XHR9XG5cdH1cblxuXHQuc3VtbWFyeS1ub3RpZmljYXRpb24tYmxvY2s=
+sXG5cdC5zdW1tYXJ5LWluZm8tYmxvY2sge1xuXHRcdGJvcmRlci1yYWRpdXM6IDAgIWltcG9ydG=
+FudDtcblx0XHRwYWRkaW5nOiAzMHB4IDMwcHggNnB4IDMwcHggIWltcG9ydGFudDtcblx0fVxuf=
+VxuXG5AbWVkaWEgb25seSBzY3JlZW4gYW5kIChtYXgtd2lkdGg6IDMyMHB4KSB7XG5cdC5lbWFp=
+bC1zdW1tYXJpZXMge1xuXHRcdHRoIHtcblx0XHRcdHBhZGRpbmc6IDE1cHggIWltcG9ydGFudDt=
+cblx0XHR9XG5cblx0XHQuZm9ybS1uYW1lLFxuXHRcdC5lbnRyeS1jb3VudCxcblx0XHQuc3VtbW=
+FyeS10cmVuZCB7XG5cdFx0XHRwYWRkaW5nOiAxMnB4ICFpbXBvcnRhbnQ7XG5cdFx0fVxuXHR9X=
+G59XG5cbi8vIExpZ2h0IG1vZGUuXG5AbWVkaWEgKHByZWZlcnMtY29sb3Itc2NoZW1lOiBsaWdo=
+dCkge1xuXHR0ci5kYXJrLW1vZGUge1xuXHRcdGRpc3BsYXk6IG5vbmUgIWltcG9ydGFudDtcblx=
+0fVxufVxuXG4vLyBEYXJrIG1vZGUuXG5AbWl4aW4gZGFya01vZGVTdHlsZXMoKSB7XG5cdHRyLm=
+RhcmstbW9kZSB7XG5cdFx0ZGlzcGxheTogdGFibGUtcm93ICFpbXBvcnRhbnQ7XG5cdH1cblxuX=
+HR0ci5saWdodC1tb2RlIHtcblx0XHRkaXNwbGF5OiBub25lICFpbXBvcnRhbnQ7XG5cdH1cblxu=
+XHRib2R5LFxuXHR0YWJsZS5ib2R5LFxuXHQuZW1haWwtc3VtbWFyaWVzIHRoIHtcblx0XHRiYWN=
+rZ3JvdW5kLWNvbG9yOiAkZGFya0JhY2tncm91bmRDb2xvciAhaW1wb3J0YW50O1xuXHR9XG5cbl=
+x0LmVtYWlsLXN1bW1hcmllcyB0ZCxcblx0LnN1bW1hcnktaGVhZGVyLFxuXHQuc3VtbWFyeS1jb=
+250ZW50IHtcblx0XHRiYWNrZ3JvdW5kLWNvbG9yOiAjMWYxZjFmICFpbXBvcnRhbnQ7XG5cdH1c=
+blxuXHRib2R5LCB0YWJsZS5ib2R5LCBoNCwgaDYsIHAsIHRkLCB0aCB7XG5cdFx0Y29sb3I6ICR=
+kYXJrRm9udENvbG9yICFpbXBvcnRhbnQ7XG5cdH1cblxuXHQuZW1haWwtc3VtbWFyaWVzIHtcbl=
+xuXHRcdHRoLCB0ZCB7XG5cdFx0XHRib3JkZXI6IDFweCBzb2xpZCAkZGFya1RhYmxlQm9yZGVyI=
+CFpbXBvcnRhbnQ7XG5cdFx0fVxuXHR9XG5cblx0LmVtYWlsLXN1bW1hcmllcy1vdmVydmlldyB7=
+XG5cdFx0Ym9yZGVyOiAxcHggc29saWQgJGRhcmtUYWJsZUJvcmRlciAhaW1wb3J0YW50O1xuXHR=
+cdGJhY2tncm91bmQ6ICRkYXJrQmFja2dyb3VuZENvbG9yICFpbXBvcnRhbnQ7XG5cblx0XHRoNS=
+B7XG5cdFx0XHRjb2xvcjogJGRhcmtGb250Q29sb3IgIWltcG9ydGFudDtcblx0XHR9XG5cblx0X=
+HRwIHtcblx0XHRcdGNvbG9yOiAkZGFya1NlY29uZGFyeSAhaW1wb3J0YW50O1xuXHRcdH1cblx0=
+fVxuXG5cdC5mb290ZXIsXG5cdC5lbnRyeS1jb3VudCB7XG5cdFx0Y29sb3I6ICRkYXJrU2Vjb25=
+kYXJ5ICFpbXBvcnRhbnQ7XG5cblx0XHRhIHtcblx0XHRcdGNvbG9yOiAkZGFya1NlY29uZGFyeS=
+AhaW1wb3J0YW50O1xuXG5cdFx0XHQmOmhvdmVyIHtcblx0XHRcdFx0Y29sb3I6ICRkYXJrU2Vjb=
+25kYXJ5ICFpbXBvcnRhbnQ7XG5cdFx0XHR9XG5cdFx0fVxuXHR9XG5cblx0LnN1bW1hcnktbm90=
+aWNlIHtcblx0XHRjb2xvcjogJGRhcmtwcmltYXJ5ICFpbXBvcnRhbnQ7XG5cblx0XHRoNCwgcCB=
+7XG5cdFx0XHRjb2xvcjogJGRhcmtwcmltYXJ5ICFpbXBvcnRhbnQ7XG5cdFx0fVxuXHR9XG5cbl=
+x0LnN1bW1hcnktaW5mby1ibG9jayB7XG5cdFx0YmFja2dyb3VuZC1jb2xvcjogJGRhcmtPcmFuZ=
+2VCYWNrZ3JvdW5kICFpbXBvcnRhbnQ7XG5cdH1cblxuXHQuc3VtbWFyeS1ub3RpZmljYXRpb24t=
+YmxvY2sge1xuXHRcdGJhY2tncm91bmQtY29sb3I6ICRkYXJrQmx1ZUJhY2tncm91bmQgIWltcG9=
+ydGFudDtcblxuXHRcdC5zdW1tYXJ5LW5vdGljZS1jb250ZW50IGEge1xuXHRcdFx0Y29sb3I6IC=
+RkYXJrQmx1ZSAhaW1wb3J0YW50O1xuXHRcdH1cblx0fVxuXG5cdC5idXR0b24tYmx1ZSxcblx0L=
+mJ1dHRvbi1vcmFuZ2Uge1xuXHRcdGEge1xuXHRcdFx0Y29sb3I6ICRkYXJrcHJpbWFyeSAhaW1w=
+b3J0YW50O1xuXHRcdH1cblx0fVxuXG5cdC5idXR0b24tYmx1ZS1vdXRsaW5lIHtcblx0XHRib3J=
+kZXI6IDFweCBzb2xpZCAkZGFya0JsdWUgIWltcG9ydGFudDtcblxuXHRcdGEge1xuXHRcdFx0Y2=
+9sb3I6ICRkYXJrQmx1ZSAhaW1wb3J0YW50O1xuXHRcdH1cblx0fVxufVxuXG4vLyBBZGQgc3Vwc=
+G9ydCBmb3IgZGFyayBtb2RlLlxuQG1lZGlhIChwcmVmZXJzLWNvbG9yLXNjaGVtZTogZGFyaykg=
+e1xuXHRAaW5jbHVkZSBkYXJrTW9kZVN0eWxlcygpO1xufVxuXG4vLyBBZGQgc3VwcG9ydCBmb3I=
+gbGVnYWN5IE91dGxvb2sgZGFyayBtb2RlLlxuW2RhdGEtb2dzY10ge1xuXHQgQGluY2x1ZGUgZG=
+Fya01vZGVTdHlsZXMoKTtcbiB9XG4iXSwibmFtZXMiOltdLCJtYXBwaW5ncyI6IkFBU0EsTUFBT=
+SxNQUFNLE1BQU0sTUFBTSxTQUFTLEVBQUUsS0FBSztFQUN2QyxBQUNDLE9BRE0sQ0FDTixhQUFh=
+LENBQUM7SUFDYixTQUFTLEVBQUUsS0FBSztHQUNoQjtFQUdGLEFBQUEsV0FBVyxDQUFDO0lBQ1g=
+sY0FBYyxFQUFFLFlBQVk7R0FDNUI7RUFFRCxBQUFBLGdCQUFnQixDQUFDO0lBQ2hCLGFBQWEsRU=
+FBRSxZQUFZO0lBQzNCLE9BQU8sRUFBRSxlQUFlO0dBQ3hCO0VBRUQsQUFBQSxlQUFlO0VBQ2Ysa=
+UNBQWlDLENBQUM7SUFDakMsYUFBYSxFQUFFLGVBQWU7SUFDOUIsYUFBYSxFQUFFLGVBQWU7R0FD=
+OUI7RUFFRCxBQUNDLHlCQUR3QixDQUN4QixFQUFFLENBQUM7SUFDRixTQUFTLEVBQUUsZUFBZTt=
+JQUMxQixXQUFXLEVBQUUsZUFBZTtHQUM1QjtFQUpGLEFBTUMseUJBTndCLENBTXhCLENBQUMsQ0=
+FBQztJQUNELFNBQVMsRUFBRSxlQUFlO0lBQzFCLFdBQVcsRUFBRSxlQUFlO0dBQzVCO0VBR0YsQ=
+UFDQyxnQkFEZSxDQUNmLFlBQVk7RUFEYixnQkFBZ0IsQ0FFZixVQUFVLENBQUM7SUFDVixTQUFT=
+LEVBQUUsZUFBZTtHQUMxQjtFQUdGLEFBQ0MsZUFEYyxDQUNkLEVBQUUsQ0FBQztJQUNGLFNBQVM=
+sRUFBRSxlQUFlO0lBQzFCLFdBQVcsRUFBRSxlQUFlO0dBQzVCO0VBR0YsQUFBQSwyQkFBMkI7RU=
+FDM0IsbUJBQW1CLENBQUM7SUFDbkIsYUFBYSxFQUFFLFlBQVk7SUFDM0IsT0FBTyxFQUFFLDZCQ=
+UE2QjtHQUN0Qzs7O0FBR0YsTUFBTSxNQUFNLE1BQU0sTUFBTSxTQUFTLEVBQUUsS0FBSztFQUN2=
+QyxBQUNDLGdCQURlLENBQ2YsRUFBRSxDQUFDO0lBQ0YsT0FBTyxFQUFFLGVBQWU7R0FDeEI7RUF=
+IRixBQUtDLGdCQUxlLENBS2YsVUFBVTtFQUxYLGdCQUFnQixDQU1mLFlBQVk7RUFOYixnQkFBZ0=
+IsQ0FPZixjQUFjLENBQUM7SUFDZCxPQUFPLEVBQUUsZUFBZTtHQUN4Qjs7O0FBS0gsTUFBTSxFQ=
+UFFLG9CQUFvQixFQUFFLEtBQUs7RUFDbEMsQUFBQSxFQUFFLEFBQUEsVUFBVSxDQUFDO0lBQ1os=
+T0FBTyxFQUFFLGVBQWU7R0FDeEI7OztBQW1HRixNQUFNLEVBQUUsb0JBQW9CLEVBQUUsSUFBSTt=
+FQTlGakMsQUFBQSxFQUFFLEFBQUEsVUFBVSxDQUFDO0lBQ1osT0FBTyxFQUFFLG9CQUFvQjtHQU=
+M3QjtFQUVELEFBQUEsRUFBRSxBQUFBLFdBQVcsQ0FBQztJQUNiLE9BQU8sRUFBRSxlQUFlO0dBQ=
+3hCO0VBRUQsQUFBQSxJQUFJO0VBQ0osS0FBSyxBQUFBLEtBQUs7RUFDVixnQkFBZ0IsQ0FBQyxF=
+QUFFLENBQUM7SUFDbkIsZ0JBQWdCLEVBNUZJLE9BQU8sQ0E0RlksVUFBVTtHQUNqRDtFQUVELEF=
+BQUEsZ0JBQWdCLENBQUMsRUFBRTtFQUNuQixlQUFlO0VBQ2YsZ0JBQWdCLENBQUM7SUFDaEIsZ0=
+JBQWdCLEVBQUUsa0JBQWtCO0dBQ3BDO0VBRUQsQUFBQSxJQUFJLEVBQUUsS0FBSyxBQUFBLEtBQ=
+UssRUFBRSxFQUFFLEVBQUUsRUFBRSxFQUFFLENBQUMsRUFBRSxFQUFFLEVBQUUsRUFBRSxDQUFD=
+O0lBQ25DLEtBQUssRUF6R1MsT0FBTyxDQXlHQyxVQUFVO0dBQ2hDO0VBRUQsQUFFQyxnQkFGZSx=
+DQUVmLEVBQUUsRUFGSCxnQkFBZ0IsQ0FFWCxFQUFFLENBQUM7SUFDTixNQUFNLEVBQUUsR0FBRy=
+xDQUFDLEtBQUssQ0E5R0YsT0FBTyxDQThHYSxVQUFVO0dBQzdDO0VBR0YsQUFBQSx5QkFBeUIsQ=
+0FBQztJQUN6QixNQUFNLEVBQUUsR0FBRyxDQUFDLEtBQUssQ0FuSEQsT0FBTyxDQW1IWSxVQUFV=
+O0lBQzdDLFVBQVUsRUFsSFUsT0FBTyxDQWtITSxVQUFVO0dBUzNDO0VBWEQsQUFJQyx5QkFKd0I=
+sQ0FJeEIsRUFBRSxDQUFDO0lBQ0YsS0FBSyxFQXhIUSxPQUFPLENBd0hFLFVBQVU7R0FDaEM7RU=
+FORixBQVFDLHlCQVJ3QixDQVF4QixDQUFDLENBQUM7SUFDRCxLQUFLLEVBOUhRLE9BQU8sQ0E4S=
+EUsVUFBVTtHQUNoQztFQUdGLEFBQUEsT0FBTztFQUNQLFlBQVksQ0FBQztJQUNaLEtBQUssRUFw=
+SVMsT0FBTyxDQW9JQyxVQUFVO0dBU2hDO0VBWEQsQUFJQyxPQUpNLENBSU4sQ0FBQztFQUhGLFl=
+BQVksQ0FHWCxDQUFDLENBQUM7SUFDRCxLQUFLLEVBdklRLE9BQU8sQ0F1SUUsVUFBVTtHQUtoQz=
+tFQVZGLEFBT0UsT0FQSyxDQUlOLENBQUMsQUFHQyxNQUFNO0VBTlQsWUFBWSxDQUdYLENBQUMsQ=
+UFHQyxNQUFNLENBQUM7SUFDUCxLQUFLLEVBMUlPLE9BQU8sQ0EwSUcsVUFBVTtHQUNoQztFQUlI=
+LEFBQUEsZUFBZSxDQUFDO0lBQ2YsS0FBSyxFQWpKTyxPQUFPLENBaUpDLFVBQVU7R0FLOUI7RUF=
+ORCxBQUdDLGVBSGMsQ0FHZCxFQUFFLEVBSEgsZUFBZSxDQUdWLENBQUMsQ0FBQztJQUNMLEtBQU=
+ssRUFwSk0sT0FBTyxDQW9KRSxVQUFVO0dBQzlCO0VBR0YsQUFBQSxtQkFBbUIsQ0FBQztJQUNuQ=
+ixnQkFBZ0IsRUFwSkssT0FBTyxDQW9KWSxVQUFVO0dBQ2xEO0VBRUQsQUFBQSwyQkFBMkIsQ0FB=
+QztJQUMzQixnQkFBZ0IsRUF0SkcsT0FBTyxDQXNKWSxVQUFVO0dBS2hEO0VBTkQsQUFHQywyQkF=
+IMEIsQ0FHMUIsdUJBQXVCLENBQUMsQ0FBQyxDQUFDO0lBQ3pCLEtBQUssRUE5SkcsT0FBTyxDQT=
+hKRSxVQUFVO0dBQzNCO0VBR0YsQUFFQyxZQUZXLENBRVgsQ0FBQztFQURGLGNBQWMsQ0FDYixDQ=
+UFDLENBQUM7SUFDRCxLQUFLLEVBdktNLE9BQU8sQ0F1S0UsVUFBVTtHQUM5QjtFQUdGLEFBQUEs=
+b0JBQW9CLENBQUM7SUFDcEIsTUFBTSxFQUFFLEdBQUcsQ0FBQyxLQUFLLENBMUtSLE9BQU8sQ0E=
+wS1ksVUFBVTtHQUt0QztFQU5ELEFBR0Msb0JBSG1CLENBR25CLENBQUMsQ0FBQztJQUNELEtBQU=
+ssRUE3S0csT0FBTyxDQTZLRSxVQUFVO0dBQzNCOzs7Q0FVSCxBQUFBLEFBbkdDLFNBbUdBLEFBQ=
+UEsRUFuR0EsRUFBRSxBQUFBLFVBQVUsQ0FBQztFQUNaLE9BQU8sRUFBRSxvQkFBb0I7Q0FDN0I7=
+O0NBaUdGLEFBQUEsQUEvRkMsU0ErRkEsQUFBQSxFQS9GQSxFQUFFLEFBQUEsV0FBVyxDQUFDO0V=
+BQ2IsT0FBTyxFQUFFLGVBQWU7Q0FDeEI7O0NBNkZGLEFBQUEsQUEzRkMsU0EyRkEsQUFBQSxFQT=
+NGQSxJQUFJO0NBMkZMLEFBQUEsU0FBQyxBQUFBLEVBMUZBLEtBQUssQUFBQSxLQUFLO0NBMEZYL=
+EFBQUEsU0FBQyxBQUFBLEVBekZBLGdCQUFnQixDQUFDLEVBQUUsQ0FBQztFQUNuQixnQkFBZ0Is=
+RUE1RkksT0FBTyxDQTRGWSxVQUFVO0NBQ2pEOztDQXVGRixBQUFBLEFBckZDLFNBcUZBLEFBQUE=
+sRUFyRkEsZ0JBQWdCLENBQUMsRUFBRTtDQXFGcEIsQUFBQSxTQUFDLEFBQUEsRUFwRkEsZUFBZT=
+tDQW9GaEIsQUFBQSxTQUFDLEFBQUEsRUFuRkEsZ0JBQWdCLENBQUM7RUFDaEIsZ0JBQWdCLEVBQ=
+UUsa0JBQWtCO0NBQ3BDOztDQWlGRixBQUFBLEFBL0VDLFNBK0VBLEFBQUEsRUEvRUEsSUFBSSxH=
+QStFTCxBQUFBLFNBQUMsQUFBQSxFQS9FTSxLQUFLLEFBQUEsS0FBSyxHQStFakIsQUFBQSxTQUF=
+DLEFBQUEsRUEvRWtCLEVBQUUsR0ErRXJCLEFBQUEsU0FBQyxBQUFBLEVBL0VzQixFQUFFLEdBK0=
+V6QixBQUFBLFNBQUMsQUFBQSxFQS9FMEIsQ0FBQyxHQStFNUIsQUFBQSxTQUFDLEFBQUEsRUEvR=
+TZCLEVBQUUsR0ErRWhDLEFBQUEsU0FBQyxBQUFBLEVBL0VpQyxFQUFFLENBQUM7RUFDbkMsS0FB=
+SyxFQXpHUyxPQUFPLENBeUdDLFVBQVU7Q0FDaEM7O0NBNkVGLEFBQUEsQUF6RUUsU0F5RUQsQUF=
+BQSxFQTNFQSxnQkFBZ0IsQ0FFZixFQUFFLEdBeUVKLEFBQUEsU0FBQyxBQUFBLEVBM0VBLGdCQU=
+FnQixDQUVYLEVBQUUsQ0FBQztFQUNOLE1BQU0sRUFBRSxHQUFHLENBQUMsS0FBSyxDQTlHRixPQ=
+UFPLENBOEdhLFVBQVU7Q0FDN0M7O0NBdUVILEFBQUEsQUFwRUMsU0FvRUEsQUFBQSxFQXBFQSx5=
+QkFBeUIsQ0FBQztFQUN6QixNQUFNLEVBQUUsR0FBRyxDQUFDLEtBQUssQ0FuSEQsT0FBTyxDQW1=
+IWSxVQUFVO0VBQzdDLFVBQVUsRUFsSFUsT0FBTyxDQWtITSxVQUFVO0NBUzNDOztDQXlERixBQU=
+FBLEFBaEVFLFNBZ0VELEFBQUEsRUFwRUEseUJBQXlCLENBSXhCLEVBQUUsQ0FBQztFQUNGLEtBQ=
+UssRUF4SFEsT0FBTyxDQXdIRSxVQUFVO0NBQ2hDOztDQThESCxBQUFBLEFBNURFLFNBNERELEFB=
+QUEsRUFwRUEseUJBQXlCLENBUXhCLENBQUMsQ0FBQztFQUNELEtBQUssRUE5SFEsT0FBTyxDQTh=
+IRSxVQUFVO0NBQ2hDOztDQTBESCxBQUFBLEFBdkRDLFNBdURBLEFBQUEsRUF2REEsT0FBTztDQX=
+VEUixBQUFBLFNBQUMsQUFBQSxFQXREQSxZQUFZLENBQUM7RUFDWixLQUFLLEVBcElTLE9BQU8sQ=
+0FvSUMsVUFBVTtDQVNoQzs7Q0E0Q0YsQUFBQSxBQW5ERSxTQW1ERCxBQUFBLEVBdkRBLE9BQU8s=
+Q0FJTixDQUFDO0NBbURILEFBQUEsU0FBQyxBQUFBLEVBdERBLFlBQVksQ0FHWCxDQUFDLENBQUM=
+7RUFDRCxLQUFLLEVBdklRLE9BQU8sQ0F1SUUsVUFBVTtDQUtoQzs7Q0E2Q0gsQUFBQSxBQWhERy=
+xTQWdERixBQUFBLEVBdkRBLE9BQU8sQ0FJTixDQUFDLEFBR0MsTUFBTTtDQWdEVixBQUFBLFNBQ=
+UMsQUFBQSxFQXREQSxZQUFZLENBR1gsQ0FBQyxBQUdDLE1BQU0sQ0FBQztFQUNQLEtBQUssRUEx=
+SU8sT0FBTyxDQTBJRyxVQUFVO0NBQ2hDOztDQThDSixBQUFBLEFBMUNDLFNBMENBLEFBQUEsRUE=
+xQ0EsZUFBZSxDQUFDO0VBQ2YsS0FBSyxFQWpKTyxPQUFPLENBaUpDLFVBQVU7Q0FLOUI7O0NBb0=
+NGLEFBQUEsQUF2Q0UsU0F1Q0QsQUFBQSxFQTFDQSxlQUFlLENBR2QsRUFBRSxHQXVDSixBQUFBL=
+FNBQUMsQUFBQSxFQTFDQSxlQUFlLENBR1YsQ0FBQyxDQUFDO0VBQ0wsS0FBSyxFQXBKTSxPQUFP=
+LENBb0pFLFVBQVU7Q0FDOUI7O0NBcUNILEFBQUEsQUFsQ0MsU0FrQ0EsQUFBQSxFQWxDQSxtQkF=
+BbUIsQ0FBQztFQUNuQixnQkFBZ0IsRUFwSkssT0FBTyxDQW9KWSxVQUFVO0NBQ2xEOztDQWdDRi=
+xBQUFBLEFBOUJDLFNBOEJBLEFBQUEsRUE5QkEsMkJBQTJCLENBQUM7RUFDM0IsZ0JBQWdCLEVBd=
+EpHLE9BQU8sQ0FzSlksVUFBVTtDQUtoRDs7Q0F3QkYsQUFBQSxBQTNCRSxTQTJCRCxBQUFBLEVB=
+OUJBLDJCQUEyQixDQUcxQix1QkFBdUIsQ0FBQyxDQUFDLENBQUM7RUFDekIsS0FBSyxFQTlKRyx=
+PQUFPLENBOEpFLFVBQVU7Q0FDM0I7O0NBeUJILEFBQUEsQUFwQkUsU0FvQkQsQUFBQSxFQXRCQS=
+xZQUFZLENBRVgsQ0FBQztDQW9CSCxBQUFBLFNBQUMsQUFBQSxFQXJCQSxjQUFjLENBQ2IsQ0FBQ=
+yxDQUFDO0VBQ0QsS0FBSyxFQXZLTSxPQUFPLENBdUtFLFVBQVU7Q0FDOUI7O0NBa0JILEFBQUEs=
+QUFmQyxTQWVBLEFBQUEsRUFmQSxvQkFBb0IsQ0FBQztFQUNwQixNQUFNLEVBQUUsR0FBRyxDQUF=
+DLEtBQUssQ0ExS1IsT0FBTyxDQTBLWSxVQUFVO0NBS3RDOztDQVNGLEFBQUEsQUFaRSxTQVlELE=
+FBQUEsRUFmQSxvQkFBb0IsQ0FHbkIsQ0FBQyxDQUFDO0VBQ0QsS0FBSyxFQTdLRyxPQUFPLENBN=
+ktFLFVBQVU7Q0FDM0IifQ=3D=3D */=0A</style>=0A</head>=0A<body leftmargin=3D"0=
+" marginwidth=3D"0" topmargin=3D"0" marginheight=3D"0" offset=3D"0" bgcolor=
+=3D"#f8f8f8" class=3D"ltr" style=3D"height: 100% !important; width: 100% !i=
+mportant; min-width: 100%; -moz-box-sizing: border-box; -webkit-box-sizing:=
+ border-box; box-sizing: border-box; -webkit-font-smoothing: antialiased !i=
+mportant; -moz-osx-font-smoothing: grayscale !important; -ms-text-size-adju=
+st: 100%; -webkit-text-size-adjust: 100%; color: #444444; font-family: -app=
+le-system, BlinkMacSystemFont, avenir next, avenir, segoe ui, helvetica neu=
+e, helvetica, Cantarell, Ubuntu, roboto, noto, arial, sans-serif; font-weig=
+ht: normal; padding: 0; margin: 0; Margin: 0; font-size: 14px; mso-line-hei=
+ght-rule: exactly; line-height: 140%; background-color: #f8f8f8; text-align=
+: center;">=0A<table border=3D"0" cellpadding=3D"0" cellspacing=3D"0" width=
+=3D"100%" height=3D"100%" class=3D"body" role=3D"presentation" bgcolor=3D"#=
+f8f8f8" style=3D"border-collapse: collapse; border-spacing: 0; vertical-ali=
+gn: top; mso-table-lspace: 0pt; mso-table-rspace: 0pt; -ms-text-size-adjust=
+: 100%; -webkit-text-size-adjust: 100%; height: 100% !important; width: 100=
+% !important; min-width: 100%; -moz-box-sizing: border-box; -webkit-box-siz=
+ing: border-box; box-sizing: border-box; -webkit-font-smoothing: antialiase=
+d !important; -moz-osx-font-smoothing: grayscale !important; color: #444444=
+; font-family: -apple-system, BlinkMacSystemFont, avenir next, avenir, sego=
+e ui, helvetica neue, helvetica, Cantarell, Ubuntu, roboto, noto, arial, sa=
+ns-serif; font-weight: normal; padding: 0; margin: 0; Margin: 0; font-size:=
+ 14px; mso-line-height-rule: exactly; line-height: 140%; background-color: =
+#f8f8f8; text-align: center;">=0A=09<tr style=3D"padding: 0; vertical-align=
+: top;">=0A=09=09<td style=3D"word-wrap: break-word; border-collapse: colla=
+pse !important; vertical-align: top; mso-table-lspace: 0pt; mso-table-rspac=
+e: 0pt; -ms-text-size-adjust: 100%; -webkit-text-size-adjust: 100%; color: =
+#444444; font-family: -apple-system, BlinkMacSystemFont, avenir next, aveni=
+r, segoe ui, helvetica neue, helvetica, Cantarell, Ubuntu, roboto, noto, ar=
+ial, sans-serif; font-weight: normal; padding: 0; margin: 0; Margin: 0; fon=
+t-size: 14px; mso-line-height-rule: exactly; line-height: 140%; -webkit-hyp=
+hens: none; -moz-hyphens: none; hyphens: none;"><!-- Deliberately empty to =
+support consistent sizing and layout across multiple email clients. --></td=
+>=0A=09=09<td align=3D"center" valign=3D"top" class=3D"body-inner" width=3D=
+"700" style=3D"word-wrap: break-word; border-collapse: collapse !important;=
+ vertical-align: top; mso-table-lspace: 0pt; mso-table-rspace: 0pt; -ms-tex=
+t-size-adjust: 100%; -webkit-text-size-adjust: 100%; color: #444444; font-f=
+amily: -apple-system, BlinkMacSystemFont, avenir next, avenir, segoe ui, he=
+lvetica neue, helvetica, Cantarell, Ubuntu, roboto, noto, arial, sans-serif=
+; font-weight: normal; padding: 0; margin: 0; Margin: 0; font-size: 14px; m=
+so-line-height-rule: exactly; line-height: 140%; -webkit-hyphens: none; -mo=
+z-hyphens: none; hyphens: none; box-sizing: border-box; padding-bottom: 40p=
+x;">=0A=09=09=09<div class=3D"wrapper" width=3D"100%" dir=3D"ltr" style=3D"=
+max-width: 700px;">=0A=09=09=09=09<table border=3D"0" cellpadding=3D"0" cel=
+lspacing=3D"0" width=3D"100%" class=3D"container" role=3D"presentation" sty=
+le=3D"border-collapse: collapse; border-spacing: 0; padding: 0; vertical-al=
+ign: top; mso-table-lspace: 0pt; mso-table-rspace: 0pt; -ms-text-size-adjus=
+t: 100%; -webkit-text-size-adjust: 100%; margin: 0 auto 0 auto; Margin: 0 a=
+uto 0 auto;">=0A=09=09=09=09=09=09=09=09=09=09=09<tr class=3D"header-wrappe=
+r dark-mode" style=3D"padding: 0; vertical-align: top; display: none;">=0A=
+=09=09=09=09=09=09=09<td align=3D"center" valign=3D"middle" class=3D"header=
+" style=3D"word-wrap: break-word; border-collapse: collapse !important; ver=
+tical-align: top; mso-table-lspace: 0pt; mso-table-rspace: 0pt; -ms-text-si=
+ze-adjust: 100%; -webkit-text-size-adjust: 100%; color: #444444; font-famil=
+y: -apple-system, BlinkMacSystemFont, avenir next, avenir, segoe ui, helvet=
+ica neue, helvetica, Cantarell, Ubuntu, roboto, noto, arial, sans-serif; fo=
+nt-weight: normal; margin: 0; Margin: 0; font-size: 14px; mso-line-height-r=
+ule: exactly; -webkit-hyphens: none; -moz-hyphens: none; hyphens: none; lin=
+e-height: 1; padding: 30px; text-align: center;">=0A=09=09=09=09=09=09=09=
+=09<div class=3D"header-image" style=3D"display: inline-block; margin: 0 au=
+to 0 auto; Margin: 0 auto 0 auto; max-width: 260px; vertical-align: middle;=
+">=0A=09=09=09=09=09=09=09=09=09<img width=3D"260" src=3D"https://parrilla1=
+11.com/wp-content/plugins/wpforms-lite/assets/images/logo-negative.png" alt=
+=3D"" style=3D"outline: none; text-decoration: none; width: auto; max-width=
+: 100%; clear: both; -ms-interpolation-mode: bicubic; display: inline-block=
+ !important; max-height: 180px; vertical-align: middle;">=0A=09=09=09=09=09=
+=09=09=09</div>=0A=09=09=09=09=09=09=09</td>=0A=09=09=09=09=09=09</tr>=0A=
+=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09<tr class=3D"header-wrapper=
+ light-mode" style=3D"padding: 0; vertical-align: top;">=0A=09=09=09=09=09=
+=09=09<td align=3D"center" valign=3D"middle" class=3D"header" style=3D"word=
+-wrap: break-word; border-collapse: collapse !important; vertical-align: to=
+p; mso-table-lspace: 0pt; mso-table-rspace: 0pt; -ms-text-size-adjust: 100%=
+; -webkit-text-size-adjust: 100%; color: #444444; font-family: -apple-syste=
+m, BlinkMacSystemFont, avenir next, avenir, segoe ui, helvetica neue, helve=
+tica, Cantarell, Ubuntu, roboto, noto, arial, sans-serif; font-weight: norm=
+al; margin: 0; Margin: 0; font-size: 14px; mso-line-height-rule: exactly; -=
+webkit-hyphens: none; -moz-hyphens: none; hyphens: none; line-height: 1; pa=
+dding: 30px; text-align: center;">=0A=09=09=09=09=09=09=09=09<div class=3D"=
+header-image" style=3D"display: inline-block; margin: 0 auto 0 auto; Margin=
+: 0 auto 0 auto; max-width: 260px; vertical-align: middle;">=0A=09=09=09=09=
+=09=09=09=09=09<img width=3D"260" src=3D"https://parrilla111.com/wp-content=
+/plugins/wpforms-lite/assets/images/logo.png" alt=3D"" style=3D"outline: no=
+ne; text-decoration: none; width: auto; max-width: 100%; clear: both; -ms-i=
+nterpolation-mode: bicubic; display: inline-block !important; max-height: 1=
+80px; vertical-align: middle;">=0A=09=09=09=09=09=09=09=09</div>=0A=09=09=
+=09=09=09=09=09</td>=0A=09=09=09=09=09=09</tr>=0A=09=09=09=09=09=09=09=09=
+=09=09<tr style=3D"padding: 0; vertical-align: top;">=0A=09=09=09=09=09=09<=
+td class=3D"wrapper-inner" style=3D"word-wrap: break-word; border-collapse:=
+ collapse !important; vertical-align: top; mso-table-lspace: 0pt; mso-table=
+-rspace: 0pt; -ms-text-size-adjust: 100%; -webkit-text-size-adjust: 100%; c=
+olor: #444444; font-family: -apple-system, BlinkMacSystemFont, avenir next,=
+ avenir, segoe ui, helvetica neue, helvetica, Cantarell, Ubuntu, roboto, no=
+to, arial, sans-serif; font-weight: normal; padding: 0; margin: 0; Margin: =
+0; font-size: 14px; mso-line-height-rule: exactly; line-height: 140%; -webk=
+it-hyphens: none; -moz-hyphens: none; hyphens: none;">=0A=09=09=09=09=09=09=
+=09<table border=3D"0" cellpadding=3D"0" cellspacing=3D"0" width=3D"100%" r=
+ole=3D"presentation" style=3D"border-collapse: collapse; border-spacing: 0;=
+ padding: 0; vertical-align: top; mso-table-lspace: 0pt; mso-table-rspace: =
+0pt; -ms-text-size-adjust: 100%; -webkit-text-size-adjust: 100%;">=0A=09=09=
+=09=09=09=09=09=09<tr style=3D"padding: 0; vertical-align: top;">=0A=09=09=
+=09=09=09=09=09=09=09<td valign=3D"top" class=3D"content" style=3D"word-wra=
+p: break-word; border-collapse: collapse !important; vertical-align: top; m=
+so-table-lspace: 0pt; mso-table-rspace: 0pt; -ms-text-size-adjust: 100%; -w=
+ebkit-text-size-adjust: 100%; color: #444444; font-family: -apple-system, B=
+linkMacSystemFont, avenir next, avenir, segoe ui, helvetica neue, helvetica=
+, Cantarell, Ubuntu, roboto, noto, arial, sans-serif; font-weight: normal; =
+padding: 0; margin: 0; Margin: 0; font-size: 14px; mso-line-height-rule: ex=
+actly; line-height: 140%; -webkit-hyphens: none; -moz-hyphens: none; hyphen=
+s: none;">=0A=0A<table class=3D"summary-container" border=3D"0" cellpadding=
+=3D"0" cellspacing=3D"0" width=3D"100%" role=3D"presentation" style=3D"bord=
+er-collapse: collapse; border-spacing: 0; padding: 0; vertical-align: top; =
+mso-table-lspace: 0pt; mso-table-rspace: 0pt; -ms-text-size-adjust: 100%; -=
+webkit-text-size-adjust: 100%;">=0A=09<tbody>=0A=09=09<tr style=3D"padding:=
+ 0; vertical-align: top;">=0A=09=09=09<td class=3D"summary-content" bgcolor=
+=3D"#ffffff" style=3D"word-wrap: break-word; border-collapse: collapse !imp=
+ortant; vertical-align: top; mso-table-lspace: 0pt; mso-table-rspace: 0pt; =
+-ms-text-size-adjust: 100%; -webkit-text-size-adjust: 100%; color: #444444;=
+ font-family: -apple-system, BlinkMacSystemFont, avenir next, avenir, segoe=
+ ui, helvetica neue, helvetica, Cantarell, Ubuntu, roboto, noto, arial, san=
+s-serif; font-weight: normal; margin: 0; Margin: 0; font-size: 14px; mso-li=
+ne-height-rule: exactly; line-height: 140%; -webkit-hyphens: none; -moz-hyp=
+hens: none; hyphens: none; background-color: #ffffff; border-top-left-radiu=
+s: 6px; border-top-right-radius: 6px; padding: 50px 30px;">=0A=09=09=09=09<=
+table border=3D"0" cellpadding=3D"0" cellspacing=3D"0" width=3D"100%" role=
+=3D"presentation" style=3D"border-collapse: collapse; border-spacing: 0; pa=
+dding: 0; vertical-align: top; mso-table-lspace: 0pt; mso-table-rspace: 0pt=
+; -ms-text-size-adjust: 100%; -webkit-text-size-adjust: 100%;">=0A=09=09=09=
+=09=09<tbody>=0A=09=09=09=09=09=09<tr style=3D"padding: 0; vertical-align: =
+top;">=0A=09=09=09=09=09=09=09<td style=3D"word-wrap: break-word; border-co=
+llapse: collapse !important; vertical-align: top; mso-table-lspace: 0pt; ms=
+o-table-rspace: 0pt; -ms-text-size-adjust: 100%; -webkit-text-size-adjust: =
+100%; color: #444444; font-family: -apple-system, BlinkMacSystemFont, aveni=
+r next, avenir, segoe ui, helvetica neue, helvetica, Cantarell, Ubuntu, rob=
+oto, noto, arial, sans-serif; font-weight: normal; padding: 0; margin: 0; M=
+argin: 0; font-size: 14px; mso-line-height-rule: exactly; line-height: 140%=
+; -webkit-hyphens: none; -moz-hyphens: none; hyphens: none;"><!-- Deliberat=
+ely empty to support consistent sizing and layout across multiple email cli=
+ents. --></td>=0A=09=09=09=09=09=09=09<td class=3D"summary-content-inner" a=
+lign=3D"center" valign=3D"top" width=3D"600" style=3D"word-wrap: break-word=
+; border-collapse: collapse !important; vertical-align: top; mso-table-lspa=
+ce: 0pt; mso-table-rspace: 0pt; -ms-text-size-adjust: 100%; -webkit-text-si=
+ze-adjust: 100%; color: #444444; font-family: -apple-system, BlinkMacSystem=
+Font, avenir next, avenir, segoe ui, helvetica neue, helvetica, Cantarell, =
+Ubuntu, roboto, noto, arial, sans-serif; font-weight: normal; padding: 0; m=
+argin: 0; Margin: 0; font-size: 14px; mso-line-height-rule: exactly; line-h=
+eight: 140%; -webkit-hyphens: none; -moz-hyphens: none; hyphens: none; text=
+-align: left;">=0A=09=09=09=09=09=09=09=09<div class=3D"summary-header" wid=
+th=3D"100%" style=3D"margin-bottom: 50px; Margin-bottom: 50px; max-width: 6=
+00px; margin-left: auto; Margin-left: auto; margin-right: auto; Margin-righ=
+t: auto;">=0A=09=09=09=09=09=09=09=09=09<h6 class=3D"greeting" style=3D"pad=
+ding: 0; word-wrap: normal; font-family: -apple-system, BlinkMacSystemFont,=
+ avenir next, avenir, segoe ui, helvetica neue, helvetica, Cantarell, Ubunt=
+u, roboto, noto, arial, sans-serif; font-weight: bold; margin: 0 0 7px 0; M=
+argin: 0 0 7px 0; mso-line-height-rule: exactly; color: #444444; font-size:=
+ 20px; line-height: 24px; margin-bottom: 24px; Margin-bottom: 24px;">=C2=
+=A1Hola!</h6>=0A=09=09=09=09=09=09=09=09=09<p style=3D"-ms-text-size-adjust=
+: 100%; -webkit-text-size-adjust: 100%; color: #444444; font-family: -apple=
+-system, BlinkMacSystemFont, avenir next, avenir, segoe ui, helvetica neue,=
+ helvetica, Cantarell, Ubuntu, roboto, noto, arial, sans-serif; font-weight=
+: normal; padding: 0; mso-line-height-rule: exactly; margin: 0 0 7px 0; Mar=
+gin: 0 0 7px 0; overflow-wrap: break-word; word-wrap: break-word; -ms-hyphe=
+ns: auto; -webkit-hyphens: none; -moz-hyphens: none; hyphens: none; -ms-wor=
+d-break: break-word; word-break: break-word; font-size: 16px; line-height: =
+24px; margin-bottom: 0; Margin-bottom: 0;">Veamos c=C3=B3mo han funcionado =
+tus formularios la semana pasada.</p>=0A=09=09=09=09=09=09=09=09=09=09=09=
+=09=09=09=09=09=09=09=09<p class=3D"lite-disclaimer" style=3D"-ms-text-size=
+-adjust: 100%; -webkit-text-size-adjust: 100%; color: #444444; font-family:=
+ -apple-system, BlinkMacSystemFont, avenir next, avenir, segoe ui, helvetic=
+a neue, helvetica, Cantarell, Ubuntu, roboto, noto, arial, sans-serif; font=
+-weight: normal; padding: 0; mso-line-height-rule: exactly; margin: 0 0 7px=
+ 0; Margin: 0 0 7px 0; overflow-wrap: break-word; word-wrap: break-word; -m=
+s-hyphens: auto; -webkit-hyphens: none; -moz-hyphens: none; hyphens: none; =
+-ms-word-break: break-word; word-break: break-word; font-size: 16px; line-h=
+eight: 24px; margin-bottom: 0; Margin-bottom: 0; margin-top: 24px; Margin-t=
+op: 24px;">=0A=09=09=09=09=09=09=09=09=09=09=09A continuaci=C3=B3n se muest=
+ra el n=C3=BAmero total de env=C3=ADos de cada formulario. Sin embargo, los=
+ env=C3=ADos de los formularios no son almacenadas por WPForms Lite.=09=09=
+=09=09=09=09=09=09=09=09</p>=0A=0A=09=09=09=09=09=09=09=09=09=09=09=09=09=
+=09=09=09=09=09=09=09=09<p class=3D"lite-disclaimer" style=3D"-ms-text-size=
+-adjust: 100%; -webkit-text-size-adjust: 100%; color: #444444; font-family:=
+ -apple-system, BlinkMacSystemFont, avenir next, avenir, segoe ui, helvetic=
+a neue, helvetica, Cantarell, Ubuntu, roboto, noto, arial, sans-serif; font=
+-weight: normal; padding: 0; mso-line-height-rule: exactly; margin: 0 0 7px=
+ 0; Margin: 0 0 7px 0; overflow-wrap: break-word; word-wrap: break-word; -m=
+s-hyphens: auto; -webkit-hyphens: none; -moz-hyphens: none; hyphens: none; =
+-ms-word-break: break-word; word-break: break-word; font-size: 16px; line-h=
+eight: 24px; margin-bottom: 0; Margin-bottom: 0; margin-top: 24px; Margin-t=
+op: 24px;">=0A=09=09=09=09=09=09=09=09=09=09=09=09<strong>Nota: Las copias =
+de seguridad de los env=C3=ADos no est=C3=A1n activadas.</strong><br>=0A=09=
+=09=09=09=09=09=09=09=09=09=09=09Te recomendamos que actives las copias de =
+seguridad de los env=C3=ADos para evitar que se pierdan.=09=09=09=09=09=09=
+=09=09=09=09=09</p>=0A=09=09=09=09=09=09=09=09=09=09=09<p class=3D"lite-dis=
+claimer" style=3D"-ms-text-size-adjust: 100%; -webkit-text-size-adjust: 100=
+%; color: #444444; font-family: -apple-system, BlinkMacSystemFont, avenir n=
+ext, avenir, segoe ui, helvetica neue, helvetica, Cantarell, Ubuntu, roboto=
+, noto, arial, sans-serif; font-weight: normal; padding: 0; mso-line-height=
+-rule: exactly; margin: 0 0 7px 0; Margin: 0 0 7px 0; overflow-wrap: break-=
+word; word-wrap: break-word; -ms-hyphens: auto; -webkit-hyphens: none; -moz=
+-hyphens: none; hyphens: none; -ms-word-break: break-word; word-break: brea=
+k-word; font-size: 16px; line-height: 24px; margin-bottom: 0; Margin-bottom=
+: 0; margin-top: 24px; Margin-top: 24px;">=0A=09=09=09=09=09=09=09=09=09=09=
+=09=09Las copias de seguridad son completamente gratuitas, 100% seguras, y =
+puedes activarlas con unos pocos clics <a href=3D"https://wpforms.com/docs/=
+how-to-use-lite-connect-for-wpforms/?utm_campaign=3Dliteplugin&amp;utm_sour=
+ce=3DWordPress&amp;utm_medium=3DWeekly%20Summary%20Email&amp;utm_content=3D=
+Documentation%23backup-with-lite-connect&amp;utm_locale=3Des_ES" target=3D"=
+_blank" rel=3D"noopener noreferrer" style=3D"-ms-text-size-adjust: 100%; -w=
+ebkit-text-size-adjust: 100%; font-family: -apple-system, BlinkMacSystemFon=
+t, avenir next, avenir, segoe ui, helvetica neue, helvetica, Cantarell, Ubu=
+ntu, roboto, noto, arial, sans-serif; font-weight: normal; padding: 0; mso-=
+line-height-rule: exactly; line-height: 140%; color: #e27730; -ms-word-brea=
+k: break-word; word-break: break-word; Margin: inherit; margin: inherit;">A=
+ctiva las copias de seguridad de entrada ahora.</a>=09=09=09=09=09=09=09=09=
+=09=09=09</p>=0A=09=09=09=09=09=09=09=09=09=09=09<p class=3D"lite-disclaime=
+r" style=3D"-ms-text-size-adjust: 100%; -webkit-text-size-adjust: 100%; col=
+or: #444444; font-family: -apple-system, BlinkMacSystemFont, avenir next, a=
+venir, segoe ui, helvetica neue, helvetica, Cantarell, Ubuntu, roboto, noto=
+, arial, sans-serif; font-weight: normal; padding: 0; mso-line-height-rule:=
+ exactly; margin: 0 0 7px 0; Margin: 0 0 7px 0; overflow-wrap: break-word; =
+word-wrap: break-word; -ms-hyphens: auto; -webkit-hyphens: none; -moz-hyphe=
+ns: none; hyphens: none; -ms-word-break: break-word; word-break: break-word=
+; font-size: 16px; line-height: 24px; margin-bottom: 0; Margin-bottom: 0; m=
+argin-top: 24px; Margin-top: 24px;">=0A=09=09=09=09=09=09=09=09=09=09=09=09=
+Cuando est=C3=A9s preparado para gestionar tus env=C3=ADos dentro de WordPr=
+ess, <a href=3D"https://wpforms.com/lite-upgrade/?utm_campaign=3Dliteplugin=
+&amp;utm_source=3DWordPress&amp;utm_medium=3DWeekly%20Summary%20Email&amp;u=
+tm_content=3DUpgrade&amp;utm_locale=3Des_ES" target=3D"_blank" rel=3D"noope=
+ner noreferrer" style=3D"-ms-text-size-adjust: 100%; -webkit-text-size-adju=
+st: 100%; font-family: -apple-system, BlinkMacSystemFont, avenir next, aven=
+ir, segoe ui, helvetica neue, helvetica, Cantarell, Ubuntu, roboto, noto, a=
+rial, sans-serif; font-weight: normal; padding: 0; mso-line-height-rule: ex=
+actly; line-height: 140%; color: #e27730; -ms-word-break: break-word; word-=
+break: break-word; Margin: inherit; margin: inherit;">mejora a Pro</a> para=
+ importar tus env=C3=ADos.=09=09=09=09=09=09=09=09=09=09=09</p>=0A=09=09=09=
+=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09</d=
+iv>=0A=09=09=09=09=09=09=09=09<div class=3D"email-summaries-overview-wrappe=
+r" width=3D"100%" style=3D"margin-bottom: 50px; Margin-bottom: 50px; max-wi=
+dth: 600px; margin-left: auto; Margin-left: auto; margin-right: auto; Margi=
+n-right: auto;">=0A=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=
+=09<table class=3D"email-summaries-overview" border=3D"0" cellpadding=3D"0"=
+ cellspacing=3D"0" width=3D"100%" role=3D"presentation" bgcolor=3D"#f8f8f8"=
+ style=3D"border-spacing: 0; padding: 0; vertical-align: top; mso-table-lsp=
+ace: 0pt; mso-table-rspace: 0pt; -ms-text-size-adjust: 100%; -webkit-text-s=
+ize-adjust: 100%; background: #f8f8f8; border: 1px solid #dddddd; border-co=
+llapse: separate; border-radius: 6px;">=0A=09=09=09=09=09=09=09=09=09=09=09=
+<tbody>=0A=09=09=09=09=09=09=09=09=09=09=09<tr style=3D"padding: 0; vertica=
+l-align: top;">=0A=09=09=09=09=09=09=09=09=09=09=09=09<td class=3D"overview=
+-icon" valign=3D"top" style=3D"word-wrap: break-word; border-collapse: coll=
+apse !important; mso-table-lspace: 0pt; mso-table-rspace: 0pt; -ms-text-siz=
+e-adjust: 100%; -webkit-text-size-adjust: 100%; color: #444444; font-family=
+: -apple-system, BlinkMacSystemFont, avenir next, avenir, segoe ui, helveti=
+ca neue, helvetica, Cantarell, Ubuntu, roboto, noto, arial, sans-serif; fon=
+t-weight: normal; padding: 0; margin: 0; Margin: 0; font-size: 14px; mso-li=
+ne-height-rule: exactly; line-height: 140%; -webkit-hyphens: none; -moz-hyp=
+hens: none; hyphens: none; padding-bottom: 20px; padding-top: 20px; vertica=
+l-align: top; padding-left: 20px;">=0A=09=09=09=09=09=09=09=09=09=09=09=09=
+=09<img src=3D"https://parrilla111.com/wp-content/plugins/wpforms-lite/asse=
+ts/images/email/icon-overview.png" width=3D"52" height=3D"52" alt=3D"Res=
+=C3=BAmen" style=3D"outline: none; text-decoration: none; width: auto; max-=
+width: 100%; clear: both; display: block; -ms-interpolation-mode: bicubic; =
+min-width: 52px;">=0A=09=09=09=09=09=09=09=09=09=09=09=09</td>=0A=09=09=09=
+=09=09=09=09=09=09=09=09=09<td class=3D"overview-stats" valign=3D"top" styl=
+e=3D"word-wrap: break-word; border-collapse: collapse !important; mso-table=
+-lspace: 0pt; mso-table-rspace: 0pt; -ms-text-size-adjust: 100%; -webkit-te=
+xt-size-adjust: 100%; color: #444444; font-family: -apple-system, BlinkMacS=
+ystemFont, avenir next, avenir, segoe ui, helvetica neue, helvetica, Cantar=
+ell, Ubuntu, roboto, noto, arial, sans-serif; font-weight: normal; padding:=
+ 0; margin: 0; Margin: 0; font-size: 14px; mso-line-height-rule: exactly; l=
+ine-height: 140%; -webkit-hyphens: none; -moz-hyphens: none; hyphens: none;=
+ padding-bottom: 20px; padding-top: 20px; width: 90%; vertical-align: top; =
+padding-left: 16px;">=0A=09=09=09=09=09=09=09=09=09=09=09=09=09<h5 style=3D=
+"padding: 0; word-wrap: normal; font-family: -apple-system, BlinkMacSystemF=
+ont, avenir next, avenir, segoe ui, helvetica neue, helvetica, Cantarell, U=
+buntu, roboto, noto, arial, sans-serif; font-weight: bold; margin: 0 0 7px =
+0; Margin: 0 0 7px 0; mso-line-height-rule: exactly; font-size: 20px; color=
+: #444444; line-height: 30px; margin-bottom: 0; Margin-bottom: 0;">=0A=09=
+=09=09=09=09=09=09=09=09=09=09=09=09=0933 en total=09=09=09=09=09=09=09=09=
+=09=09=09=09=09</h5>=0A=09=09=09=09=09=09=09=09=09=09=09=09=09<p style=3D"-=
+ms-text-size-adjust: 100%; -webkit-text-size-adjust: 100%; font-family: -ap=
+ple-system, BlinkMacSystemFont, avenir next, avenir, segoe ui, helvetica ne=
+ue, helvetica, Cantarell, Ubuntu, roboto, noto, arial, sans-serif; font-wei=
+ght: normal; padding: 0; mso-line-height-rule: exactly; margin: 0 0 7px 0; =
+Margin: 0 0 7px 0; overflow-wrap: break-word; word-wrap: break-word; -ms-hy=
+phens: auto; -webkit-hyphens: none; -moz-hyphens: none; hyphens: none; -ms-=
+word-break: break-word; word-break: break-word; font-size: 16px; margin-bot=
+tom: 0; Margin-bottom: 0; color: #777777; line-height: 22px;">=0A=09=09=09=
+=09=09=09=09=09=09=09=09=09=09=09Registros esta semana=09=09=09=09=09=09=09=
+=09=09=09=09=09=09</p>=0A=09=09=09=09=09=09=09=09=09=09=09=09</td>=0A=09=09=
+=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09<td cl=
+ass=3D"summary-trend" style=3D"word-wrap: break-word; border-collapse: coll=
+apse !important; mso-table-lspace: 0pt; mso-table-rspace: 0pt; -ms-text-siz=
+e-adjust: 100%; -webkit-text-size-adjust: 100%; color: #444444; font-family=
+: -apple-system, BlinkMacSystemFont, avenir next, avenir, segoe ui, helveti=
+ca neue, helvetica, Cantarell, Ubuntu, roboto, noto, arial, sans-serif; fon=
+t-weight: normal; padding: 0; margin: 0; Margin: 0; font-size: 14px; mso-li=
+ne-height-rule: exactly; line-height: 140%; -webkit-hyphens: none; -moz-hyp=
+hens: none; hyphens: none; padding-bottom: 20px; padding-top: 20px; vertica=
+l-align: middle; padding-left: 16px; padding-right: 20px;">=0A=09=09=09=09=
+=09=09=09=09=09=09=09=09=09=09<table class=3D"trend-upward" border=3D"0" ce=
+llpadding=3D"0" cellspacing=3D"0" width=3D"100%" role=3D"presentation" styl=
+e=3D"border-spacing: 0; padding: 0; vertical-align: top; mso-table-lspace: =
+0pt; mso-table-rspace: 0pt; -ms-text-size-adjust: 100%; -webkit-text-size-a=
+djust: 100%; border-collapse: separate;">=0A=09=09=09=09=09=09=09=09=09=09=
+=09=09=09=09=09<tr valign=3D"middle" style=3D"padding: 0; vertical-align: t=
+op;">=0A=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09<td valign=3D"middl=
+e" style=3D"word-wrap: break-word; border-collapse: collapse !important; ms=
+o-table-lspace: 0pt; mso-table-rspace: 0pt; -ms-text-size-adjust: 100%; -we=
+bkit-text-size-adjust: 100%; font-family: -apple-system, BlinkMacSystemFont=
+, avenir next, avenir, segoe ui, helvetica neue, helvetica, Cantarell, Ubun=
+tu, roboto, noto, arial, sans-serif; font-weight: normal; margin: 0; Margin=
+: 0; mso-line-height-rule: exactly; -webkit-hyphens: none; -moz-hyphens: no=
+ne; hyphens: none; color: #46b450 !important; white-space: nowrap; padding-=
+bottom: 20px; padding-top: 20px; vertical-align: middle; padding: 0; border=
+: 0 !important; font-size: 16px; line-height: 16px;">=0A=09=09=09=09=09=09=
+=09=09=09=09=09=09=09=09=09=09=09<img src=3D"https://parrilla111.com/wp-con=
+tent/plugins/wpforms-lite/assets/images/email/icon-upward.png" width=3D"14"=
+ height=3D"18" alt=3D"upward" style=3D"outline: none; text-decoration: none=
+; width: auto; max-width: 100%; clear: both; display: block; -ms-interpolat=
+ion-mode: bicubic; min-width: 14px;">=0A=09=09=09=09=09=09=09=09=09=09=09=
+=09=09=09=09=09</td>=0A=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09<td =
+dir=3D"ltr" valign=3D"middle" style=3D"word-wrap: break-word; border-collap=
+se: collapse !important; mso-table-lspace: 0pt; mso-table-rspace: 0pt; -ms-=
+text-size-adjust: 100%; -webkit-text-size-adjust: 100%; font-family: -apple=
+-system, BlinkMacSystemFont, avenir next, avenir, segoe ui, helvetica neue,=
+ helvetica, Cantarell, Ubuntu, roboto, noto, arial, sans-serif; font-weight=
+: normal; margin: 0; Margin: 0; mso-line-height-rule: exactly; -webkit-hyph=
+ens: none; -moz-hyphens: none; hyphens: none; color: #46b450 !important; wh=
+ite-space: nowrap; padding-bottom: 20px; padding-top: 20px; vertical-align:=
+ middle; padding: 0; border: 0 !important; font-size: 16px; line-height: 16=
+px; padding-left: 5px;">=0A=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=
+=09+100%=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09</td>=0A=09=09=09=
+=09=09=09=09=09=09=09=09=09=09=09=09</tr>=0A=09=09=09=09=09=09=09=09=09=09=
+=09=09=09=09</table>=0A=09=09=09=09=09=09=09=09=09=09=09=09=09</td>=0A=09=
+=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09</tr>=0A=
+=09=09=09=09=09=09=09=09=09=09=09</tbody>=0A=09=09=09=09=09=09=09=09=09=09<=
+/table>=0A=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09</div>=0A=09=
+=09=09=09=09=09=09=09<div class=3D"email-summaries-wrapper" width=3D"100%" =
+style=3D"margin-bottom: 1px; Margin-bottom: 1px; max-width: 600px; margin-l=
+eft: auto; Margin-left: auto; margin-right: auto; Margin-right: auto;">=0A=
+=09=09=09=09=09=09=09=09=09<table class=3D"email-summaries" border=3D"0" ce=
+llpadding=3D"0" cellspacing=3D"0" width=3D"100%" role=3D"presentation" styl=
+e=3D"border-collapse: collapse; border-spacing: 0; padding: 0; vertical-ali=
+gn: top; mso-table-lspace: 0pt; mso-table-rspace: 0pt; -ms-text-size-adjust=
+: 100%; -webkit-text-size-adjust: 100%;">=0A=09=09=09=09=09=09=09=09=09=09<=
+thead>=0A=09=09=09=09=09=09=09=09=09=09<tr style=3D"padding: 0; vertical-al=
+ign: top;">=0A=09=09=09=09=09=09=09=09=09=09=09<th align=3D"left" valign=3D=
+"top" style=3D"color: #444444; font-family: -apple-system, BlinkMacSystemFo=
+nt, avenir next, avenir, segoe ui, helvetica neue, helvetica, Cantarell, Ub=
+untu, roboto, noto, arial, sans-serif; margin: 0; Margin: 0; mso-line-heigh=
+t-rule: exactly; text-align: left; background-color: #f8f8f8; border: 1px s=
+olid #dddddd; font-size: 16px; font-weight: bold; line-height: 16px; paddin=
+g: 15px 20px 15px 20px; border-right: 0 !important;">Formulario</th>=0A=09=
+=09=09=09=09=09=09=09=09=09=09<th class=3D"entries-column" align=3D"left" v=
+align=3D"top" colspan=3D"2" style=3D"color: #444444; font-family: -apple-sy=
+stem, BlinkMacSystemFont, avenir next, avenir, segoe ui, helvetica neue, he=
+lvetica, Cantarell, Ubuntu, roboto, noto, arial, sans-serif; margin: 0; Mar=
+gin: 0; mso-line-height-rule: exactly; text-align: left; background-color: =
+#f8f8f8; border: 1px solid #dddddd; font-size: 16px; font-weight: bold; lin=
+e-height: 16px; padding: 15px 20px 15px 20px; border-left: 0 !important;">E=
+nv=C3=ADos</th>=0A=09=09=09=09=09=09=09=09=09=09</tr>=0A=09=09=09=09=09=09=
+=09=09=09=09</thead>=0A=09=09=09=09=09=09=09=09=09=09<tbody>=0A=09=09=09=09=
+=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09<tr id=3D"form-6" style=
+=3D"padding: 0; vertical-align: top;">=0A=09=09=09=09=09=09=09=09=09=09=09=
+=09<td class=3D"form-name" valign=3D"middle" style=3D"word-wrap: break-word=
+; border-collapse: collapse !important; mso-table-lspace: 0pt; mso-table-rs=
+pace: 0pt; -ms-text-size-adjust: 100%; -webkit-text-size-adjust: 100%; colo=
+r: #444444; font-family: -apple-system, BlinkMacSystemFont, avenir next, av=
+enir, segoe ui, helvetica neue, helvetica, Cantarell, Ubuntu, roboto, noto,=
+ arial, sans-serif; font-weight: normal; margin: 0; Margin: 0; mso-line-hei=
+ght-rule: exactly; -webkit-hyphens: none; -moz-hyphens: none; hyphens: none=
+; border: 1px solid #dddddd; padding: 12px 20px 12px 20px; vertical-align: =
+middle; font-size: 16px; line-height: 24px; width: 90%;">Formulario de cont=
+acto</td>=0A=09=09=09=09=09=09=09=09=09=09=09=09<td class=3D"entry-count" a=
+lign=3D"center" valign=3D"middle" style=3D"word-wrap: break-word; border-co=
+llapse: collapse !important; mso-table-lspace: 0pt; mso-table-rspace: 0pt; =
+-ms-text-size-adjust: 100%; -webkit-text-size-adjust: 100%; font-family: -a=
+pple-system, BlinkMacSystemFont, avenir next, avenir, segoe ui, helvetica n=
+eue, helvetica, Cantarell, Ubuntu, roboto, noto, arial, sans-serif; font-we=
+ight: normal; margin: 0; Margin: 0; mso-line-height-rule: exactly; -webkit-=
+hyphens: none; -moz-hyphens: none; hyphens: none; border: 1px solid #dddddd=
+; padding: 12px 20px 12px 20px; color: #777777; font-size: 16px; line-heigh=
+t: 20px; text-align: center; vertical-align: middle; white-space: nowrap;">=
+=0A=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=
+=09=09=09<span>=0A=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=0933=09=09=
+=09=09=09=09=09=09=09=09=09=09=09=09=09</span>=0A=09=09=09=09=09=09=09=09=
+=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09</td>=0A=09=09=09=09=09=
+=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09<td class=3D"su=
+mmary-trend" align=3D"center" valign=3D"middle" style=3D"word-wrap: break-w=
+ord; border-collapse: collapse !important; mso-table-lspace: 0pt; mso-table=
+-rspace: 0pt; -ms-text-size-adjust: 100%; -webkit-text-size-adjust: 100%; c=
+olor: #444444; font-family: -apple-system, BlinkMacSystemFont, avenir next,=
+ avenir, segoe ui, helvetica neue, helvetica, Cantarell, Ubuntu, roboto, no=
+to, arial, sans-serif; font-weight: normal; margin: 0; Margin: 0; font-size=
+: 14px; mso-line-height-rule: exactly; line-height: 140%; -webkit-hyphens: =
+none; -moz-hyphens: none; hyphens: none; border: 1px solid #dddddd; padding=
+: 12px 20px 12px 20px; vertical-align: middle;">=0A=09=09=09=09=09=09=09=09=
+=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09<table class=
+=3D"trend-upward" border=3D"0" cellpadding=3D"0" cellspacing=3D"0" width=3D=
+"100%" role=3D"presentation" style=3D"border-spacing: 0; padding: 0; vertic=
+al-align: top; mso-table-lspace: 0pt; mso-table-rspace: 0pt; -ms-text-size-=
+adjust: 100%; -webkit-text-size-adjust: 100%; border-collapse: separate;">=
+=0A=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09<tr valign=3D"middle" st=
+yle=3D"padding: 0; vertical-align: top;">=0A=09=09=09=09=09=09=09=09=09=09=
+=09=09=09=09=09=09=09<td valign=3D"middle" style=3D"word-wrap: break-word; =
+border-collapse: collapse !important; mso-table-lspace: 0pt; mso-table-rspa=
+ce: 0pt; -ms-text-size-adjust: 100%; -webkit-text-size-adjust: 100%; font-f=
+amily: -apple-system, BlinkMacSystemFont, avenir next, avenir, segoe ui, he=
+lvetica neue, helvetica, Cantarell, Ubuntu, roboto, noto, arial, sans-serif=
+; font-weight: normal; margin: 0; Margin: 0; font-size: 14px; mso-line-heig=
+ht-rule: exactly; -webkit-hyphens: none; -moz-hyphens: none; hyphens: none;=
+ color: #46b450 !important; white-space: nowrap; vertical-align: middle; pa=
+dding: 0; border: 0 !important; line-height: 20px;">=0A=09=09=09=09=09=09=
+=09=09=09=09=09=09=09=09=09=09=09=09<img src=3D"https://parrilla111.com/wp-=
+content/plugins/wpforms-lite/assets/images/email/icon-upward.png" width=3D"=
+10" height=3D"13" alt=3D"upward" style=3D"outline: none; text-decoration: n=
+one; width: auto; max-width: 100%; clear: both; display: block; -ms-interpo=
+lation-mode: bicubic; min-width: 10px;">=0A=09=09=09=09=09=09=09=09=09=09=
+=09=09=09=09=09=09=09</td>=0A=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=
+=09=09<td dir=3D"ltr" valign=3D"middle" style=3D"word-wrap: break-word; bor=
+der-collapse: collapse !important; mso-table-lspace: 0pt; mso-table-rspace:=
+ 0pt; -ms-text-size-adjust: 100%; -webkit-text-size-adjust: 100%; font-fami=
+ly: -apple-system, BlinkMacSystemFont, avenir next, avenir, segoe ui, helve=
+tica neue, helvetica, Cantarell, Ubuntu, roboto, noto, arial, sans-serif; f=
+ont-weight: normal; margin: 0; Margin: 0; font-size: 14px; mso-line-height-=
+rule: exactly; -webkit-hyphens: none; -moz-hyphens: none; hyphens: none; co=
+lor: #46b450 !important; white-space: nowrap; vertical-align: middle; paddi=
+ng: 0; border: 0 !important; line-height: 20px; padding-left: 5px;">=0A=09=
+=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09+100%=09=09=09=09=09=09=
+=09=09=09=09=09=09=09=09=09=09=09</td>=0A=09=09=09=09=09=09=09=09=09=09=09=
+=09=09=09=09=09</tr>=0A=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09</table=
+>=0A=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=
+=09=09=09=09</td>=0A=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=
+=09=09=09=09=09</tr>=0A=09=09=09=09=09=09=09=09=09=09=0A=09=09=09=09=09=09=
+=09=09=09=09=09=09=09=09=09=09=09=09=09=09</tbody>=0A=09=09=09=09=09=09=09=
+=09=09</table>=0A=09=09=09=09=09=09=09=09</div>=0A=09=09=09=09=09=09=09</td=
+>=0A=09=09=09=09=09=09=09<td style=3D"word-wrap: break-word; border-collaps=
+e: collapse !important; vertical-align: top; mso-table-lspace: 0pt; mso-tab=
+le-rspace: 0pt; -ms-text-size-adjust: 100%; -webkit-text-size-adjust: 100%;=
+ color: #444444; font-family: -apple-system, BlinkMacSystemFont, avenir nex=
+t, avenir, segoe ui, helvetica neue, helvetica, Cantarell, Ubuntu, roboto, =
+noto, arial, sans-serif; font-weight: normal; padding: 0; margin: 0; Margin=
+: 0; font-size: 14px; mso-line-height-rule: exactly; line-height: 140%; -we=
+bkit-hyphens: none; -moz-hyphens: none; hyphens: none;"><!-- Deliberately e=
+mpty to support consistent sizing and layout across multiple email clients.=
+ --></td>=0A=09=09=09=09=09=09</tr>=0A=09=09=09=09=09</tbody>=0A=09=09=09=
+=09</table>=0A=09=09=09</td>=0A=09=09</tr>=0A=09=09=09=09=09=09=09=09=09=09=
+<tr class=3D"summary-notice" align=3D"center" style=3D"padding: 0; vertical=
+-align: top; text-align: center;">=0A=09=09=09=09<td class=3D"summary-info-=
+block" bgcolor=3D"#f7f0ed" style=3D"word-wrap: break-word; border-collapse:=
+ collapse !important; vertical-align: top; mso-table-lspace: 0pt; mso-table=
+-rspace: 0pt; -ms-text-size-adjust: 100%; -webkit-text-size-adjust: 100%; c=
+olor: #444444; font-family: -apple-system, BlinkMacSystemFont, avenir next,=
+ avenir, segoe ui, helvetica neue, helvetica, Cantarell, Ubuntu, roboto, no=
+to, arial, sans-serif; font-weight: normal; margin: 0; Margin: 0; font-size=
+: 14px; mso-line-height-rule: exactly; line-height: 140%; -webkit-hyphens: =
+none; -moz-hyphens: none; hyphens: none; background-color: #f7f0ed; padding=
+: 50px 50px 26px 50px; border-bottom-left-radius: 6px; border-bottom-right-=
+radius: 6px;">=0A=09=09=09=09=09<table class=3D"summary-info-table summary-=
+notice-table" border=3D"0" cellpadding=3D"0" cellspacing=3D"0" width=3D"100=
+%" role=3D"presentation" style=3D"border-collapse: collapse; border-spacing=
+: 0; padding: 0; vertical-align: top; mso-table-lspace: 0pt; mso-table-rspa=
+ce: 0pt; -ms-text-size-adjust: 100%; -webkit-text-size-adjust: 100%;">=0A=
+=09=09=09=09=09=09<tbody>=0A=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09<t=
+r style=3D"padding: 0; vertical-align: top;">=0A=09=09=09=09=09=09=09=09=09=
+<td class=3D"summary-notice-icon" align=3D"center" valign=3D"middle" style=
+=3D"word-wrap: break-word; border-collapse: collapse !important; vertical-a=
+lign: top; mso-table-lspace: 0pt; mso-table-rspace: 0pt; -ms-text-size-adju=
+st: 100%; -webkit-text-size-adjust: 100%; color: #444444; font-family: -app=
+le-system, BlinkMacSystemFont, avenir next, avenir, segoe ui, helvetica neu=
+e, helvetica, Cantarell, Ubuntu, roboto, noto, arial, sans-serif; font-weig=
+ht: normal; padding: 0; margin: 0; Margin: 0; font-size: 14px; mso-line-hei=
+ght-rule: exactly; line-height: 140%; -webkit-hyphens: none; -moz-hyphens: =
+none; hyphens: none; padding-bottom: 24px;">=0A=09=09=09=09=09=09=09=09=09=
+=09<img src=3D"https://parrilla111.com/wp-content/plugins/wpforms-lite/asse=
+ts/images/email/info-block-icon.png" width=3D"52" height=3D"52" alt=3D"Info=
+rmaci=C3=B3n" style=3D"outline: none; text-decoration: none; width: auto; m=
+ax-width: 100%; clear: both; display: block; -ms-interpolation-mode: bicubi=
+c;">=0A=09=09=09=09=09=09=09=09=09</td>=0A=09=09=09=09=09=09=09=09</tr>=0A=
+=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09<tr style=
+=3D"padding: 0; vertical-align: top;">=0A=09=09=09=09=09=09=09=09=09<td cla=
+ss=3D"summary-notice-content" align=3D"center" valign=3D"middle" style=3D"w=
+ord-wrap: break-word; border-collapse: collapse !important; vertical-align:=
+ top; mso-table-lspace: 0pt; mso-table-rspace: 0pt; -ms-text-size-adjust: 1=
+00%; -webkit-text-size-adjust: 100%; color: #444444; font-family: -apple-sy=
+stem, BlinkMacSystemFont, avenir next, avenir, segoe ui, helvetica neue, he=
+lvetica, Cantarell, Ubuntu, roboto, noto, arial, sans-serif; font-weight: n=
+ormal; padding: 0; margin: 0; Margin: 0; font-size: 14px; mso-line-height-r=
+ule: exactly; line-height: 140%; -webkit-hyphens: none; -moz-hyphens: none;=
+ hyphens: none;">=0A=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=
+=09=09=09<h4 style=3D"padding: 0; word-wrap: normal; font-family: -apple-sy=
+stem, BlinkMacSystemFont, avenir next, avenir, segoe ui, helvetica neue, he=
+lvetica, Cantarell, Ubuntu, roboto, noto, arial, sans-serif; font-weight: b=
+old; margin: 0 0 7px 0; Margin: 0 0 7px 0; mso-line-height-rule: exactly; f=
+ont-size: 24px; color: #444444; line-height: 36px; margin-bottom: 16px; Mar=
+gin-bottom: 16px;">Get More Leads</h4>=0A=09=09=09=09=09=09=09=09=09=09=09=
+=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09<p style=3D"-ms=
+-text-size-adjust: 100%; -webkit-text-size-adjust: 100%; color: #444444; fo=
+nt-family: -apple-system, BlinkMacSystemFont, avenir next, avenir, segoe ui=
+, helvetica neue, helvetica, Cantarell, Ubuntu, roboto, noto, arial, sans-s=
+erif; font-weight: normal; padding: 0; mso-line-height-rule: exactly; margi=
+n: 0 0 7px 0; Margin: 0 0 7px 0; overflow-wrap: break-word; word-wrap: brea=
+k-word; -ms-hyphens: auto; -webkit-hyphens: none; -moz-hyphens: none; hyphe=
+ns: none; -ms-word-break: break-word; word-break: break-word; margin-bottom=
+: 0; Margin-bottom: 0; font-size: 16px; line-height: 24px;">Form abandonmen=
+t is one of the biggest challenges you need to tackle to grow your business=
+ online.
+
+Using the Form Abandonment Addon, you can save partial form submissions and=
+ follow up with those interested prospects with an abandonment email, even =
+if they didn=E2=80=99t complete the entire form. This is a smart way to inv=
+ite them back to complete the form so they don=E2=80=99t forget about you.<=
+/p>=0A=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09</td>=0A=09=
+=09=09=09=09=09=09=09</tr>=0A=09=09=09=09=09=09=09=0A=09=09=09=09=09=09=09=
+=09=09=09=09=09=09=09=09<tr style=3D"padding: 0; vertical-align: top;">=0A=
+=09=09=09=09=09=09=09=09=09<td class=3D"button-container" align=3D"center" =
+valign=3D"middle" style=3D"word-wrap: break-word; border-collapse: collapse=
+ !important; vertical-align: top; mso-table-lspace: 0pt; mso-table-rspace: =
+0pt; -ms-text-size-adjust: 100%; -webkit-text-size-adjust: 100%; color: #44=
+4444; font-family: -apple-system, BlinkMacSystemFont, avenir next, avenir, =
+segoe ui, helvetica neue, helvetica, Cantarell, Ubuntu, roboto, noto, arial=
+, sans-serif; font-weight: normal; padding: 0; margin: 0; Margin: 0; font-s=
+ize: 14px; mso-line-height-rule: exactly; line-height: 140%; -webkit-hyphen=
+s: none; -moz-hyphens: none; hyphens: none; text-align: center;">=0A=09=09=
+=09=09=09=09=09=09=09=09<table class=3D"button-wrapper" cellspacing=3D"24" =
+style=3D"padding: 0; vertical-align: top; mso-table-lspace: 0pt; mso-table-=
+rspace: 0pt; -ms-text-size-adjust: 100%; -webkit-text-size-adjust: 100%; bo=
+rder-collapse: separate; border-spacing: 24px; margin: 0 auto; Margin: 0 au=
+to;">=0A=09=09=09=09=09=09=09=09=09=09=09<tr style=3D"padding: 0; vertical-=
+align: top;">=0A=09=09=09=09=09=09=09=09=09=09=09=09<td class=3D"button but=
+ton-orange" align=3D"center" border=3D"1" valign=3D"middle" style=3D"word-w=
+rap: break-word; mso-table-lspace: 0pt; mso-table-rspace: 0pt; -ms-text-siz=
+e-adjust: 100%; -webkit-text-size-adjust: 100%; color: #444444; font-family=
+: -apple-system, BlinkMacSystemFont, avenir next, avenir, segoe ui, helveti=
+ca neue, helvetica, Cantarell, Ubuntu, roboto, noto, arial, sans-serif; fon=
+t-weight: normal; margin: 0; Margin: 0; font-size: 14px; mso-line-height-ru=
+le: exactly; -webkit-hyphens: none; -moz-hyphens: none; hyphens: none; bord=
+er-collapse: separate !important; border-radius: 3px; line-height: 16px; pa=
+dding: 11.5px 15px; vertical-align: middle; background: #e27730; border: 1p=
+x solid #e27730;">=0A=09=09=09=09=09=09=09=09=09=09=09=09=09<a href=3D"http=
+s://wpforms.com/addons/form-abandonment-addon/?utm_source=3DWordPress&amp;u=
+tm_medium=3Demail&amp;utm_campaign=3DEmail+Summaries&amp;utm_content=3D5212=
+23" class=3D"button-link" rel=3D"noopener noreferrer" target=3D"_blank" bgc=
+olor=3D"#e27730" style=3D"-ms-text-size-adjust: 100%; -webkit-text-size-adj=
+ust: 100%; font-family: -apple-system, BlinkMacSystemFont, avenir next, ave=
+nir, segoe ui, helvetica neue, helvetica, Cantarell, Ubuntu, roboto, noto, =
+arial, sans-serif; padding: 0; mso-line-height-rule: exactly; -ms-word-brea=
+k: break-word; word-break: break-word; color: #ffffff; line-height: 16px; f=
+ont-size: 16px; font-weight: 500; margin: 0; Margin: 0; text-decoration: no=
+ne;">=0A=09=09=09=09=09=09=09=09=09=09=09=09=09=09LEARN MORE=09=09=09=09=09=
+=09=09=09=09=09=09=09=09</a>=0A=09=09=09=09=09=09=09=09=09=09=09=09</td>=0A=
+=09=09=09=09=09=09=09=09=09=09=09</tr>=0A=09=09=09=09=09=09=09=09=09=09</ta=
+ble>=0A=09=09=09=09=09=09=09=09=09</td>=0A=09=09=09=09=09=09=09=09</tr>=0A=
+=09=09=09=09=09=09=09=09=09=09=09=09=09</tbody>=0A=09=09=09=09=09</table>=
+=0A=09=09=09=09</td>=0A=09=09=09</tr>=0A=09=09=09</tbody>=0A</table>=0A=0A=
+=09=09=09=09=09=09=09=09=09</td>=0A=09=09=09=09=09=09=09=09</tr>=0A=09=09=
+=09=09=09=09=09=09<tr style=3D"padding: 0; vertical-align: top;">=0A=09=09=
+=09=09=09=09=09=09=09<td align=3D"left" valign=3D"top" class=3D"footer" sty=
+le=3D"word-wrap: break-word; border-collapse: collapse !important; vertical=
+-align: top; mso-table-lspace: 0pt; mso-table-rspace: 0pt; -ms-text-size-ad=
+just: 100%; -webkit-text-size-adjust: 100%; font-family: -apple-system, Bli=
+nkMacSystemFont, avenir next, avenir, segoe ui, helvetica neue, helvetica, =
+Cantarell, Ubuntu, roboto, noto, arial, sans-serif; font-weight: normal; ma=
+rgin: 0; Margin: 0; mso-line-height-rule: exactly; -webkit-hyphens: none; -=
+moz-hyphens: none; hyphens: none; color: #777777; font-size: 13px; line-hei=
+ght: 20px; padding: 20px 30px 20px 30px; text-align: center;">=0A=09=09=09=
+=09=09=09=09=09=09=09Este correo electr=C3=B3nico ha sido autogenerado y en=
+viado desde <a href=3D"https://parrilla111.com" style=3D"-ms-text-size-adju=
+st: 100%; -webkit-text-size-adjust: 100%; font-family: -apple-system, Blink=
+MacSystemFont, avenir next, avenir, segoe ui, helvetica neue, helvetica, Ca=
+ntarell, Ubuntu, roboto, noto, arial, sans-serif; font-weight: normal; padd=
+ing: 0; margin: 0; Margin: 0; mso-line-height-rule: exactly; line-height: 1=
+40%; -ms-word-break: break-word; word-break: break-word; color: #777777; te=
+xt-decoration: underline;"></a>. Aprende <a href=3D"https://wpforms.com/doc=
+s/how-to-use-email-summaries/#disable-email-summaries" style=3D"-ms-text-si=
+ze-adjust: 100%; -webkit-text-size-adjust: 100%; font-family: -apple-system=
+, BlinkMacSystemFont, avenir next, avenir, segoe ui, helvetica neue, helvet=
+ica, Cantarell, Ubuntu, roboto, noto, arial, sans-serif; font-weight: norma=
+l; padding: 0; margin: 0; Margin: 0; mso-line-height-rule: exactly; line-he=
+ight: 140%; -ms-word-break: break-word; word-break: break-word; color: #777=
+777; text-decoration: underline;">c=C3=B3mo desactivarlo</a>.=09=09=09=09=
+=09=09=09=09=09</td>=0A=09=09=09=09=09=09=09=09</tr>=0A=09=09=09=09=09=09=
+=09</table>=0A=09=09=09=09=09=09</td>=0A=09=09=09=09=09</tr>=0A=09=09=09=09=
+</table>=0A=09=09=09</div>=0A=09=09</td>=0A=09=09<td style=3D"word-wrap: br=
+eak-word; border-collapse: collapse !important; vertical-align: top; mso-ta=
+ble-lspace: 0pt; mso-table-rspace: 0pt; -ms-text-size-adjust: 100%; -webkit=
+-text-size-adjust: 100%; color: #444444; font-family: -apple-system, BlinkM=
+acSystemFont, avenir next, avenir, segoe ui, helvetica neue, helvetica, Can=
+tarell, Ubuntu, roboto, noto, arial, sans-serif; font-weight: normal; paddi=
+ng: 0; margin: 0; Margin: 0; font-size: 14px; mso-line-height-rule: exactly=
+; line-height: 140%; -webkit-hyphens: none; -moz-hyphens: none; hyphens: no=
+ne;"><!-- Deliberately empty to support consistent sizing and layout across=
+ multiple email clients. --></td>=0A=09</tr>=0A</table>=0A</body>=0A</html>
+
+--1727704838-eximdsn-65638842--

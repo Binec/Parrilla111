@@ -1,0 +1,4 @@
+[18-May-2025 06:28:54 America/New_York] PHP Fatal error:  Uncaught Error: Class 'WpOrg\Requests\Exception\Transport' not found in /home/parrilla111/public_html/wp-includes/Requests/src/Exception/Transport/Curl.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/parrilla111/public_html/wp-includes/Requests/src/Exception/Transport/Curl.php on line 17

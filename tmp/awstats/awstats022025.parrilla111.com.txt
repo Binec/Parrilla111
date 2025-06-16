@@ -1,0 +1,913 @@
+AWSTATS DATA FILE 7.9 (build 20230108)
+# If you remove this file, all statistics for date 202502 will be lost/reset.
+# Last config file used to build this data file was /home/parrilla111/tmp/awstats/awstats.parrilla111.com.conf.
+
+# Position (offset in bytes) in this file for beginning of each section for
+# direct I/O access. If you made changes somewhere in this file, you should
+# also remove completely the MAP section (AWStats will rewrite it at next
+# update).
+BEGIN_MAP 28
+POS_GENERAL 2049                
+POS_TIME 2731                
+POS_VISITOR 7809                
+POS_DAY 11680               
+POS_DOMAIN 3568                
+POS_LOGIN 4006                
+POS_ROBOT 4161                
+POS_WORMS 4336                
+POS_EMAILSENDER 4467                
+POS_EMAILRECEIVER 4610                
+POS_SESSION 12324               
+POS_FILESIZE 42400               
+POS_SIDER 12526               
+POS_FILETYPES 4745                
+POS_DOWNLOADS 4885                
+POS_OS 4933                
+POS_BROWSER 5116                
+POS_SCREENSIZE 5431                
+POS_UNKNOWNREFERER 5505                
+POS_UNKNOWNREFERERBROWSER 5688                
+POS_ORIGIN 5826                
+POS_SEREFERRALS 5970                
+POS_PAGEREFS 6152                
+POS_SEARCHWORDS 6300                
+POS_KEYWORDS 6452                
+POS_MISC 2395                
+POS_ERRORS 6511                
+POS_CLUSTER 3862                
+POS_SIDER_404 6676                
+END_MAP
+
+# LastLine    = Date of last record processed - Last record line number in last log - Last record offset in last log - Last record signature value
+# FirstTime   = Date of first visit for history file
+# LastTime    = Date of last visit for history file
+# LastUpdate  = Date of last update - Nb of parsed records - Nb of parsed old records - Nb of parsed new records - Nb of parsed corrupted - Nb of parsed dropped
+# TotalVisits = Number of visits
+# TotalUnique = Number of unique visitors
+# MonthHostsKnown   = Number of hosts known
+# MonthHostsUnKnown = Number of hosts unknown
+BEGIN_GENERAL 8
+LastLine 20250301001927 393 60390 11063614841972
+FirstTime 20250201000031
+LastTime 20250228224337
+LastUpdate 20250301065252 393 0 392 0 0
+TotalVisits 107                 
+TotalUnique 88                  
+MonthHostsKnown 0                   
+MonthHostsUnknown 102                 
+END_GENERAL
+
+# Misc ID - Pages - Hits - Bandwidth
+BEGIN_MISC 10
+RealPlayerSupport 0 0 0
+TotalMisc 0 0 0
+JavascriptDisabled 0 0 0
+DirectorSupport 0 0 0
+AddToFavourites 0 3 0
+JavaEnabled 0 0 0
+PDFSupport 0 0 0
+FlashSupport 0 0 0
+WindowsMediaPlayerSupport 0 0 0
+QuickTimeSupport 0 0 0
+END_MISC
+
+# Hour - Pages - Hits - Bandwidth - Not viewed Pages - Not viewed Hits - Not viewed Bandwidth
+BEGIN_TIME 24
+0 203 205 1278600 305 309 314878
+1 208 208 710600 145 150 595
+2 100 100 353298 180 184 3036
+3 3 4 306330 220 230 3115
+4 519 520 2078274 127 131 2985
+5 107 107 360661 270 283 304101
+6 0 0 0 153 162 2020
+7 210 211 1011182 133 143 2988
+8 103 104 640634 98 99 525
+9 108 108 385796 150 168 4545
+10 0 0 0 99 106 3528
+11 205 205 716222 121 128 3694
+12 374 375 1653437 432 435 1071913
+13 14 16 601164 125 130 1838
+14 195 196 964329 239 243 304499
+15 21 22 368034 119 124 8583
+16 208 208 710600 397 401 4630
+17 102 102 374294 221 226 3430
+18 347 348 1695327 182 191 1015
+19 378 378 1145728 139 144 3561
+20 580 581 1026406 219 227 560
+21 364 364 187748 455 463 6380
+22 205 205 710098 159 162 840
+23 1 2 285334 94 97 981
+END_TIME
+
+# Domain - Pages - Hits - Bandwidth
+# The 25 first Pages must be first (order not required for others)
+BEGIN_DOMAIN 14
+us 2345 2359 12152293
+bg 842 842 575522
+de 627 627 2154672
+gb 204 204 708598
+lb 112 112 428196
+au 104 104 355300
+il 104 104 355300
+in 103 103 376170
+ca 100 100 353298
+za 9 9 74627
+jp 2 2 1500
+dk 1 1 20996
+cn 1 1 7624
+fr 1 1 0
+END_DOMAIN
+
+# Cluster ID - Pages - Hits - Bandwidth
+BEGIN_CLUSTER 0
+END_CLUSTER
+
+# Login - Pages - Hits - Bandwidth - Last visit
+# The 10 first Pages must be first (order not required for others)
+BEGIN_LOGIN 0
+END_LOGIN
+
+# Robot ID - Hits - Bandwidth - Last visit - Hits on robots.txt
+# The 25 first Hits must be first (order not required for others)
+BEGIN_ROBOT 1
+no_user_agent 362 1964235 20250228161837 0
+END_ROBOT
+
+# Worm ID - Hits - Bandwidth - Last visit
+# The 5 first Hits must be first (order not required for others)
+BEGIN_WORMS 0
+END_WORMS
+
+# EMail - Hits - Bandwidth - Last visit
+# The 20 first Hits must be first (order not required for others)
+BEGIN_EMAILSENDER 0
+END_EMAILSENDER
+
+# EMail - Hits - Bandwidth - Last visit
+# The 20 first hits must be first (order not required for others)
+BEGIN_EMAILRECEIVER 0
+END_EMAILRECEIVER
+
+# Files type - Hits - Bandwidth - Bandwidth without compression - Bandwidth after compression
+BEGIN_FILETYPES 4
+html 2364 13484056 0 0
+cgi 21 83864 0 0
+js 14 3994676 0 0
+php 2170 1500 0 0
+END_FILETYPES
+
+# Downloads - Hits - Bandwidth
+BEGIN_DOWNLOADS 0
+END_DOWNLOADS
+
+# OS ID - Hits
+BEGIN_OS ID - Hits - Pages 8
+macosx15 2 2
+macosx10 16 2
+linuxubuntu 2 2
+ios_iphone 1 1
+win10 3679 3679
+linux 1 1
+Unknown 3 3
+androidnougat 865 865
+END_OS
+
+# Browser ID - Hits - Pages
+BEGIN_BROWSER 13
+chrome74.0.3729.169 10 10
+chrome124.0.0.0 3 3
+firefox79.0 1 1
+chrome84.0.4147.125 1 1
+safari13.0.3 1 1
+chrome74.0.3729.157 1 1
+firefox77.0 1 1
+Unknown 2 2
+firefox72.0 3 3
+chrome60.0.3112.107 865 865
+chrome90.0.4430.85 3664 3664
+chrome39.0.2171.95 16 2
+mozilla 1 1
+END_BROWSER
+
+# Screen size - Hits
+BEGIN_SCREENSIZE 0
+END_SCREENSIZE
+
+# Unknown referer OS - Last visit date
+BEGIN_UNKNOWNREFERER 2
+WordPress/6.7.2;_https://parrilla111.com 20250225170034
+Mozilla/5.0_(compatible) 20250210135118
+END_UNKNOWNREFERER
+
+# Unknown referer Browser - Last visit date
+BEGIN_UNKNOWNREFERERBROWSER 1
+WordPress/6.7.2;_https://parrilla111.com 20250225170034
+END_UNKNOWNREFERERBROWSER
+
+# Origin - Pages - Hits 
+BEGIN_ORIGIN 6
+From0 11 25
+From1 3681 3681
+From2 847 847
+From3 0 0
+From4 16 16
+From5 0 0
+END_ORIGIN
+
+# Search engine referers ID - Pages - Hits
+BEGIN_SEREFERRALS 2
+google_com 844 844
+www_google_com 3 3
+END_SEREFERRALS
+
+# External page referers - Pages - Hits
+# The 25 first Pages must be first (order not required for others)
+BEGIN_PAGEREFS 0
+END_PAGEREFS
+
+# Search keyphrases - Number of search
+# The 10 first number of search must be first (order not required for others)
+BEGIN_SEARCHWORDS 0
+END_SEARCHWORDS
+
+# Search keywords - Number of search
+# The 25 first number of search must be first (order not required for others)
+BEGIN_KEYWORDS 0
+END_KEYWORDS
+
+# Errors - Hits - Bandwidth
+BEGIN_ERRORS 8
+500 225 27448
+302 737 34598
+403 504 22610
+409 2 5344
+400 5 5
+404 29 0
+301 3068 0
+405 1 0
+END_ERRORS
+
+# URL with 404 errors - Hits - Last URL referrer
+BEGIN_SIDER_404 19
+/.well-known/pki-validation/wp-config.php 1 -
+/.well-known/pki-validation/xmrlpc.php%3fp= 1 -
+/.well-known/pki-validation/wp-conflg.php 1 -
+/.well-known/pki-validation/x.php 1 -
+/.well-known/pki-validation/index.php 1 -
+/.well-known/pki-validation/cloud.php 2 -
+/.well-known/pki-validation/themes.php 1 -
+/.well-known/pki-validation/install.php 2 -
+/.well-known/pki-validation/xmrlpc.php 2 -
+/.well-known/pki-validation/afnew.php 1 -
+/.well-known/pki-validation/sx.php 1 -
+/.well-known/pki-validation/parx.php 1 -
+/.well-known/pki-validation/about.php 6 -
+/.well-known/acme-challenge/alfacgiapi 1 -
+/.well-known/pki-validation/github.php 1 -
+/.well-known/pki-validation/file.php 2 -
+/.well-known/pki-validation/admin.php 1 -
+/.well-known/pki-validation/ALFA_DATA/alfacgiapi 1 -
+/.well-known/pki-validation/wp-login.php 2 -
+END_SIDER_404
+
+# Host - Pages - Hits - Bandwidth - Last visit date - [Start date of last visit] - [Last page of last visit]
+# [Start date of last visit] and [Last page of last visit] are saved only if session is not finished
+# The 25 first Hits must be first (order not required for others)
+BEGIN_VISITOR 102
+87.120.127.64 842 842 575522 20250207210325
+213.136.78.38 622 622 2131800 20250225111259
+74.225.211.171 300 300 1059894 20250208192249
+20.192.14.20 208 208 710600 20250225050018
+98.70.120.201 208 208 710600 20250216181839
+4.247.182.186 207 207 710600 20250214123747
+143.110.183.202 204 204 708598 20250220013248
+137.184.211.150 104 104 355300 20250227161039
+159.65.151.87 104 104 355300 20250219001132
+2.56.164.116 104 104 355300 20250223042602
+139.59.75.133 104 104 355300 20250222043828
+159.223.173.64 104 104 355300 20250225194940
+143.110.252.136 104 104 355300 20250216123132
+144.91.70.1 104 104 355300 20250228043215
+74.225.136.71 104 104 355300 20250225150217
+74.225.216.3 104 104 355300 20250222162628
+128.199.27.63 104 104 355300 20250217013959
+104.236.206.165 104 104 355300 20250220141051
+128.199.21.27 100 100 353298 20250204173550
+159.89.171.3 100 100 353298 20250203225038
+52.172.205.5 100 100 353298 20250203205716
+64.227.143.182 100 100 353298 20250208111233
+45.154.98.17 100 100 353298 20250204184746
+167.99.118.9 99 99 352632 20250201000253
+159.65.152.73 67 67 304205 20250227123207
+13.71.23.36 1 1 7624 20250210115822
+212.30.37.94 1 1 1573 20250217185648
+212.30.37.113 2 2 3255 20250222040047
+104.196.41.136 0 1 285334 
+212.30.37.82 1 1 0 20250221155811
+107.161.179.87 2 2 0 20250225170034
+212.30.37.97 3 3 16172 20250217191944
+34.48.51.96 0 1 285334 
+104.196.176.143 0 1 285334 
+212.30.37.91 2 2 1571 20250217191902
+212.30.37.89 3 3 850 20250217191848
+159.203.13.16 1 1 7624 20250210135118
+34.145.20.54 0 1 285334 
+212.30.37.104 2 2 51761 20250221155731
+212.30.37.109 1 1 0 20250217190226
+212.30.37.76 6 6 30404 20250217191946
+212.30.37.101 2 2 2522 20250217191951
+212.30.37.108 3 3 2013 20250217191939
+212.30.37.78 1 1 2538 20250217191658
+34.83.63.128 0 1 285334 
+212.30.37.73 4 4 26393 20250217192218
+212.30.37.70 3 3 6573 20250217192153
+217.160.11.27 3 3 22872 20250210092439
+34.58.159.13 2 2 15248 20250210075523
+195.154.191.141 1 1 0 20250203212449
+212.30.37.103 1 1 1270 20250217191943
+212.30.37.77 5 5 20996 20250221155731
+212.30.37.6 3 3 666 20250217191251
+13.229.59.101 10 10 0 20250210135552
+212.30.37.96 2 2 0 20250217192115
+212.30.37.98 3 3 5420 20250217191830
+212.30.37.114 2 2 4621 20250217191947
+212.30.37.93 4 4 5873 20250217191832
+212.30.37.90 1 1 1706 20250217191915
+212.30.37.75 2 2 20550 20250217191817
+45.13.191.91 1 1 0 20250213032206
+212.30.37.71 2 2 1164 20250217191804
+212.30.37.111 1 1 637 20250217184855
+183.90.183.46 2 2 1500 20250228224417
+34.150.159.244 0 1 285334 
+34.138.6.253 0 1 285334 
+34.59.0.159 0 1 285334 
+212.30.37.68 1 1 51095 20250217185914
+212.30.37.110 2 2 2013 20250217191941
+212.30.37.66 4 4 3500 20250217192358
+212.30.37.87 1 1 18683 20250217185906
+196.251.84.62 9 9 74627 20250214183328
+212.30.37.92 1 1 0 20250217191528
+212.30.37.84 2 2 8335 20250217191949
+45.13.191.83 1 1 0 20250213032213
+212.30.37.107 2 2 16308 20250217191014
+45.13.191.115 1 1 20996 20250213032204
+34.86.249.42 0 1 285334 
+212.30.37.105 2 2 3877 20250217192217
+212.30.37.99 2 2 3144 20250217185713
+212.30.37.106 1 1 1182 20250217191734
+14.215.163.132 1 1 7624 20250210090552
+212.30.37.85 3 3 53651 20250217191926
+45.130.145.4 3 3 22872 20250210135340
+206.189.38.213 1 1 0 20250216230800
+194.163.129.207 2 2 0 20250225145844
+212.30.37.100 2 2 0 20250221155750
+212.30.37.72 2 2 1181 20250217191829
+212.30.37.65 3 3 16308 20250217192006
+194.182.86.110 1 1 20996 20250204175304
+34.55.207.168 0 1 285334 
+34.38.97.6 0 1 285334 
+212.30.37.67 4 4 0 20250221155739
+212.30.37.79 3 3 0 20250217191420
+34.136.162.141 0 1 285334 
+212.30.37.64 2 2 1164 20250217191816
+34.145.199.255 0 1 285334 
+130.211.73.26 0 1 285334 
+212.30.37.80 2 2 23534 20250222040049
+212.30.37.112 4 4 5273 20250217191950
+212.30.37.83 4 4 4383 20250221155747
+212.30.37.88 5 5 6037 20250217190956
+END_VISITOR
+
+# Date - Pages - Hits - Bandwidth - Visits
+BEGIN_DAY 23
+20250201 99 99 352632 1
+20250203 201 202 991930 3
+20250204 401 401 1434188 5
+20250207 842 843 860856 1
+20250208 300 300 1059894 3
+20250209 0 2 570668 0
+20250210 21 21 83864 7
+20250211 0 1 285334 0
+20250213 107 109 946964 4
+20250214 216 217 1070561 3
+20250215 104 104 355300 1
+20250216 209 210 995934 3
+20250217 208 208 710600 46
+20250219 104 105 640634 1
+20250220 209 209 710600 3
+20250221 213 213 761695 8
+20250222 210 211 1017735 4
+20250223 208 208 710600 2
+20250224 207 208 995934 2
+20250225 419 419 1421200 6
+20250226 0 1 285334 0
+20250227 171 171 659505 2
+20250228 106 107 642134 2
+END_DAY
+
+# Session range - Number of visits
+BEGIN_SESSION 6
+30mn-1h 4
+15mn-30mn 20
+5mn-15mn 37
+30s-2mn 5
+0s-30s 38
+2mn-5mn 3
+END_SESSION
+
+# URL - Pages - Bandwidth - Entry - Exit
+# The 25 first Pages must be first (order not required for others)
+BEGIN_SIDER 482
+/wp-admin/includes/ 76 1595696 5 3
+/wp-admin/maint/ 74 59570 3 1
+/wp-includes/ 73 3717835 4 2
+/wp-includes/Text/Diff/Engine/ 72 99216 0 2
+/wp-includes/sitemaps/ 72 144936 0 2
+/wp-includes/PHPMailer/ 72 85104 1 1
+/wp-includes/sitemaps/providers/ 72 91440 1 2
+/wp-content/languages/ 72 1169896 2 0
+/wp-admin/css/ 72 1394568 36 0
+/wp-includes/IXR/ 72 182736 2 2
+/wp-includes/pomo/ 72 122832 1 2
+/wp-includes/widgets/ 72 332712 0 2
+/wp-includes/Text/Diff/ 72 85032 0 2
+/wp-includes/ID3/ 72 291024 0 0
+/wp-includes/Text/ 72 80188 0 2
+/wp-includes/fonts/ 72 181584 0 1
+/wp-includes/Text/Diff/Renderer/ 72 61200 0 1
+/wp-includes/fonts.php 37 0 1 2
+/wp-includes/class-avif-info.php 37 0 2 1
+/wp-includes/class-wp-token-map.php 37 0 2 1
+/wp-includes/script-modules.php 37 0 1 1
+/.well-known/ 36 35208 0 36
+/wp-admin/css/colors/ectoplasm/ 36 56700 1 0
+/wp-includes/images/smilies/ 36 194292 0 1
+/wp-content/languages/admin-network-es_ES.l10n.php 36 0 1 0
+/wp-content/plugins/elementor/includes/controls/choose.php 2 0 0 0
+/wp-content/plugins/elementor/modules/notes/module.php 2 0 0 0
+/wp-content/plugins/elementor/modules/styleguide/ 2 2152 0 0
+/wp-content/plugins/elementor/data/v2/manager.php 2 0 0 0
+/wp-content/plugins/elementor/includes/controls/number.php 2 0 0 0
+/wp-includes/class-wp-duotone.php 35 0 1 0
+/wp-content/plugins/elementor/includes/widgets/menu-anchor.php 2 0 0 0
+/wp-content/plugins/elementor/modules/safe-mode/ 2 2150 0 0
+/wp-content/plugins/elementor/core/behaviors/ 2 1778 0 0
+/wp-content/plugins/elementor/modules/history/revisions-manager.php 2 0 0 0
+/wp-content/plugins/elementor/core/base/ 2 5460 0 0
+/wp-content/plugins/elementor/modules/system-info/module.php 2 0 0 0
+/wp-content/plugins/elementor/includes/widgets/divider.php 2 0 0 0
+/wp-content/plugins/elementor/core/files/manager.php 2 0 0 0
+/wp-includes/class-wpdb.php 35 0 0 0
+/wp-content/plugins/elementor/modules/atomic-widgets/image-sizes.php 2 0 0 0
+/wp-content/plugins/elementor/modules/kit-elements-defaults/usage.php 2 0 0 0
+/wp-content/plugins/elementor/includes/controls/icon.php 2 0 0 0
+/wp-content/plugins/elementor/core/isolation/plugin-status-adapter-interface.php 2 0 0 0
+/wp-content/plugins/elementor/includes/elements/repeater.php 2 0 0 0
+/wp-content/plugins/elementor/assets/ 4 8340 0 0
+/wp-content/plugins/elementor/includes/widgets/accordion.php 2 0 0 0
+/wp-content/plugins/elementor/modules/history/module.php 2 0 0 0
+/wp-content/plugins/elementor/includes/widgets/icon.php 2 0 0 0
+/wp-content/plugins/elementor/core/files/uploads-manager.php 2 0 0 0
+/wp-content/plugins/elementor/modules/elementor-counter/module.php 2 0 0 0
+/wp-content/plugins/elementor/includes/editor-templates/repeater.php 2 0 0 0
+/wp-content/plugins/duplicate-page/css/ 4 4272 0 0
+/wp-includes/https-detection.php 35 0 0 0
+/wp-content/plugins/elementor/modules/apps/admin-menu-apps.php 2 0 0 0
+/wp-content/plugins/elementor/vendor_prefixed/ 2 2460 0 0
+/wp-content/plugins/elementor/modules/apps/admin-apps-page.php 2 0 0 0
+/wp-content/plugins/elementor/includes/maintenance-mode.php 4 0 0 0
+/wp-includes/class-wp-block-parser-block.php 35 0 0 0
+/wp-content/plugins/elementor/includes/editor-templates/hotkeys.php 2 0 0 0
+/wp-content/plugins/elementor/modules/home/ 2 2844 0 0
+/wp-content/plugins/elementor/modules/global-classes/global-classes-repository.php 2 0 0 0
+/wp-content/plugins/elementor/assets/lib/ 2 9644 0 0
+/wp-content/plugins/duplicate-page/ 3 5193 0 1
+/wp-includes/images/media/ 36 139572 0 1
+/wp-content/plugins/elementor/core/upgrade/upgrades.php 2 0 0 0
+/wp-content/plugins/elementor/includes/settings/ 2 3620 0 0
+/wp-includes/block-bindings.php 35 0 0 0
+/wp-content/languages/continents-cities-es_ES.l10n.php 36 0 0 0
+/wp-content/plugins/elementor/core/dynamic-tags/tag.php 2 0 0 0
+/wp-includes/class-wp-theme-json-data.php 35 0 0 0
+/wp-content/plugins/elementor/modules/content-sanitizer/ 2 2184 0 0
+/wp-content/plugins/elementor/includes/controls/deprecated-notice.php 2 0 0 0
+/wp-content/plugins/elementor/core/upgrade/ 2 3968 0 0
+/wp-content/plugins/elementor/includes/controls/icons.php 2 0 0 0
+/wp-content/plugins/elementor/modules/editor-events/ 2 1810 0 0
+/wp-content/plugins/elementor/modules/image-loading-optimization/module.php 2 0 0 0
+/wp-content/plugins/elementor/core/experiments/wp-cli.php 2 0 0 0
+/wp-includes/theme-templates.php 35 0 1 1
+/wp-includes/fonts/class-wp-font-face-resolver.php 36 0 0 1
+/wp-content/plugins/elementor/modules/element-manager/options.php 2 0 0 0
+/wp-content/plugins/elementor/core/base/background-task.php 2 0 0 0
+/wp-content/plugins/elementor/includes/managers/controls.php 2 0 0 0
+/wp-content/plugins/elementor/includes/widgets/inner-section.php 2 0 0 0
+/wp-content/plugins/elementor/includes/preview.php 4 0 0 0
+/wp-content/plugins/elementor/modules/editor-events/module.php 2 0 0 0
+/wp-content/plugins/elementor/core/document-types/ 2 2506 0 0
+/wp-content/plugins/elementor/includes/controls/color.php 2 0 0 0
+/wp-content/plugins/elementor/modules/ 4 38224 0 0
+/wp-includes/class-wp-navigation-fallback.php 35 0 0 0
+/wp-content/plugins/elementor/includes/controls/gallery.php 2 0 0 0
+/wp-content/plugins/elementor/includes/managers/icons.php 2 0 0 0
+/wp-content/plugins/elementor/modules/element-cache/module.php 2 0 0 0
+/wp-content/plugins/elementor/modules/container-converter/ 2 1834 0 0
+/wp-includes/style-engine.php 35 0 1 0
+/wp-content/uploads/ 36 67860 1 0
+/wp-includes/class-wp-classic-to-block-menu-converter.php 34 0 1 0
+/wp-content/plugins/elementor/includes/controls/gaps.php 2 0 0 0
+/wp-content/plugins/elementor/includes/base/ 2 3272 0 0
+/wp-content/plugins/elementor/app/ 4 5580 0 0
+/wp-content/plugins/elementor/modules/gutenberg/ 2 1794 0 0
+/wp-admin/images/ 36 536472 1 0
+/wp-includes/js/plupload/ 36 82008 0 1
+/wp-content/plugins/elementor/core/upgrade/task.php 2 0 0 0
+/wp-content/plugins/elementor/includes/widgets/spacer.php 2 0 0 0
+/wp-content/plugins/elementor/elementor.php 2 0 0 0
+/wp-content/plugins/elementor/core/upgrade/custom-tasks-manager.php 2 0 0 0
+/wp-admin/includes/bookmark.php 1 0 1 1
+/wp-content/plugins/elementor/includes/container/config.php 2 0 0 0
+/wp-content/plugins/elementor/modules/site-navigation/ 2 2524 0 0
+/wp-content/plugins/elementor/modules/editor-app-bar/ 2 1814 0 0
+/wp-includes/images/ 36 207648 0 1
+/cgi-sys/suspendedpage.cgi 21 83864 7 7
+/wp-content/plugins/elementor/core/document-types/page-base.php 2 0 0 0
+/wp-content/plugins/elementor/core/utils/assets-translation-loader.php 2 0 0 0
+/wp-content/plugins/elementor/modules/element-manager/ajax.php 2 0 0 0
+/wp-content/plugins/elementor/includes/plugin.php 4 0 0 0
+/wp-content/plugins/elementor/includes/rollback.php 4 0 0 0
+/wp-content/plugins/elementor/modules/wp-cli/ 2 3218 0 0
+/wp-content/plugins/elementor/includes/admin-templates/beta-tester.php 2 0 0 0
+/wp-content/plugins/elementor/core/base/module.php 2 0 0 0
+/wp-content/plugins/elementor/core/logger/log-reporter.php 2 0 0 0
+/wp-content/plugins/elementor/modules/checklist/module.php 2 0 0 0
+/wp-content/ 1 0 1 1
+/wp-includes/fonts/class-wp-font-library.php 36 0 0 0
+/wp-content/plugins/elementor/includes/controls/code.php 2 0 0 0
+/wp-content/plugins/elementor/core/upgrade/updater.php 2 0 0 0
+/wp-admin/js/widgets/ 36 119268 1 0
+/wp-content/plugins/elementor/includes/widgets/image-box.php 2 0 0 0
+/wp-content/plugins/elementor/core/document-types/page.php 2 0 0 0
+/wp-content/plugins/elementor/core/base/db-upgrades-manager.php 2 0 0 0
+/wp-content/plugins/elementor/core/settings/manager.php 2 0 0 0
+/wp-content/plugins/elementor/app/modules/ 2 2848 0 0
+/wp-content/plugins/elementor/data/base/endpoint.php 2 0 0 0
+/wp-includes/class-wp-block-editor-context.php 35 0 1 1
+/wp-content/plugins/elementor/includes/widgets/testimonial.php 2 0 0 0
+/wp-content/plugins/elementor/core/admin/admin-notices.php 2 0 0 0
+/wp-content/plugins/elementor/modules/nested-tabs/ 2 2154 0 0
+/wp-content/plugins/elementor/includes/base/sub-controls-stack.php 2 0 0 0
+/wp-includes/class-wp-dependencies.php 35 0 1 0
+/wp-content/plugins/elementor/modules/favorites/module.php 2 0 0 0
+/wp-content/plugins/elementor/core/frontend/render-mode-manager.php 2 0 0 0
+/wp-content/plugins/elementor/core/debug/ 2 2520 0 0
+/wp-content/plugins/elementor/core/utils/assets-config-provider.php 2 0 0 0
+/wp-content/plugins/elementor/includes/widgets/html.php 2 0 0 0
+/wp-content/plugins/elementor/modules/ai/ 2 3226 0 0
+/wp-content/plugins/elementor/modules/favorites/favorites-type.php 2 0 0 0
+/wp-content/plugins/elementor/core/frontend/performance.php 2 0 0 0
+/wp-content/plugins/elementor/core/isolation/wordpress-adapter-interface.php 2 0 0 0
+/wp-content/plugins/elementor/includes/maintenance.php 4 0 0 0
+/wp-content/plugins/elementor/core/admin/canary-deployment.php 2 0 0 0
+/wp-content/plugins/elementor/includes/controls/tab.php 2 0 0 0
+/wp-content/plugins/elementor/modules/element-manager/module.php 2 0 0 0
+/wp-content/plugins/elementor/core/ 4 20512 0 0
+/wp-content/plugins/elementor/includes/controls/base.php 2 0 0 0
+/wp-content/plugins/elementor/app/admin-menu-items/ 2 1838 0 0
+/wp-includes/class-wp-plugin-dependencies.php 35 0 1 0
+/wp-content/plugins/elementor/core/role-manager/ 2 2194 0 0
+/wp-content/plugins/elementor/core/editor/editor.php 2 0 0 0
+/wp-content/uploads/2025/01/ 36 23976 1 0
+/wp-content/plugins/elementor/includes/widgets/common-optimized.php 2 0 0 0
+/wp-content/plugins/elementor/core/admin/feedback.php 2 0 0 0
+/wp-content/plugins/elementor/core/utils/isolation-manager.php 2 0 0 0
+/wp-content/plugins/elementor/includes/widgets/common.php 2 0 0 0
+/wp-content/plugins/elementor/modules/lazyload/module.php 2 0 0 0
+/wp-content/plugins/elementor/modules/ai/preferences.php 2 0 0 0
+/wp-content/plugins/elementor/includes/controls/alert.php 2 0 0 0
+/wp-includes/class-wp-block-bindings-source.php 35 0 0 0
+/wp-content/plugins/elementor/includes/widgets/read-more.php 2 0 0 0
+/wp-includes/fonts/class-wp-font-utils.php 35 0 0 1
+/wp-content/plugins/elementor/includes/controls/heading.php 2 0 0 0
+/wp-content/plugins/elementor/includes/controls/switcher.php 2 0 0 0
+/wp-admin/css/colors/light/ 36 56412 0 0
+/wp-content/plugins/elementor/modules/home/api.php 2 0 0 0
+/wp-content/plugins/elementor/includes/controls/tabs.php 2 0 0 0
+/wp-content/plugins/elementor/includes/controls/base-units.php 2 0 0 0
+/wp-content/plugins/elementor/core/common/app.php 2 0 0 0
+/wp-content/plugins/elementor/includes/settings/controls.php 2 0 0 0
+/wp-content/plugins/elementor/includes/conditions.php 4 0 0 0
+/wp-content/plugins/elementor/core/utils/hints.php 2 0 0 0
+/wp-content/plugins/elementor/modules/notifications/module.php 2 0 0 0
+/wp-content/plugins/elementor/app/admin-menu-items/theme-builder-menu-item.php 2 0 0 0
+/wp-content/plugins/elementor/app/view.php 4 0 0 0
+/wp-content/plugins/elementor/includes/widgets/button.php 2 0 0 0
+/wp-content/plugins/elementor/core/editor/ 2 3186 0 0
+/wp-content/plugins/elementor/core/debug/loading-inspection-manager.php 2 0 0 0
+/wp-content/plugins/elementor/modules/apps/admin-pointer.php 2 0 0 0
+/wp-content/plugins/elementor/modules/promotions/ 2 3246 0 0
+/wp-content/plugins/elementor/includes/interfaces/group-control.php 2 0 0 0
+/wp-content/plugins/elementor/includes/controls/popover-toggle.php 2 0 0 0
+/wp-content/languages/es_ES.l10n.php 36 0 1 0
+/wp-content/plugins/elementor/assets/data/ 2 1794 0 0
+/wp-content/plugins/elementor/includes/widgets/ 2 14414 0 0
+/wp-content/plugins/elementor/modules/compatibility-tag/compatibility-tag.php 2 0 0 0
+/wp-content/plugins/elementor/core/app/ 2 2098 0 0
+/wp-content/plugins/elementor/includes/container/container.php 2 0 0 0
+/wp-content/plugins/elementor/modules/compatibility-tag/module.php 2 0 0 0
+/wp-content/plugins/elementor/includes/widgets/text-editor.php 2 0 0 0
+/wp-content/plugins/elementor/includes/controls/button.php 2 0 0 0
+/wp-admin/css/colors/blue/ 36 56340 1 0
+/wp-content/plugins/elementor/includes/admin-templates/new-floating-elements.php 2 0 0 0
+/wp-content/plugins/elementor/core/isolation/ 2 4208 0 0
+/wp-content/plugins/elementor/includes/widgets/social-icons.php 2 0 0 0
+/wp-includes/css/ 36 300060 0 1
+/wp-content/plugins/elementor/includes/controls/url.php 2 0 0 0
+/wp-content/plugins/elementor/includes/editor-templates/templates.php 2 0 0 0
+/wp-content/plugins/elementor/core/responsive/ 2 2136 0 0
+/wp-content/plugins/elementor/includes/autoloader.php 4 0 0 0
+/wp-content/plugins/elementor/includes/elements/container.php 2 0 0 0
+/wp-content/plugins/elementor/vendor/ 2 2092 0 0
+/wp-content/plugins/elementor/includes/widgets/video.php 2 0 0 0
+/wp-content/plugins/elementor/core/utils/str.php 2 0 0 0
+/wp-content/plugins/elementor/core/files/ 2 3888 0 0
+/wp-content/plugins/elementor/modules/elements-color-picker/ 2 1842 0 0
+/wp-content/plugins/elementor/includes/compatibility.php 4 0 0 0
+/wp-content/plugins/elementor/modules/notes/ 2 1778 0 0
+/wp-content/plugins/duplicate-page/inc/ 4 3536 0 0
+/wp-content/plugins/elementor/modules/wc-product-editor/ 2 1826 0 0
+/wp-content/plugins/elementor/includes/controls/raw-html.php 2 0 0 0
+/wp-content/plugins/elementor/includes/elements/column.php 2 0 0 0
+/wp-admin/css/colors/midnight/ 36 56628 1 1
+/wp-content/plugins/elementor/includes/editor-templates/editor-wrapper.php 2 0 0 0
+/wp-content/plugins/elementor/includes/managers/ 2 3958 0 0
+/wp-content/plugins/elementor/core/editor/promotion.php 2 0 0 0
+/wp-content/plugins/elementor/includes/ 4 26500 0 0
+/wp-content/plugins/elementor/modules/element-manager/ 2 2900 0 0
+/wp-content/plugins/elementor/data/base/ 2 3210 0 0
+/wp-admin/js/ 36 672588 1 1
+/wp-includes/https-migration.php 35 0 1 1
+/wp-content/plugins/elementor/core/breakpoints/ 2 2150 0 0
+/wp-content/plugins/elementor/core/kits/ 2 2816 0 0
+/wp-content/plugins/elementor/includes/controls/box-shadow.php 2 0 0 0
+/wp-includes/theme-previews.php 35 0 0 0
+/wp-content/plugins/elementor/modules/usage/ 2 2528 0 0
+/wp-content/plugins/elementor/modules/notifications/options.php 2 0 0 0
+/wp-includes/class-wp-block-bindings-registry.php 35 0 0 0
+/wp-content/plugins/elementor/includes/widgets/star-rating.php 2 0 0 0
+/wp-content/plugins/elementor/modules/library/module.php 2 0 0 0
+/wp-includes/class-wp-block-metadata-registry.php 25 0 1 0
+/wp-content/plugins/elementor/includes/controls/animation.php 2 0 0 0
+/wp-content/plugins/elementor/modules/nested-accordion/ 2 2174 0 0
+/wp-includes/block-editor.php 35 0 1 0
+/wp-content/plugins/elementor/core/dynamic-tags/manager.php 2 0 0 0
+/wp-content/plugins/elementor/modules/announcements/module.php 2 0 0 0
+/wp-content/plugins/elementor/includes/controls/hover-animation.php 2 0 0 0
+/wp-content/plugins/elementor/modules/apps/ 2 2892 0 0
+/wp-content/plugins/elementor/modules/shapes/module.php 2 0 0 0
+/wp-content/plugins/elementor/modules/dev-tools/module.php 2 0 0 0
+/wp-content/plugins/elementor/core/utils/static-collection.php 2 0 0 0
+/wp-content/plugins/elementor/includes/controls/base-ui.php 2 0 0 0
+/wp-content/plugins/elementor/modules/generator-tag/module.php 2 0 0 0
+/wp-cron.php 2 0 2 2
+/wp-content/plugins/elementor/includes/editor-templates/global.php 2 0 0 0
+/wp-content/plugins/elementor/modules/generator-tag/ 2 1810 0 0
+/wp-content/plugins/elementor/modules/global-classes/ 2 3378 0 0
+/wp-content/plugins/elementor/includes/controls/wp-widget.php 2 0 0 0
+/wp-content/plugins/elementor/includes/editor-templates/responsive-bar.php 2 0 0 0
+/wp-content/plugins/elementor/includes/widgets/icon-box.php 2 0 0 0
+/wp-content/plugins/elementor/app/app.php 4 0 0 0
+/wp-content/plugins/elementor/ 2 5944 0 0
+/wp-content/plugins/elementor/modules/elements-color-picker/module.php 2 0 0 0
+/wp-content/plugins/elementor/assets/mask-shapes/ 2 3578 0 0
+/wp-includes/images/crystal/ 36 88200 1 1
+/wp-content/plugins/elementor/core/utils/exceptions.php 2 0 0 0
+/wp-content/plugins/elementor/core/isolation/elementor-counter-adapter-interface.php 2 0 0 0
+/wp-content/plugins/elementor/modules/global-classes/module.php 2 0 0 0
+/wp-content/plugins/elementor/includes/api.php 4 0 0 0
+/wp-content/plugins/elementor/modules/library/ 2 2864 0 0
+/wp-content/plugins/elementor/modules/checklist/checklist-module-interface.php 2 0 0 0
+/wp-content/plugins/elementor/modules/shapes/ 2 2134 0 0
+/wp-includes/class-wp-textdomain-registry.php 35 0 0 0
+/wp-content/plugins/elementor/modules/dynamic-tags/ 2 1806 0 0
+/wp-content/plugins/elementor/includes/widgets/toggle.php 2 0 0 0
+/wp-content/plugins/elementor/modules/dynamic-tags/module.php 2 0 0 0
+/wp-content/plugins/elementor/core/app/app.php 2 0 0 0
+/wp-content/plugins/elementor/core/experiments/manager.php 2 0 0 0
+/wp-content/plugins/elementor/modules/home/module.php 2 0 0 0
+/wp-content/plugins/elementor/includes/base/widget-base.php 2 0 0 0
+/wp-content/plugins/elementor/core/role-manager/role-manager-menu-item.php 2 0 0 0
+/wp-content/plugins/elementor/core/modules-manager.php 4 0 0 0
+/wp-content/plugins/elementor/modules/wp-rest/ 2 2138 0 0
+/wp-content/uploads/2025/02/ 35 23310 1 1
+/wp-content/plugins/elementor/includes/widgets/wordpress.php 2 0 0 0
+/wp-content/plugins/elementor/core/logger/manager.php 2 0 0 0
+/wp-content/plugins/elementor/modules/library/user-favorites.php 2 0 0 0
+/wp-content/plugins/elementor/modules/notifications/ 2 2518 0 0
+/wp-content/plugins/elementor/modules/safe-mode/module.php 2 0 0 0
+/wp-content/plugins/elementor/modules/floating-buttons/module.php 2 0 0 0
+/wp-content/plugins/elementor/data/v2/ 2 2096 0 0
+/wp-content/plugins/elementor/core/editor/notice-bar.php 2 0 0 0
+/wp-content/plugins/elementor/modules/kit-elements-defaults/module.php 2 0 0 0
+/wp-content/plugins/elementor/modules/ai/module.php 2 0 0 0
+/wp-content/plugins/elementor/core/upgrade/custom-tasks.php 2 0 0 0
+/wp-content/plugins/elementor/modules/performance-lab/module.php 2 0 0 0
+/wp-content/plugins/elementor/core/documents-manager.php 4 0 0 0
+/wp-content/plugins/elementor/includes/widgets/common-base.php 2 0 0 0
+/wp-content/plugins/elementor/includes/controls/exit-animation.php 2 0 0 0
+/wp-content/plugins/elementor/includes/controls/font.php 2 0 0 0
+/wp-includes/css/dist/ 36 133488 0 1
+/wp-content/plugins/elementor/modules/floating-buttons/ 2 3950 0 0
+/wp-includes/class-wp-exception.php 27 0 1 1
+/wp-content/plugins/elementor/core/utils/collection.php 2 0 0 0
+/wp-content/plugins/elementor/modules/wc-product-editor/module.php 2 0 0 0
+/wp-includes/block-template.php 35 0 0 0
+/wp-content/plugins/elementor/includes/editor-templates/panel.php 2 0 0 0
+/wp-content/plugins/elementor/modules/element-cache/ 2 1810 0 0
+/wp-content/plugins/elementor/includes/controls/select2.php 2 0 0 0
+/wp-includes/robots-template.php 35 0 0 1
+/wp-includes/global-styles-and-settings.php 35 0 1 0
+/wp-includes/class-wp-theme-json-resolver.php 35 0 0 1
+/wp-content/plugins/duplicate-page/languages/ 4 11256 0 1
+/wp-content/plugins/elementor/includes/controls/wysiwyg.php 2 0 0 0
+/wp-includes/class-wp-block-parser-frame.php 35 0 0 0
+/wp-content/plugins/elementor/modules/usage/module.php 2 0 0 0
+/wp-content/plugins/elementor/modules/notifications/api.php 2 0 0 0
+/wp-content/plugins/elementor/core/experiments/ 2 3676 0 0
+/wp-content/plugins/elementor/includes/widgets/image-carousel.php 2 0 0 0
+/wp-content/plugins/elementor/includes/template-library/manager.php 2 0 0 0
+/wp-content/plugins/elementor/modules/admin-bar/module.php 2 0 0 0
+/wp-content/plugins/elementor/includes/controls/select.php 2 0 0 0
+/wp-content/plugins/elementor/modules/compatibility-tag/base-module.php 2 0 0 0
+/wp-content/plugins/elementor/includes/controls/date-time.php 2 0 0 0
+/wp-content/plugins/elementor/modules/compatibility-tag/compatibility-tag-report.php 2 0 0 0
+/wp-content/plugins/elementor/includes/widgets/image-gallery.php 2 0 0 0
+/wp-includes/class-wp-script-modules.php 35 0 1 0
+/wp-content/plugins/elementor/modules/landing-pages/ 2 2536 0 0
+/wp-content/plugins/index.php 1 0 1 1
+/wp-admin/css/colors/coffee/ 36 56484 1 0
+/wp-admin/admin-ajax.php 2 1500 1 1
+/wp-content/plugins/elementor/includes/controls/textarea.php 2 0 0 0
+/wp-content/plugins/elementor/modules/kit-elements-defaults/ 2 3254 0 0
+/wp-content/plugins/elementor/includes/tracker.php 4 0 0 0
+/wp-content/plugins/elementor/modules/nested-accordion/module.php 2 0 0 0
+/wp-content/plugins/elementor/core/page-assets/loader.php 2 0 0 0
+/wp-content/plugins/ 4 0 2 1
+/wp-content/plugins/elementor/core/utils/force-locale.php 2 0 0 0
+/wp-content/plugins/elementor/core/upgrade/upgrade-utils.php 2 0 0 0
+/wp-content/plugins/elementor/modules/global-classes/global-classes-injector.php 2 0 0 0
+/wp-includes/js/codemirror/ 36 75780 0 0
+/wp-content/plugins/elementor/includes/admin-templates/new-template.php 2 0 0 0
+/wp-content/plugins/elementor/core/common/ 2 2110 0 0
+/wp-content/plugins/elementor/includes/widgets/google-maps.php 2 0 0 0
+/wp-content/plugins/elementor/includes/base/controls-stack.php 2 0 0 0
+/wp-content/plugins/elementor/includes/controls/ 2 18690 0 0
+/wp-content/plugins/elementor/modules/gutenberg/module.php 2 0 0 0
+/wp-content/plugins/elementor/modules/image-loading-optimization/ 2 1862 0 0
+/wp-includes/block-template-utils.php 35 0 1 0
+/wp-content/plugins/elementor/core/experiments/non-existing-dependency.php 2 0 0 0
+/wp-content/plugins/elementor/modules/nested-elements/ 2 2518 0 0
+/wp-content/plugins/elementor/includes/beta-testers.php 4 0 0 0
+/wp-content/plugins/elementor/includes/controls/structure.php 2 0 0 0
+/wp-content/plugins/elementor/includes/controls/image-dimensions.php 2 0 0 0
+/wp-content/plugins/elementor/modules/element-manager/admin-menu-app.php 2 0 0 0
+/wp-content/plugins/elementor/modules/site-navigation/module.php 2 0 0 0
+/wp-admin/includes/ajax-actions.php 1 0 1 1
+/wp-content/plugins/elementor/modules/link-in-bio/module.php 2 0 0 0
+/wp-content/plugins/elementor/modules/page-templates/module.php 2 0 0 0
+/wp-admin/css/colors/ 36 93060 0 0
+/wp-content/plugins/elementor/modules/nested-tabs/module.php 2 0 0 0
+/wp-content/plugins/elementor/core/base/app.php 2 0 0 0
+/wp-content/plugins/elementor/includes/stylesheet.php 4 0 0 0
+/wp-content/plugins/elementor/modules/link-in-bio/ 2 2852 0 0
+/wp-content/plugins/elementor/modules/lazyload/ 2 1790 0 0
+/wp-content/plugins/elementor/core/page-assets/ 2 2148 0 0
+/wp-content/plugins/elementor/includes/base/skin-base.php 2 0 0 0
+/wp-content/plugins/elementor/includes/editor-templates/library-layout.php 2 0 0 0
+/wp-content/plugins/elementor/modules/dev-tools/ 2 2160 0 0
+/wp-content/plugins/elementor/modules/wp-rest/module.php 2 0 0 0
+/wp-content/plugins/elementor/modules/checklist/steps-manager.php 2 0 0 0
+/wp-content/plugins/elementor/core/dynamic-tags/ 2 3226 0 0
+/wp-includes/blocks/ 26 52 0 1
+/wp-content/plugins/elementor/core/dynamic-tags/data-tag.php 2 0 0 0
+/wp-content/plugins/elementor/core/breakpoints/manager.php 2 0 0 0
+/wp-content/plugins/elementor/includes/controls/base-icon-font.php 2 0 0 0
+/wp-content/plugins/elementor/modules/admin-bar/ 2 1794 0 0
+/wp-content/plugins/elementor/includes/settings/settings-page.php 2 0 0 0
+/wp-content/plugins/elementor/modules/global-classes/global-classes-rest-api.php 2 0 0 0
+/wp-content/plugins/elementor/includes/elements/ 2 2876 0 0
+/wp-content/plugins/elementor/includes/widgets/heading.php 2 0 0 0
+/wp-content/plugins/elementor/modules/content-sanitizer/module.php 2 0 0 0
+/wp-content/plugins/elementor/assets/shapes/ 2 12102 0 0
+/wp-content/plugins/elementor/includes/db.php 4 0 0 0
+/wp-content/plugins/elementor/includes/widgets/counter.php 2 0 0 0
+/wp-content/plugins/elementor/modules/web-cli/ 2 1786 0 0
+/wp-content/plugins/elementor/includes/widgets/icon-list.php 2 0 0 0
+/wp-content/plugins/elementor/core/base/background-task-manager.php 2 0 0 0
+/wp-admin/css/colors/modern/ 36 56484 0 1
+/wp-content/plugins/elementor/includes/controls/text.php 2 0 0 0
+/wp-content/plugins/elementor/modules/apps/module.php 2 0 0 0
+/wp-content/plugins/elementor/includes/widgets/progress.php 2 0 0 0
+/wp-content/plugins/elementor/includes/controls/repeater.php 2 0 0 0
+/wp-content/plugins/elementor/includes/shapes.php 4 0 0 0
+/wp-content/plugins/elementor/modules/checklist/ 2 3260 0 0
+/wp-content/plugins/elementor/modules/promotions/promotion-data.php 2 0 0 0
+/wp-content/plugins/elementor/includes/controls/hidden.php 2 0 0 0
+/wp-content/plugins/elementor/includes/editor-templates/navigator.php 2 0 0 0
+/wp-content/plugins/elementor/includes/editor-templates/panel-elements.php 2 0 0 0
+/wp-content/plugins/elementor/core/utils/ 2 6904 0 0
+/wp-content/plugins/elementor/core/wp-api.php 4 0 0 0
+/wp-admin/css/colors/ocean/ 36 56412 0 0
+/wp-content/plugins/elementor/includes/managers/skins.php 2 0 0 0
+/wp-content/plugins/elementor/modules/styleguide/module.php 2 0 0 0
+/wp-content/plugins/elementor/modules/performance-lab/ 2 1818 0 0
+/wp-content/plugins/elementor/modules/atomic-widgets/ 2 5374 0 0
+/wp-content/plugins/elementor/modules/wp-cli/module.php 2 0 0 0
+/wp-content/plugins/elementor/data/base/processor.php 2 0 0 0
+/wp-content/plugins/elementor/core/base/base-object.php 2 0 0 0
+/wp-content/plugins/elementor/assets/svg-paths/ 2 3550 0 0
+/wp-content/plugins/elementor/includes/controls/divider.php 2 0 0 0
+/wp-content/plugins/elementor/core/isolation/elementor-adapter-interface.php 2 0 0 0
+/wp-content/plugins/elementor/includes/controls/slider.php 2 0 0 0
+/wp-content/plugins/elementor/modules/web-cli/module.php 2 0 0 0
+/wp-content/plugins/elementor/modules/atomic-widgets/module.php 2 0 0 0
+/wp-content/plugins/elementor/modules/announcements/ 2 2516 0 0
+/wp-content/plugins/elementor/includes/base/element-base.php 2 0 0 0
+/wp-content/plugins/elementor/modules/system-info/ 2 3258 0 0
+/wp-content/plugins/elementor/core/experiments/wrap-core-dependency.php 2 0 0 0
+/wp-content/plugins/elementor/includes/admin-templates/ 2 2594 0 0
+/wp-content/plugins/elementor/modules/global-classes/global-classes.php 2 0 0 0
+/wp-content/upgrade/ 36 22932 1 1
+/wp-includes/fonts/class-wp-font-face.php 36 0 0 1
+/wp-content/plugins/elementor/core/settings/ 2 3192 0 0
+/wp-content/plugins/elementor/includes/container/ 2 2162 0 0
+/wp-content/plugins/elementor/data/manager.php 4 0 0 0
+/wp-content/plugins/elementor/assets/images/ 2 7652 0 0
+/wp-includes/fonts/class-wp-font-collection.php 35 0 0 1
+/wp-content/plugins/elementor/includes/interfaces/ 2 2190 0 0
+/wp-content/plugins/elementor/modules/page-templates/ 2 2170 0 0
+/wp-content/plugins/elementor/includes/widgets/tabs.php 2 0 0 0
+/wp-content/languages/admin-es_ES.l10n.php 36 0 1 0
+/wp-content/plugins/elementor/modules/history/ 2 2512 0 0
+/wp-content/plugins/elementor/includes/managers/wordpress-widgets.php 2 0 0 0
+/wp-content/plugins/elementor/modules/favorites/ 2 2878 0 0
+/wp-content/plugins/elementor/core/upgrade/manager.php 2 0 0 0
+/wp-content/plugins/elementor/includes/frontend.php 4 0 0 0
+/wp-content/plugins/elementor/includes/editor-templates/ 2 5112 0 0
+/wp-content/plugins/elementor/includes/controls/notice.php 2 0 0 0
+/wp-content/plugins/elementor/core/responsive/responsive.php 2 0 0 0
+/wp-content/plugins/elementor/modules/compatibility-tag/ 2 3316 0 0
+/wp-content/plugins/elementor/includes/controls/base-data.php 2 0 0 0
+/wp-content/plugins/elementor/includes/settings/validations.php 2 0 0 0
+/wp-content/plugins/elementor/core/files/base.php 2 0 0 0
+/wp-includes/class-wp-theme-json.php 35 0 0 0
+/wp-content/plugins/duplicate-page/js/ 4 4260 0 0
+/wp-content/plugins/elementor/core/logger/ 2 2834 0 0
+/wp-content/plugins/elementor/modules/admin-top-bar/ 2 1810 0 0
+/wp-content/plugins/elementor/includes/editor-assets-api.php 4 0 0 0
+/wp-content/plugins/elementor/includes/controls/base-multiple.php 2 0 0 0
+/wp-content/plugins/elementor/modules/usage/usage-reporter.php 2 0 0 0
+/wp-content/plugins/elementor/includes/template-library/ 2 3228 0 0
+/wp-content/plugins/elementor/includes/widgets/audio.php 2 0 0 0
+/wp-content/plugins/elementor/includes/widgets/alert.php 2 0 0 0
+/wp-content/plugins/elementor/modules/container-converter/module.php 2 0 0 0
+/wp-content/plugins/elementor/core/role-manager/role-manager.php 2 0 0 0
+/wp-content/plugins/elementor/modules/admin-top-bar/module.php 2 0 0 0
+/wp-content/plugins/elementor/core/kits/manager.php 2 0 0 0
+/wp-content/plugins/elementor/assets/js/ 2 73458 0 0
+/wp-content/plugins/elementor/modules/system-info/system-info-menu-item.php 2 0 0 0
+/wp-content/plugins/elementor/core/debug/inspector.php 2 0 0 0
+/wp-includes/class-wp-theme-json-schema.php 35 0 0 1
+/wp-content/plugins/elementor/modules/promotions/module.php 2 0 0 0
+/wp-content/plugins/elementor/core/breakpoints/breakpoint.php 2 0 0 0
+/wp-content/plugins/elementor/core/dynamic-tags/base-tag.php 2 0 0 0
+/wp-content/plugins/elementor/core/dynamic-tags/dynamic-css.php 2 0 0 0
+/wp-content/plugins/elementor/modules/landing-pages/module.php 2 0 0 0
+/wp-content/plugins/elementor/core/admin/ 2 3906 0 0
+/wp-content/plugins/elementor/core/base/document.php 2 0 0 0
+/wp-content/plugins/elementor/modules/nested-elements/module.php 2 0 0 0
+/wp-content/plugins/elementor/core/frontend/ 2 2526 0 0
+/wp-includes/class-wp-block-template.php 35 0 0 0
+/wp-content/plugins/elementor/modules/editor-app-bar/module.php 2 0 0 0
+/wp-content/plugins/elementor/assets/css/ 2 58168 0 0
+/wp-content/plugins/elementor/includes/heartbeat.php 4 0 0 0
+/wp-content/plugins/elementor/includes/controls/text-shadow.php 2 0 0 0
+/wp-content/plugins/elementor/includes/interfaces/has-validation.php 2 0 0 0
+/wp-content/plugins/elementor/data/ 4 4832 0 0
+/wp-content/plugins/elementor/modules/usage/settings-reporter.php 2 0 0 0
+/wp-content/plugins/elementor/modules/dev-tools/deprecation.php 2 0 0 0
+/wp-content/plugins/elementor/includes/libraries/ 2 2180 0 0
+/wp-content/plugins/elementor/includes/widgets/rating.php 2 0 0 0
+/wp-includes/class-wp-block-templates-registry.php 25 0 1 0
+/wp-content/plugins/elementor/modules/elementor-counter/ 2 1826 0 0
+END_SIDER
+
+# Payload Range - Payload Frequency
+BEGIN_FILESIZE 6
+5K+ 700
+2K-5K 629
+1K-2K 985
+500-1K 399
+100-500 150
+0-44 6642
+END_FILESIZE

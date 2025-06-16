@@ -1,0 +1,2414 @@
+AWSTATS DATA FILE 7.8 (build 20200416)
+# If you remove this file, all statistics for date 202405 will be lost/reset.
+# Last config file used to build this data file was /home/parrilla111/tmp/awstats/ssl/awstats.parrilla111.com.conf.
+
+# Position (offset in bytes) in this file for beginning of each section for
+# direct I/O access. If you made changes somewhere in this file, you should
+# also remove completely the MAP section (AWStats will rewrite it at next
+# update).
+BEGIN_MAP 28
+POS_GENERAL 2019                
+POS_TIME 2703                
+POS_VISITOR 48946               
+POS_DAY 83545               
+POS_DOMAIN 3727                
+POS_LOGIN 4788                
+POS_ROBOT 4943                
+POS_WORMS 6182                
+POS_EMAILSENDER 6313                
+POS_EMAILRECEIVER 6456                
+POS_SESSION 84510               
+POS_SIDER 84724               
+POS_FILETYPES 6591                
+POS_DOWNLOADS 6938                
+POS_OS 7212                
+POS_BROWSER 7834                
+POS_SCREENSIZE 11827               
+POS_UNKNOWNREFERER 11901               
+POS_UNKNOWNREFERERBROWSER 12770               
+POS_ORIGIN 13327               
+POS_SEREFERRALS 13480               
+POS_PAGEREFS 13751               
+POS_SEARCHWORDS 14350               
+POS_KEYWORDS 14529               
+POS_MISC 2366                
+POS_ERRORS 14617               
+POS_CLUSTER 4644                
+POS_SIDER_404 14844               
+END_MAP
+
+# LastLine    = Date of last record processed - Last record line number in last log - Last record offset in last log - Last record signature value
+# FirstTime   = Date of first visit for history file
+# LastTime    = Date of last visit for history file
+# LastUpdate  = Date of last update - Nb of parsed records - Nb of parsed old records - Nb of parsed new records - Nb of parsed corrupted - Nb of parsed dropped
+# TotalVisits = Number of visits
+# TotalUnique = Number of unique visitors
+# MonthHostsKnown   = Number of hosts known
+# MonthHostsUnKnown = Number of hosts unknown
+BEGIN_GENERAL 8
+LastLine 20240601000926 995 243411 10502599303505
+FirstTime 20240501002639
+LastTime 20240531234151
+LastUpdate 20240601071224 995 0 994 0 0
+TotalVisits 1213                
+TotalUnique 829                 
+MonthHostsKnown 0                   
+MonthHostsUnknown 857                 
+END_GENERAL
+
+# Misc ID - Pages - Hits - Bandwidth
+BEGIN_MISC 10
+PDFSupport 0 0 0
+TotalMisc 0 0 0
+AddToFavourites 0 62 0
+WindowsMediaPlayerSupport 0 0 0
+JavascriptDisabled 0 0 0
+QuickTimeSupport 0 0 0
+RealPlayerSupport 0 0 0
+DirectorSupport 0 0 0
+JavaEnabled 0 0 0
+FlashSupport 0 0 0
+END_MISC
+
+# Hour - Pages - Hits - Bandwidth - Not viewed Pages - Not viewed Hits - Not viewed Bandwidth
+BEGIN_TIME 24
+0 184 423 38540437 196 297 14009790
+1 166 242 13297273 172 195 11964827
+2 184 238 14267777 215 272 12231541
+3 155 177 4584119 314 357 19801931
+4 137 208 8838343 70 132 4061157
+5 134 264 22475087 216 316 21688784
+6 184 354 25006773 231 280 13565005
+7 248 520 37133426 293 392 16059955
+8 251 734 66940713 159 329 39897121
+9 310 1020 87029519 322 574 24617246
+10 394 1712 183074034 1320 1466 25466910
+11 331 1109 120412123 1147 1229 23406496
+12 589 2002 227322206 589 720 57144550
+13 409 1344 114911791 273 447 29607211
+14 482 1718 144267032 295 323 22517602
+15 364 1323 136400114 291 381 22858139
+16 362 1300 124884502 798 880 19406617
+17 309 1406 137139493 1437 1506 8284259
+18 267 783 65109562 613 685 25576279
+19 289 1020 115875053 161 195 9717037
+20 230 872 92809863 160 245 12410556
+21 210 563 41037585 153 178 10414592
+22 284 641 50327729 263 381 21516017
+23 193 319 22275997 261 334 19563542
+END_TIME
+
+# Domain - Pages - Hits - Bandwidth
+# The 25 first Pages must be first (order not required for others)
+BEGIN_DOMAIN 54
+us 4735 6031 231006533
+mx 1226 12987 1493950913
+pl 84 84 12026428
+ru 61 61 8567334
+de 51 113 12537991
+bg 49 50 6021699
+cn 46 51 6366393
+gb 38 60 5807075
+jp 33 33 4772256
+cl 32 84 10493235
+ca 26 70 4008701
+in 21 22 2136764
+se 20 25 2870232
+lt 16 16 2581251
+fr 16 76 6828147
+br 15 15 1262844
+ee 14 14 2312229
+cz 12 13 1572778
+au 12 12 1520821
+id 11 11 1110208
+it 10 10 1371982
+ar 9 107 9983212
+ua 9 9 1223258
+sa 9 9 1165541
+gr 9 49 1154441
+at 1 1 148739
+az 2 2 24645
+be 3 3 36957
+ec 6 76 10865655
+vn 5 5 579774
+eu 1 1 148739
+vg 1 1 118546
+il 3 3 297489
+pa 7 115 7692948
+iq 1 1 121230
+jo 2 2 239773
+no 2 2 297478
+kz 3 3 391613
+tr 4 4 291930
+es 5 5 716183
+my 7 7 1041173
+zz 3 3 361004
+dk 2 2 297478
+sc 6 6 722007
+ch 1 1 143893
+ro 8 8 910582
+mv 1 1 148739
+nl 6 6 892478
+za 1 1 12316
+ao 3 3 358320
+kr 3 3 363687
+ir 9 9 1338728
+th 4 4 594956
+ng 2 2 297500
+END_DOMAIN
+
+# Cluster ID - Pages - Hits - Bandwidth
+BEGIN_CLUSTER 0
+END_CLUSTER
+
+# Login - Pages - Hits - Bandwidth - Last visit
+# The 10 first Pages must be first (order not required for others)
+BEGIN_LOGIN 0
+END_LOGIN
+
+# Robot ID - Hits - Bandwidth - Last visit - Hits on robots.txt
+# The 25 first Hits must be first (order not required for others)
+BEGIN_ROBOT 28
+bingbot/ 542 26042164 20240531231140 35
+facebookexternalhit/ 507 69252094 20240531232027 38
+bot[\s_+:,\.\;\/\\-] 428 51946230 20240531163547 80
+Googlebot/ 376 27912627 20240531174713 25
+feed 344 12324253 20240527090942 8
+Go\-http\-client/ 328 31392455 20240531234215 16
+Applebot/ 175 3919373 20240531131419 17
+AhrefsBot/ 57 1614161 20240525072208 6
+yandex 45 809633 20240530173046 0
+BLEXBot/ 29 1203169 20240522150101 17
+unknown 25 2514 20240530065543 25
+Googlebot\-Image/ 23 163537 20240529112316 0
+no_user_agent 23 3420997 20240530011427 0
+SemrushBot/ 21 1202243 20240529224901 9
+(firefox/)([0-9]\.|[0-1][0]\.) 9 75610 20240528081010 0
+MJ12bot/ 8 595420 20240529233444 4
+CFNetwork 6 100877 20240517211709 0
+YandexBot/ 6 297942 20240530212912 4
+Velen 5 643139 20240507011053 0
+nbot 5 580 20240528021419 5
+Barkrowler 4 297710 20240531184813 2
+SafeDNSBot 3 148971 20240505154517 2
+scanner 2 150909 20240509195025 0
+crawl 2 297478 20240527043207 0
+survey 2 74782 20240506003734 0
+Dalvik/ 1 3488778 20240521053011 0
+Feedfetcher\-Google 1 148739 20240521092849 0
+[\s_+:,\.\;\/\\-]bot 2 148855 20240518051633 1
+END_ROBOT
+
+# Worm ID - Hits - Bandwidth - Last visit
+# The 5 first Hits must be first (order not required for others)
+BEGIN_WORMS 0
+END_WORMS
+
+# EMail - Hits - Bandwidth - Last visit
+# The 20 first Hits must be first (order not required for others)
+BEGIN_EMAILSENDER 0
+END_EMAILSENDER
+
+# EMail - Hits - Bandwidth - Last visit
+# The 20 first hits must be first (order not required for others)
+BEGIN_EMAILRECEIVER 0
+END_EMAILRECEIVER
+
+# Files type - Hits - Bandwidth - Bandwidth without compression - Bandwidth after compression
+BEGIN_FILETYPES 14
+pdf 72 283045741 0 0
+env 4 49293 0 0
+ttf 1 0 0 0
+php 3861 754830 0 0
+css 3499 95791248 0 0
+Unknown 33 5194364 0 0
+woff2 742 40768536 0 0
+woff 159 515424 0 0
+png 1087 441127231 0 0
+xml 20 649127 0 0
+txt 2 2792 0 0
+html 1846 237135664 0 0
+js 6059 112137105 0 0
+jpg 2907 644935471 0 0
+END_FILETYPES
+
+# Downloads - Hits - Bandwidth
+BEGIN_DOWNLOADS 3
+/storage/2023/04/Menu-Digital-Desayunos-Almuerzos-_-Comidas-y-Cenas-2.pdf 81 17 314444743
+//wp-includes/ID3/license.txt 2 0 2792
+/wp-content/uploads/2023/04/Menu-Digital-Desayunos-Almuerzos-_-Comidas-y-Cenas-2.pdf 1 0 3488778
+END_DOWNLOADS
+
+# OS ID - Hits
+BEGIN_OS ID - Hits - Pages 38
+Unknown 3943 3884
+androidcupcake 1 0
+macosx5 1 0
+macosx15 781 138
+macosx9 1 1
+win8 3 3
+os/2 1 0
+win8.1 19 13
+macosx7 4 3
+androidmarshmallow 13 12
+blackberry 2 1
+ios_iphone 3950 476
+androidoreo 1 0
+ios_ipad 121 12
+winlong 19 15
+win7 166 101
+androidlollipop 1 0
+linuxubuntu 25 23
+winxp 16 9
+macosx14 10 2
+androidnougat 119 102
+macosx 102 52
+win98 2 0
+linux 177 107
+win10 6345 1168
+linuxdebian 3 1
+macosx6 3 2
+symbian 3 1
+android10 4287 503
+macosx12 8 8
+win2000 2 1
+bsdopenbsd 1 0
+unix 1 1
+winnt 9 9
+android 152 17
+macosx10 4 1
+androidpie 12 0
+bsdfreebsd 1 0
+END_OS
+
+# Browser ID - Hits - Pages
+BEGIN_BROWSER 192
+chrome41.0.2224.3 3 0
+firefox40.1 1 0
+chrome88.0.4324.192 3 3
+chrome75.0.3730.0 1 0
+chrome110.0.0.0 5 4
+safari17.1.2 115 12
+chrome124.0.6367.123 58 5
+firefox83.0 1 1
+chrome96.0.248 1 1
+nokia 2 1
+firefox52.59.12 1 0
+chrome59.0.3071.125 15 3
+safari16.3 133 12
+chrome115.0.0.0 6 6
+chrome83.0.4103.97 5 5
+chrome114.0.5814.214 3 3
+chrome42.0.2311.90 2 2
+safari17.1.1 92 10
+safari13.1.2 1 1
+chrome58.0.3029.110 4 4
+chrome14.0.835.186 1 0
+firefox95.0 40 40
+chrome90.0.4430.85 100 100
+firefox117.0 23 23
+chrome74.0.3729.169 22 22
+chrome39.0.2171.95 1 1
+chrome66.0.3359.126 2 0
+opera11.01 5 0
+chrome95.0.4638.69 3 1
+Unknown 3871 3862
+chrome9.0.601.0 1 0
+chrome83.0.4103.61 46 2
+opera11.50 2 0
+firefox120.0 1 1
+chrome113.0.0.0 7 7
+chrome81.0.4044.138 1 1
+msie10.0 1 0
+chrome77.0.3865.42 1 0
+chrome60.0.3112.107 104 99
+safari16.5.2 1 1
+chrome89.0.4389.128 1 1
+chrome111.0.0.0 62 9
+firefox91.0 1 1
+chrome122.0.6261.111 6 2
+chrome15.0.872.0 1 1
+chrome72.0.710 1 0
+opera11.51 1 0
+firefox123.0 14 8
+chrome71.0.2623.112 1 1
+firefox114.0 36 36
+safari17.5 60 6
+firefox73.0 2 2
+chrome67.0.3396.87 1 0
+chrome66.0.3359.181 4 4
+chrome91.0.4472.124 119 119
+edge13 1 0
+chrome120.0.6099.71 3 3
+chrome103.0.0.0 13 13
+firefox27.3 1 1
+chrome80.0.3987.132 3 3
+chrome101.0.0.0 2 2
+chrome17.0.963.56 3 3
+netscape5.0 38 16
+netscape 1 1
+firefox31.0 2 0
+chrome28.0.1478.0 1 0
+safari16.6 213 35
+safari15.6.3 46 5
+firefox58.0 1 1
+chrome52.0.3236.98 1 1
+chrome26.0.1410.43 7 7
+edge14 1 0
+chrome122.0.0.0 20 16
+chrome80.0.3987.149 20 20
+chrome68.0.3440.84 3 3
+chrome51.0.2704.79 1 1
+firefox62.0 2 0
+mozilla 97 24
+chrome72.0.3626.121 2 0
+chrome78.0.3875.0 1 0
+safari17.3.1 186 20
+chrome64.0.3282.39 1 0
+chrome71.0.3542.0 1 0
+chrome105.0.0.0 12 7
+firefox68.0 1 1
+chrome92.0.4515.105 58 5
+chrome51.0.2704.103 2 2
+chrome124.0.0.0 5625 596
+safari16.1 156 17
+chrome123.0.6312.121 1 0
+opera109.0.0.0 57 5
+chrome22.0.1229.56 1 0
+safari7.1.0.267 1 1
+blackberry 1 0
+firefox19.0 1 1
+chrome114.0.0.0 135 130
+firefox36.0 1 0
+chrome89.0.4389.82 1 1
+chrome74.0.3729.157 2 0
+chrome37.0.2062.124 2 0
+edge12 1 0
+firefox108.0 2 2
+chrome62.0.3202.94 1 0
+firefox125.0 58 5
+safari15.6.6 1 0
+chrome71.0.3578.99 1 0
+chrome4.0.212.1 1 1
+chrome89.0.4389.90 52 5
+chrome106.0.0.0 89 12
+chrome79.0.3945.79 108 10
+chrome103.0.5042.0 4 4
+chrome4.0.221.3 1 1
+chrome125.0.6422.53 2 1
+opera54.0.2952.54 3 3
+android 3 0
+firefox46.0 1 0
+chrome67.0.3396.79 3 3
+chrome100.0.4896.60 2 2
+chrome79.0.3945.130 4 4
+chrome118.0.0.0 6 6
+opera89.0.4447.51 25 25
+firefox111.0 47 47
+safari15.4 6 6
+firefox92.0 1 1
+chrome41.0.2227.1 1 0
+iphone 1 0
+chrome103.0.5060.66 2 2
+safari2.0.1 1 0
+msie8.0 2 2
+chrome100.0.4896.127 4 3
+opera102.0.0.0 11 11
+chrome78.0.3904.108 36 36
+msie9.0 1 1
+firefox99.0 1 1
+chrome117.0.5938.132 110 10
+chrome98.0.4758.80 1 1
+chrome114.0.5735.289 10 10
+chrome117.0.0.0 31 31
+safari12.0.2 8 7
+chrome91.0.4472.114 5 5
+firefox119.0 1 1
+msie6.0 3 2
+firefox12.0 1 0
+chrome4.0.203.0 1 1
+chrome76.0.3809.100 3 1
+chrome61.0.3163.79 1 0
+firefox118.0 7 7
+chrome85.0.4183.121 1 1
+chrome70.0.3538.25 1 1
+chrome57.0.1491 1 0
+safari17.4.1 2138 235
+chrome76.0.3809.89 1 0
+chrome123.0.0.0 399 50
+firefox63.0 2 2
+firefox77.0 5 5
+chrome121.0.0.0 673 68
+firefox25.0 2 0
+opera60.0.3255.59 1 0
+chrome107.0.0.0 1 1
+chrome56.0.2924.87 1 0
+chrome80.0.3987.162 1 1
+safari13.0.3 55 55
+chrome34.0.1847.137 1 0
+chrome75.0.3770.102 1 0
+chrome65.0.3312.0 1 1
+chrome75.0.3770.90 1 0
+chrome103.0.5060.114 15 15
+chrome109.0.0.0 61 10
+chrome108.0.0.0 27 3
+safari17.0 55 7
+chrome125.0.0.0 3078 340
+chrome77.0.3865.35 1 0
+safari 982 102
+chrome75.0.3770.143 1 0
+firefox124.0 109 11
+chrome103.0.5060.53 5 5
+chrome116.0.0.0 16 16
+safari13.1 1 0
+chrome75.0.3770.100 1 0
+chrome65.0.3152.119 14 14
+chrome86.0.2994 1 1
+chrome120.0.0.0 180 58
+chrome16.0.912.36 1 0
+chrome76.0.3809.87 2 0
+chrome89.0.4389.114 6 6
+opera53.0.2907.68 3 3
+edge44 8 8
+chrome78.0.3904.70 50 1
+chrome76.0.3809.111 6 0
+firefox115 1 1
+safari4.0 1 0
+chrome52.0.1805.98 11 11
+END_BROWSER
+
+# Screen size - Hits
+BEGIN_SCREENSIZE 0
+END_SCREENSIZE
+
+# Unknown referer OS - Last visit date
+BEGIN_UNKNOWNREFERER 16
+Chrome 20240528175939
+WordPress/6.5.2;_https://parrilla111.com 20240507210354
+Mozilla/5.0_(compatible;_CensysInspect/1.1;__https://about.censys.io/) 20240531063733
+Mozilla/5.0_(compatible;_Dataprovider.com) 20240525132951
+WhatsApp/2.2419.11_W 20240523120710
+WhatsApp/2.24.8.85_i 20240520120421
+WordPress.com;_https://parrilla111.com 20240526212851
+WhatsApp/2.23.20.0 20240528141355
+python-requests/2.26.0 20240507111658
+python-requests/2.28.1 20240512021339
+undici 20240503012046
+Roku/DVP-4.1_(024.01E01250A) 20240503001232
+python-requests/2.27.1 20240524104648
+Mozilla/5.0_(compatible;_InternetMeasurement/1.0;__https://internet-measurement.com/) 20240525233319
+WordPress/6.5.3;_https://parrilla111.com 20240531234151
+Mozilla/5.0_researchscan.comsys.rwth-aachen.de 20240530080811
+END_UNKNOWNREFERER
+
+# Unknown referer Browser - Last visit date
+BEGIN_UNKNOWNREFERERBROWSER 12
+WordPress/6.5.3;_https://parrilla111.com 20240531234151
+WordPress.com;_https://parrilla111.com 20240526212851
+WhatsApp/2.23.20.0 20240528141355
+python-requests/2.26.0 20240507111658
+python-requests/2.28.1 20240512021339
+undici 20240503012046
+python-requests/2.27.1 20240524104648
+Roku/DVP-4.1_(024.01E01250A) 20240503001232
+WhatsApp/2.2419.11_W 20240523120710
+WhatsApp/2.24.8.85_i 20240520120421
+Chrome 20240528175939
+WordPress/6.5.2;_https://parrilla111.com 20240507210354
+END_UNKNOWNREFERERBROWSER
+
+# Origin - Pages - Hits 
+BEGIN_ORIGIN 6
+From0 4701 5148
+From1 134 138
+From2 349 369
+From3 34 34
+From4 1448 14620
+From5 0 0
+END_ORIGIN
+
+# Search engine referers ID - Pages - Hits
+BEGIN_SEREFERRALS 6
+www_google_com_hk 2 2
+www_google_com 288 302
+google_com 0 2
+mx_search_yahoo_com 6 6
+www_google_com_mx 40 42
+www_bing_com 13 15
+END_SEREFERRALS
+
+# External page referers - Pages - Hits
+# The 25 first Pages must be first (order not required for others)
+BEGIN_PAGEREFS 11
+http://cpanel.parrilla111.com/wp-login.php 10 10
+http://mail.parrilla111.com/wp-login.php 7 7
+http://webmail.parrilla111.com/wp-login.php 5 5
+http://webmail.parrilla111.com 2 2
+http://www.tommysautomotivecare.com 2 2
+https://rmx12.dizinc.com:2087 2 2
+https://www.tommysautomotivecare.com 2 2
+https://mail.parrilla111.com 1 1
+http://cpanel.parrilla111.com 1 1
+http://webmail.parrilla111.com/sitemap.xml 1 1
+http://mail.parrilla111.com/sitemap.xml 1 1
+END_PAGEREFS
+
+# Search keyphrases - Number of search
+# The 10 first number of search must be first (order not required for others)
+BEGIN_SEARCHWORDS 1
+https+//parrilla111.com/ 2
+END_SEARCHWORDS
+
+# Search keywords - Number of search
+# The 25 first number of search must be first (order not required for others)
+BEGIN_KEYWORDS 2
+https 2
+//parrilla111.com/ 2
+END_KEYWORDS
+
+# Errors - Hits - Bandwidth
+BEGIN_ERRORS 12
+302 90 0
+400 151 7239
+308 1 99
+403 4223 147805
+206 7 175389
+401 128 4969
+301 1413 0
+421 2 644
+409 1 2646
+503 17 4860
+404 2989 247598299
+500 51 120528
+END_ERRORS
+
+# URL with 404 errors - Hits - Last URL referrer
+BEGIN_SIDER_404 842
+/wp-includes/certificates/plugins.php 5 -
+/wp-content/plugins/n-media-woocommerce-checkout-fields/readme.txt 1 -
+/wp-includes/js/jcrop/about.php 1 -
+/wp-content/plugins/royal-elementor-addons/ 1 http://www.google.com
+/readme.php 2 -
+/ads.txt 3 -
+/inc.php 11 -
+/wp-content/plugins/wp-user-extra-fields/js/wpuef-configurator.js 1 -
+/wp-content/uploads/2021/09/Mollejas-scaled.jpg 1 -
+/wp-content/plugins/wordpres-yastsrec/all.php 2 -
+/ss.php 1 www.google.com
+/wp-content/uploads/2021/11/Parrillada-Short-Rib-8-600x401.jpg 4 -
+/lock360.php 1 -
+/bak.php 9 -
+/.well-known/acme-challenge/file.php 1 -
+/wp-includes/sitemaps/about.php 1 -
+/wp-content/languages/plugins.php 1 -
+/assets/images/accesson.php 1 -
+/wp-rocket.php 3 https://parrilla111.com//wp-rocket.php
+/wp-includes/assets/wp-includes/ 1 -
+/wp-content/plugins/wordpres-wpss/admin.php 4 -
+/UPdateUPgrade.php 1 -
+/.well-known/acme-challenge/moon.php 1 -
+/wp-content/plugins/wordpress-wpssseo/all.php 2 -
+/sftp.json 1 -
+/wp-content/uploads/2021/09/Queso-panela02-1320x881.jpg 6 -
+/wp-content/plugins/seo/idxv3.php 1 parrilla111.com
+/wp-content/uploads/2021/11/Parrillada-Short-Rib-8-1536x1025.jpg 3 -
+/wp-content/j.php 1 -
+/wp-includes/wp-cron.php 8 www.google.com
+/wp-info.php 4 -
+/wp-content/themes/travelscape/json.php 1 -
+/ynz.PhP7 1 -
+/wp-content/plugins/wordpres-yaoo/all.php 2 -
+/wp-links-way.php 8 -
+/wp-content/plugins/ultimate-member/readme.txt 1 -
+/Providers/HtmlEditorProviders/Telerik/Telerik.Web.UI.DialogHandler.aspx 2 -
+/wp-content/plugins/kadence-blocks/readme.txt 1 -
+/assets/images/inputs.php 2 -
+/wp-includes/blocks/about.php 1 -
+/wp-includes/widgets/wp-includes/ 1 -
+/mini.php 5 -
+/wp-content/mah.php 4 -
+/wp-content/uploads/xl2023.php 1 -
+/sample-page/ 2 -
+/wp-content/plugins/wordpres-yaososs/all.php 2 -
+/wp-content/plugins/seoo/alfa-ioxi.php 1 -
+/lufix.php 12 -
+/wp-configs.php 1 -
+/wp-content/plugins/wordpres-yasts/all.php 2 -
+/.sftp-config.json 1 -
+/wp-content/plugins/wordpres-woot/all.php 2 -
+/public/plugins/Ueditor/dialogs/attachment/fileTypeImages/icon_psd.gif 1 http://parrilla111.com/public/plugins/Ueditor/dialogs/attachment/fileTypeImages/icon_psd.gif
+/wp-includes/sitemaps/wp-includes/ 1 -
+/wp-content/plugin.php 1 -
+/wp-content/plugins/wordpress-three/miin.php 1 -
+/old 16 http://parrilla111.com/old
+/wp-includes/IXR/plugins.php 1 -
+/bs.php 1 -
+/bgs.php 1 -
+/q.php 1 parrilla111.com
+/shell20211028.php 3 https://parrilla111.com//shell20211028.php
+/x.php 11 -
+/wp-content/plugins/wordpres-wp3/admin.php 4 -
+/page.php 2 -
+/wp-content/plugins/wordpres-woo/admin.php 4 -
+/DesktopModules/Admin/RadEditorProvider/DialogHandler.aspx 2 -
+/wp-content/themes/twentyfive/include.php 1 -
+/wp-content/themes/bolster/include/lang_upload.php 1 -
+/cgi-bin/cloud.php 1 -
+/wp-2019.php 14 -
+/cgi-bin/upfile.php 1 -
+/wp-content/plugins/wordpres-yaosos/all.php 2 -
+/about-us/ 5 -
+/wp-content/plugins/wordpres-wpw/all.php 2 -
+/wp-content/uploads/2024/5/ 2 -
+/wp-includes/images/wp-includes/ 1 -
+/zb_users/plugin/UEditor/themes/default/images/cursor_v.gif 1 http://parrilla111.com/zb_users/plugin/UEditor/themes/default/images/cursor_v.gif
+/wp-content/plugins/wordpres-wpps/all.php 2 -
+/wp-includes/pomo/wp-includes/ 1 -
+/nainxd.php 1 parrilla111.com
+/wp-content/plugins/wp-photo-album-plus/wppa-admin-styles.css 4 -
+/wp-include/auto_seo.php 1 -
+/wp-includes/images/include.php 1 -
+/wp-content/themes/travel/issue.php 3 https://parrilla111.com//wp-content/themes/travel/issue.php
+/simple.php 37 -
+/classwithtostring.php 5 -
+/axis2/axis2-admin/ 4 -
+/wp-content/plugins/WordPressCore/ 3 https://parrilla111.com//wp-content/plugins/WordPressCore/
+/wp-content/themes/statfort/include/lang_upload.php 1 -
+/wp-content/plugins/booking-calendar/readme.txt 1 -
+/.ssh/id_ed25519 1 -
+/dup-installer/main.installer.php 1 http://parrilla111.com/dup-installer/main.installer.php
+/wp-content/wp-cron.php 9 www.google.com
+/randkeyword.php 1 -
+/sitemap_index.xml 4 -
+/wp-content/plugins/wordpres-yaooo/admin.php 4 -
+/wp-json/oembed/1.0//%22https:////parrilla111.com//embed// 1 -
+/wp-content/uploads/2021/11/Arrachera-Outside-3-1367x2048.jpg 3 -
+/wp-content/uploads/wp-cron.php 8 www.google.com
+/wp-content/plugins/wordpres-seoseo/all.php 2 -
+/ae.php 6 -
+/auto_seo.php 1 -
+/wp-content/themes/club-theme/include/lang_upload.php 1 -
+/wp-includes/SimplePie/wp-includes/ 1 -
+/wp-content/themes/aidreform/include/lang_upload.php 1 -
+/wp-content/themes/blogai/issue.php 1 -
+/lv.php 11 -
+/wp-content/plugins/wordpres-wp2/admin.php 4 -
+/shellv3.php 3 https://parrilla111.com//shellv3.php
+/wp-includes/item.php 1 -
+/our-menu/ 2 -
+/wp-content/uploads/2021/09/favicon.png 1 -
+/.well-known/wp-cron.php 8 www.google.com
+/cgi-bin/cgi-bin/about.php 8 https://parrilla111.com//cgi-bin/cgi-bin/about.php
+/about.php 25 -
+/a.php 1 -
+/ 50 -
+/wp-includes/block-supports/wp-includes/ 1 -
+/wp-content/plugins/chatbot-chatgpt/assets/js/chatbot-chatgpt.js 1 -
+/wp-includes/l10n/wp-includes/ 1 -
+/hose.php 1 -
+/wp-content/plugins/wordpres-seoseo/admin.php 4 -
+/menu 1 -
+/ftp-sync.json 1 -
+/alfanew.php 8 -
+/wp-content/cong.php 1 -
+/backup/ 2 -
+/wp-content/plugins/wordpres-wooall/all.php 2 -
+/locoy.php 8 -
+/wp-loader.php 8 -
+/.well-known/acme-challenge/iR7SzrsOUEP.php 1 -
+/administrator/ 1 -
+/wp-content/plugins/sl33per/silco.php 1 www.google.com
+/nf_tracking.php 5 -
+/_profiler/phpinfo 1 -
+/Public/home/js/check.js 3 https://www.parrilla111.com/Public/home/js/check.js
+/ioxi1.php 1 -
+/bugz.php 1 -
+/css/iR7SzrsOUEP.php 3 https://parrilla111.com//css/iR7SzrsOUEP.php
+/wp-includes/html-api/about.php 1 -
+/pub/errors/plusad.php 1 https://parrilla111.com/pub/errors/plusad.php
+/wp-content/uploads/2019/10/steak2-menu-pic1.jpg 2 http://parrilla111.com/wp-content/uploads/2019/10/steak2-menu-pic1.jpg
+/wp-content/plugins/startklar-elmentor-forms-extwidgets/readme.txt 1 -
+/.well-known/acme-challenge/xmrlpc.php 4 -
+/.well-known/shell.php 1 -
+/class.api.php 11 https://parrilla111.com//class.api.php
+/sitemaps.xml 4 -
+/wp-content/plugins/wordpres-wp2/all.php 2 -
+/.well-known/acme-challenge/network.php 1 -
+/wp-includes/php-compat/wp-includes/ 1 -
+/file.php 2 -
+/wp-includes/Requests/Utility/about.php 1 -
+/wp-content/plugins/wordpress-seoa/all.php 2 -
+/wp-content/plugins/WordPressCore/include.php 2 -
+/403.php 1 -
+/wp-content/themes/bolster-theme/include/lang_upload.php 1 -
+/wp-content/pm.php 1 -
+/wp-content/uploads/wpr-addons/forms/ 3 https://parrilla111.com//wp-content/uploads/wpr-addons/forms/
+/pub/static.php 1 https://parrilla111.com/pub/static.php
+/wp-includes/customize/plugins.php 4 -
+/cgi-bin/xmrlpc.php 1 -
+/erin1.PhP7 2 -
+/public/plugins/Ueditor/dialogs/attachment/images/alignicon.gif 1 http://parrilla111.com/public/plugins/Ueditor/dialogs/attachment/images/alignicon.gif
+/admin.php 35 https://parrilla111.com//admin.php
+/phpmailer.lang-sv.php 4 -
+/shx.php 1 -
+/magmi/conf/magmi.ini 1 -
+/wp-content/languages/themes/license.php 1 -
+/cgi-bin/dropdown.php 1 -
+/wp-includes/pomo/themes.php 1 -
+/wp-content/plugins/wordpres-yaoos/admin.php 4 -
+/wp-content/plugins/zendrop-dropshipping-and-fulfillment/readme.txt 1 -
+/xxl.php 3 https://parrilla111.com//xxl.php
+/cjfuns.php 10 https://parrilla111.com//cjfuns.php
+/wp-content/themes/soccer-theme/include/lang_upload.php 1 -
+/wp-content/css.php 1 -
+/magmi-importer/web/download_file.php 2 -
+/functions.php 1 -
+/wp-uploads-config.php 3 https://parrilla111.com//wp-uploads-config.php
+/sample.php 2 https://parrilla111.com//sample.php
+/loader.php 2 -
+/public/plugins/ckeditor/images/spacer.gif 1 http://parrilla111.com/public/plugins/ckeditor/images/spacer.gif
+/wp-content/plugins/wordpres-wp/all.php 2 -
+/goat11.PhP7 1 https://parrilla111.com//goat11.PhP7
+/wp-includes/ID3/wp-includes/ 1 -
+/wp-includes/js/wp-includes/ 1 -
+/wp-content/plugins/superlogoshowcase-wp/css/sls-wp-admin.css 1 -
+/wp-includes/style-engine/themes.php 1 -
+/wp-content/plugins/wordpres-woosc/all.php 2 -
+/tioxuz.php 1 www.google.com
+/wp-content/plugins/seoplugins/mar.php 1 -
+/wp-content/plugins/temporary-login/core/all.php 2 -
+/wp-content/uploads/wpforms/ 1 -
+/wp-content/defaults.php 1 -
+/style.php 7 www.google.com
+/omments-post.php 8 -
+/old/ 2 -
+/wp-includes/fonts/about.php 1 -
+/data/admin/allowurl.txt 2 -
+/.well-known/acme-challenge/cloud.php 4 -
+/wp-content/uploads/2019/10/steak2-menu-pic6.jpg 2 -
+/wp-content/plugins/scripts-organizer/plugins/meta-box/readme.txt 1 -
+/wp-content/plugins/pwnd-1/pwnd.php 3 https://parrilla111.com//wp-content/plugins/pwnd-1/pwnd.php
+/wp-content/plugins/wordpres-yaoo/admin.php 4 -
+/wp-content/json.php 3 https://parrilla111.com//wp-content/json.php
+/text.php 8 -
+/wp-content/plugins/wordpress-jbsseo/all.php 2 -
+/wp-content/plugins/catnip/admin.php 4 -
+/wp-content/plugins/wordpres-yaoos/all.php 2 -
+/wp-content/themes/greyd_suite/style.css 1 -
+/wp-content/content.php 1 -
+/ll.php 1 parrilla111.com
+/wp-includes/sodium_compat/wp-includes/ 1 -
+/wp-content/plugins/yith-woocommerce-gift-cards-premium/readme.txt 1 -
+/wp-content/uploads/2021/09/sopa-de-fideo-688x1030.jpg 1 -
+/blog 1 -
+/xxc.php 3 https://parrilla111.com//xxc.php
+/wp-includes/theme-compat/network.php 3 https://parrilla111.com//wp-includes/theme-compat/network.php
+/content.php 15 -
+/wp-content/plugins/wordpres-wp3/all.php 2 -
+/common/admin/Jobs2/Telerik.Web.UI.DialogHandler.aspx 2 -
+/assets/ 2 -
+/wp-content/plugins/wordpres-yastsre/admin.php 4 -
+/wp-content/plugins/royal-elementor-addons/readme.txt 2 -
+/mar.php 1 https://parrilla111.com//mar.php
+/wp-content/uploads/2019/10/steak2-slider-bg.jpg 4 -
+/wp-links-on.php 8 -
+/wp-content/plugins/wordpres-yastsrec/admin.php 4 -
+/wp-content/epinyins.php 3 https://parrilla111.com//wp-content/epinyins.php
+/wp-content/plugins/wordpres-yastsrs/admin.php 4 -
+/gawean.PhP7 2 -
+/amfeed/main/download 1 -
+/user/ 1 -
+/wp-includes/PHPMailer/wp-includes/ 1 -
+/.well-known/acme-challenge/output.php 1 -
+/ini.php 9 -
+/1.php 1 -
+/cgi-bin/plugins.php 1 -
+/rindex.php 3 https://parrilla111.com//rindex.php
+/shop/magmi/web/download_file.php 1 -
+/wp-content/plugins/fix/up.php 8 -
+/fw.php 7 -
+/wp-content/themes/listingo/js/listingo_callbacks.js 1 -
+/wp-content/plugins/wordpres-yastse/admin.php 4 -
+/wp-content/plugins/wordpresssoe/all.php 2 -
+/wp-includes/wso.php 4 -
+/wp-content/plugins/jobboardwp/readme.txt 1 -
+/wp-content/upgrade/about.php 1 -
+/wp-content/themes/kingclub-theme/include/lang_upload.php 1 -
+/css.php 23 -
+/wpwp.php 3 https://parrilla111.com//wpwp.php
+/wp-content/plugins/column/miin.php 1 -
+/wp-content/plugins/wordpres-wpssc/admin.php 4 -
+/wp-includes/ID3/plugins.php 4 -
+/sitemap.txt 4 -
+/tinyfilemanager.php 2 -
+/wp-includes/PHPMailer/themes.php 1 -
+/product/ensalada-caesar-con-pollo/ 1 -
+/product/caldo-tlalpeno/ 1 -
+/alfanew.php7 1 -
+/wp-pluploads.php 8 https://parrilla111.com/wp-pluploads.php,
+/wp-content/uploads/2021/11/Arrachera-Outside-3-scaled.jpg 3 -
+/.well-known/acme-challenge/mariju.php 2 -
+/wp-content/plugins/about.php 2 -
+/wp-includes/widgets/include.php 4 -
+/wp-content/uploads/ast-block-templates-json/wp-content/uploads/ 1 -
+/wp-content/uploads/ty.php 1 -
+/wp-content/uploads/2021/09/Queso-panela02-1536x1025.jpg 3 -
+/about 16 -
+/wp-content/uploads/2021/11/Arrachera-Outside-3-1025x1536.jpg 2 -
+/wp-content/plugins/wordpres-wooall/admin.php 4 -
+/wp-content/themes/snapture/include/lang_upload.php 1 -
+/bc 14 http://parrilla111.com/bc
+/wp-add.php 9 www.google.com
+/wp 16 http://parrilla111.com/wp
+/wp-content/plugins/wp-daft/miin.php 1 -
+/wp-content/upgrade/cong.php 1 -
+/wp-content/themes/tflow/up.php 1 -
+/wp-content/plugins/loader.php 2 -
+/wp-content/plugins/pwnd/pwnd.php 4 -
+/wp-content/plugins/wordpress-sseo/admin.php 4 -
+/wp-includes/Requests/Text/admin.php 1 -
+/wp-content/plugins/wordpres-yastsrs/all.php 2 -
+/shop/ 5 -
+/wp-content/plugins/omomavabad/omomavabad.php 1 -
+/wp-includes/SimplePie/themes.php 1 -
+/product.php 1 -
+/wp-content/plugins/wordpres-wps/admin.php 4 -
+/shop/app/etc/local.xml 1 -
+/wordpress 17 http://parrilla111.com/wordpress
+/wp-content/plugins/wordpres-wpsss/admin.php 4 -
+/wp-includes/ID3/moon.php 1 -
+/product/tabla-de-verduras-asadas/ 1 -
+/upfile.php 12 -
+/wp-includes/widgets/about.php 1 -
+/wp-content/plugins/hash-form/readme.txt 1 http://parrilla111.com/wp-content/plugins/hash-form/readme.txt
+/wp-content/plugins/dsp_dating/wpdating-gallery/lib/server/php/ 1 -
+/wp-includes/about.php 1 -
+/chosen.php 17 -
+/wp-content/plugins/wordpres-wps/all.php 2 -
+/.ssh/id_rsa 1 -
+/wp-content/uploads/2021/09/Queso-flameado-con-chorizo-600x401.jpg 2 -
+/zb_users/emotion/face/Music.gif 1 http://parrilla111.com/zb_users/emotion/face/Music.gif
+/wp-content/plugins/wordpress-jseo/admin.php 4 -
+/plugins.php 10 -
+/cgi-bin/wp-zett.php 1 -
+/wp-content/plugins/tatsu/changelog.md 1 -
+/wp-content/alogova.php 1 -
+/wp-content/patior/ 9 https://parrilla111.com//wp-content/patior/
+/DesktopModules/TelerikWebUI/RadEditorProvider/Telerik.Web.UI.DialogHandler.aspx 2 -
+/v2/_catalog 16 -
+/wp-content/plugins/wordpresssoees/all.php 2 -
+/wp-content/themes/digital-download/new.php 1 -
+/ty.php 1 -
+/shop/page/4/ 1 -
+/sym403.php 1 -
+/platillos-y-bebidas/ 64 -
+/wp-content/plugins/wordpres-wpp/admin.php 4 -
+/wp-content/plugins/rencontre/readme.txt 1 -
+/mrj.php 1 parrilla111.com
+/wp-content/plugins/instawp-connect/assets/images/instawp-logo.svg 2 -
+/.ftp-sync.json 2 -
+/small.php 1 -
+/wp-content/themes/workreap/style.css 1 -
+/wp-content/uploads/2019/10/steak2-menu-pic2.jpg 1 http://parrilla111.com/wp-content/uploads/2019/10/steak2-menu-pic2.jpg
+/wp-content/themes/theme-deejay/include/lang_upload.php 1 -
+/wp-content/themes/twentystd/ 12 -
+/wp-config-backup1.txt 2 -
+/wp-content/plugins/wp-upg/readme.txt 2 -
+/wp-content/defaul1.php 1 -
+/debug/default/view 16 -
+/wp-content/themes/onelife/include/lang_upload.php 1 -
+/wp-includes/IXR/about.php 3 https://parrilla111.com//wp-includes/IXR/about.php
+/ext.php 2 www.google.com
+/wp-config.bak 1 -
+/wp-content/themes/fing/zjxd.php 1 parrilla111.com
+/wp-aa.php 7 www.google.com
+/wp-content/plugins/js-support-ticket/readme.txt 1 -
+/database.sql 1 -
+/wp-content/uploads/2021/09/Queso-panela02-scaled.jpg 4 -
+/rx.php 1 -
+/b0x.php 10 -
+/wp-content/plugins/wordpres-seosep/all.php 2 -
+/cgi-bin/class_api.php 1 -
+/fm1.php 1 -
+/wp-content/plugins/wordpres-wpwp/all.php 2 -
+/wp-content/plugins/ccx/ 1 -
+/wp-config-backup.txt 1 -
+/assets/inputs.php 2 -
+/wp-content/plugins/tutor-pro/assets/js/instructor-rate.js 1 -
+/wp-content/uploads/2021/09/Queso-panela02-1030x688.jpg 3 -
+/wp-content/uploads/2019/10/steak2-menu-pic3.jpg 1 http://parrilla111.com/wp-content/uploads/2019/10/steak2-menu-pic3.jpg
+/worm0.PhP7 2 -
+/mail.php 12 -
+/main 14 http://parrilla111.com/main
+/404.php 10 -
+/wp-content/plugins/temporary-login/core/admin.php 4 -
+/wp-content/uploads/2021/11/Parrillada-Ahuja-Nortena-2-300x300.jpg 3 -
+/wp-content/plugins/angwp/__%20UPDATES.txt 1 -
+/worm.PhP7 1 -
+/wp-content/plugins/contact-form-7/admin/css/styles-rtl.php 1 parrilla111.com
+/radio.php 18 -
+/magmi/web/download_file.php 1 -
+/wp-includes/Text/Diff/about.php 1 -
+/server 16 -
+/pub/z.php 1 https://parrilla111.com/pub/z.php
+/cd.php 1 -
+/wp-content/plugins/classic-editor/js/block-editor-plugin.php 1 parrilla111.com
+/fosil.php 1 -
+/wp-content/plugins/wordpres-yastsr/all.php 2 -
+/e/data/js/ajax.js 2 -
+/wp-content/plugins/wordpres-wpss/all.php 2 -
+/bypass.php 11 -
+/wp-includes/images/wlw/ 25 binance.com
+/wp-content/class.api.php 1 -
+/config 1 -
+/wp-content/uploads/2019/10/steak2-testimonials-pic1.jpg 1 http://parrilla111.com/wp-content/uploads/2019/10/steak2-testimonials-pic1.jpg
+/wp-content/plugins/wordpres-woots/all.php 2 -
+/wp-content/plugins/wp-apxupx.php 1 -
+/wp-content/plugins/membership-for-woocommerce/readme.txt 1 -
+/wp-content/plugins/Cache/dropdown.php 8 https://parrilla111.com//wp-content/plugins/Cache/dropdown.php
+/defaults.php 2 -
+/wp-content/plugins/wordpres-woosc/admin.php 4 -
+/wp-content/plugins/wordpres-yaososs/admin.php 4 -
+/wp-includes/function.php 1 -
+/wp-content/plugins/catnip/all.php 2 -
+/wp-hudbud.php 4 -
+/wp-content/gifshell.php 1 -
+/wp-content/uploads/network.php 1 -
+/xmrlpc.php 10 -
+/wp-content/uploads/2021/09/Queso-flameado-con-chorizo-scaled.jpg 2 -
+/wp-content/plugins/wordpress-wpssseo/admin.php 4 -
+/xx.php 1 -
+/sitemap.xml.gz 4 -
+/wp-content/plugins/wp-help/admin/wp-fclass.php 3 https://parrilla111.com//wp-content/plugins/wp-help/admin/wp-fclass.php
+/wp-content/uploads/wp-apxupx.php 3 https://parrilla111.com//wp-content/uploads/wp-apxupx.php
+/doc.php 13 -
+/warm.PhP7 1 -
+/cloud.php 11 -
+/dump.sql 1 -
+/wp-content/themes/hello-element/footer.php 1 -
+/wp-22.php 3 https://parrilla111.com//wp-22.php
+/wp-content/plugins/wordpres-yastst/admin.php 4 -
+/wp-content/inputs.php 7 -
+/go.php 1 -
+/wp-content/plugins/instawp-connect/readme.txt 1 -
+/wp-content/plugins/wp-file-manager/readme.txt 2 -
+/wp-content/plugins/e-signature/page-template/default/style.css 1 -
+/wp-on.php 8 https://parrilla111.com/wp-on.php,
+/wp-json/litespeed/v1/cdn_status 9 -
+/duck.php 1 https://parrilla111.com//duck.php
+/backup 14 http://parrilla111.com/backup
+/wp-content/plugins/classic-editor/js/about.php 1 -
+/wp-includes/Requests/wp-includes/ 1 -
+/wp-content/themes/spikes-black/include/lang_upload.php 1 -
+/tinyfilemanager/tinyfilemanager.php 1 -
+/app/etc/local.xml 1 -
+/wp-content/moderation.php 3 https://parrilla111.com//wp-content/moderation.php
+/cgi-bin/file.php 1 -
+/wp-includes/sodium_compat/src/Core/Curve25519/Ge/wp_blog.php 2 https://parrilla111.com//wp-includes/sodium_compat/src/Core/Curve25519/Ge/wp_blog.php
+/cgi-bin/mariju.php 1 -
+/wp-content/plugins/super-interactive-maps/css/sim-wp-admin.css 1 -
+/wp-content/plugins/woocommerce-upload-files/js/wcuf-admin-menu.js 1 -
+/wp-comments.php 8 -
+/cgi-bin/cgi-bin/about.php7 8 https://parrilla111.com//cgi-bin/cgi-bin/about.php7
+/wp-content/classwithtostring.php 1 -
+/wp-content/wp-apxupx.php 1 -
+/comments.php 8 -
+/wp-content/uploads/useanyfont/wp-content/uploads/ 1 -
+/test 1 -
+/wp-content/uploads/2021/09/Queso-panela02-2048x1367.jpg 3 -
+/wp-content/plugins/superstorefinder-wp/css/ssf-wp-admin.css 1 -
+/wp-content/languages/about.php 1 -
+/wp-content/updraft/themes.php 1 -
+/wp-includes/certificates/wp-includes/ 1 -
+/wp-content/uploads/2021/11/Parrillada-Short-Rib-8-scaled.jpg 2 -
+/wp-includes/css/wp-includes/ 1 -
+/wp-content/plugins/wordpres-wpp/all.php 2 -
+/wp-content/uploads/elementor/wp-content/uploads/ 1 -
+/wp-crom.php 1 -
+/wp-content/plugins/include.php 1 -
+/wp-includes/wp-class.php 4 -
+/s/7383e2937313e2136313e2730313/_/ 16 -
+/wp-content/tmpls.php 1 https://parrilla111.com//wp-content/tmpls.php
+/app-ads.txt 1 -
+/alfa.php 2 -
+/pcc.php 1 parrilla111.com
+/wp-content/function.php 1 -
+/wp-includes/Requests/about.php 1 -
+/wp-content/themes/pridmag/db.php 1 -
+/wp-content/plugins/wordpres-googlepagespeed/admin.php 4 -
+/gallery/ 5 -
+/wp-content/plugins/incache/ 1 www.google.com
+/wp-content/themes/twenty/twenty.php 10 https://parrilla111.com//wp-content/themes/twenty/twenty.php
+/wp-content/plugins/acf-frontend-form-element/assets/js/try-pro-min.js 3 -
+/wp-content/plugins/wp-catcher/3.1415926535898.php 1 -
+/.vscode/ftp-sync.json 2 -
+/bk 14 http://parrilla111.com/bk
+/wp-content/plugins/wp-catcher/ 10 www.google.com
+/xl2023.php 1 -
+/wp-content/plugins/wordpress-jseo/all.php 2 -
+/wp-content/plugins/wadidaw/admin.php 4 -
+/zlzrvn.php 1 www.google.com
+/wp-content/plugins/ninja-forms/readme.txt 1 -
+/product/arrachera-outside-300gr/ 1 -
+/as.php 9 -
+/wp-commentin.php 1 www.google.com
+/wp-content/plugins/miniorange-malware-protection/readme.txt 1 -
+/wp-includes/Text/wp-includes/ 1 -
+/wp-content/plugins/wpcargo/readme.txt 1 -
+/wp-includes/mah.php 1 -
+/wp-includes/rest-api/search/about.php 1 -
+/wp-confg.php 1 parrilla111.com
+/store/app/etc/local.xml 1 -
+/wp-content/plugins/wordpres-yastsr/admin.php 4 -
+/images/plugins.php 3 https://parrilla111.com//images/plugins.php
+/mah.php 6 -
+/config.json 16 -
+/ws.php 11 -
+/wp-content/plugins/wp-infostructure-brand/ 1 www.google.com
+/archivarix.cms.php 2 https://parrilla111.com/archivarix.cms.php
+/.well-known/acme-challenge/admin.php 4 -
+/.well-known/acme-challenge/atomlib.php 1 -
+/wp-includes/rest-api/about.php 10 https://parrilla111.com//wp-includes/rest-api/about.php
+/wp-includes/theme-compat/wp-includes/ 1 -
+/wp-content/themes/intense/block-css.php 1 -
+/_controls/responsive/Telerik.Web.UI.DialogHandler.aspx 2 -
+/wp-content/plugins/ai-engine/readme.txt 1 -
+/wp-content/network.php 1 -
+/wp-content/themes/erapress/config.php 1 -
+/license.php 9 -
+/wp-includes/theme-compat/theme-compat/ 2 -
+/ioxi02.php 5 -
+/wp-content/plugins/wordpres-yastse/all.php 2 -
+/wp-includes/ID3/themes.php 1 -
+/agm.php 1 -
+/inputs.php 33 -
+/wp-content/plugins/startklar-elmentor-forms-extwidgets/assets/dropzone/basic.css 2 parrilla111.com
+/wp-includes/Text/network.php 1 -
+/wp-content/plugins/wordpres-wpw/admin.php 4 -
+/wp-includes/images/wlw/about.php 1 -
+/wp-content/plugins/wp-live-chat-support-pro/css/wplc_styles_pro.css 1 -
+/phpinfo.php 1 -
+/edit.php 1 -
+/wp/ 2 -
+/wp-content/plugins/moon.php 1 -
+/gelay.php 1 -
+/wp-includes/IXR/wp-includes/ 1 -
+/themes.php 19 parrilla111.com
+/wp-includes/PHPMailer/about.php 1 -
+/blog.php 9 -
+/lol.php 1 parrilla111.com
+/Components/General/Admin/UserControl/Telerik.Web.UI.DialogHandler.aspx 2 -
+/wp-content/item.php 2 -
+/wp-content/plugins/ait-csv-import-export/changelog.txt 1 -
+/App_Master/Telerik.Web.UI.DialogHandler.aspx 2 -
+/network.php 11 -
+/wp-content/plugins/forminator/readme.txt 1 -
+/configs.php 4 -
+/cgi-bin/moon.php 4 -
+/wp-content/plugins/tutor/assets/js/lib/mce-button.js 1 -
+/wp-content/admin.php 5 -
+/randkeyword.PhP7 1 -
+/wp-pano.php 1 -
+/css/license.php 1 -
+/new/ 2 -
+/wp-content/plugins/hellopress/wp_filemanager.php 1 -
+/new 16 http://parrilla111.com/new
+/enhance 2 -
+/wp-includes/wp-configs.php 1 -
+/wp-includes/sitemaps/network.php 1 -
+/wp-content/plugins/linkpreview/db.php 3 https://parrilla111.com//wp-content/plugins/linkpreview/db.php
+/common/admin/PhotoGallery2/Telerik.Web.UI.DialogHandler.aspx 2 -
+/hello-world/ 2 -
+/.well-known/acme-challenge/wp-blog.php 1 -
+/wp-content/upgrade/plugins.php 1 -
+/mments-post.php 8 -
+/wp-content/plugins/bertha-ai-free/readme.txt 1 -
+/.well-known/acme-challenge/plugins.php 4 -
+/images/ 2 -
+/worm3.PhP7 1 -
+/wp-includes/ll.php 1 parrilla111.com
+/wp-content/uploads/2021/11/Arrachera-Outside-3-300x300.jpg 2 -
+/wp-content/plugins/wordpres-seosep/admin.php 4 -
+/wp-includes/style-engine/wp-includes/ 1 -
+/general.php 2 https://parrilla111.com//general.php
+/wp-content/uploads/2019/10/steak2-home-pic1.png 1 http://parrilla111.com/wp-content/uploads/2019/10/steak2-home-pic1.png
+/home 14 http://parrilla111.com/home
+/.git/HEAD 2 -
+/wp-content/plugins/wordpres-yastsre/all.php 2 -
+/wp-content/plugins/customify-sites/readme.txt 1 http://parrilla111.com/wp-content/plugins/customify-sites/readme.txt
+/wso112233.php 5 -
+/wp-includes/fonts/themes.php 1 -
+/wp-content/shell20211028.php 3 https://parrilla111.com//wp-content/shell20211028.php
+/wp-content/themes/porto/css/admin_bar.css 1 parrilla111.com
+/wp-content/BypassBest.php 1 -
+/Telerik.Web.UI.DialogHandler.aspx 2 -
+/wp-content/themes/footysquare/include/lang_upload.php 1 -
+/platillos-y-bebidas 3 -
+/up.php 4 -
+/wp-content/themes/faith-theme/include/lang_upload.php 1 -
+/wp-content/plugins/litespeed-cache/assets/css/litespeed-legacy.css 3 -
+/apple-touch-icon-120x120.png 2 -
+/wp-includes/js/jcrop/themes.php 1 -
+/wp-seo.php 3 https://parrilla111.com//wp-seo.php
+/wp-includes/certificates/network.php 1 -
+/wp-content/radio.php 1 -
+/wp-content/uploads/2021/09/Queso-flameado-con-chorizo-1320x881.jpg 2 -
+/wp-includes/radio.php 1 -
+/server-status 16 -
+/.DS_Store 18 -
+/wp-content/lol.php 1 parrilla111.com
+/wp-content/plugins/wordpres-wpps/admin.php 4 -
+/wp-includes/block-bindings/wp-includes/ 1 -
+/_all_dbs 16 -
+/wp-includes/Requests/Text/ 1 -
+/blog/ 2 -
+/wp-content/plugins/wordpress-wpe/admin.php 4 -
+/wp-content/themes/xstore/js/portfolio.min.js 4 -
+/wp-content/plugins/mstore-api/readme.txt 1 -
+/wp-content/themes/fing/caicai.php 1 parrilla111.com
+/wp-content/plugins/wordpres-woo/all.php 2 -
+/wp-json/oembed/1.0//%22https:////parrilla111.com///%22 1 -
+/wp-content/plugins/dzs-zoomsounds/admin/admin.css 1 -
+/wp-content/plugins/wordpres-woos/admin.php 4 -
+/wp-content/wp-editor.php 1 -
+/wp-content/plugins/phppoet-checkout-fields/readme.txt 1 -
+/wp-content/languages/themes/class.api.php 3 https://parrilla111.com//wp-content/languages/themes/class.api.php
+/wp-content/plugins/wp-photo-album-plus/readme.txt 1 http://parrilla111.com/wp-content/plugins/wp-photo-album-plus/readme.txt
+/wp-content/plugins/jaruducur/jaruducur.php 1 -
+/shop/magmi-importer/web/download_file.php 2 -
+/wp-includes/pomo/plugins.php 1 -
+/wp-content/plugins/wordpres-yaooo/all.php 2 -
+/axis2/ 4 -
+/wp-content/themes/rocky-theme/include/lang_upload.php 1 -
+/wp-content/plugins/import-xml-feed/readme.txt 1 -
+/images/mariju.php 1 -
+/bs1.php 1 https://parrilla111.com//bs1.php
+/wp-content/plugins/wp-photo-album-plus/changelog.txt 4 -
+/wp-includes/Requests/Proxy/about.php 1 -
+/product/huevos-con-veneno/ 1 -
+/wp-includes/js/500.php 1 -
+/wp-content/plugins/wp-cron.php 7 www.google.com
+/.tmb/class.api.php 1 -
+/wp-includes/random_compat/about.php 3 -
+/wp-content/uploads/2023/wp-content/uploads/ 1 -
+/wp-content/themes/bute/lang.php 1 https://parrilla111.com//wp-content/themes/bute/lang.php
+/temp/ 2 -
+/dropdown.php 20 -
+/wp-content/languages/file.php 1 -
+/wp-content/plugins/core-plugin/include.php 2 -
+/product/arrachera-outside-1kg/ 3 -
+/wp-includes/dropdown.php 1 -
+/atomlib.php 19 -
+/wp-includes/images/media/about.php 1 -
+/wp-config.old 1 -
+/wp-includes/css/themes.php 1 -
+/ioxi-rex.php 1 -
+/wp-content/plugins/wordpres-wpwp/admin.php 4 -
+/viewtopic.php 2 -
+/repeater.php 17 -
+/zb_users/plugin/UEditor/themes/default/images/cancelbutton.gif 1 http://parrilla111.com/zb_users/plugin/UEditor/themes/default/images/cancelbutton.gif
+/wp-content/about.php 7 -
+/.vscode/sftp.json 21 -
+/wp-include/inputs.php 1 -
+/wp-content/uploads/2021/09/Queso-panela02-600x401.jpg 3 -
+/wordpress/ 2 -
+/config.old 1 -
+/wp-hoard.php 2 https://parrilla111.com//wp-hoard.php
+/wp-content/plugins/wordpres-yasts/admin.php 4 -
+/wp-content/product.php 1 -
+/wp-includes/fonts/plugins.php 2 -
+/wzy.php 2 -
+/xagio-api.php 2 -
+/css/xmrlpc.php 1 -
+/menu.php 1 -
+/wp-limit-login.php 8 -
+/wp-includes/ID3/about.php 1 -
+/wp-content/plugins/Cache/Cache.php 4 -
+/pub/apps.php 1 https://parrilla111.com/pub/apps.php
+/wp-content/themes/listingo/readme.txt 1 -
+/.tmb/moon.php 1 -
+/shop/amfeed/main/download 1 -
+/wp-includes/SimplePie/plugins.php 2 -
+/wp-content/plugins/wordpress-wpe/all.php 2 -
+/css/ 4 -
+/classsmtps.php 5 -
+/product-category/cortes/ 2 -
+/wp-includes/fonts/wp-includes/ 1 -
+/shell.php 13 -
+/item.php 2 -
+/images/inputs.php 2 -
+/wp-content/license.php 1 -
+/product/coliflor-frita/ 1 -
+/wp_gpt.php 2 -
+/shop/page/2/ 1 -
+/wp-checkbex.php 2 -
+/humans.txt 1 https://www.parrilla111.com/humans.txt
+/apple-touch-icon-120x120-precomposed.png 2 -
+/wp-content/404.php 1 -
+/BypassBest.php 1 -
+/proxy.php 1 http://parrilla111.com/proxy.php
+/wp-content/plugins/wordpres-wpz/admin.php 4 -
+/wp-content/themes/include.php 1 -
+/wp-includes/css/dist/customize-widgets/about.php 1 -
+/wp-content/xl2023.php 1 -
+/admin-ajax.php 1 -
+/wp-content/plugins/videowhisper-live-streaming-integration/readme.txt 1 -
+/defaul1.php 1 -
+/cgi-bin/license.php 1 -
+/wp-includes/class.api.php 1 -
+/wp-content/uploads/2024/wp-content/uploads/ 1 -
+/wp-content/themes/soundblast/include/lang_upload.php 1 -
+/apple-touch-icon.png 2 -
+/wp-content/plugins/woozone/lib/frontend/js/frontend.js 1 -
+/wp-content/plugins/wp-automatic/css/style.css 1 -
+/shop/magmi/conf/magmi.ini 1 -
+/wp-content/plugins/wadidaw/all.php 2 -
+/wso.php 14 -
+/.well-known/security.txt 1 https://www.parrilla111.com/.well-known/security.txt
+/wp-content/wso.php 3 https://parrilla111.com//wp-content/wso.php
+/wp-content/plugins/activedemand/readme.txt 2 http://parrilla111.com/wp-content/plugins/activedemand/readme.txt
+/wp-content/plugins/chatbot-chatgpt/readme.txt 1 -
+/wp-includes/interactivity-api/wp-includes/ 1 -
+/.well-known/fierzashell.php 1 -
+/wp-content/plugins/wordpres-yaosos/admin.php 4 -
+/wp-includes/admin.php 1 -
+/wp-includes/Requests/src/Auth/about.php 1 -
+/wp-content/plugins/wordpress-wpsseo/admin.php 4 -
+/ws.php.php 1 -
+/users.php 5 -
+/wp-content/plugins/essential-addons-for-elementor-lite/readme.txt 1 -
+/wp-content/themes.php 1 parrilla111.com
+/wp-content/uploads/mfw-activity-logger/csv-uploads/ahkamu.php 1 -
+/manager/ 1 -
+/wp-content/uploads/2021/09/Rib-Eye-Angus-2-scaled.jpg 1 -
+/wp-includes/rest-api/wp-includes/ 1 -
+/wp-head.php 13 https://parrilla111.com//wp-head.php
+/cong.php 17 -
+/wp-content/themes/themes.php 1 -
+/.well-known/admin.php 2 https://parrilla111.com//.well-known/admin.php
+/wp-content/plugins/envato-market/inc/class-envato-market-api.php 1 -
+/delete3.php 3 https://parrilla111.com//delete3.php
+/wp.php 15 -
+/wp-content/plugins/wordpress-wpsseo/all.php 2 -
+/wp-content/uploads/2021/09/Queso-flameado-con-chorizo-1030x688.jpg 2 -
+/ioxi01.php 2 -
+/wp-includes/css/about.php 1 -
+/.well-known/acme-challenge/class.api.php 1 -
+/wp-content/plugins/hash-form/js/form-block.js 1 -
+/wp-includes/wp-22.php 1 -
+/wp-ver.php 12 www.google.com
+/wp-includes/rest-api/network.php 1 -
+/well-known/pki-validation/mariju.php 1 -
+/css/plugins.php 1 -
+/security.txt 1 https://www.parrilla111.com/security.txt
+/filemanager.php 1 -
+/shop 1 -
+/sftp-config.json 4 -
+/wp-apxupx.php 1 -
+/wp-content/plugins/wordpres-woos/all.php 2 -
+/updates.php 10 -
+/axis2-admin/ 4 -
+/wp-content/uploads/2021/11/Parrillada-Ahuja-Nortena-2-scaled.jpg 6 -
+/seo.php 10 -
+/storage/2023/04/menu-digital-desayunos-almuerzos-_-comidas-y-cenas-2.pdf 1 -
+/wp-content/wp-22.php 1 -
+/test.php 4 -
+/wp-content/themes/churchlife/include/lang_upload.php 1 -
+/wp-content/plugins/wordpres-yastst/all.php 2 -
+/wp-content/auto_seo.php 1 -
+/static/admin/javascript/hetong.js 3 https://www.parrilla111.com/static/admin/javascript/hetong.js
+/wp-content/ll.php 1 parrilla111.com
+/wp-content/plugins/wp-automatic/css/wp-automatic.css 5 parrilla111.com
+/wp-content/uploads/2021/09/sopa-de-fideo-scaled.jpg 3 -
+/ayk.php 2 -
+/wp-content/plugins/forminator/assets/fonts/wpmudev-plugin-icons.svg 1 -
+/wp-includes/sitemaps/providers/about.php 1 -
+/wp-content/plugins/woo-refund-and-exchange-lite/readme.txt 1 -
+/fm.php 2 -
+/wp-config.prod.php.txt 1 -
+/.well-known/traffic-advice 105 -
+/wp-content/themes/wp-cron.php 8 www.google.com
+/ee.php 8 https://parrilla111.com//ee.php
+/wp-content/plugins/wordpresssoe/admin.php 4 -
+/alfa-rex.php7 1 -
+/wp-script.php 2 -
+/yanz.php 1 -
+/wp-content/plugins/wp-ver.php 3 www.google.com
+/wp-content/plugins/wordpresssoees/admin.php 4 -
+/telescope/requests 16 -
+/moon.php 13 -
+/makeasmtp.php 6 -
+/wp-includes/SimplePie/about.php 1 -
+/wp-content/uploads/2019/10/steak2-about-pic1.png 1 http://parrilla111.com/wp-content/uploads/2019/10/steak2-about-pic1.png
+/epinyins.php 1 -
+/wp-content/plugins/woocommerce-payments/readme.txt 1 http://parrilla111.com/wp-content/plugins/woocommerce-payments/readme.txt
+/autoload_classmap.php 5 -
+/ioxi002.PhP7 2 -
+/wp-sitemap-posts-post-1.xml 1 -
+/wp-content/plugins/wordpress-jbsseo/admin.php 4 -
+/wp-content/plugins/wordpres-wpsss/all.php 2 -
+/top.php 1 -
+/test/ 2 -
+/wp-sigunq.php 5 -
+/wp-content/themes/statfort-new/include/lang_upload.php 1 -
+/.well-known/acme-challenge/license.php 1 -
+/sellers.json 1 -
+/adminfuns.php 1 -
+/my1.php 6 https://parrilla111.com//my1.php
+/wp-includes/themes.php 1 -
+/log.php 12 -
+/wp-content/plugins/wordpres-wpz/all.php 2 -
+/woh.php 1 -
+/.ftpconfig 1 -
+/wp-content/plugins/wordpres-wp/admin.php 4 -
+/gawean.php 1 -
+/wp-includes/xl2023.php 1 -
+/downloader 1 -
+/.ssh/id_ecdsa 1 -
+/wp-content/woh.php 1 -
+/wp-content/click.php 1 -
+/gifshell.php 1 -
+/wp-conflg.php 12 -
+/wp-content/uploads/2021/11/Parrillada-Short-Rib-8-1030x688.jpg 2 -
+/worm1.PhP7 1 -
+/wp-includes/customize/file.php 1 -
+/wp-content/themes/seotheme/mar.php 1 -
+/wp-content/plugins/wordpres-googlepagespeed/all.php 2 -
+/wp-content/plugins/wordpres-wpssc/all.php 2 -
+/wp-includes/html-api/wp-includes/ 1 -
+/wp-content/themes/spikes/include/lang_upload.php 1 -
+/wp-content/wp-configs.php 1 -
+/wp-content/plugins/wordpres-woot/admin.php 4 -
+/wp-includes/block-patterns/wp-includes/ 1 -
+/wp-config 3 -
+/DesktopModules/dnnWerk.RadEditorProvider/DialogHandler.aspx 2 -
+/wp-content/plugins/wordpress-sseo/all.php 2 -
+/wp-content/plugins/wp-automatic/changelog 4 -
+/uninstall.php 8 -
+/wp-content/plugins/wordpress-seoa/admin.php 4 -
+/options.php 2 -
+/wp-content/themes/westand/include/lang_upload.php 1 -
+/wp-content/themes/plugins.php 4 -
+/wp-config%20fix.txt 2 -
+/wp-content/plugins/wordpres-woots/admin.php 4 -
+/LV.php 1 -
+/current.php 8 -
+/alfanew.PHP7 4 -
+/wp-links.php 1 -
+/wp-includes/customize/mariju.php 1 -
+/ccx/ 1 -
+/.well-known/themes.php 1 -
+/wp-includes/customize/wp-includes/ 1 -
+/wp-includes/inputs.php 2 -
+/wp-content/dropdown.php 8 https://parrilla111.com//wp-content/dropdown.php
+/.env 40 -
+/plugin.php 1 -
+/wp-content/plugins/backup-backup/readme.txt 2 -
+/wp-config.txt 1 -
+/wp-includes/Text/themes.php 1 -
+/wp-content/languages/network.php 1 -
+/wp-blog.php 4 -
+/wp-content/upgrade-temp-backup/about.php 3 https://parrilla111.com//wp-content/upgrade-temp-backup/about.php
+/product/rib-eye-angus-300gr/ 2 -
+/wp-includes/Text/about.php 12 https://parrilla111.com//wp-includes/Text/about.php
+/liesmich.php 2 -
+/apple-touch-icon-precomposed.png 2 -
+/.git/config 36 -
+/wp-content/uploads/2021/11/Parrillada-Short-Rib-8-2048x1367.jpg 3 -
+/wp-content/autoload_classmap.php 1 -
+/wp-content/ty.php 1 -
+/.well-knownold/ 3 -
+/ecp/Current/exporttool/microsoft.exchange.ediscovery.exporttool.application 16 -
+/wp-includes/product.php 1 -
+/wp-l0gin.php 8 -
+/st.php 8 https://parrilla111.com//st.php
+/.well-known/class.api.php 1 -
+/ments-post.php 8 -
+/wp-includes/classwithtostring.php 1 -
+/cgi-bin/themes.php 5 parrilla111.com
+END_SIDER_404
+
+# Host - Pages - Hits - Bandwidth - Last visit date - [Start date of last visit] - [Last page of last visit]
+# [Start date of last visit] and [Last page of last visit] are saved only if session is not finished
+# The 25 first Hits must be first (order not required for others)
+BEGIN_VISITOR 857
+107.161.179.87 3839 3839 1784869 20240531234151
+45.88.91.113 119 119 15790486 20240513124114
+193.186.4.212 46 46 6373961 20240531124629
+72.14.201.212 41 41 5949989 20240530184021
+72.14.201.213 38 38 5481439 20240530185239
+193.186.4.213 35 35 5206217 20240529192046
+104.28.199.141 32 203 16191107 20240508155408
+4.242.132.27 24 24 2803818 20240516094300
+64.227.161.151 20 20 747940 20240517115342
+91.92.252.143 18 18 2380106 20240529004532
+181.214.147.43 15 15 2462705 20240531135032
+89.117.72.22 15 15 2462705 20240530054140
+189.152.151.240 15 150 17401774 20240505160527
+187.192.94.149 14 156 19480708 20240518224450
+189.152.13.22 14 161 31044793 20240528163427
+185.43.106.117 14 14 2312229 20240502024204
+189.153.179.242 13 163 18073467 20240522095952
+148.245.50.26 12 105 9725836 20240523113145
+165.22.220.145 12 12 1491037 20240510165905
+13.76.187.134 12 12 1785000 20240531144552
+189.219.64.76 12 63 5616917 20240520171539
+167.71.230.142 12 12 1491037 20240531231618
+187.136.13.146 12 95 19304538 20240523120707
+4.242.238.58 12 12 1401909 20240519015316
+200.68.165.47 12 115 12022867 20240510204120
+45.41.173.225 1 1 118546 20240528153020
+173.249.19.204 1 1 12322 20240506160340
+191.96.168.44 3 3 388515 20240503162818
+82.156.73.67 1 1 148739 20240519073514
+151.106.8.37 3 3 388515 20240508152220
+146.70.171.150 1 2 150909 20240509185643
+182.42.104.32 2 2 297500 20240526034206
+187.161.119.94 5 58 4421669 20240519165436
+209.38.133.142 1 1 148739 20240520133804
+87.249.132.168 3 3 388513 20240523140012
+200.68.165.14 9 85 7610238 20240507173024
+177.245.50.236 10 109 16455068 20240518163541
+200.68.140.38 1 1 0 20240520120421
+45.130.202.7 1 1 121230 20240509140720
+195.26.243.28 1 1 148739 20240508091310
+189.201.34.217 5 57 6487268 20240510002504
+191.101.209.143 3 3 388515 20240503023821
+201.141.52.238 9 82 9705471 20240513141424
+139.162.210.205 1 1 148750 20240529091323
+37.19.198.144 2 2 239776 20240513160342
+187.189.68.250 6 74 11994742 20240506000953
+185.207.35.230 2 2 297478 20240507080730
+43.131.248.209 4 4 595000 20240528194857
+187.202.212.86 1 1 0 20240518081504
+45.94.31.191 1 2 164275 20240515111530
+142.111.255.168 1 1 118546 20240514064320
+64.23.187.204 1 1 148739 20240508133829
+47.242.224.70 2 46 1163612 20240510043951
+91.90.121.149 2 2 242458 20240502124142
+156.146.57.131 2 2 239774 20240529153114
+43.157.40.137 1 1 148739 20240502075006
+200.68.140.43 0 3 6979726 
+189.172.168.146 5 56 4724483 20240513162853
+204.8.96.164 3 3 446217 20240520221916
+189.218.89.88 5 64 3900667 20240521204243
+187.188.112.153 5 56 4724483 20240527125243
+65.154.226.170 2 2 297478 20240531153859
+45.41.179.20 1 1 121228 20240504143641
+51.159.18.207 2 2 297478 20240523055916
+113.219.218.197 1 1 148750 20240517130635
+172.225.154.192 6 60 9905709 20240519104631
+15.204.182.106 2 2 297478 20240509193014
+201.162.241.21 4 55 6306174 20240524143652
+102.165.16.84 2 2 239776 20240502144614
+189.201.94.89 2 2 0 20240512113734
+104.28.50.18 9 65 13644418 20240527154429
+201.172.91.207 5 55 6437819 20240505143831
+154.202.107.183 1 1 118546 20240520120758
+189.153.9.27 6 58 4896766 20240520114933
+196.245.181.133 1 1 118546 20240528192942
+187.189.163.85 3 48 1623776 20240526210736
+87.249.132.9 3 3 388513 20240528132015
+192.3.178.22 1 1 118546 20240524224436
+65.155.30.101 5 55 4722313 20240520102111
+187.190.30.165 6 66 7037067 20240509174909
+192.3.142.107 3 3 358322 20240530093145
+43.131.243.208 1 1 148750 20240513014247
+173.208.27.46 1 1 121227 20240528122619
+50.62.150.245 1 1 12322 20240516113141
+144.202.64.74 1 1 0 20240528074830
+23.226.16.72 2 6 293627 20240524123146
+43.130.47.136 2 2 297500 20240526154918
+200.52.43.10 1 1 0 20240511100432
+155.254.48.119 1 1 118546 20240525023129
+146.70.123.204 0 1 1396 
+167.172.225.145 1 1 12318 20240519234039
+93.158.90.35 1 1 148739 20240505035543
+187.189.136.241 5 55 7300175 20240517112702
+23.106.22.93 1 1 121230 20240501144148
+190.63.126.216 0 1 227408 
+189.152.149.86 9 67 10590402 20240509120105
+89.19.32.131 1 1 118546 20240522093604
+82.165.61.230 1 1 0 20240503112640
+98.159.226.159 1 1 121230 20240529101911
+187.161.231.15 11 150 4891899 20240527180431
+189.202.138.50 4 56 6473992 20240520120834
+187.189.41.2 7 64 7590428 20240504161010
+104.239.37.102 1 1 121230 20240511104225
+35.92.163.165 1 1 148739 20240527040520
+201.172.173.86 10 86 13677165 20240525215907
+45.130.202.23 1 1 118546 20240527071146
+34.220.32.3 1 1 148739 20240511053534
+187.190.79.68 3 55 6325242 20240513182842
+189.152.236.59 10 105 20856936 20240531111845
+187.190.181.68 11 76 7580147 20240514074857
+148.135.52.42 1 1 148739 20240516115708
+187.190.173.193 7 62 7007331 20240524002746
+178.73.212.20 1 1 148739 20240510153434
+20.191.194.43 1 1 148739 20240510181718
+64.23.142.210 1 1 12321 20240509052110
+168.91.90.98 1 1 121227 20240515042446
+173.249.144.118 1 1 148739 20240526141745
+201.172.206.62 4 68 10638474 20240529172555
+129.226.146.179 2 2 297500 20240523170302
+45.147.197.239 1 1 12322 20240526133607
+157.245.96.33 1 1 12324 20240523004013
+104.254.244.98 4 4 49288 20240527192049
+163.116.231.55 6 66 5340757 20240512174753
+193.186.4.220 1 1 148750 20240505150416
+139.171.114.241 1 1 148739 20240517151957
+45.127.248.48 1 1 121228 20240505075639
+189.156.82.219 7 72 9831820 20240519160859
+189.218.30.52 7 59 6614644 20240508135038
+187.189.128.61 5 56 6420793 20240515194824
+182.42.105.144 1 1 148750 20240527031619
+43.134.190.89 1 1 148750 20240519030634
+109.203.160.238 1 1 148739 20240528175939
+95.217.75.104 1 1 148739 20240525213949
+35.182.13.53 1 1 0 20240512123028
+187.190.178.103 9 60 5319439 20240530170919
+43.133.77.230 1 1 148750 20240510144540
+138.197.191.87 1 1 148750 20240524115216
+91.92.253.87 1 2 164275 20240510151900
+159.89.12.166 1 1 148750 20240527004911
+23.94.77.56 3 3 363687 20240531172958
+167.99.210.137 1 1 148750 20240509185640
+64.226.75.125 1 1 148739 20240518134334
+161.123.115.4 2 2 242457 20240516080501
+201.172.175.131 7 75 7606783 20240524134402
+189.158.161.226 0 1 84051 
+189.219.191.164 6 62 6971962 20240518140727
+167.99.32.80 1 1 0 20240519031750
+70.34.221.22 10 10 1621292 20240522102707
+172.105.124.122 2 2 297478 20240516135708
+51.79.54.233 2 2 297478 20240527140408
+189.175.134.156 8 65 7206798 20240506181404
+45.77.106.198 1 1 0 20240531055931
+207.248.59.115 6 83 9496019 20240509084621
+200.77.50.210 6 76 10871768 20240513123245
+23.106.20.95 1 1 118546 20240526034524
+91.92.253.20 1 1 148739 20240505055855
+69.10.48.160 1 1 148739 20240524071254
+187.189.108.240 0 1 84051 
+173.239.203.207 2 2 239776 20240522145753
+175.44.42.179 2 2 297500 20240526025419
+201.172.237.90 1 1 0 20240525183034
+64.233.172.137 0 1 47221 
+143.244.141.8 2 2 297478 20240524130320
+92.204.188.247 3 3 388513 20240531085223
+204.8.96.117 1 1 148739 20240521072320
+54.38.44.6 1 1 148739 20240516131836
+1.55.216.20 1 1 121227 20240510014620
+201.172.174.157 1 2 172283 20240507113211
+162.240.102.180 2 2 24645 20240506205820
+23.94.146.132 1 1 121227 20240522114630
+189.216.171.10 9 66 4722977 20240530154433
+64.225.67.236 1 1 148739 20240510141451
+200.68.164.51 11 109 10305749 20240531230906
+23.106.192.186 1 1 121230 20240501155851
+87.236.176.4 1 1 12322 20240519181135
+172.225.154.193 1 1 0 20240511160717
+137.184.37.249 2 2 297478 20240514002614
+45.32.227.247 1 1 0 20240528072025
+109.205.213.18 2 2 24645 20240519131716
+208.109.188.30 1 1 12323 20240514211623
+195.90.221.76 1 1 148739 20240524075846
+187.190.189.45 1 1 0 20240528100008
+187.162.25.208 5 56 4724483 20240517134609
+23.106.28.14 1 1 118546 20240511061041
+201.162.227.91 5 58 6420211 20240515023247
+138.197.44.248 2 2 297478 20240527140912
+45.95.243.7 1 1 121228 20240502114916
+83.97.73.239 9 9 1165540 20240522105327
+189.153.82.224 5 52 3807057 20240507105718
+104.28.50.19 5 57 6465894 20240526013110
+143.110.223.91 1 1 148739 20240516123839
+45.120.177.78 1 1 12322 20240530233048
+66.56.76.252 1 1 118546 20240504183856
+134.73.100.75 1 1 121230 20240528080028
+23.105.147.185 1 1 121230 20240525164458
+45.130.202.9 2 2 242458 20240530200224
+185.243.218.35 1 1 148739 20240520235558
+4.242.218.139 4 5 486029 20240514221154
+117.33.163.216 3 3 446250 20240531171720
+165.225.218.224 5 53 3809227 20240507122147
+35.243.206.162 1 1 148739 20240525114615
+89.248.172.115 2 2 297500 20240505230918
+187.195.147.226 6 74 6424187 20240503132911
+189.219.52.84 11 109 10932505 20240503135304
+85.209.11.117 9 9 1165541 20240524083825
+165.231.227.6 1 1 118546 20240520024209
+43.163.8.36 1 1 148750 20240531050555
+89.37.66.55 1 1 118546 20240517001342
+177.244.40.194 6 76 10871768 20240508172711
+189.219.54.86 0 2 168102 
+176.111.174.90 2 2 297478 20240504001231
+4.227.114.213 4 4 467303 20240506080428
+3.215.200.136 1 1 148739 20240526162900
+212.102.59.202 2 2 239774 20240519103644
+180.102.134.69 1 1 148750 20240528081416
+5.133.192.128 1 2 150909 20240516190016
+42.83.147.53 3 3 446217 20240509081809
+189.159.23.191 1 1 0 20240509152200
+38.91.106.96 1 1 148750 20240510124853
+187.195.167.161 6 70 7471560 20240513145202
+52.128.1.62 2 2 239774 20240503132631
+41.216.188.168 2 2 297500 20240521012545
+45.76.63.150 1 1 0 20240526062934
+20.171.82.100 4 4 467303 20240504204708
+189.153.108.109 5 57 6465894 20240509181955
+182.40.104.255 1 1 148750 20240502235254
+133.242.174.119 1 1 148750 20240509220033
+189.153.116.177 5 55 7300175 20240510151453
+189.158.204.94 8 146 23613485 20240510203024
+209.242.209.109 1 1 121230 20240514004250
+200.68.165.4 5 57 4909143 20240505144941
+201.172.173.42 6 80 8580763 20240515123924
+207.230.104.37 1 1 118546 20240514074440
+198.23.250.39 1 1 118546 20240519171453
+137.184.58.165 1 1 148739 20240504140907
+104.148.5.213 1 1 118546 20240504143652
+52.123.190.60 2 3 152915 20240508133950
+98.159.226.154 1 1 118546 20240529172815
+103.190.14.141 2 2 239776 20240531232131
+189.201.32.13 1 1 0 20240515194657
+92.204.188.249 3 3 388512 20240527155855
+93.100.128.142 1 1 121227 20240515080657
+147.182.247.255 1 1 148739 20240514105252
+152.32.167.210 7 7 514289 20240528142809
+173.244.55.13 1 1 118546 20240531114338
+87.249.132.41 3 3 388513 20240501174115
+201.166.191.236 1 38 1065194 20240507185921
+128.199.26.235 4 4 594956 20240512163058
+5.133.192.192 1 1 148739 20240516030440
+193.105.234.217 1 1 12326 20240512100517
+187.163.127.90 7 76 6420793 20240523164436
+129.232.249.137 1 1 12316 20240511120816
+23.106.201.144 1 1 121230 20240512032003
+189.219.246.59 8 101 16781308 20240524102739
+65.154.226.169 1 1 148739 20240514144742
+189.201.18.221 0 14 0 
+201.160.195.229 0 1 84051 
+23.106.27.13 1 1 121230 20240526034520
+189.159.58.227 0 1 84051 
+149.56.160.204 8 8 940995 20240525132925
+37.19.223.120 3 3 388515 20240516125009
+42.83.147.34 1 1 148739 20240522004410
+150.95.83.97 1 1 148739 20240519135849
+165.232.165.110 1 1 148739 20240509192908
+129.226.147.7 1 1 148750 20240514113042
+189.160.222.239 5 57 4750388 20240514111829
+154.28.74.27 1 1 121227 20240514140841
+104.28.50.16 6 58 6469198 20240502103948
+189.175.37.137 6 59 5819188 20240522000203
+189.201.12.70 8 54 5368368 20240531134321
+46.250.234.228 2 2 297478 20240527094931
+206.41.168.32 1 1 121228 20240518113331
+64.227.170.5 8 8 934606 20240525090307
+45.74.25.37 2 2 239776 20240501005818
+178.62.79.42 1 1 148739 20240506122955
+74.208.80.213 2 2 297478 20240527205239
+165.227.33.38 1 1 0 20240520160514
+165.225.218.205 5 56 6420793 20240517112647
+187.191.8.109 5 74 10754990 20240521052956
+5.42.80.235 2 2 297478 20240520222341
+162.142.125.43 1 1 12321 20240531063733
+185.55.240.14 4 4 479552 20240504074306
+45.74.46.231 2 2 239776 20240513192141
+200.68.165.5 0 2 3490948 
+130.255.165.131 3 3 446217 20240502011737
+104.239.41.217 1 1 118546 20240520170535
+200.68.164.11 4 49 1623774 20240527094052
+69.164.220.126 5 5 643142 20240502140434
+185.125.50.5 1 1 0 20240501234959
+20.172.15.155 2 2 148750 20240507075836
+147.235.194.189 1 1 148739 20240511095340
+67.205.157.83 2 2 297478 20240527140718
+103.108.45.105 1 1 12321 20240503235629
+200.68.165.20 5 60 6855277 20240525104356
+5.56.132.84 1 1 148739 20240511212709
+85.238.131.227 5 57 6448732 20240514144736
+62.122.184.194 7 7 868065 20240509071305
+187.161.141.138 1 1 148750 20240517211701
+192.126.226.142 1 1 121228 20240503091817
+204.8.96.175 1 1 148739 20240521171304
+103.153.2.74 1 1 148739 20240519084521
+23.82.110.221 2 2 239448 20240503130824
+223.244.35.77 1 1 148750 20240512032209
+182.44.8.254 1 1 148750 20240504053549
+149.19.169.17 11 97 13765022 20240511122638
+189.219.64.15 5 56 4724483 20240506105453
+104.168.53.209 1 1 118546 20240531173006
+189.206.185.130 5 52 5347252 20240530120635
+43.134.240.57 1 1 148739 20240504223252
+195.154.82.194 2 2 297478 20240527140410
+95.105.81.18 1 1 121230 20240507002046
+52.112.39.133 2 3 152915 20240520114924
+203.2.64.59 1 1 148750 20240509171701
+35.222.111.20 2 2 297478 20240516132028
+187.209.151.253 1 1 0 20240531182640
+64.233.172.135 3 8 298285 20240519165439
+185.92.45.155 1 1 121227 20240520120754
+189.224.101.252 4 57 6492718 20240524081059
+104.247.165.250 1 1 148739 20240524143155
+45.56.175.228 1 1 118546 20240505075651
+23.81.67.91 1 1 121230 20240511061037
+23.105.1.57 2 6 293624 20240510211011
+104.164.173.178 1 1 148739 20240509213336
+147.182.245.113 1 1 148739 20240512144745
+161.97.148.58 1 1 148739 20240521093407
+134.209.228.47 2 2 297478 20240505205535
+104.244.77.158 2 2 297478 20240523005011
+187.189.40.244 4 73 12597496 20240510192533
+136.226.0.169 6 60 6802067 20240528120835
+189.219.55.77 5 57 4837864 20240529113148
+205.169.39.165 6 77 5212948 20240520101552
+38.49.56.8 1 1 148750 20240526082958
+216.250.255.126 2 2 148739 20240529145624
+93.158.91.29 1 2 150909 20240528132005
+187.189.187.221 5 57 6465894 20240507145258
+162.240.156.124 1 1 12326 20240520144814
+43.156.42.104 1 1 148739 20240522194157
+65.154.226.167 1 1 148739 20240505063344
+38.154.75.143 1 1 121228 20240521021819
+104.28.50.22 1 4 413388 20240502233851
+154.29.105.170 1 1 118546 20240514140844
+206.123.150.40 2 2 239773 20240523193019
+201.151.62.117 6 80 10137514 20240508173119
+141.138.213.100 2 2 297478 20240530065546
+104.239.35.86 1 1 121227 20240526075143
+195.175.22.38 1 1 148739 20240513130850
+137.226.113.44 5 5 743695 20240530080811
+23.105.145.249 1 1 118546 20240525164504
+200.68.165.3 6 57 8905331 20240518193352
+212.94.129.216 2 2 297478 20240527140937
+35.225.82.182 1 1 127893 20240510123747
+201.162.168.193 1 1 0 20240505182130
+94.247.172.129 1 1 148739 20240525225225
+115.231.78.2 1 1 37397 20240512061628
+201.116.252.162 6 77 9288839 20240531153908
+189.224.142.26 1 1 0 20240507192624
+189.224.159.37 1 1 0 20240516210837
+207.180.239.96 1 1 148739 20240514014400
+201.172.172.136 0 1 1360 
+154.202.118.46 1 1 121228 20240513225402
+34.210.42.42 1 1 148739 20240531041415
+104.239.41.23 1 1 121230 20240518092232
+132.148.120.17 1 1 148739 20240516131828
+64.23.216.155 1 1 148739 20240530150203
+45.148.10.232 1 1 12321 20240528104302
+198.203.28.121 2 2 239776 20240502091358
+200.68.140.48 6 59 6582579 20240503200633
+198.23.254.123 1 1 148739 20240518200619
+149.88.19.15 2 2 239773 20240506021603
+144.126.131.216 8 8 959098 20240531021748
+13.39.75.150 1 1 148739 20240529125257
+37.140.254.210 1 1 118546 20240524040642
+192.0.88.45 2 2 395196 20240526212851
+23.82.41.123 1 1 121230 20240510091940
+54.189.88.3 1 1 148739 20240531041422
+159.65.24.22 3 3 402487 20240519152225
+195.211.77.140 1 1 0 20240509185550
+77.237.240.95 2 2 297478 20240514191416
+51.77.117.102 1 1 148739 20240511141331
+173.244.55.37 1 1 118546 20240505165926
+161.123.115.134 1 1 121230 20240513041821
+198.46.150.60 1 1 121227 20240523035814
+189.203.89.85 5 33 1729196 20240502104439
+52.208.151.205 1 1 148739 20240505003058
+43.133.38.182 1 1 148750 20240524163758
+139.59.9.87 2 2 297478 20240506084653
+164.92.244.132 1 1 148750 20240528081815
+148.234.56.11 1 18 3314289 20240507100032
+192.95.30.227 8 8 1322656 20240507230319
+49.7.227.204 2 2 297500 20240530063935
+87.236.176.237 1 1 12319 20240525233319
+23.82.104.114 1 1 121230 20240517113624
+195.26.241.51 2 2 297478 20240504092034
+189.201.38.12 8 83 7714508 20240526155516
+200.68.164.27 2 20 6581 20240510103423
+201.162.243.246 2 21 0 20240524175239
+187.171.22.153 1 1 0 20240525112929
+187.161.133.125 9 99 16255440 20240529191243
+193.186.4.209 1 1 148750 20240501164309
+192.141.246.136 3 50 1651849 20240506124019
+5.133.192.105 2 4 301818 20240522170713
+4.242.220.49 4 4 467303 20240506001624
+36.134.147.75 1 1 148750 20240505021951
+51.75.72.91 2 2 297478 20240527141154
+143.198.133.114 1 1 148739 20240501231931
+109.230.220.203 1 1 121230 20240529235804
+187.195.230.53 11 107 10942822 20240510082359
+54.89.189.224 1 1 148739 20240503044820
+159.203.95.96 2 2 297478 20240527140616
+43.155.183.138 1 1 148750 20240524042127
+104.239.33.193 2 2 239776 20240531064545
+45.77.106.236 1 1 0 20240523004634
+104.223.120.187 1 1 118546 20240503091822
+187.189.41.149 9 86 9076242 20240507155719
+81.0.246.138 0 1 18726 
+106.227.49.113 1 1 148750 20240529182830
+87.236.176.244 1 1 12316 20240504103635
+15.204.183.221 1 1 121230 20240510085106
+187.190.31.127 6 55 5435757 20240526112433
+198.58.103.234 1 1 148739 20240504193216
+187.190.177.255 3 54 5570434 20240527144545
+103.1.208.222 1 1 12319 20240509113228
+187.189.41.127 5 53 3809227 20240509174416
+120.71.59.24 1 1 148750 20240515221451
+189.159.105.143 1 1 148739 20240509174646
+66.135.10.152 1 1 0 20240529060700
+143.198.36.1 1 1 0 20240518202333
+98.159.226.155 1 1 118546 20240529101916
+171.244.43.14 1 1 148750 20240510090138
+217.76.48.181 1 1 148739 20240526090027
+45.41.171.78 1 1 121228 20240528153012
+154.29.103.228 2 2 239776 20240505162151
+47.88.90.156 1 1 148750 20240510070158
+45.130.202.28 1 1 118546 20240512141447
+173.244.55.12 1 1 121230 20240531114335
+83.217.9.94 2 2 239776 20240503142505
+43.159.129.209 1 1 148750 20240504154648
+200.68.140.59 2 21 0 20240510161138
+89.116.71.191 1 1 118546 20240516080748
+186.96.56.104 5 53 3809227 20240521173122
+18.236.177.241 1 1 148739 20240519042105
+128.90.136.186 1 1 0 20240504190519
+173.208.27.203 1 1 118546 20240514114227
+38.154.104.29 2 2 237092 20240521021824
+93.158.91.32 1 2 150909 20240505002458
+189.153.47.126 8 78 9515626 20240527104630
+103.109.244.101 0 1 1396 
+5.160.146.232 1 1 148739 20240529141010
+45.130.202.41 1 1 121228 20240527071142
+194.163.137.108 1 1 148739 20240516030452
+187.171.215.235 0 1 84051 
+45.130.202.4 1 1 118546 20240530200228
+201.132.3.142 5 56 4724483 20240524103443
+187.161.142.191 6 80 10137514 20240509122421
+23.80.164.41 1 1 118546 20240510091956
+178.171.44.7 1 1 148739 20240526123548
+207.244.118.251 1 1 121230 20240509095617
+189.152.130.31 8 65 4695465 20240524105132
+189.153.142.117 6 58 6465894 20240502191400
+91.92.243.107 3 3 297500 20240529234815
+187.190.31.49 7 72 8114966 20240507155251
+42.83.147.56 2 2 297478 20240527031109
+216.250.254.54 2 2 148739 20240530020137
+91.206.201.180 1 1 148750 20240520161342
+165.232.181.223 1 1 148739 20240514122521
+156.146.41.72 1 1 148739 20240508233950
+134.122.90.255 1 1 148739 20240512023648
+189.153.201.128 7 62 12745149 20240525150030
+139.59.132.8 1 1 148750 20240525121800
+194.233.78.139 2 2 297478 20240531172015
+62.210.215.74 1 1 148739 20240531043145
+103.190.14.136 2 2 239774 20240528090553
+87.249.132.37 3 3 388513 20240529064842
+91.92.244.237 1 1 148739 20240508013353
+83.216.185.94 2 2 297478 20240527140245
+43.163.3.58 1 1 148750 20240511160054
+187.190.178.8 5 52 5383004 20240502161912
+195.201.226.18 8 8 1322656 20240508143259
+179.43.152.66 1 47 1045923 20240515104749
+98.159.226.152 1 1 121230 20240529172810
+134.73.64.85 2 2 239774 20240528064956
+189.201.26.208 5 46 1955189 20240502160027
+201.172.173.44 5 57 6487268 20240522080331
+159.223.118.45 1 1 148739 20240526140748
+205.169.39.240 6 77 5212948 20240509210157
+217.138.202.69 1 1 121228 20240508103011
+169.198.254.68 7 90 10753788 20240508134007
+189.132.120.81 6 55 5414383 20240512175016
+189.158.6.2 0 2 168102 
+89.149.41.62 2 2 239774 20240528183642
+200.68.164.57 4 57 6492718 20240510092746
+200.68.165.9 4 54 6424543 20240510141900
+60.188.57.0 1 1 148750 20240505221540
+192.3.114.18 1 1 121227 20240524224433
+122.201.124.71 1 1 12323 20240518150511
+200.68.141.161 4 55 5719184 20240507172816
+128.90.174.16 1 1 148739 20240520104438
+209.242.208.83 1 1 121227 20240516231142
+139.59.25.136 1 1 148739 20240522132617
+187.224.157.180 11 95 14503154 20240516224327
+52.80.96.170 1 2 232790 20240527153207
+52.203.23.91 2 26 750631 20240503012119
+173.244.55.36 1 1 121228 20240505165920
+4.242.221.96 4 4 467303 20240530181358
+27.114.150.51 1 1 148739 20240526144523
+207.170.179.17 2 4 286587 20240501131731
+23.83.92.229 1 1 118546 20240527161123
+101.251.238.120 2 7 353437 20240504190556
+165.232.139.125 1 1 126450 20240514113627
+165.232.72.247 1 1 12326 20240506042037
+191.101.148.61 2 2 239776 20240501113954
+78.47.117.48 1 1 148739 20240531001253
+49.51.206.130 2 2 297500 20240525035705
+45.74.46.9 2 2 239776 20240504083633
+187.161.132.136 5 59 4461769 20240521213908
+91.92.255.55 2 2 148750 20240505212537
+45.74.46.14 2 2 239776 20240516123116
+200.68.165.22 5 76 12947995 20240506114110
+222.79.103.59 1 1 148750 20240506073846
+199.244.88.224 1 1 148739 20240507124712
+35.207.5.150 2 10 410299 20240508053717
+45.150.47.70 2 2 239776 20240507210357
+47.180.178.242 1 1 148739 20240503104038
+189.219.221.43 6 76 10871768 20240524090112
+43.135.166.178 3 3 446250 20240508104042
+47.242.253.135 2 2 297478 20240527140653
+206.189.12.185 2 2 297478 20240527141349
+148.234.56.13 5 37 5619505 20240507100055
+188.166.108.93 1 1 148750 20240530011434
+52.123.190.89 2 2 150745 20240508133951
+138.68.248.154 2 2 297478 20240527140911
+23.95.218.242 1 1 148739 20240505182440
+189.203.148.37 0 1 84051 
+178.254.12.183 1 1 148739 20240514115922
+138.118.11.230 5 57 6534174 20240510120821
+190.123.10.161 6 75 10638247 20240510200211
+189.153.173.42 4 53 5419177 20240519073246
+200.63.41.39 5 57 6487268 20240507062611
+18.188.108.174 6 86 2641541 20240526144421
+182.43.70.143 1 1 148750 20240513131614
+20.172.16.75 4 4 467303 20240526211704
+27.115.124.34 1 1 148739 20240503183138
+45.74.46.162 2 2 239774 20240524183017
+189.175.6.97 0 1 84051 
+23.226.16.18 1 1 148739 20240524123138
+77.73.132.21 3 3 391613 20240505015001
+165.227.69.128 1 1 132518 20240514225633
+50.28.1.103 1 1 148739 20240523023330
+206.232.119.31 1 1 121230 20240514074431
+51.83.238.93 2 21 709515 20240511122026
+200.68.140.2 4 56 6473992 20240526134110
+130.185.157.54 1 1 121228 20240504183852
+200.68.141.19 5 57 6465894 20240511094911
+191.96.106.225 2 2 239776 20240515013043
+189.152.199.222 0 4 45141 
+196.247.161.133 1 1 121227 20240530033901
+147.45.187.169 1 1 148739 20240527023330
+102.129.145.116 2 2 239776 20240511211949
+200.68.164.37 8 80 10949798 20240504161304
+47.89.193.239 1 1 148750 20240510070203
+162.55.59.25 1 1 114205 20240515072536
+36.111.67.189 1 1 148750 20240530175112
+200.68.140.74 1 1 0 20240530104406
+198.46.251.238 1 1 121227 20240521082345
+189.219.222.255 4 54 6173985 20240519080511
+189.224.159.202 1 1 0 20240512210210
+187.190.173.105 0 1 0 
+34.152.20.81 2 2 297478 20240516131800
+82.223.222.75 1 1 148739 20240504002044
+187.190.177.19 7 84 12052102 20240516183238
+104.148.5.251 1 1 118546 20240510033513
+104.207.143.175 1 1 0 20240527044728
+155.133.138.66 1 1 148739 20240507050809
+189.199.225.3 8 87 9972772 20240502082825
+185.104.219.255 1 1 118546 20240530033905
+23.83.92.227 2 2 239774 20240527161118
+92.118.39.244 5 45 617178 20240521191522
+189.175.192.135 5 56 6420793 20240522072906
+51.161.15.95 2 2 269969 20240520104658
+172.241.187.127 1 1 121227 20240516094548
+200.68.164.4 8 75 6724327 20240517222405
+187.190.78.210 7 87 9037042 20240509103351
+162.212.173.192 1 1 118546 20240523035819
+62.210.233.14 4 4 594956 20240526111124
+199.45.155.29 1 1 12318 20240503125839
+201.172.172.189 7 86 11542395 20240516094624
+187.195.149.46 6 57 6282572 20240507155035
+172.111.131.86 2 2 239776 20240518202012
+46.19.138.162 1 1 143893 20240506193422
+149.34.252.9 4 4 479552 20240524095000
+31.220.89.56 1 1 148739 20240508165455
+189.219.66.133 6 80 8580763 20240515131150
+201.152.233.240 4 57 4345084 20240530195830
+200.68.164.38 7 82 8629179 20240505131637
+86.33.90.153 1 1 148739 20240527132239
+172.241.186.244 1 1 118221 20240501160024
+151.237.177.172 1 1 118546 20240509221028
+3.147.242.116 4 4 322125 20240529153018
+36.88.41.253 5 5 390883 20240524231231
+201.20.83.38 7 7 630335 20240507113102
+192.100.208.216 7 98 19148792 20240510123831
+143.244.133.158 2 2 297478 20240517212030
+189.159.74.239 8 59 5170700 20240521131155
+104.239.33.80 1 1 118546 20240526075152
+201.166.191.226 4 16 2789134 20240507185936
+93.158.91.247 1 1 148750 20240521172734
+200.68.183.129 0 3 1054815 
+84.38.0.110 8 8 1322656 20240509163845
+189.153.162.103 0 2 311459 
+51.255.196.88 2 2 297478 20240521194957
+31.192.208.162 1 1 12319 20240522093251
+189.159.158.115 5 53 3809227 20240506214321
+187.136.2.180 5 63 12486226 20240523121152
+107.150.80.14 2 2 239776 20240516134847
+65.154.226.166 1 1 148739 20240508133837
+187.224.153.212 1 1 0 20240504221703
+212.102.33.168 2 2 239774 20240515171230
+104.239.37.146 1 1 118546 20240518113338
+69.160.160.51 5 54 5032909 20240527043222
+189.201.26.47 5 50 15534784 20240522114404
+128.90.174.29 1 1 148739 20240530165504
+103.48.50.193 1 1 148739 20240518180648
+45.130.202.37 1 1 118546 20240509140725
+43.155.152.154 1 1 148750 20240516221746
+139.59.31.231 4 4 467303 20240514015303
+107.190.139.130 1 1 148739 20240517093237
+213.32.74.129 2 2 297478 20240527140539
+189.208.147.167 7 75 10889939 20240523062510
+27.115.124.48 2 2 25292 20240503030010
+67.222.157.170 1 1 12324 20240526181258
+188.126.94.195 3 3 388512 20240514150533
+23.94.63.236 2 2 297478 20240521100653
+45.74.46.57 2 2 239774 20240521004407
+38.154.75.140 1 1 121227 20240520233116
+54.88.179.33 2 2 297478 20240507042111
+43.249.58.68 2 2 297478 20240527140817
+38.109.244.37 1 1 148739 20240510211003
+23.106.18.121 1 1 118546 20240510015707
+200.63.40.203 0 1 59484 
+45.92.1.74 1 1 148739 20240525002700
+185.215.167.78 8 8 1323814 20240510224805
+187.192.4.242 5 56 6420793 20240502134922
+201.20.110.35 8 8 632509 20240501025815
+107.181.143.144 1 1 118546 20240511104232
+189.160.164.217 5 5 0 20240518175137
+64.64.117.16 2 2 239776 20240514062847
+175.6.217.4 1 1 148750 20240506174037
+27.122.60.222 7 7 1041173 20240508061946
+64.176.203.162 1 1 0 20240523115830
+200.68.183.2 11 117 12193718 20240502121934
+189.201.15.171 5 52 5383004 20240509100240
+186.96.49.23 4 54 6173985 20240524073645
+110.166.71.39 1 1 148750 20240505113951
+173.198.208.103 2 2 297478 20240527140816
+91.92.255.170 2 2 297478 20240529201957
+119.59.105.80 2 2 297478 20240516131705
+138.219.179.32 7 7 514292 20240517220220
+189.153.151.247 4 56 6473992 20240503200153
+201.172.173.41 5 61 6823212 20240517140907
+189.219.65.72 6 57 5747252 20240530164229
+64.23.160.244 1 1 148739 20240524161657
+103.59.108.52 2 2 297478 20240514162301
+200.94.128.77 7 88 4724483 20240522171752
+102.165.16.65 2 2 239773 20240501034507
+217.138.202.70 1 1 118546 20240508103017
+65.154.226.171 5 55 4722313 20240509185656
+13.76.187.193 2 2 297500 20240531162302
+172.241.170.249 1 1 121227 20240510015703
+189.219.230.70 7 60 6752703 20240508122444
+178.157.66.125 1 1 118546 20240512032026
+40.127.104.240 2 2 297478 20240527141002
+202.172.26.43 1 1 148739 20240504020513
+213.202.233.34 10 10 1487412 20240524104648
+187.190.173.162 6 82 12765533 20240516232835
+46.228.199.158 1 1 148739 20240506211756
+179.61.241.47 1 1 118546 20240507213124
+201.172.175.109 8 76 7529559 20240513223838
+66.45.248.90 1 1 148739 20240516031617
+147.50.192.108 2 2 297478 20240527140315
+14.177.234.9 2 2 297478 20240527140411
+206.41.174.134 1 1 121228 20240525023121
+62.68.147.68 1 1 148739 20240515022933
+165.231.45.189 1 1 121230 20240520024205
+43.155.169.133 1 1 148750 20240503084608
+189.153.138.73 9 69 4436656 20240526141219
+43.135.181.13 1 1 148750 20240529071013
+185.220.101.59 1 1 148739 20240512181006
+52.208.189.31 0 1 2170 
+189.152.168.25 5 58 8215431 20240531145204
+189.219.222.41 6 57 4724483 20240520124441
+47.254.25.10 1 1 148750 20240510070200
+4.227.123.181 8 8 934606 20240513160204
+4.227.8.10 4 4 467303 20240522111845
+23.106.20.36 1 1 118546 20240501144152
+109.110.184.168 7 7 1041250 20240511105334
+175.44.42.242 2 2 297500 20240529064101
+201.172.173.162 5 58 6496022 20240504173229
+4.242.130.182 8 8 934606 20240509061821
+193.186.4.206 1 1 148750 20240518081432
+23.110.166.142 1 1 121227 20240514114223
+189.219.113.84 3 88 3412845 20240512114952
+185.190.42.200 5 5 628288 20240529094050
+64.233.172.136 0 6 83471 
+201.175.252.129 1 1 0 20240515121001
+189.152.223.73 5 55 4705757 20240501152638
+77.232.41.55 2 2 239776 20240506202053
+34.143.199.212 2 2 297478 20240506171751
+200.68.164.66 0 1 0 
+195.97.57.39 1 1 148739 20240501232253
+178.128.207.138 1 1 148750 20240523094402
+23.83.88.29 1 1 148739 20240501131725
+189.201.25.54 8 89 15292139 20240510203240
+216.173.80.242 1 1 118546 20240528065004
+27.115.124.49 1 1 366 20240503183100
+185.220.101.143 1 1 148739 20240521014843
+200.68.141.101 6 77 12295301 20240518194004
+64.64.117.7 1 1 121230 20240510103056
+68.146.41.5 2 2 239774 20240519192425
+72.29.88.178 2 2 297478 20240527140814
+178.171.45.17 1 1 148739 20240531024753
+189.175.123.157 3 55 6325242 20240506171617
+154.202.116.233 1 1 118546 20240513225420
+199.244.88.223 1 1 148739 20240529071757
+66.42.42.147 10 10 1621292 20240524020154
+159.65.23.24 1 1 148739 20240502141236
+45.61.98.87 1 1 121228 20240514064312
+200.68.164.59 7 75 6400529 20240525150246
+189.219.65.82 7 65 6030665 20240523170758
+135.181.149.204 1 1 12330 20240523130806
+200.68.164.65 4 54 5437903 20240522124216
+200.68.164.5 7 61 6714648 20240502103419
+51.254.213.67 1 1 148739 20240506190628
+201.172.141.239 7 68 7242328 20240524161324
+104.239.33.0 1 1 118546 20240528080038
+91.92.242.199 5 5 204906 20240531072227
+187.252.195.0 6 58 4235613 20240526203104
+103.120.178.106 1 1 1272 20240521033810
+52.81.208.114 1 2 232790 20240514005620
+207.230.104.157 2 6 293623 20240517152005
+201.162.169.72 1 1 0 20240507074143
+165.231.159.76 1 1 121230 20240528192937
+172.245.25.38 2 2 237092 20240522114633
+138.197.109.17 2 2 297478 20240517010330
+155.138.226.10 1 1 0 20240527064137
+91.92.247.141 4 4 594956 20240524222121
+43.153.216.189 1 1 148750 20240515110456
+189.152.123.54 5 53 3809227 20240509111253
+172.245.113.245 1 1 121230 20240509221023
+80.94.92.105 2 12 124893 20240528080956
+189.203.158.51 7 59 6593076 20240528141352
+187.192.69.114 7 86 14619322 20240507162318
+172.241.168.127 1 1 121230 20240516161235
+187.138.27.47 7 90 11550166 20240507171133
+34.221.103.201 1 1 148739 20240519042120
+216.24.216.227 2 2 297478 20240504235502
+200.68.140.63 9 69 12863154 20240521104735
+162.240.107.226 1 1 12322 20240520132940
+43.128.110.17 2 2 297500 20240511034013
+91.204.46.133 2 2 297478 20240513202257
+187.195.197.96 5 58 6590677 20240516195428
+192.210.144.10 1 1 118546 20240516134850
+192.241.72.190 1 1 148739 20240505170549
+200.68.165.36 1 1 0 20240506181629
+172.225.14.149 6 59 6582579 20240502094527
+92.119.177.20 2 2 239774 20240516083500
+4.227.102.74 8 8 934606 20240525104134
+81.126.72.234 2 2 297478 20240522153432
+189.159.107.136 5 56 4724483 20240520215521
+168.91.68.122 1 1 118546 20240515042450
+43.142.194.216 1 1 148739 20240506174732
+134.122.51.31 1 1 148739 20240528132346
+189.219.65.145 6 57 10015332 20240512105313
+189.159.202.176 0 1 227408 
+142.44.243.167 1 1 12320 20240505083530
+187.190.18.248 8 78 6963383 20240523225546
+189.153.115.69 7 86 7910212 20240502174428
+201.116.136.62 8 88 9991498 20240510184435
+5.188.62.21 1 1 148739 20240527080803
+45.74.46.121 2 2 239776 20240517012531
+185.243.11.55 1 1 148739 20240506074747
+165.22.34.189 1 1 148750 20240512184251
+189.175.215.149 6 60 9927083 20240501142837
+74.208.142.53 1 1 12320 20240511224340
+200.68.164.52 6 98 3297001 20240526142303
+200.94.47.202 6 56 6431151 20240530170030
+123.57.10.186 1 1 148739 20240509104943
+189.219.65.50 11 91 8741481 20240524102505
+91.92.252.144 4 4 595000 20240521214751
+187.190.173.246 6 59 6582579 20240527191843
+104.239.39.88 1 1 121227 20240520170527
+91.108.194.230 1 1 121230 20240522093557
+93.159.230.89 1 1 148750 20240514220656
+87.249.50.155 1 1 0 20240507110525
+43.133.77.208 1 1 148750 20240514002222
+187.224.146.62 5 58 4443043 20240507162625
+43.128.100.220 1 1 148750 20240520014747
+84.247.188.53 2 2 297478 20240531052406
+2.58.56.160 1 1 0 20240517235705
+34.203.234.239 1 1 148739 20240525091004
+107.173.35.7 1 1 148739 20240523090337
+2.57.122.148 1 1 148750 20240513104608
+187.161.140.88 6 54 8875086 20240504192915
+185.220.101.32 1 1 148739 20240520222505
+187.190.23.197 3 48 1623776 20240531191442
+149.56.150.77 5 55 4722313 20240525132950
+187.188.77.40 0 1 84051 
+91.92.244.252 2 2 297500 20240502151108
+152.53.12.234 2 2 297478 20240520003900
+45.94.31.204 1 1 148750 20240513164029
+189.219.67.224 5 56 4724483 20240510182807
+23.105.157.28 2 2 148739 20240525191519
+51.222.88.214 1 1 148739 20240507111658
+51.15.184.67 1 2 167465 20240530012456
+45.95.243.13 1 1 118546 20240502114921
+196.242.89.89 1 1 121228 20240517001329
+146.190.242.161 1 1 148750 20240508104641
+107.150.21.84 1 1 121228 20240503203429
+179.61.241.48 1 1 121228 20240507213120
+23.106.22.194 1 1 118546 20240517113629
+157.230.229.31 1 1 148739 20240516132119
+189.219.54.62 5 56 6420793 20240514154401
+177.240.17.2 2 2 297478 20240516131935
+182.42.110.255 1 1 148750 20240501144214
+139.59.34.99 1 1 148750 20240530100721
+187.136.66.93 10 95 10431845 20240524195725
+89.248.172.92 1 1 148739 20240506000453
+189.219.65.92 9 70 7453508 20240522142406
+187.190.178.168 5 57 4748027 20240514155459
+189.160.181.74 5 57 4909143 20240501110018
+201.172.172.247 6 59 6582568 20240524055519
+51.161.84.56 2 2 269969 20240520105124
+179.43.191.154 1 10 100273 20240503001041
+200.68.141.59 7 79 11033565 20240518202727
+147.78.47.230 1 1 148739 20240510193132
+85.120.244.156 1 1 12326 20240519121624
+82.197.69.39 4 4 594956 20240510225356
+201.172.174.0 8 97 4963395 20240510204120
+189.219.64.243 5 53 3809227 20240531134303
+38.170.245.16 1 1 118546 20240516231146
+47.107.64.152 1 1 148739 20240504083415
+64.64.117.6 1 1 118546 20240510103102
+77.74.177.119 1 1 148750 20240528221415
+124.156.193.7 1 1 148750 20240514224947
+143.110.254.135 1 1 148739 20240526011215
+51.79.145.19 1 1 148739 20240522115532
+187.138.38.176 9 87 8085578 20240528171651
+64.226.65.160 1 1 148750 20240526140320
+94.156.69.126 2 2 148750 20240524050129
+189.201.12.63 4 72 11858348 20240519155633
+23.110.166.244 1 1 118546 20240528122623
+91.92.252.176 4 4 595000 20240519160329
+209.97.131.238 2 2 239776 20240523115200
+187.190.78.250 4 59 12104941 20240523120741
+187.190.23.160 10 90 11536467 20240502093749
+104.143.248.115 1 1 121230 20240510033501
+37.140.254.184 1 1 121227 20240524040638
+65.19.141.115 2 2 297478 20240507145013
+END_VISITOR
+
+# Date - Pages - Hits - Bandwidth - Visits
+BEGIN_DAY 31
+20240501 175 333 24965376 35
+20240502 267 1021 91689745 41
+20240503 165 483 35265136 33
+20240504 172 407 39241278 37
+20240505 165 526 53810949 36
+20240506 200 644 63389397 39
+20240507 273 1269 125833572 51
+20240508 204 617 57048311 37
+20240509 276 1059 105200991 51
+20240510 321 1397 159404536 70
+20240511 211 364 26613056 37
+20240512 157 360 24600219 29
+20240513 326 704 65183691 27
+20240514 206 479 36686276 45
+20240515 167 519 40900489 31
+20240516 191 561 65485063 45
+20240517 179 459 37141735 33
+20240518 196 688 78910247 37
+20240519 195 545 55361500 42
+20240520 182 562 41023355 43
+20240521 225 589 44998609 30
+20240522 211 741 77241501 34
+20240523 187 751 91102937 35
+20240524 277 1128 111275334 44
+20240525 220 522 48319745 36
+20240526 230 883 53887235 40
+20240527 233 665 57827411 52
+20240528 156 398 37722953 35
+20240529 240 445 43548754 36
+20240530 209 519 37675965 33
+20240531 250 654 62605185 39
+END_DAY
+
+# Session range - Number of visits
+BEGIN_SESSION 7
+1h+ 115
+30s-2mn 85
+15mn-30mn 23
+30mn-1h 22
+2mn-5mn 31
+0s-30s 889
+5mn-15mn 48
+END_SESSION
+
+# URL - Pages - Bandwidth - Entry - Exit
+# The 25 first Pages must be first (order not required for others)
+BEGIN_SIDER 71
+/wp-cron.php 3828 0 153 147
+/ 1289 178175528 802 564
+/contacto/ 340 40357644 199 230
+/core/modules/f65f29574d/assets/lib/font-awesome/webfonts/fa-brands-400.woff2 226 17791416 4 49
+/wp-content/uploads/useanyfont/2049gotham.woff2 219 4233708 16 6
+/core/modules/f65f29574d/assets/lib/font-awesome/webfonts/fa-solid-900.woff2 217 16342964 4 15
+/core/views/9dbb40d076/assets/fonts/astra.woff 156 515424 0 31
+/core/modules/f65f29574d/assets/lib/font-awesome/webfonts/fa-regular-400.woff2 64 849664 0 21
+/promociones/ 60 6053217 2 18
+/desayunos/ 53 5690558 4 25
+/comidas-y-cenas/ 52 6228544 2 27
+/wp-includes/js/ 25 527150 0 25
+/wp-json 21 5170386 0 2
+/core/modules/f65f29574d/assets/lib/eicons/fonts/eicons.woff2 16 1550784 0 13
+/wp-login.php 15 184833 15 15
+/wp-json/oembed/1.0/embed 11 22706 0 4
+/comments/feed/ 5 3320 0 4
+/wp-admin/admin-ajax.php 5 0 0 0
+/.env 4 49293 3 3
+/index.php 3 446345 2 1
+/phpinfo.php 3 36966 2 2
+/wp-content/uploads/ 3 5136 0 0
+/wp-sitemap.xml 2 732 1 1
+/wp-content/themes/twentytwentythree/patterns/ 2 3650 0 2
+/wp-includes/sodium_compat/src/Core32/Curve25519/Ge/ 1 1619 0 0
+/wp-includes/sodium_compat/namespaced/Core/Curve25519/Ge/ 1 1634 0 0
+//shop/wp-includes/wlwmanifest.xml 1 37397 0 0
+/wp-json/wp/v2/users 1 1272 1 1
+/wp-includes/ID3/ 1 4042 0 0
+//xmlrpc.php 1 37397 0 0
+/inputs.php 1 12320 0 0
+/core/modules/f65f29574d/assets/lib/font-awesome/webfonts/fa-brands-400.woff 1 0 0 0
+/core/modules/f65f29574d/assets/lib/font-awesome/webfonts/fa-solid-900.woff 1 0 0 0
+//test/wp-includes/wlwmanifest.xml 1 37397 0 0
+/wp-content/plugins/wp-ver.php 1 12330 0 0
+/wp-includes/ 1 50300 0 0
+//blog/wp-includes/wlwmanifest.xml 1 37397 0 0
+//2018/wp-includes/wlwmanifest.xml 1 37397 0 0
+/simple.php 1 12316 1 0
+/wp-includes/js/tinymce/skins/lightgray/fonts/ 1 2175 0 0
+/wp-content/uploads/useanyfont/2049gotham.woff 1 0 0 0
+/wp-includes/Requests/ 1 990 0 0
+/wp-content/plugins/fix/up.php 1 12322 0 1
+/wp-includes/certificates/ 1 831 0 1
+/wp-comments-post.php 1 0 1 1
+//wp-includes/wlwmanifest.xml 1 37397 0 0
+//wp/wp-includes/wlwmanifest.xml 1 37397 0 0
+//cms/wp-includes/wlwmanifest.xml 1 37397 0 0
+/wp-admin/upgrade.php 1 1 0 0
+/wp-includes/js/tinymce/skins/wordpress/images/ 1 3074 0 0
+/wp-includes/style-engine/ 1 1682 0 0
+/wp-includes/js/tinymce/skins/lightgray/img/ 1 1424 0 0
+/sitemap.xml 1 12646 0 1
+/.well-known/acme-challenge/ 1 654 0 0
+/.well-known/ 1 978 0 0
+//wp2/wp-includes/wlwmanifest.xml 1 37397 0 0
+//wordpress/wp-includes/wlwmanifest.xml 1 37397 0 0
+/wp-includes/js/tinymce/plugins/compat3x/css/ 1 894 0 0
+//media/wp-includes/wlwmanifest.xml 1 37397 0 0
+//2019/wp-includes/wlwmanifest.xml 1 37397 0 0
+//wp1/wp-includes/wlwmanifest.xml 1 37397 0 0
+//sito/wp-includes/wlwmanifest.xml 1 37397 0 1
+/core/modules/f65f29574d/assets/lib/font-awesome/webfonts/fa-brands-400.ttf 1 0 0 1
+/wp-includes/Text/ 1 983 0 0
+//site/wp-includes/wlwmanifest.xml 1 37397 0 0
+//web/wp-includes/wlwmanifest.xml 1 37397 0 0
+/wp-includes/pomo/ 1 1706 0 0
+//website/wp-includes/wlwmanifest.xml 1 37397 0 0
+//news/wp-includes/wlwmanifest.xml 1 37397 0 0
+/wp-includes/SimplePie/ 1 5610 0 0
+// 1 12321 1 1
+END_SIDER

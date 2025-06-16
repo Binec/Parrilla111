@@ -1,0 +1,4 @@
+[18-May-2025 06:30:35 America/New_York] PHP Fatal error:  Uncaught Error: Class 'WpOrg\Requests\Utility\CaseInsensitiveDictionary' not found in /home/parrilla111/public_html/wp-includes/Requests/src/Response/Headers.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/parrilla111/public_html/wp-includes/Requests/src/Response/Headers.php on line 20

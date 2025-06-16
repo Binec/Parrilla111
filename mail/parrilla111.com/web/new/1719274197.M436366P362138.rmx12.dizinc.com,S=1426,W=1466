@@ -1,0 +1,40 @@
+Return-Path: <parrilla111@rmx12.dizinc.com>
+Delivered-To: web@parrilla111.com
+Received: from rmx12.dizinc.com
+	by rmx12.dizinc.com with LMTP
+	id aDkzF9UKemaahgUAhmHcww
+	(envelope-from <parrilla111@rmx12.dizinc.com>)
+	for <web@parrilla111.com>; Mon, 24 Jun 2024 18:09:57 -0600
+Return-path: <parrilla111@rmx12.dizinc.com>
+Envelope-to: web@parrilla111.com
+Delivery-date: Mon, 24 Jun 2024 18:09:57 -0600
+Received: from parrilla111 by rmx12.dizinc.com with local (Exim 4.97.1)
+	(envelope-from <parrilla111@rmx12.dizinc.com>)
+	id 1sLtkz-00000001XPM-0yn8
+	for web@parrilla111.com;
+	Mon, 24 Jun 2024 18:09:57 -0600
+To: web@parrilla111.com
+Subject: =?UTF-8?Q?[]_Contrase=C3=B1a_cambiada?=
+X-PHP-Script: parrilla111.com/wp-admin/user-edit.php for 201.172.173.237
+X-PHP-Originating-Script: 2203:PHPMailer.php
+Date: Tue, 25 Jun 2024 00:09:57 +0000
+From: WordPress <wordpress@parrilla111.com>
+Message-ID: <lekkshHAWBJdCpowyrMV5qHzZTnMDwq8WUv6pSpalMA@parrilla111.com>
+X-Mailer: PHPMailer 6.9.1 (https://github.com/PHPMailer/PHPMailer)
+MIME-Version: 1.0
+Content-Type: text/plain; charset=UTF-8
+Content-Transfer-Encoding: 8bit
+
+Hola Editorweb,
+
+Este aviso confirma que tu contraseña ha sido cambiada en .
+
+Si tú no has cambiado tu contraseña, por favor, contacta con el administrador del sitio en
+imagen.comercial@hotmail.com
+
+Este correo electrónico ha sido enviado a web@parrilla111.com
+
+Saludos,
+El equipo de 
+https://parrilla111.com
+

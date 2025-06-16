@@ -1,0 +1,120 @@
+[30-May-2024 01:28:33 America/New_York] PHP Fatal error:  Uncaught Error: Class 'WP_Translation_File' not found in /home/parrilla111/public_html/wp-includes/l10n/class-wp-translation-file-mo.php:15
+Stack trace:
+#0 {main}
+  thrown in /home/parrilla111/public_html/wp-includes/l10n/class-wp-translation-file-mo.php on line 15
+[30-May-2024 01:28:39 America/New_York] PHP Fatal error:  Uncaught Error: Class 'WP_Translation_File' not found in /home/parrilla111/public_html/wp-includes/l10n/class-wp-translation-file-php.php:15
+Stack trace:
+#0 {main}
+  thrown in /home/parrilla111/public_html/wp-includes/l10n/class-wp-translation-file-php.php on line 15
+[21-Jul-2024 01:34:18 America/New_York] PHP Fatal error:  Uncaught Error: Class 'WP_Translation_File' not found in /home/parrilla111/public_html/wp-includes/l10n/class-wp-translation-file-mo.php:15
+Stack trace:
+#0 {main}
+  thrown in /home/parrilla111/public_html/wp-includes/l10n/class-wp-translation-file-mo.php on line 15
+[21-Jul-2024 01:34:26 America/New_York] PHP Fatal error:  Uncaught Error: Class 'WP_Translation_File' not found in /home/parrilla111/public_html/wp-includes/l10n/class-wp-translation-file-php.php:15
+Stack trace:
+#0 {main}
+  thrown in /home/parrilla111/public_html/wp-includes/l10n/class-wp-translation-file-php.php on line 15
+[21-Aug-2024 02:32:03 America/New_York] PHP Fatal error:  Uncaught Error: Class 'WP_Translation_File' not found in /home/parrilla111/public_html/wp-includes/l10n/class-wp-translation-file-mo.php:15
+Stack trace:
+#0 {main}
+  thrown in /home/parrilla111/public_html/wp-includes/l10n/class-wp-translation-file-mo.php on line 15
+[21-Aug-2024 02:32:10 America/New_York] PHP Fatal error:  Uncaught Error: Class 'WP_Translation_File' not found in /home/parrilla111/public_html/wp-includes/l10n/class-wp-translation-file-php.php:15
+Stack trace:
+#0 {main}
+  thrown in /home/parrilla111/public_html/wp-includes/l10n/class-wp-translation-file-php.php on line 15
+[21-Aug-2024 05:41:00 America/New_York] PHP Fatal error:  Uncaught Error: Class 'WP_Translation_File' not found in /home/parrilla111/public_html/wp-includes/l10n/class-wp-translation-file-mo.php:15
+Stack trace:
+#0 {main}
+  thrown in /home/parrilla111/public_html/wp-includes/l10n/class-wp-translation-file-mo.php on line 15
+[21-Aug-2024 05:41:02 America/New_York] PHP Fatal error:  Uncaught Error: Class 'WP_Translation_File' not found in /home/parrilla111/public_html/wp-includes/l10n/class-wp-translation-file-php.php:15
+Stack trace:
+#0 {main}
+  thrown in /home/parrilla111/public_html/wp-includes/l10n/class-wp-translation-file-php.php on line 15
+[31-Oct-2024 23:07:08 America/New_York] PHP Fatal error:  Uncaught Error: Class 'WP_Translation_File' not found in /home/parrilla111/public_html/wp-includes/l10n/class-wp-translation-file-mo.php:15
+Stack trace:
+#0 {main}
+  thrown in /home/parrilla111/public_html/wp-includes/l10n/class-wp-translation-file-mo.php on line 15
+[31-Oct-2024 23:07:09 America/New_York] PHP Fatal error:  Uncaught Error: Class 'WP_Translation_File' not found in /home/parrilla111/public_html/wp-includes/l10n/class-wp-translation-file-php.php:15
+Stack trace:
+#0 {main}
+  thrown in /home/parrilla111/public_html/wp-includes/l10n/class-wp-translation-file-php.php on line 15
+[07-Nov-2024 08:13:59 America/New_York] PHP Fatal error:  Uncaught Error: Class 'WP_Translation_File' not found in /home/parrilla111/public_html/wp-includes/l10n/class-wp-translation-file-mo.php:15
+Stack trace:
+#0 {main}
+  thrown in /home/parrilla111/public_html/wp-includes/l10n/class-wp-translation-file-mo.php on line 15
+[07-Nov-2024 08:14:00 America/New_York] PHP Fatal error:  Uncaught Error: Class 'WP_Translation_File' not found in /home/parrilla111/public_html/wp-includes/l10n/class-wp-translation-file-php.php:15
+Stack trace:
+#0 {main}
+  thrown in /home/parrilla111/public_html/wp-includes/l10n/class-wp-translation-file-php.php on line 15
+[15-Dec-2024 05:29:21 America/New_York] PHP Fatal error:  Uncaught Error: Class 'WP_Translation_File' not found in /home/parrilla111/public_html/wp-includes/l10n/class-wp-translation-file-php.php:15
+Stack trace:
+#0 {main}
+  thrown in /home/parrilla111/public_html/wp-includes/l10n/class-wp-translation-file-php.php on line 15
+[15-Dec-2024 05:29:21 America/New_York] PHP Fatal error:  Uncaught Error: Class 'WP_Translation_File' not found in /home/parrilla111/public_html/wp-includes/l10n/class-wp-translation-file-php.php:15
+Stack trace:
+#0 {main}
+  thrown in /home/parrilla111/public_html/wp-includes/l10n/class-wp-translation-file-php.php on line 15
+[20-Dec-2024 00:11:43 America/New_York] PHP Fatal error:  Uncaught Error: Class 'WP_Translation_File' not found in /home/parrilla111/public_html/wp-includes/l10n/class-wp-translation-file-php.php:15
+Stack trace:
+#0 {main}
+  thrown in /home/parrilla111/public_html/wp-includes/l10n/class-wp-translation-file-php.php on line 15
+[20-Dec-2024 00:11:44 America/New_York] PHP Fatal error:  Uncaught Error: Class 'WP_Translation_File' not found in /home/parrilla111/public_html/wp-includes/l10n/class-wp-translation-file-php.php:15
+Stack trace:
+#0 {main}
+  thrown in /home/parrilla111/public_html/wp-includes/l10n/class-wp-translation-file-php.php on line 15
+[22-Dec-2024 19:04:41 America/New_York] PHP Fatal error:  Uncaught Error: Class 'WP_Translation_File' not found in /home/parrilla111/public_html/wp-includes/l10n/class-wp-translation-file-php.php:15
+Stack trace:
+#0 {main}
+  thrown in /home/parrilla111/public_html/wp-includes/l10n/class-wp-translation-file-php.php on line 15
+[22-Dec-2024 19:04:41 America/New_York] PHP Fatal error:  Uncaught Error: Class 'WP_Translation_File' not found in /home/parrilla111/public_html/wp-includes/l10n/class-wp-translation-file-php.php:15
+Stack trace:
+#0 {main}
+  thrown in /home/parrilla111/public_html/wp-includes/l10n/class-wp-translation-file-php.php on line 15
+[14-Jan-2025 20:50:01 America/New_York] PHP Fatal error:  Uncaught Error: Class 'WP_Translation_File' not found in /home/parrilla111/public_html/wp-includes/l10n/class-wp-translation-file-php.php:15
+Stack trace:
+#0 {main}
+  thrown in /home/parrilla111/public_html/wp-includes/l10n/class-wp-translation-file-php.php on line 15
+[14-Jan-2025 20:50:01 America/New_York] PHP Fatal error:  Uncaught Error: Class 'WP_Translation_File' not found in /home/parrilla111/public_html/wp-includes/l10n/class-wp-translation-file-php.php:15
+Stack trace:
+#0 {main}
+  thrown in /home/parrilla111/public_html/wp-includes/l10n/class-wp-translation-file-php.php on line 15
+[28-Jan-2025 18:00:26 America/New_York] PHP Fatal error:  Uncaught Error: Class 'WP_Translation_File' not found in /home/parrilla111/public_html/wp-includes/l10n/class-wp-translation-file-php.php:15
+Stack trace:
+#0 {main}
+  thrown in /home/parrilla111/public_html/wp-includes/l10n/class-wp-translation-file-php.php on line 15
+[28-Jan-2025 18:00:27 America/New_York] PHP Fatal error:  Uncaught Error: Class 'WP_Translation_File' not found in /home/parrilla111/public_html/wp-includes/l10n/class-wp-translation-file-php.php:15
+Stack trace:
+#0 {main}
+  thrown in /home/parrilla111/public_html/wp-includes/l10n/class-wp-translation-file-php.php on line 15
+[12-Mar-2025 09:00:29 America/New_York] PHP Fatal error:  Uncaught Error: Class 'WP_Translation_File' not found in /home/parrilla111/public_html/wp-includes/l10n/class-wp-translation-file-mo.php:15
+Stack trace:
+#0 {main}
+  thrown in /home/parrilla111/public_html/wp-includes/l10n/class-wp-translation-file-mo.php on line 15
+[12-Mar-2025 09:00:32 America/New_York] PHP Fatal error:  Uncaught Error: Class 'WP_Translation_File' not found in /home/parrilla111/public_html/wp-includes/l10n/class-wp-translation-file-php.php:15
+Stack trace:
+#0 {main}
+  thrown in /home/parrilla111/public_html/wp-includes/l10n/class-wp-translation-file-php.php on line 15
+[14-Mar-2025 00:31:32 America/New_York] PHP Fatal error:  Uncaught Error: Class 'WP_Translation_File' not found in /home/parrilla111/public_html/wp-includes/l10n/class-wp-translation-file-mo.php:15
+Stack trace:
+#0 {main}
+  thrown in /home/parrilla111/public_html/wp-includes/l10n/class-wp-translation-file-mo.php on line 15
+[14-Mar-2025 00:31:34 America/New_York] PHP Fatal error:  Uncaught Error: Class 'WP_Translation_File' not found in /home/parrilla111/public_html/wp-includes/l10n/class-wp-translation-file-php.php:15
+Stack trace:
+#0 {main}
+  thrown in /home/parrilla111/public_html/wp-includes/l10n/class-wp-translation-file-php.php on line 15
+[15-Mar-2025 09:26:16 America/New_York] PHP Fatal error:  Uncaught Error: Class 'WP_Translation_File' not found in /home/parrilla111/public_html/wp-includes/l10n/class-wp-translation-file-mo.php:15
+Stack trace:
+#0 {main}
+  thrown in /home/parrilla111/public_html/wp-includes/l10n/class-wp-translation-file-mo.php on line 15
+[15-Mar-2025 09:26:18 America/New_York] PHP Fatal error:  Uncaught Error: Class 'WP_Translation_File' not found in /home/parrilla111/public_html/wp-includes/l10n/class-wp-translation-file-php.php:15
+Stack trace:
+#0 {main}
+  thrown in /home/parrilla111/public_html/wp-includes/l10n/class-wp-translation-file-php.php on line 15
+[18-May-2025 07:41:41 America/New_York] PHP Fatal error:  Uncaught Error: Class 'WP_Translation_File' not found in /home/parrilla111/public_html/wp-includes/l10n/class-wp-translation-file-mo.php:15
+Stack trace:
+#0 {main}
+  thrown in /home/parrilla111/public_html/wp-includes/l10n/class-wp-translation-file-mo.php on line 15
+[18-May-2025 07:41:48 America/New_York] PHP Fatal error:  Uncaught Error: Class 'WP_Translation_File' not found in /home/parrilla111/public_html/wp-includes/l10n/class-wp-translation-file-php.php:15
+Stack trace:
+#0 {main}
+  thrown in /home/parrilla111/public_html/wp-includes/l10n/class-wp-translation-file-php.php on line 15

@@ -1,0 +1,184 @@
+[15-Jun-2023 08:49:24 America/New_York] PHP Fatal error:  Uncaught Error: Class 'ParagonIE_Sodium_Core32_Util' not found in /home/parrilla111/public_html/wp-includes/sodium_compat/src/Core32/ChaCha20/Ctx.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/parrilla111/public_html/wp-includes/sodium_compat/src/Core32/ChaCha20/Ctx.php on line 10
+[15-Jun-2023 08:49:26 America/New_York] PHP Fatal error:  Uncaught Error: Class 'ParagonIE_Sodium_Core32_Util' not found in /home/parrilla111/public_html/wp-includes/sodium_compat/src/Core32/ChaCha20/Ctx.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/parrilla111/public_html/wp-includes/sodium_compat/src/Core32/ChaCha20/Ctx.php on line 10
+[15-Jun-2023 08:49:38 America/New_York] PHP Fatal error:  Uncaught Error: Class 'ParagonIE_Sodium_Core32_ChaCha20_Ctx' not found in /home/parrilla111/public_html/wp-includes/sodium_compat/src/Core32/ChaCha20/IetfCtx.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/parrilla111/public_html/wp-includes/sodium_compat/src/Core32/ChaCha20/IetfCtx.php on line 10
+[15-Jun-2023 08:49:39 America/New_York] PHP Fatal error:  Uncaught Error: Class 'ParagonIE_Sodium_Core32_ChaCha20_Ctx' not found in /home/parrilla111/public_html/wp-includes/sodium_compat/src/Core32/ChaCha20/IetfCtx.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/parrilla111/public_html/wp-includes/sodium_compat/src/Core32/ChaCha20/IetfCtx.php on line 10
+[15-Jun-2023 08:54:06 America/New_York] PHP Fatal error:  Uncaught Error: Class 'ParagonIE_Sodium_Core32_Util' not found in /home/parrilla111/public_html/wp-includes/sodium_compat/src/Core32/ChaCha20/Ctx.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/parrilla111/public_html/wp-includes/sodium_compat/src/Core32/ChaCha20/Ctx.php on line 10
+[15-Jun-2023 08:54:07 America/New_York] PHP Fatal error:  Uncaught Error: Class 'ParagonIE_Sodium_Core32_Util' not found in /home/parrilla111/public_html/wp-includes/sodium_compat/src/Core32/ChaCha20/Ctx.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/parrilla111/public_html/wp-includes/sodium_compat/src/Core32/ChaCha20/Ctx.php on line 10
+[15-Jun-2023 08:54:32 America/New_York] PHP Fatal error:  Uncaught Error: Class 'ParagonIE_Sodium_Core32_ChaCha20_Ctx' not found in /home/parrilla111/public_html/wp-includes/sodium_compat/src/Core32/ChaCha20/IetfCtx.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/parrilla111/public_html/wp-includes/sodium_compat/src/Core32/ChaCha20/IetfCtx.php on line 10
+[15-Jun-2023 08:54:32 America/New_York] PHP Fatal error:  Uncaught Error: Class 'ParagonIE_Sodium_Core32_ChaCha20_Ctx' not found in /home/parrilla111/public_html/wp-includes/sodium_compat/src/Core32/ChaCha20/IetfCtx.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/parrilla111/public_html/wp-includes/sodium_compat/src/Core32/ChaCha20/IetfCtx.php on line 10
+[27-Jun-2023 06:50:30 America/New_York] PHP Fatal error:  Uncaught Error: Class 'ParagonIE_Sodium_Core32_Util' not found in /home/parrilla111/public_html/wp-includes/sodium_compat/src/Core32/ChaCha20/Ctx.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/parrilla111/public_html/wp-includes/sodium_compat/src/Core32/ChaCha20/Ctx.php on line 10
+[27-Jun-2023 06:50:59 America/New_York] PHP Fatal error:  Uncaught Error: Class 'ParagonIE_Sodium_Core32_ChaCha20_Ctx' not found in /home/parrilla111/public_html/wp-includes/sodium_compat/src/Core32/ChaCha20/IetfCtx.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/parrilla111/public_html/wp-includes/sodium_compat/src/Core32/ChaCha20/IetfCtx.php on line 10
+[30-Jun-2023 18:56:30 America/New_York] PHP Fatal error:  Uncaught Error: Class 'ParagonIE_Sodium_Core32_Util' not found in /home/parrilla111/public_html/wp-includes/sodium_compat/src/Core32/ChaCha20/Ctx.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/parrilla111/public_html/wp-includes/sodium_compat/src/Core32/ChaCha20/Ctx.php on line 10
+[30-Jun-2023 18:56:54 America/New_York] PHP Fatal error:  Uncaught Error: Class 'ParagonIE_Sodium_Core32_Util' not found in /home/parrilla111/public_html/wp-includes/sodium_compat/src/Core32/ChaCha20/Ctx.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/parrilla111/public_html/wp-includes/sodium_compat/src/Core32/ChaCha20/Ctx.php on line 10
+[30-Jun-2023 18:57:18 America/New_York] PHP Fatal error:  Uncaught Error: Class 'ParagonIE_Sodium_Core32_ChaCha20_Ctx' not found in /home/parrilla111/public_html/wp-includes/sodium_compat/src/Core32/ChaCha20/IetfCtx.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/parrilla111/public_html/wp-includes/sodium_compat/src/Core32/ChaCha20/IetfCtx.php on line 10
+[30-Jun-2023 18:57:40 America/New_York] PHP Fatal error:  Uncaught Error: Class 'ParagonIE_Sodium_Core32_ChaCha20_Ctx' not found in /home/parrilla111/public_html/wp-includes/sodium_compat/src/Core32/ChaCha20/IetfCtx.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/parrilla111/public_html/wp-includes/sodium_compat/src/Core32/ChaCha20/IetfCtx.php on line 10
+[06-Jul-2023 05:23:23 America/New_York] PHP Fatal error:  Uncaught Error: Class 'ParagonIE_Sodium_Core32_Util' not found in /home/parrilla111/public_html/wp-includes/sodium_compat/src/Core32/ChaCha20/Ctx.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/parrilla111/public_html/wp-includes/sodium_compat/src/Core32/ChaCha20/Ctx.php on line 10
+[06-Jul-2023 05:23:28 America/New_York] PHP Fatal error:  Uncaught Error: Class 'ParagonIE_Sodium_Core32_Util' not found in /home/parrilla111/public_html/wp-includes/sodium_compat/src/Core32/ChaCha20/Ctx.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/parrilla111/public_html/wp-includes/sodium_compat/src/Core32/ChaCha20/Ctx.php on line 10
+[06-Jul-2023 05:23:29 America/New_York] PHP Fatal error:  Uncaught Error: Class 'ParagonIE_Sodium_Core32_ChaCha20_Ctx' not found in /home/parrilla111/public_html/wp-includes/sodium_compat/src/Core32/ChaCha20/IetfCtx.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/parrilla111/public_html/wp-includes/sodium_compat/src/Core32/ChaCha20/IetfCtx.php on line 10
+[06-Jul-2023 05:23:29 America/New_York] PHP Fatal error:  Uncaught Error: Class 'ParagonIE_Sodium_Core32_ChaCha20_Ctx' not found in /home/parrilla111/public_html/wp-includes/sodium_compat/src/Core32/ChaCha20/IetfCtx.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/parrilla111/public_html/wp-includes/sodium_compat/src/Core32/ChaCha20/IetfCtx.php on line 10
+[19-Jul-2023 16:02:37 America/New_York] PHP Fatal error:  Uncaught Error: Class 'ParagonIE_Sodium_Core32_Util' not found in /home/parrilla111/public_html/wp-includes/sodium_compat/src/Core32/ChaCha20/Ctx.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/parrilla111/public_html/wp-includes/sodium_compat/src/Core32/ChaCha20/Ctx.php on line 10
+[19-Jul-2023 16:02:38 America/New_York] PHP Fatal error:  Uncaught Error: Class 'ParagonIE_Sodium_Core32_Util' not found in /home/parrilla111/public_html/wp-includes/sodium_compat/src/Core32/ChaCha20/Ctx.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/parrilla111/public_html/wp-includes/sodium_compat/src/Core32/ChaCha20/Ctx.php on line 10
+[19-Jul-2023 16:02:51 America/New_York] PHP Fatal error:  Uncaught Error: Class 'ParagonIE_Sodium_Core32_ChaCha20_Ctx' not found in /home/parrilla111/public_html/wp-includes/sodium_compat/src/Core32/ChaCha20/IetfCtx.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/parrilla111/public_html/wp-includes/sodium_compat/src/Core32/ChaCha20/IetfCtx.php on line 10
+[19-Jul-2023 16:02:53 America/New_York] PHP Fatal error:  Uncaught Error: Class 'ParagonIE_Sodium_Core32_ChaCha20_Ctx' not found in /home/parrilla111/public_html/wp-includes/sodium_compat/src/Core32/ChaCha20/IetfCtx.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/parrilla111/public_html/wp-includes/sodium_compat/src/Core32/ChaCha20/IetfCtx.php on line 10
+[19-Jul-2023 16:11:19 America/New_York] PHP Fatal error:  Uncaught Error: Class 'ParagonIE_Sodium_Core32_Util' not found in /home/parrilla111/public_html/wp-includes/sodium_compat/src/Core32/ChaCha20/Ctx.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/parrilla111/public_html/wp-includes/sodium_compat/src/Core32/ChaCha20/Ctx.php on line 10
+[19-Jul-2023 16:11:20 America/New_York] PHP Fatal error:  Uncaught Error: Class 'ParagonIE_Sodium_Core32_Util' not found in /home/parrilla111/public_html/wp-includes/sodium_compat/src/Core32/ChaCha20/Ctx.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/parrilla111/public_html/wp-includes/sodium_compat/src/Core32/ChaCha20/Ctx.php on line 10
+[19-Jul-2023 16:11:33 America/New_York] PHP Fatal error:  Uncaught Error: Class 'ParagonIE_Sodium_Core32_ChaCha20_Ctx' not found in /home/parrilla111/public_html/wp-includes/sodium_compat/src/Core32/ChaCha20/IetfCtx.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/parrilla111/public_html/wp-includes/sodium_compat/src/Core32/ChaCha20/IetfCtx.php on line 10
+[19-Jul-2023 16:11:34 America/New_York] PHP Fatal error:  Uncaught Error: Class 'ParagonIE_Sodium_Core32_ChaCha20_Ctx' not found in /home/parrilla111/public_html/wp-includes/sodium_compat/src/Core32/ChaCha20/IetfCtx.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/parrilla111/public_html/wp-includes/sodium_compat/src/Core32/ChaCha20/IetfCtx.php on line 10
+[25-Jul-2023 16:00:23 America/New_York] PHP Fatal error:  Uncaught Error: Class 'ParagonIE_Sodium_Core32_Util' not found in /home/parrilla111/public_html/wp-includes/sodium_compat/src/Core32/ChaCha20/Ctx.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/parrilla111/public_html/wp-includes/sodium_compat/src/Core32/ChaCha20/Ctx.php on line 10
+[25-Jul-2023 16:00:24 America/New_York] PHP Fatal error:  Uncaught Error: Class 'ParagonIE_Sodium_Core32_Util' not found in /home/parrilla111/public_html/wp-includes/sodium_compat/src/Core32/ChaCha20/Ctx.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/parrilla111/public_html/wp-includes/sodium_compat/src/Core32/ChaCha20/Ctx.php on line 10
+[25-Jul-2023 16:00:36 America/New_York] PHP Fatal error:  Uncaught Error: Class 'ParagonIE_Sodium_Core32_ChaCha20_Ctx' not found in /home/parrilla111/public_html/wp-includes/sodium_compat/src/Core32/ChaCha20/IetfCtx.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/parrilla111/public_html/wp-includes/sodium_compat/src/Core32/ChaCha20/IetfCtx.php on line 10
+[25-Jul-2023 16:00:37 America/New_York] PHP Fatal error:  Uncaught Error: Class 'ParagonIE_Sodium_Core32_ChaCha20_Ctx' not found in /home/parrilla111/public_html/wp-includes/sodium_compat/src/Core32/ChaCha20/IetfCtx.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/parrilla111/public_html/wp-includes/sodium_compat/src/Core32/ChaCha20/IetfCtx.php on line 10
+[25-Jul-2023 16:06:31 America/New_York] PHP Fatal error:  Uncaught Error: Class 'ParagonIE_Sodium_Core32_Util' not found in /home/parrilla111/public_html/wp-includes/sodium_compat/src/Core32/ChaCha20/Ctx.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/parrilla111/public_html/wp-includes/sodium_compat/src/Core32/ChaCha20/Ctx.php on line 10
+[25-Jul-2023 16:06:32 America/New_York] PHP Fatal error:  Uncaught Error: Class 'ParagonIE_Sodium_Core32_Util' not found in /home/parrilla111/public_html/wp-includes/sodium_compat/src/Core32/ChaCha20/Ctx.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/parrilla111/public_html/wp-includes/sodium_compat/src/Core32/ChaCha20/Ctx.php on line 10
+[25-Jul-2023 16:06:51 America/New_York] PHP Fatal error:  Uncaught Error: Class 'ParagonIE_Sodium_Core32_ChaCha20_Ctx' not found in /home/parrilla111/public_html/wp-includes/sodium_compat/src/Core32/ChaCha20/IetfCtx.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/parrilla111/public_html/wp-includes/sodium_compat/src/Core32/ChaCha20/IetfCtx.php on line 10
+[25-Jul-2023 16:06:51 America/New_York] PHP Fatal error:  Uncaught Error: Class 'ParagonIE_Sodium_Core32_ChaCha20_Ctx' not found in /home/parrilla111/public_html/wp-includes/sodium_compat/src/Core32/ChaCha20/IetfCtx.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/parrilla111/public_html/wp-includes/sodium_compat/src/Core32/ChaCha20/IetfCtx.php on line 10
+[31-Jul-2023 07:32:55 America/New_York] PHP Fatal error:  Uncaught Error: Class 'ParagonIE_Sodium_Core32_Util' not found in /home/parrilla111/public_html/wp-includes/sodium_compat/src/Core32/ChaCha20/Ctx.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/parrilla111/public_html/wp-includes/sodium_compat/src/Core32/ChaCha20/Ctx.php on line 10
+[31-Jul-2023 07:32:55 America/New_York] PHP Fatal error:  Uncaught Error: Class 'ParagonIE_Sodium_Core32_Util' not found in /home/parrilla111/public_html/wp-includes/sodium_compat/src/Core32/ChaCha20/Ctx.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/parrilla111/public_html/wp-includes/sodium_compat/src/Core32/ChaCha20/Ctx.php on line 10
+[31-Jul-2023 07:32:55 America/New_York] PHP Fatal error:  Uncaught Error: Class 'ParagonIE_Sodium_Core32_ChaCha20_Ctx' not found in /home/parrilla111/public_html/wp-includes/sodium_compat/src/Core32/ChaCha20/IetfCtx.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/parrilla111/public_html/wp-includes/sodium_compat/src/Core32/ChaCha20/IetfCtx.php on line 10
+[31-Jul-2023 07:32:56 America/New_York] PHP Fatal error:  Uncaught Error: Class 'ParagonIE_Sodium_Core32_ChaCha20_Ctx' not found in /home/parrilla111/public_html/wp-includes/sodium_compat/src/Core32/ChaCha20/IetfCtx.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/parrilla111/public_html/wp-includes/sodium_compat/src/Core32/ChaCha20/IetfCtx.php on line 10
+[05-Aug-2023 20:20:31 America/New_York] PHP Fatal error:  Uncaught Error: Class 'ParagonIE_Sodium_Core32_Util' not found in /home/parrilla111/public_html/wp-includes/sodium_compat/src/Core32/ChaCha20/Ctx.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/parrilla111/public_html/wp-includes/sodium_compat/src/Core32/ChaCha20/Ctx.php on line 10
+[05-Aug-2023 20:20:38 America/New_York] PHP Fatal error:  Uncaught Error: Class 'ParagonIE_Sodium_Core32_Util' not found in /home/parrilla111/public_html/wp-includes/sodium_compat/src/Core32/ChaCha20/Ctx.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/parrilla111/public_html/wp-includes/sodium_compat/src/Core32/ChaCha20/Ctx.php on line 10
+[05-Aug-2023 20:20:38 America/New_York] PHP Fatal error:  Uncaught Error: Class 'ParagonIE_Sodium_Core32_ChaCha20_Ctx' not found in /home/parrilla111/public_html/wp-includes/sodium_compat/src/Core32/ChaCha20/IetfCtx.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/parrilla111/public_html/wp-includes/sodium_compat/src/Core32/ChaCha20/IetfCtx.php on line 10
+[05-Aug-2023 20:20:40 America/New_York] PHP Fatal error:  Uncaught Error: Class 'ParagonIE_Sodium_Core32_ChaCha20_Ctx' not found in /home/parrilla111/public_html/wp-includes/sodium_compat/src/Core32/ChaCha20/IetfCtx.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/parrilla111/public_html/wp-includes/sodium_compat/src/Core32/ChaCha20/IetfCtx.php on line 10
+[05-Aug-2023 20:24:39 America/New_York] PHP Fatal error:  Uncaught Error: Class 'ParagonIE_Sodium_Core32_Util' not found in /home/parrilla111/public_html/wp-includes/sodium_compat/src/Core32/ChaCha20/Ctx.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/parrilla111/public_html/wp-includes/sodium_compat/src/Core32/ChaCha20/Ctx.php on line 10
+[05-Aug-2023 20:24:41 America/New_York] PHP Fatal error:  Uncaught Error: Class 'ParagonIE_Sodium_Core32_Util' not found in /home/parrilla111/public_html/wp-includes/sodium_compat/src/Core32/ChaCha20/Ctx.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/parrilla111/public_html/wp-includes/sodium_compat/src/Core32/ChaCha20/Ctx.php on line 10
+[05-Aug-2023 20:24:47 America/New_York] PHP Fatal error:  Uncaught Error: Class 'ParagonIE_Sodium_Core32_ChaCha20_Ctx' not found in /home/parrilla111/public_html/wp-includes/sodium_compat/src/Core32/ChaCha20/IetfCtx.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/parrilla111/public_html/wp-includes/sodium_compat/src/Core32/ChaCha20/IetfCtx.php on line 10
+[05-Aug-2023 20:24:50 America/New_York] PHP Fatal error:  Uncaught Error: Class 'ParagonIE_Sodium_Core32_ChaCha20_Ctx' not found in /home/parrilla111/public_html/wp-includes/sodium_compat/src/Core32/ChaCha20/IetfCtx.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/parrilla111/public_html/wp-includes/sodium_compat/src/Core32/ChaCha20/IetfCtx.php on line 10

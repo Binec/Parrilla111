@@ -1,0 +1,120 @@
+[12-Mar-2025 08:54:24 America/New_York] PHP Fatal error:  Uncaught Error: Class 'SimplePie' not found in /home/parrilla111/public_html/wp-includes/SimplePie/src/Core.php:53
+Stack trace:
+#0 {main}
+  thrown in /home/parrilla111/public_html/wp-includes/SimplePie/src/Core.php on line 53
+[12-Mar-2025 08:54:33 America/New_York] PHP Fatal error:  Uncaught Error: Interface 'SimplePie\RegistryAware' not found in /home/parrilla111/public_html/wp-includes/SimplePie/src/Item.php:57
+Stack trace:
+#0 {main}
+  thrown in /home/parrilla111/public_html/wp-includes/SimplePie/src/Item.php on line 57
+[12-Mar-2025 08:54:35 America/New_York] PHP Fatal error:  Uncaught Error: Interface 'SimplePie\RegistryAware' not found in /home/parrilla111/public_html/wp-includes/SimplePie/src/Locator.php:55
+Stack trace:
+#0 {main}
+  thrown in /home/parrilla111/public_html/wp-includes/SimplePie/src/Locator.php on line 55
+[12-Mar-2025 08:54:40 America/New_York] PHP Fatal error:  Uncaught Error: Interface 'SimplePie\RegistryAware' not found in /home/parrilla111/public_html/wp-includes/SimplePie/src/Parser.php:58
+Stack trace:
+#0 {main}
+  thrown in /home/parrilla111/public_html/wp-includes/SimplePie/src/Parser.php on line 58
+[12-Mar-2025 08:54:46 America/New_York] PHP Fatal error:  Uncaught Error: Interface 'SimplePie\RegistryAware' not found in /home/parrilla111/public_html/wp-includes/SimplePie/src/Sanitize.php:63
+Stack trace:
+#0 {main}
+  thrown in /home/parrilla111/public_html/wp-includes/SimplePie/src/Sanitize.php on line 63
+[12-Mar-2025 08:54:55 America/New_York] PHP Fatal error:  Uncaught Error: Interface 'SimplePie\RegistryAware' not found in /home/parrilla111/public_html/wp-includes/SimplePie/src/Source.php:57
+Stack trace:
+#0 {main}
+  thrown in /home/parrilla111/public_html/wp-includes/SimplePie/src/Source.php on line 57
+[14-Mar-2025 00:24:25 America/New_York] PHP Fatal error:  Uncaught Error: Class 'SimplePie' not found in /home/parrilla111/public_html/wp-includes/SimplePie/src/Core.php:53
+Stack trace:
+#0 {main}
+  thrown in /home/parrilla111/public_html/wp-includes/SimplePie/src/Core.php on line 53
+[14-Mar-2025 00:24:37 America/New_York] PHP Fatal error:  Uncaught Error: Interface 'SimplePie\RegistryAware' not found in /home/parrilla111/public_html/wp-includes/SimplePie/src/Item.php:57
+Stack trace:
+#0 {main}
+  thrown in /home/parrilla111/public_html/wp-includes/SimplePie/src/Item.php on line 57
+[14-Mar-2025 00:24:38 America/New_York] PHP Fatal error:  Uncaught Error: Interface 'SimplePie\RegistryAware' not found in /home/parrilla111/public_html/wp-includes/SimplePie/src/Locator.php:55
+Stack trace:
+#0 {main}
+  thrown in /home/parrilla111/public_html/wp-includes/SimplePie/src/Locator.php on line 55
+[14-Mar-2025 00:24:41 America/New_York] PHP Fatal error:  Uncaught Error: Interface 'SimplePie\RegistryAware' not found in /home/parrilla111/public_html/wp-includes/SimplePie/src/Parser.php:58
+Stack trace:
+#0 {main}
+  thrown in /home/parrilla111/public_html/wp-includes/SimplePie/src/Parser.php on line 58
+[14-Mar-2025 00:24:49 America/New_York] PHP Fatal error:  Uncaught Error: Interface 'SimplePie\RegistryAware' not found in /home/parrilla111/public_html/wp-includes/SimplePie/src/Sanitize.php:63
+Stack trace:
+#0 {main}
+  thrown in /home/parrilla111/public_html/wp-includes/SimplePie/src/Sanitize.php on line 63
+[14-Mar-2025 00:24:53 America/New_York] PHP Fatal error:  Uncaught Error: Interface 'SimplePie\RegistryAware' not found in /home/parrilla111/public_html/wp-includes/SimplePie/src/Source.php:57
+Stack trace:
+#0 {main}
+  thrown in /home/parrilla111/public_html/wp-includes/SimplePie/src/Source.php on line 57
+[15-Mar-2025 09:20:35 America/New_York] PHP Fatal error:  Uncaught Error: Class 'SimplePie' not found in /home/parrilla111/public_html/wp-includes/SimplePie/src/Core.php:53
+Stack trace:
+#0 {main}
+  thrown in /home/parrilla111/public_html/wp-includes/SimplePie/src/Core.php on line 53
+[15-Mar-2025 09:20:43 America/New_York] PHP Fatal error:  Uncaught Error: Interface 'SimplePie\RegistryAware' not found in /home/parrilla111/public_html/wp-includes/SimplePie/src/Item.php:57
+Stack trace:
+#0 {main}
+  thrown in /home/parrilla111/public_html/wp-includes/SimplePie/src/Item.php on line 57
+[15-Mar-2025 09:20:45 America/New_York] PHP Fatal error:  Uncaught Error: Interface 'SimplePie\RegistryAware' not found in /home/parrilla111/public_html/wp-includes/SimplePie/src/Locator.php:55
+Stack trace:
+#0 {main}
+  thrown in /home/parrilla111/public_html/wp-includes/SimplePie/src/Locator.php on line 55
+[15-Mar-2025 09:20:48 America/New_York] PHP Fatal error:  Uncaught Error: Interface 'SimplePie\RegistryAware' not found in /home/parrilla111/public_html/wp-includes/SimplePie/src/Parser.php:58
+Stack trace:
+#0 {main}
+  thrown in /home/parrilla111/public_html/wp-includes/SimplePie/src/Parser.php on line 58
+[15-Mar-2025 09:20:54 America/New_York] PHP Fatal error:  Uncaught Error: Interface 'SimplePie\RegistryAware' not found in /home/parrilla111/public_html/wp-includes/SimplePie/src/Sanitize.php:63
+Stack trace:
+#0 {main}
+  thrown in /home/parrilla111/public_html/wp-includes/SimplePie/src/Sanitize.php on line 63
+[15-Mar-2025 09:20:57 America/New_York] PHP Fatal error:  Uncaught Error: Interface 'SimplePie\RegistryAware' not found in /home/parrilla111/public_html/wp-includes/SimplePie/src/Source.php:57
+Stack trace:
+#0 {main}
+  thrown in /home/parrilla111/public_html/wp-includes/SimplePie/src/Source.php on line 57
+[16-Mar-2025 07:23:07 America/New_York] PHP Fatal error:  Uncaught Error: Class 'SimplePie' not found in /home/parrilla111/public_html/wp-includes/SimplePie/src/Core.php:53
+Stack trace:
+#0 {main}
+  thrown in /home/parrilla111/public_html/wp-includes/SimplePie/src/Core.php on line 53
+[16-Mar-2025 07:23:18 America/New_York] PHP Fatal error:  Uncaught Error: Interface 'SimplePie\RegistryAware' not found in /home/parrilla111/public_html/wp-includes/SimplePie/src/Item.php:57
+Stack trace:
+#0 {main}
+  thrown in /home/parrilla111/public_html/wp-includes/SimplePie/src/Item.php on line 57
+[16-Mar-2025 07:23:21 America/New_York] PHP Fatal error:  Uncaught Error: Interface 'SimplePie\RegistryAware' not found in /home/parrilla111/public_html/wp-includes/SimplePie/src/Locator.php:55
+Stack trace:
+#0 {main}
+  thrown in /home/parrilla111/public_html/wp-includes/SimplePie/src/Locator.php on line 55
+[16-Mar-2025 07:23:24 America/New_York] PHP Fatal error:  Uncaught Error: Interface 'SimplePie\RegistryAware' not found in /home/parrilla111/public_html/wp-includes/SimplePie/src/Parser.php:58
+Stack trace:
+#0 {main}
+  thrown in /home/parrilla111/public_html/wp-includes/SimplePie/src/Parser.php on line 58
+[16-Mar-2025 07:23:32 America/New_York] PHP Fatal error:  Uncaught Error: Interface 'SimplePie\RegistryAware' not found in /home/parrilla111/public_html/wp-includes/SimplePie/src/Sanitize.php:63
+Stack trace:
+#0 {main}
+  thrown in /home/parrilla111/public_html/wp-includes/SimplePie/src/Sanitize.php on line 63
+[16-Mar-2025 07:23:35 America/New_York] PHP Fatal error:  Uncaught Error: Interface 'SimplePie\RegistryAware' not found in /home/parrilla111/public_html/wp-includes/SimplePie/src/Source.php:57
+Stack trace:
+#0 {main}
+  thrown in /home/parrilla111/public_html/wp-includes/SimplePie/src/Source.php on line 57
+[18-May-2025 06:40:38 America/New_York] PHP Fatal error:  Uncaught Error: Class 'SimplePie' not found in /home/parrilla111/public_html/wp-includes/SimplePie/src/Core.php:53
+Stack trace:
+#0 {main}
+  thrown in /home/parrilla111/public_html/wp-includes/SimplePie/src/Core.php on line 53
+[18-May-2025 06:42:22 America/New_York] PHP Fatal error:  Uncaught Error: Interface 'SimplePie\RegistryAware' not found in /home/parrilla111/public_html/wp-includes/SimplePie/src/Item.php:57
+Stack trace:
+#0 {main}
+  thrown in /home/parrilla111/public_html/wp-includes/SimplePie/src/Item.php on line 57
+[18-May-2025 06:42:26 America/New_York] PHP Fatal error:  Uncaught Error: Interface 'SimplePie\RegistryAware' not found in /home/parrilla111/public_html/wp-includes/SimplePie/src/Locator.php:55
+Stack trace:
+#0 {main}
+  thrown in /home/parrilla111/public_html/wp-includes/SimplePie/src/Locator.php on line 55
+[18-May-2025 06:43:26 America/New_York] PHP Fatal error:  Uncaught Error: Interface 'SimplePie\RegistryAware' not found in /home/parrilla111/public_html/wp-includes/SimplePie/src/Parser.php:58
+Stack trace:
+#0 {main}
+  thrown in /home/parrilla111/public_html/wp-includes/SimplePie/src/Parser.php on line 58
+[18-May-2025 06:43:54 America/New_York] PHP Fatal error:  Uncaught Error: Interface 'SimplePie\RegistryAware' not found in /home/parrilla111/public_html/wp-includes/SimplePie/src/Sanitize.php:63
+Stack trace:
+#0 {main}
+  thrown in /home/parrilla111/public_html/wp-includes/SimplePie/src/Sanitize.php on line 63
+[18-May-2025 06:44:04 America/New_York] PHP Fatal error:  Uncaught Error: Interface 'SimplePie\RegistryAware' not found in /home/parrilla111/public_html/wp-includes/SimplePie/src/Source.php:57
+Stack trace:
+#0 {main}
+  thrown in /home/parrilla111/public_html/wp-includes/SimplePie/src/Source.php on line 57

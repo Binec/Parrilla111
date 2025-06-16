@@ -1,0 +1,1112 @@
+AWSTATS DATA FILE 7.8 (build 20200416)
+# If you remove this file, all statistics for date 202305 will be lost/reset.
+# Last config file used to build this data file was /home/parrilla111/tmp/awstats/ssl/awstats.parrilla111.com.conf.
+
+# Position (offset in bytes) in this file for beginning of each section for
+# direct I/O access. If you made changes somewhere in this file, you should
+# also remove completely the MAP section (AWStats will rewrite it at next
+# update).
+BEGIN_MAP 28
+POS_GENERAL 2019                
+POS_TIME 2703                
+POS_VISITOR 27136               
+POS_DAY 37988               
+POS_DOMAIN 3576                
+POS_LOGIN 4326                
+POS_ROBOT 4481                
+POS_WORMS 5087                
+POS_EMAILSENDER 5218                
+POS_EMAILRECEIVER 5361                
+POS_SESSION 38247               
+POS_SIDER 38455               
+POS_FILETYPES 5496                
+POS_DOWNLOADS 5848                
+POS_OS 6119                
+POS_BROWSER 6504                
+POS_SCREENSIZE 8181                
+POS_UNKNOWNREFERER 8255                
+POS_UNKNOWNREFERERBROWSER 9059                
+POS_ORIGIN 9581                
+POS_SEREFERRALS 9726                
+POS_PAGEREFS 9904                
+POS_SEARCHWORDS 10984               
+POS_KEYWORDS 11136               
+POS_MISC 2366                
+POS_ERRORS 11195               
+POS_CLUSTER 4182                
+POS_SIDER_404 11371               
+END_MAP
+
+# LastLine    = Date of last record processed - Last record line number in last log - Last record offset in last log - Last record signature value
+# FirstTime   = Date of first visit for history file
+# LastTime    = Date of last visit for history file
+# LastUpdate  = Date of last update - Nb of parsed records - Nb of parsed old records - Nb of parsed new records - Nb of parsed corrupted - Nb of parsed dropped
+# TotalVisits = Number of visits
+# TotalUnique = Number of unique visitors
+# MonthHostsKnown   = Number of hosts known
+# MonthHostsUnKnown = Number of hosts unknown
+BEGIN_GENERAL 8
+LastLine 20230601000537 574 122140 10420995580511
+FirstTime 20230525091901
+LastTime 20230531235950
+LastUpdate 20230601071259 574 0 573 0 0
+TotalVisits 330                 
+TotalUnique 267                 
+MonthHostsKnown 0                   
+MonthHostsUnknown 280                 
+END_GENERAL
+
+# Misc ID - Pages - Hits - Bandwidth
+BEGIN_MISC 10
+JavaEnabled 0 0 0
+DirectorSupport 0 0 0
+WindowsMediaPlayerSupport 0 0 0
+QuickTimeSupport 0 0 0
+JavascriptDisabled 0 0 0
+PDFSupport 0 0 0
+AddToFavourites 0 18 0
+TotalMisc 0 0 0
+FlashSupport 0 0 0
+RealPlayerSupport 0 0 0
+END_MISC
+
+# Hour - Pages - Hits - Bandwidth - Not viewed Pages - Not viewed Hits - Not viewed Bandwidth
+BEGIN_TIME 24
+0 25 26 557310 15 20 1397618
+1 35 35 1339088 10 10 793303
+2 19 19 304496 16 52 7743612
+3 17 17 304080 9 19 907827
+4 22 22 201666 16 19 922143
+5 37 107 6121645 8 11 655621
+6 30 33 1518479 15 32 1612146
+7 42 44 4533600 11 57 2314420
+8 49 52 2018046 16 68 3075105
+9 385 547 11996784 280 286 10138748
+10 34 48 348257 19 50 3778137
+11 271 278 674657 26 35 1924848
+12 303 377 6512569 51 60 4348959
+13 126 625 46611472 41 53 2143499
+14 126 373 13556674 201 257 13060225
+15 63 122 6967856 87 101 7149442
+16 55 56 1239402 31 37 3636830
+17 65 72 2020157 15 43 6094509
+18 64 134 7445040 20 33 2416532
+19 86 120 2966442 34 36 2217312
+20 58 58 312577 19 21 2130044
+21 72 74 1835442 20 39 1735521
+22 58 58 376452 28 108 4199517
+23 66 137 4261653 19 40 1401633
+END_TIME
+
+# Domain - Pages - Hits - Bandwidth
+# The 25 first Pages must be first (order not required for others)
+BEGIN_DOMAIN 39
+us 1082 1280 30689441
+mx 690 1796 79998868
+kr 72 72 1223616
+ru 50 52 3002088
+gb 31 33 1078268
+jp 26 38 1861193
+no 15 15 1055950
+cn 14 14 653945
+ma 14 14 1379657
+de 11 11 21457
+at 8 8 155148
+nl 8 8 3326
+gr 8 8 310950
+be 7 11 614569
+dk 7 7 2906
+tr 7 7 262450
+se 5 5 2078
+ca 5 7 49420
+in 5 5 13767
+fr 4 4 1662
+vn 4 4 153282
+cl 4 4 403615
+it 4 4 263497
+br 3 3 1242
+es 3 3 1242
+ph 2 2 306273
+ro 2 2 832
+my 1 1 414
+ng 1 1 1569
+bg 1 1 1569
+sa 1 1 414
+pl 2 2 828
+au 1 1 414
+ch 1 1 414
+md 2 2 102618
+zz 2 2 832
+pt 1 1 416
+eg 3 3 403200
+cz 1 1 414
+END_DOMAIN
+
+# Cluster ID - Pages - Hits - Bandwidth
+BEGIN_CLUSTER 0
+END_CLUSTER
+
+# Login - Pages - Hits - Bandwidth - Last visit
+# The 10 first Pages must be first (order not required for others)
+BEGIN_LOGIN 0
+END_LOGIN
+
+# Robot ID - Hits - Bandwidth - Last visit - Hits on robots.txt
+# The 25 first Hits must be first (order not required for others)
+BEGIN_ROBOT 12
+Googlebot/ 220 7900528 20230531233747 10
+bingbot/ 118 3392692 20230531140805 7
+facebookexternalhit/ 90 13795311 20230531221639 0
+Go\-http\-client/ 62 379753 20230525094701 0
+Googlebot\-Image/ 43 5647109 20230531200152 0
+bot[\s_+:,\.\;\/\\-] 20 7788554 20230531220207 8
+no_user_agent 9 579589 20230530132306 0
+BLEXBot/ 4 464 20230529174406 4
+bingpreview 4 175652 20230530223107 0
+Applebot/ 2 232 20230529004516 2
+curl 1 152040 20230526192100 0
+unknown 1 26 20230530132400 1
+END_ROBOT
+
+# Worm ID - Hits - Bandwidth - Last visit
+# The 5 first Hits must be first (order not required for others)
+BEGIN_WORMS 0
+END_WORMS
+
+# EMail - Hits - Bandwidth - Last visit
+# The 20 first Hits must be first (order not required for others)
+BEGIN_EMAILSENDER 0
+END_EMAILSENDER
+
+# EMail - Hits - Bandwidth - Last visit
+# The 20 first hits must be first (order not required for others)
+BEGIN_EMAILRECEIVER 0
+END_EMAILRECEIVER
+
+# Files type - Hits - Bandwidth - Bandwidth without compression - Bandwidth after compression
+BEGIN_FILETYPES 15
+woff 38 607348 0 0
+svg 12 73857 0 0
+php 1441 11367635 0 0
+txt 1 1361 0 0
+ttf 2 336784 0 0
+gif 2 22774 0 0
+woff2 48 2507668 0 0
+js 698 20550927 0 0
+Unknown 47 348780 0 0
+png 116 19157320 0 0
+pdf 3 10466334 0 0
+html 526 32896367 0 0
+xml 6 27601 0 0
+css 400 7947514 0 0
+jpg 94 17711574 0 0
+END_FILETYPES
+
+# Downloads - Hits - Bandwidth
+BEGIN_DOWNLOADS 3
+/storage/2023/04/Menu-Digital-Desayunos-Almuerzos-_-Comidas-y-Cenas-2.pdf 3 0 10466334
+/wp-content/uploads/2023/04/Menu-Digital-Desayunos-Almuerzos-_-Comidas-y-Cenas-2.pdf 2 0 6977556
+//wp-includes/ID3/license.txt 1 0 1361
+END_DOWNLOADS
+
+# OS ID - Hits
+BEGIN_OS ID - Hits - Pages 22
+winlong 16 4
+winxp 74 74
+macosx10 1 1
+android10 9 2
+linux 119 98
+macosx 16 16
+Unknown 743 733
+macosx9 3 3
+win10 1848 907
+androidmarshmallow 5 5
+win7 133 100
+androidnougat 13 13
+macosx7 12 12
+macosx5 44 44
+linuxubuntu 36 15
+macosx11 151 25
+win8.1 19 19
+win8 1 1
+macosx13 1 1
+ios_iphone 56 6
+android 66 18
+macosx15 68 11
+END_OS
+
+# Browser ID - Hits - Pages
+BEGIN_BROWSER 77
+firefox62.0 5 5
+chrome108.0.0.0 2 2
+chrome83.0.4103.97 6 6
+chrome51.0.2704.106 1 1
+chrome110.0.0.0 2 2
+chrome100.0.4896.127 14 14
+firefox28.0 2 2
+chrome39.0.2171.95 1 1
+firefox52.0 1 1
+chrome103.0.5060.129 58 12
+chrome79.0.3945.88 2 2
+mozilla 19 9
+chrome41.0.2224.3 3 3
+chrome79.0.3945.79 80 13
+safari16.5 56 6
+Unknown 720 720
+chrome10.0.648.127 44 44
+chrome94.0.4606.61 7 4
+chrome70.0.3538.77 3 3
+chrome11.0.696.68 69 69
+chrome90.0.4430.93 1 1
+chrome95.0.4638.69 2 1
+chrome91.0.4472.114 2 2
+chrome64.0.3282.119 1 1
+chrome112.0.0.0 51 5
+chrome78.0.3904.108 31 31
+chrome113.0.0.0 1540 656
+chrome50.0.2661.75 3 3
+msie6.0 2 2
+chrome103.0.5060.66 1 1
+firefox96 111 111
+chrome4.0.201.1 16 4
+chrome60.0.3112.107 13 13
+chrome91.0.4472.101 2 0
+chrome2.0.173.0 69 69
+safari15.4 6 6
+chrome103.0.5060.114 8 6
+chrome66.0.3359.181 1 1
+chrome38.0.2125.111 12 12
+chrome33.0.1750.152 3 3
+chrome10.0.613.0 69 69
+firefox109.0 29 8
+chrome77.0.3865.120 5 5
+chrome17.0.963.56 3 3
+chrome105.0.0.0 1 1
+edge18 5 5
+chrome102.0.0.0 2 2
+chrome87.0.4280.88 4 4
+chrome103.0.0.0 162 36
+firefox111.0 10 10
+chrome107.0.0.0 1 1
+chrome67.0.3396.99 1 1
+firefox91.0 2 2
+netscape5.0 5 5
+firefox110.0 1 1
+edge17 5 5
+chrome112.0.5615.121 27 8
+safari6.1.6 9 9
+firefox104.0 4 2
+chrome99.0.4844.84 2 0
+opera54.0.2952.51 3 3
+firefox83.0 3 3
+chrome48.0.2564.109 1 1
+safari11.1.2 1 1
+chrome1.0.154.59 16 4
+firefox106.0 1 1
+chrome74.0.3729.169 7 7
+chrome69.0.3497.100 5 5
+chrome85.0.4183.121 14 14
+chrome90.0.4430.85 27 27
+chrome83.0.4103.61 24 3
+firefox102.0 1 1
+chrome106.0.0.0 3 3
+chrome52.0.1805.98 5 5
+firefox113.0 4 4
+chrome103.0.5060.53 1 1
+chrome92.0.4515.159 1 1
+END_BROWSER
+
+# Screen size - Hits
+BEGIN_SCREENSIZE 0
+END_SCREENSIZE
+
+# Unknown referer OS - Last visit date
+BEGIN_UNKNOWNREFERER 13
+WordPress/6.2.2;_http://parrilla111.com 20230525091901
+Mozilla/5.0_(l9scan/2.0.7383e2937313e2136313e2730313;__https://leakix.net) 20230525094654
+Python/3.9_aiohttp/3.8.3 20230531205436
+cpp-httplib/0.10.9 20230529194032
+MailPoet_Cron 20230529152724
+WhatsApp/2.23.10.77_A 20230526141227
+Jetpack_by_WordPress.com 20230528222013
+WordPress/6.2.1;_https://parrilla111.com 20230529085009
+WordPress.com;_https://parrilla111.com 20230528222012
+WordPress/6.2.2;_https://parrilla111.com 20230531235951
+Mozilla/5.0_(compatible;_CensysInspect/1.1;__https://about.censys.io/) 20230529051120
+Mozilla/5.0_(compatible;_InternetMeasurement/1.0;__https://internet-measurement.com/) 20230529232844
+python-requests/2.31.0 20230527090623
+END_UNKNOWNREFERER
+
+# Unknown referer Browser - Last visit date
+BEGIN_UNKNOWNREFERERBROWSER 10
+MailPoet_Cron 20230529152724
+WordPress/6.2.2;_http://parrilla111.com 20230525091901
+WordPress.com;_https://parrilla111.com 20230528222012
+Python/3.9_aiohttp/3.8.3 20230531205436
+WhatsApp/2.23.10.77_A 20230526141227
+WordPress/6.2.1;_https://parrilla111.com 20230529085009
+Jetpack_by_WordPress.com 20230528222013
+cpp-httplib/0.10.9 20230529194032
+WordPress/6.2.2;_https://parrilla111.com 20230531235951
+python-requests/2.31.0 20230527090623
+END_UNKNOWNREFERERBROWSER
+
+# Origin - Pages - Hits 
+BEGIN_ORIGIN 6
+From0 1275 1320
+From1 44 44
+From2 3 3
+From3 29 82
+From4 757 1985
+From5 0 0
+END_ORIGIN
+
+# Search engine referers ID - Pages - Hits
+BEGIN_SEREFERRALS 2
+www_google_com 2 2
+google_com 1 1
+END_SEREFERRALS
+
+# External page referers - Pages - Hits
+# The 25 first Pages must be first (order not required for others)
+BEGIN_PAGEREFS 16
+https://webmail.parrilla111.com/cPanel_magic_revision_1648610195/unprotected/cpanel/fonts/open_sans/open_sans.min.css 9 9
+https://cpanel.parrilla111.com/cPanel_magic_revision_1648610195/unprotected/cpanel/fonts/open_sans/open_sans.min.css 6 6
+http://webmail.parrilla111.com/wp-login.php 2 2
+https://mail.parrilla111.com 2 8
+http://cpanel.parrilla111.com 2 2
+https://admin.dimenoc.com 2 2
+http://mail.parrilla111.com///wp-json/wp/v2/users/ 1 1
+http://mail.parrilla111.com/// 1 1
+http://cpanel.parrilla111.com/sitemap.xml 1 1
+http://cpanel.parrilla111.com/wp-login.php 1 1
+http://www.elainasblog.xyz 1 1
+http://webmail.parrilla111.com 1 1
+https://webmail.parrilla111.com 0 9
+https://cpanel.parrilla111.com/cPanel_magic_revision_1678782316/unprotected/cpanel/style_v2_optimized.css 0 14
+https://cpanel.parrilla111.com 0 6
+https://webmail.parrilla111.com/cPanel_magic_revision_1678782316/unprotected/cpanel/style_v2_optimized.css 0 18
+END_PAGEREFS
+
+# Search keyphrases - Number of search
+# The 10 first number of search must be first (order not required for others)
+BEGIN_SEARCHWORDS 0
+END_SEARCHWORDS
+
+# Search keywords - Number of search
+# The 25 first number of search must be first (order not required for others)
+BEGIN_KEYWORDS 0
+END_KEYWORDS
+
+# Errors - Hits - Bandwidth
+BEGIN_ERRORS 9
+403 8 10652
+404 508 45954936
+503 51 0
+308 1 85
+400 44 2051
+500 2 0
+301 185 482
+302 67 0
+401 29 1474
+END_ERRORS
+
+# URL with 404 errors - Hits - Last URL referrer
+BEGIN_SIDER_404 295
+/product/filete-mignon-300gr/ 1 -
+/wp-content/plugins/woocommerce/assets/js/js-cookie/js.cookie.min.js 1 -
+/myk.php 1 -
+/02.php 1 https://parrilla111.com//02.php
+/wp-admin/dropdown.php 2 www.google.com
+/wp-content/themes/betheme/js/scripts.js 1 -
+/about-us/ 1 https://parrilla111.com/
+/wp-content/plugins/mpc-massive/assets/js/mpc-scripts.min.js 1 -
+/404.php 1 https://parrilla111.com//404.php
+/wp-content/plugins/woocommerce/assets/css/woocommerce-smallscreen.css 1 -
+/2index.php 2 https://parrilla111.com//2index.php
+/style.php 1 www.google.com
+/wp_logx.php 1 https://parrilla111.com//wp_logx.php
+/wp-json/wp/v2/users/3 1 https://parrilla111.com/
+/wp-content/themes/betheme/assets/jplayer/css/jplayer.blue.monday.css 1 -
+/wp-content/plugins/woocommerce/assets/js/frontend/cart-fragments.min.js 1 -
+/wp-content/upload.php 1 https://parrilla111.com//wp-content/upload.php
+/wp-content/fw.php 1 https://parrilla111.com//wp-content/fw.php
+/xx.php 1 http://parrilla111.com/xx.php
+/docs/_sidebar.md 1 -
+/ups.php 1 https://parrilla111.com//ups.php
+/wp-content/plugins/contact-form-7/includes/css/styles.css 1 -
+/wp-content/plugins/js_composer/assets/js/vendors/woocommerce-add-to-cart.js 1 -
+/utchiha.php 1 https://parrilla111.com//utchiha.php
+/product-category/parrillada/ 1 https://www.google.com/
+/repeater.php 12 www.google.com
+/fw.php 1 https://parrilla111.com//fw.php
+/wp-content/plugins/cach/coment/ 2 www.google.com
+/wp-content/plugins/essential-addons-for-elementor-lite/includes/Traits/Shared.php 4 -
+/lufix.php 1 https://parrilla111.com//lufix.php
+/wp-2019.php 1 https://parrilla111.com//wp-2019.php
+/wp-content/themes/papanek/plug.php 2 www.google.com
+/wp-content/themes/betheme/js/menu.js 1 -
+/1337.php 1 https://parrilla111.com//1337.php
+/wp-content/uploads/2021/09/favicon.png 1 -
+/xl.php 2 https://parrilla111.com//xl.php
+/wp-content/plugins/woocommerce/assets/js/frontend/woocommerce.min.js 1 -
+/wp-x.php 1 https://parrilla111.com//wp-x.php
+/product/ensalada-gaucha/ 7 -
+/wp-god.php 1 https://parrilla111.com//wp-god.php
+/xml.php 1 https://parrilla111.com//xml.php
+/wp-content/plugins/creative-mail-by-constant-contact/assets/js/block/submit.js 1 -
+/wp-content/uploads/2021/09/Cortadillo-de-filete-300x300.jpg 1 -
+/wp-content/admin.php 1 -
+/product/quesadillas-de-sirloin-3-piezas/ 2 -
+/wp-content/plugins/LayerSlider/assets/static/layerslider/js/layerslider.kreaturamedia.jquery.js 1 -
+/z.php 1 https://parrilla111.com/z.php
+/wp-admin/priv8.php 1 https://parrilla111.com//wp-admin/priv8.php
+/about.php 4 https://parrilla111.com/about.php
+/wp-2020.php 1 https://parrilla111.com//wp-2020.php
+/wp-content/themes/betheme-child/style.css 1 -
+/xleet-shell.php 1 -
+/product/arrachera-outside-500gr/ 6 -
+/wp-content/uploads/2019/10/steak2-menu-pic2.jpg 1 -
+/product/queso-flameado/ 1 https://www.google.com/
+/product/caldo-tlalpeno/ 9 -
+/wp-content/themes/twentynineteen/logo.jpg 1 parrilla111.com
+/wp-includes/theme-compat/footer-private.php 2 www.google.com
+/wso.php 1 https://parrilla111.com//wso.php
+/wp-content/uploads/2021/11/Arrachera-Outside-3-1025x1536.jpg 1 http://primeimage.in/category/cortes-e
+/wp-content/themes/hello-elementor/logo.jpg 1 parrilla111.com
+/wp-blog.php 1 https://parrilla111.com//wp-blog.php
+/wp-includes/customize/themes.php 2 www.google.com
+/wp-content/plugins/hellopress/wp_filemanager.php 6 www.google.com
+/xlt.php 1 https://parrilla111.com//xlt.php
+/xleet.php 1 https://parrilla111.com//xleet.php
+/0z.php 1 https://parrilla111.com//0z.php
+/xwxx.php 1 https://parrilla111.com//xwxx.php
+/product/cortadillo-del-patron/ 1 -
+/reminder.php 1 https://parrilla111.com//reminder.php
+/wp-content/plugins/wp-task-scheduler/scheduler.php 2 www.google.com
+/upload.php 2 https://parrilla111.com//upload.php
+/product/arrachera-outside-1kg/ 11 -
+/wp-content/plugins/woocommerce/assets/js/frontend/add-to-cart.min.js 1 -
+/wp-content/themes/seotheme/db.php 1 -
+/wp-content/themes/betheme/css/shortcodes.css 1 -
+/login2021 1 -
+/wp-content/uploads/2019/10/steak2-about-pic1.png 3 -
+/wp-content/uploads/2021/11/Parrillada-Sirlon-4-600x401.jpg 2 -
+/wp-content/plugins/essential-addons-for-elementor-lite/readme.txt 4 www.google.com
+/wp-2021.php 1 https://parrilla111.com//wp-2021.php
+/landing/ 2 https://parrilla111.com/landing/
+/good.php 1 https://parrilla111.com//good.php
+/wp-content/plugins/woocommerce-mercadopago/assets/css/global.min.css 1 -
+/XxX.php 1 https://parrilla111.com//XxX.php
+/wp-content/themes/betheme/assets/ui/jquery.ui.all.css 1 -
+/wp-content/plugins/LayerSlider/assets/static/layerslider/js/layerslider.utils.js 1 -
+/product/parrillada-short-rib-500grs/ 1 -
+/product/ensalada-caesar-con-pollo/ 1 -
+/wp-content/plugins/LayerSlider/assets/static/layerslider/css/layerslider.css 1 -
+/wp-22.php 1 https://parrilla111.com//wp-22.php
+/wp-content/uploads/2021/11/Parrillada-Sirlon-500-gms-3-scaled.jpg 2 -
+/wp-content/plugins/stock-market-news/admin.php 2 www.google.com
+/ee.php 2 www.google.com
+/plugins/stock-market-news/class.api.php 2 www.google.com
+/product/rib-eye-angus-500gr/ 1 -
+/wp-content/plugins/jetpack/css/jetpack.css 1 -
+/wp-content/plugins/mpc-massive/assets/css/mpc-styles.css 1 -
+/rindex.php 4 www.google.com
+/403.php 1 https://parrilla111.com//403.php
+/1.php 1 https://parrilla111.com//1.php
+/c.php 1 https://parrilla111.com//c.php
+/small.php 1 https://parrilla111.com//small.php
+/assets/fileupload/ 1 -
+/wp-content/plugins/easybusy/wp-blog.php 1 https://parrilla111.com//wp-content/plugins/easybusy/wp-blog.php
+/wp-content/uploads/2021/11/Parrillada-Sirlon-500-gms-3-80x80.jpg 1 -
+/wp-content/uploads/2023/04/Menu-Digital-Desayunos-Almuerzos- 1 -
+/pi.php 1 https://parrilla111.com//pi.php
+/sitemap.txt 2 -
+/wp-includes/.well-known/pki-validation/ 2 www.google.com
+/payout.php 1 https://parrilla111.com//payout.php
+/product/guacamole-artesanal/ 6 -
+/wp-content/themes/betheme/css/responsive.css 1 -
+/wp-2022.php 1 https://parrilla111.com//wp-2022.php
+/xxl.php 2 www.google.com
+/wp-content/plugins/Cache-1/Cache.php 2 www.google.com
+/ads.txt 1 http://parrilla111.com/ads.txt
+/s.w.org 1 -
+/ 8 https://parrilla111.com/
+/.env 2 -
+/wp-content/uploads/2021/11/Parrillada-Ahuja-Nortena-2-80x80.jpg 1 -
+/new-index.php 1 https://parrilla111.com//new-index.php
+/wp-config-samsples.php 2 www.google.com
+/wp-content/plugins/woocommerce/assets/css/woocommerce-layout.css 1 -
+/wp-includes/assets/pi.php 1 https://parrilla111.com//wp-includes/assets/pi.php
+/wp-content/plugins/wp-daft/t62.php 3 www.google.com
+/wp-json/wp/v2/users/4 1 https://parrilla111.com/
+/alfa.php 1 https://parrilla111.com//alfa.php
+/wp-content/uploads/2021/11/Parrillada-Short-Rib-8-600x401.jpg 1 -
+/wp-content/themes/twenty/twenty.php 2 www.google.com
+/shell.php 1 https://parrilla111.com//shell.php
+/wp-content/themes/betheme/assets/animations/animations.min.css 1 -
+/wp-content/plugins/mailchimp-for-woocommerce/public/js/mailchimp-woocommerce-public.min.js 1 -
+/inputs.php 2 -
+/product/ensalada-verde-de-la-casa/ 1 -
+/wp-content/themes/betheme/css/layout.css 1 -
+/123.php 1 https://parrilla111.com/123.php
+/gallery/ 1 https://parrilla111.com/
+/mini.php 1 https://parrilla111.com//mini.php
+/up-kon.php 1 https://parrilla111.com//up-kon.php
+/product-category/las-ensaladas/ 2 -
+/wp-content/plugins/woocommerce/packages/woocommerce-blocks/build/wc-blocks-style.css 1 -
+/uploads/up.php 1 https://parrilla111.com//uploads/up.php
+/wp-content/themes/papanek/admin.php 2 www.google.com
+/wp-content/themes/betheme/css/base.css 1 -
+/wp-content/uploads/2021/11/entrada-ensalada-gaucha-2-scaled.jpg 3 https://www.google.com/
+/doc.php 1 https://parrilla111.com//doc.php
+/1h6j5.php 1 https://parrilla111.com//1h6j5.php
+/tos 1 -
+/3index.php 1 https://parrilla111.com//3index.php
+/wp-content/class.api.php 2 www.google.com
+/xl2023.php 2 www.google.com
+/wp-admin/css/colors/blue/blue.php 1 www.google.com
+/wp-json/wp/v2/users/5 1 https://parrilla111.com/
+/googleb162f6b552acb1dc.html 2 -
+/wp-easy.php 1 https://parrilla111.com//wp-easy.php
+/wp-includes/class.api.php 2 www.google.com
+/wp-sitemap-taxonomies-product_cat-1.xml 4 -
+/wp-content/shell20211028.php 1 -
+/wp-content/plugins/woocommerce/assets/js/jquery-blockui/jquery.blockUI.min.js 1 -
+/product/parrillada-aguja-nortena-1kg/ 8 -
+/shop/page/2/ 1 -
+/ALFA_DATA/alfacgiapi/ups.php 1 https://parrilla111.com//ALFA_DATA/alfacgiapi/ups.php
+/wp-info.php 1 https://parrilla111.com//wp-info.php
+/wp_wrong_datlib.php 1 https://parrilla111.com//wp_wrong_datlib.php
+/wp-content/plugins/LayerSlider/assets/static/layerslider/js/layerslider.transitions.js 1 -
+/wikindex.php 2 https://parrilla111.com//wikindex.php
+/wp-content/themes/finley/min.php 2 www.google.com
+/wp-content/uploads/2021/11/Parrillada-Ahuja-Nortena-2-scaled.jpg 2 https://www.google.com/
+/agm.php 1 -
+/public/assets/fileupload/ 1 -
+/wp-content/uploads/2021/09/Chicharron-de-Rib-Eye-300x300.jpg 1 -
+/wp-content/themes/betheme/assets/jplayer/jplayer.min.js 1 -
+/C.php 1 https://parrilla111.com//C.php
+/wp-content/uploads/2021/11/Parrillada-Ahuja-Nortena-2-300x300.jpg 1 -
+/wp.php 1 https://parrilla111.com//wp.php
+/wp-content/themes/betheme/css/woocommerce.css 1 -
+/wp-content/uploads/2019/10/steak2-home-pic1.png 1 -
+/wp-content/plugins/revslider/public/assets/js/rbtools.min.js 1 -
+/product/parrillada-sirloin-500g/ 2 -
+/product/mollejas-asadas/ 1 -
+/wp-content/plugins/woocommerce/assets/css/woocommerce.css 1 -
+/wp-content/plugins/feather-login-page/readme.txt 1 -
+/wp-content/uploads/2021/11/ensalada-cesar-con-pollo-3-600x401.jpg 1 -
+/priv8.php 1 https://parrilla111.com//priv8.php
+/srx.php 1 https://parrilla111.com//srx.php
+/product/arrachera-outside-300gr/ 8 -
+/wp-content/plugins/lite-cache/ 1 -
+/wp-content/plugins/masterx/wpx.php 1 https://parrilla111.com//wp-content/plugins//masterx/wpx.php
+/wp-content/plugins/woocommerce/packages/woocommerce-blocks/build/wc-blocks-vendors-style.css 1 -
+/wp-content/themes/hello-element/footer.php 6 www.google.com
+/radio.php 1 https://parrilla111.com//radio.php
+/wp-content/themes/betheme/js/plugins.js 1 -
+/4price.php 1 https://parrilla111.com//4price.php
+/our-menu/ 1 https://parrilla111.com/
+/googlebd6e8b4b1e1191db.html 2 -
+/product/tacos-de-fideo-seco/ 1 -
+/wp-admin/fx.php 1 https://parrilla111.com//wp-admin/fx.php
+/haxor.php 1 https://parrilla111.com//haxor.php
+/wp-content/plugins/wordpress-three/miin.php 5 www.google.com
+/wp-content/plugins/wp-freeform/style.php 2 www.google.com
+/xmlrqc.php 1 https://parrilla111.com//xmlrqc.php
+/image/screenshot_1.php 1 https://parrilla111.com//image/screenshot_1.php
+/wp-content/uploads/2021/09/Coliflor-frita-300x300.jpg 1 -
+/wxo.php 1 https://parrilla111.com//wxo.php
+/wp-content/uploads/2021/11/Parrillada-Sirlon-500-gms-3-1030x688.jpg 1 -
+/wp-content/uploads/2021/11/Parrillada-Short-Rib-8-1030x688.jpg 1 -
+/wp-content/plugins/press/wp-class.php 2 www.google.com
+/product/tacos-de-rib-eye-3-piezas/ 11 -
+/uploads/xleet.php 1 https://parrilla111.com//uploads/xleet.php
+/Deadcode1975xxxxxxxxxxxxxxxxxxxxxxxxxxxx.php 1 https://parrilla111.com//Deadcode1975xxxxxxxxxxxxxxxxxxxxxxxxxxxx.php
+/product/sopa-de-fideo-con-carne/ 2 -
+/wp-content/uploads/2021/11/tacos-quesadilla-de-sirlon-2-1320x1977.jpg 1 -
+/wp-content/plugins/fighter/fk.php 1 https://parrilla111.com//wp-content/plugins/fighter/fk.php
+/wp-content/uploads/2021/09/500.png 1 -
+/wp-content/uploads/2021/11/Parrillada-Sirlon-4-scaled.jpg 2 -
+/crypted.php 1 https://parrilla111.com//crypted.php
+/wp-content/themes/wp-pridmag/init.php 1 https://parrilla111.com//wp-content/themes/wp-pridmag/init.php
+/wp-content/plugins/leyka/README.txt 1 -
+/product/rib-eye-angus-300gr/ 8 -
+/wp-content/uploads/2021/09/Rib-Eye-Angus-2-scaled.jpg 1 -
+/wp-content/themes/content.php 2 www.google.com
+/wp-content/plugins/revslider/public/assets/css/rs6.css 1 -
+/wp-content/plugins/revslider/public/assets/js/rs6.min.js 1 -
+/wp-content/themes/mero-magazine/ws.php 2 www.google.com
+/wp-content/themes/betheme/assets/animations/animations.min.js 1 -
+/sitemap 2 -
+/platillos-y-bebidas/ 7 -
+/wp-includes/customize/class-wp-customize-nav-menu.php 1 https://parrilla111.com//wp-includes/customize/class-wp-customize-nav-menu.php
+/lock360.php 1 https://parrilla111.com//lock360.php
+/wp-admin/class.api.php 2 www.google.com
+/autoload_classmap.php 1 https://parrilla111.com//autoload_classmap.php
+/content.php 2 www.google.com
+/mad.php 1 https://parrilla111.com//mad.php
+/DKIZ.php 1 https://parrilla111.com//DKIZ.php
+/media-admin.php 1 https://parrilla111.com//media-admin.php
+/wp-content/uploads/2021/11/Parrillada-Short-Rib-8-scaled.jpg 1 -
+/wp-includes/patior/ 2 www.google.com
+/3x.php 1 https://parrilla111.com//3x.php
+/wp-content/themes/betheme/js/parallax/translate3d.js 1 -
+/ini.php 1 https://parrilla111.com//ini.php
+/images/vuln.php 1 https://parrilla111.com//images/vuln.php
+/wpx.php 1 https://parrilla111.com//wpx.php
+/staff 1 -
+/admin/controller/extension/wpm.php 1 https://parrilla111.com//admin/controller/extension/wpm.php
+/product/tacos-de-bistec-3-piezas/ 4 -
+/google.php 1 https://parrilla111.com//google.php
+/wp-content/plugins/mpc-massive/assets/js/mpc-vendor.min.js 1 -
+/product/parrillada-sirloin-500grs/ 5 -
+/product/chile-en-nogada/ 1 -
+/screenshot_1.php 1 https://parrilla111.com//screenshot_1.php
+/wp-content/uploads/2021/09/Chicharron-de-Rib-Eye-600x401.jpg 1 -
+/1index.php 2 https://parrilla111.com//1index.php
+/admin.php 3 www.google.com
+/wp-content/uploads/2019/10/steak2-menu-pic3.jpg 1 -
+/wp-content/plugins/wp-security-enforcements/wwdv.php 4 www.google.com
+/x.php 1 https://parrilla111.com//x.php
+/wp-admin/rss.php 1 https://parrilla111.com//wp-admin/rss.php
+/product/parrillada-aguja-nortena-500grs/ 6 -
+/wp-sitemap-posts-mailpoet_page-1.xml 4 -
+/mininew.php 1 https://parrilla111.com//mininew.php
+/wp-content/plugins/contact-form-7/includes/js/index.js 1 -
+/wp-content/themes/astra/logo.jpg 1 parrilla111.com
+/class.api.php 2 www.google.com
+/wp-json/wp/v2/users/2 1 https://parrilla111.com/
+/01.php 1 https://parrilla111.com//01.php
+/old-index.php 1 https://parrilla111.com//old-index.php
+/wp-content/plugins/x/vim/hehehe.php 2 www.google.com
+/bala.php 2 www.google.com
+/Public/home/js/check.js 2 -
+/wp-content/plugins/column/miin.php 2 www.google.com
+/wp-content/plugins/hellopress/wp_mna.php 2 www.google.com
+/mass.php 1 https://parrilla111.com//mass.php
+/wp-content/uploads/2021/11/tacos-rib-eye-2-2048x1641.jpg 1 -
+/wp-content/uploads/2021/09/Chicharron-de-Rib-Eye-scaled.jpg 1 -
+/wp-content/themes/twentyseventeen/logo.jpg 1 parrilla111.com
+/wp-content/themes/izo/inc/customizer/body.php 1 parrilla111.com
+/wp-content/plugins/ccx/ 1 -
+/wp-content/plugins/akismeet/about.php 2 www.google.com
+/wp-content/plugins/Cache/dropdown.php 2 www.google.com
+/wp-admin/admin-ajax.php 1 https://parrilla111.com/wp-admin/customize.php
+/versions.php 1 -
+/wp-sitemap-posts-product-1.xml 8 -
+/wp-content/uploads/2021/11/Parrillada-Ahuja-Nortena-2-1320x1830.jpg 1 -
+/baindex.php 1 https://parrilla111.com//baindex.php
+/wp-admin/xleet.php 1 https://parrilla111.com//wp-admin/xleet.php
+/hehe.php 1 https://parrilla111.com//hehe.php
+/wso112233.php 3 www.google.com
+/wp-content/plugins/Cache-2/Cache.php 2 www.google.com
+/wp-includes/wp-class.php 3 www.google.com
+/up.php 1 https://parrilla111.com//up.php
+/marijuana.php 1 https://parrilla111.com//marijuana.php
+/static/admin/javascript/hetong.js 3 https://www.parrilla111.com/static/admin/javascript/hetong.js
+/wp-content/plugins/stock-market-news/plug.php 2 www.google.com
+/wp-includes/1index.php 1 https://parrilla111.com//wp-includes/1index.php
+END_SIDER_404
+
+# Host - Pages - Hits - Bandwidth - Last visit date - [Start date of last visit] - [Last page of last visit]
+# [Start date of last visit] and [Last page of last visit] are saved only if session is not finished
+# The 25 first Hits must be first (order not required for others)
+BEGIN_VISITOR 280
+107.161.179.87 688 688 3179230 20230531235951
+189.219.64.31 625 1297 39890218 20230526142853
+170.244.93.237 69 69 848763 20230525092017
+161.123.5.34 69 69 848847 20230525094836
+216.173.76.17 69 69 849248 20230525094836
+45.61.124.233 44 44 541533 20230525092019
+187.189.142.48 21 125 7947799 20230526193607
+146.59.69.71 15 15 1055950 20230529194032
+34.254.53.125 14 37 960094 20230525122139
+45.233.81.198 14 14 1379657 20230528173314
+201.131.127.154 13 113 11903047 20230526135422
+35.245.195.181 12 12 159618 20230531191233
+34.123.27.24 12 58 2924344 20230526134510
+34.146.229.192 10 10 158790 20230530054922
+201.173.129.92 10 69 5850503 20230531150333
+192.185.2.24 10 10 916595 20230529152724
+128.199.147.133 9 9 156183 20230527011310
+194.169.175.92 8 8 25034 20230529091950
+46.161.15.14 6 6 340220 20230531072226
+205.169.39.238 6 75 5252986 20230528055148
+187.190.170.165 6 56 6482468 20230528131807
+205.169.39.85 5 15 134237 20230525092134
+109.70.100.74 5 5 2080 20230531093122
+46.161.15.38 5 5 331150 20230530105542
+205.169.39.166 5 14 133102 20230525092137
+87.236.176.250 0 1 23544 
+159.223.206.158 1 1 12098 20230526191730
+129.226.223.68 1 2 2069 20230529000615
+65.154.226.167 4 13 121001 20230525092057
+128.199.61.251 2 2 3812 20230525094654
+194.36.111.59 1 1 416 20230525205729
+45.43.64.134 1 1 123824 20230529065856
+47.89.193.162 0 1 12113 
+87.236.176.93 1 1 12101 20230527124833
+40.77.111.208 1 1 414 20230531233017
+148.72.244.254 1 1 414 20230531194118
+23.88.113.206 2 2 828 20230531170857
+159.203.28.105 1 1 154202 20230526122827
+131.108.208.161 1 1 414 20230531161758
+162.241.219.113 1 1 414 20230531232827
+64.42.179.59 1 1 416 20230525165552
+66.249.66.44 0 1 3488778 
+65.109.170.9 1 1 154202 20230526072725
+104.254.90.187 1 1 416 20230525174051
+37.139.53.17 4 4 588498 20230529192239
+154.13.100.48 1 1 154233 20230530184359
+154.13.105.217 1 1 154233 20230529211010
+141.255.2.5 1 1 154233 20230531205436
+50.62.177.204 1 1 8953 20230530215224
+189.126.206.157 1 1 414 20230531224636
+213.152.162.74 1 1 416 20230525104807
+185.230.126.20 2 2 248970 20230530185123
+23.128.248.12 1 1 416 20230531052312
+186.234.80.11 1 1 414 20230531155430
+131.153.142.170 1 1 152040 20230528041046
+213.152.161.30 1 1 416 20230525215016
+173.249.144.29 1 1 414 20230531221708
+162.215.222.87 1 1 414 20230531224029
+67.20.76.247 1 1 414 20230531224922
+46.161.14.84 1 1 152040 20230528070752
+43.156.173.192 4 4 477206 20230527125935
+74.201.28.5 3 3 456120 20230526193958
+134.209.105.240 1 1 414 20230531223217
+103.121.90.183 1 1 414 20230531215518
+87.121.221.222 1 1 1569 20230530125238
+148.72.211.177 1 1 12110 20230526151612
+176.119.210.72 1 1 414 20230531222048
+192.110.161.3 1 1 154233 20230531080322
+185.242.95.171 1 1 0 20230531134149
+47.88.94.159 1 1 154213 20230525212344
+87.236.176.203 0 1 41067 
+144.91.113.229 1 1 414 20230531181057
+193.176.31.34 1 1 414 20230531200229
+162.240.17.133 1 1 414 20230531175552
+165.73.80.113 1 1 414 20230531234552
+158.247.231.127 1 1 414 20230531230311
+198.105.108.157 2 2 248970 20230530051200
+34.209.164.205 1 1 152040 20230527075945
+74.208.140.69 2 2 152652 20230528014556
+82.223.64.90 1 1 414 20230531192440
+35.163.242.159 1 1 152040 20230527075630
+159.223.77.249 1 1 414 20230531154905
+161.123.150.133 1 1 123171 20230531150644
+154.13.111.47 1 1 152040 20230528070730
+103.90.228.106 1 1 414 20230531210050
+89.252.140.197 1 1 414 20230531211625
+129.226.216.222 4 4 477206 20230527015402
+1.192.195.11 1 1 12100 20230530132404
+185.38.175.130 4 4 1664 20230531072659
+8.218.75.158 1 1 414 20230531184105
+78.135.87.193 1 1 414 20230531234457
+171.231.162.187 1 1 152040 20230528003613
+201.159.95.244 1 1 414 20230531234242
+109.70.100.87 1 1 152040 20230527130448
+87.236.176.108 1 1 154233 20230529232825
+135.125.197.48 1 1 414 20230531233123
+162.240.17.167 1 1 414 20230531211121
+87.236.176.247 1 1 152040 20230529084552
+194.169.175.93 1 1 1569 20230525185947
+178.20.55.16 3 3 1248 20230531113501
+43.134.162.163 1 1 154233 20230531161118
+212.224.98.109 1 1 414 20230531161442
+162.240.42.215 1 1 414 20230531193212
+104.248.203.191 0 1 23544 
+87.236.176.175 0 1 2170 
+176.53.216.6 1 1 152040 20230527123522
+135.148.2.40 1 1 414 20230531170059
+118.89.61.140 1 1 414 20230531205315
+95.173.161.171 1 1 414 20230531235154
+82.165.184.76 1 1 414 20230531220403
+69.49.247.21 1 1 152040 20230527024148
+142.4.22.16 1 1 414 20230531184351
+104.248.140.11 2 2 49168 20230525094648
+101.43.19.48 1 1 414 20230531175144
+52.88.169.20 1 1 154233 20230531084308
+47.88.86.63 1 1 12099 20230525212344
+35.189.179.223 2 2 152454 20230531163322
+119.45.38.194 1 1 414 20230531160138
+150.95.112.79 1 1 414 20230531183719
+167.71.98.46 1 1 414 20230531204021
+51.158.37.195 1 2 105462 20230526070410
+104.244.77.208 2 2 832 20230531133843
+38.170.35.43 1 1 154233 20230530085313
+39.101.185.186 1 1 414 20230531232238
+42.192.55.241 1 1 414 20230531162002
+178.128.82.148 1 1 414 20230531164448
+162.142.125.214 1 2 154210 20230529051114
+43.130.145.17 4 4 40591 20230531041936
+178.175.135.7 2 2 102618 20230531111108
+20.238.118.132 1 1 152040 20230527090623
+47.88.94.161 1 1 154213 20230525212347
+124.217.226.56 1 1 414 20230531231351
+1.192.195.5 1 1 12102 20230530150345
+173.82.78.214 1 1 414 20230531204343
+103.216.188.102 1 1 12111 20230526120109
+176.53.218.49 0 1 2170 
+178.254.3.233 2 2 18143 20230530214907
+13.234.153.22 1 1 9278 20230530215223
+185.128.139.64 1 1 414 20230531225841
+51.158.118.84 1 1 152040 20230526163923
+139.59.2.175 1 1 414 20230531160520
+161.123.150.195 2 2 251598 20230531150637
+185.220.101.168 3 3 1248 20230531133852
+199.249.230.186 1 1 154233 20230530123346
+162.240.227.207 1 1 414 20230531225717
+195.211.77.140 1 1 1906 20230525092014
+188.85.81.233 1 1 414 20230531153700
+51.158.37.210 1 2 154197 20230526135331
+45.33.102.254 1 1 414 20230531202559
+43.130.123.64 4 4 477206 20230528195559
+213.152.161.20 1 1 416 20230525103202
+195.206.105.203 1 1 416 20230526025426
+89.104.100.123 1 1 1906 20230525123119
+78.135.107.183 1 1 152040 20230527010028
+185.200.240.65 1 1 414 20230531212855
+67.205.132.31 1 1 152040 20230528151450
+43.128.80.107 4 4 40591 20230531164604
+64.227.126.135 2 2 3812 20230525094654
+154.13.103.154 1 1 154233 20230531141621
+162.240.52.12 1 1 414 20230531164124
+194.169.175.44 1 1 154244 20230529161602
+103.174.10.83 1 1 414 20230531205821
+162.241.219.35 1 1 414 20230531223116
+185.220.101.34 1 1 99696 20230530123353
+65.154.226.166 4 14 122136 20230525092052
+35.198.27.42 1 1 414 20230531211819
+128.65.195.252 1 1 414 20230531213637
+85.128.143.33 1 1 414 20230531235950
+195.250.235.35 1 1 154233 20230530055710
+87.236.176.145 1 1 12107 20230526060042
+198.105.108.97 2 2 248967 20230531013132
+185.220.101.42 4 4 1664 20230531215417
+130.44.200.191 1 1 152040 20230528180140
+175.44.42.13 1 1 154233 20230529185936
+66.249.66.32 0 1 3488778 
+212.113.119.220 2 2 832 20230531194939
+87.236.176.151 1 1 152040 20230527063256
+172.105.47.180 2 2 18143 20230530214739
+187.189.150.48 3 25 152040 20230527231557
+37.252.255.135 1 1 612 20230530123411
+89.104.111.200 1 1 154202 20230525163329
+185.216.71.129 1 1 152051 20230528190627
+213.136.93.171 1 1 414 20230531233851
+135.148.41.199 1 1 414 20230531235845
+31.210.39.123 3 3 109168 20230531111027
+185.49.20.77 1 1 414 20230531221016
+87.236.176.85 0 1 41067 
+34.217.118.122 1 1 152040 20230529062145
+192.30.89.27 1 1 416 20230525100852
+62.171.177.175 1 1 414 20230531153011
+115.77.107.90 1 1 414 20230531202302
+87.236.176.74 1 1 12097 20230527074707
+74.208.56.46 1 1 9190 20230530214954
+141.98.255.206 1 1 154202 20230525205304
+45.90.63.95 0 1 2170 
+213.152.162.89 2 2 832 20230525172504
+94.16.116.81 1 1 416 20230531194928
+82.102.27.195 1 1 416 20230525092929
+142.93.191.98 0 1 23544 
+115.85.30.27 2 2 306273 20230530100420
+5.101.156.211 2 2 828 20230531185654
+107.181.128.143 4 16 193746 20230525094836
+47.108.236.166 1 1 414 20230531174350
+213.209.238.234 3 3 109264 20230531143311
+113.119.68.132 1 1 152040 20230526160515
+185.100.87.41 2 2 832 20230531174538
+64.42.179.51 1 1 416 20230525102333
+93.159.230.87 1 1 154244 20230529110805
+46.8.202.96 1 1 152040 20230527035306
+176.106.247.22 1 1 154233 20230531064356
+35.86.166.97 1 1 152040 20230528060310
+162.240.67.13 2 2 828 20230531215210
+144.91.82.30 1 1 8953 20230530215330
+116.22.7.64 1 1 414 20230531173725
+195.225.76.130 1 1 414 20230531192915
+5.42.65.99 1 1 152040 20230527141255
+5.189.187.50 1 1 414 20230531182203
+45.43.64.15 1 1 121304 20230529065902
+51.195.232.197 1 1 152040 20230527021008
+162.240.221.77 1 1 414 20230531195825
+103.145.51.27 1 1 414 20230531231151
+164.92.192.165 2 2 3812 20230525094654
+45.119.84.18 1 1 414 20230531232348
+148.72.207.110 1 1 414 20230531231958
+137.116.141.77 2 2 828 20230531185929
+144.126.215.152 1 1 12111 20230530094955
+199.249.230.141 1 1 416 20230531235817
+187.162.21.151 5 51 3640898 20230526145231
+34.216.195.217 1 1 152040 20230528060244
+192.42.116.175 2 2 832 20230531194934
+178.128.126.187 1 1 154233 20230529095346
+1.192.192.6 1 1 12106 20230530150432
+92.204.135.185 1 1 414 20230531162757
+189.219.223.68 2 9 265759 20230531171939
+104.244.73.43 3 3 1248 20230531174557
+41.216.188.92 1 1 1569 20230530113749
+191.101.209.132 3 3 403201 20230531003201
+176.53.217.242 1 2 156372 20230526123421
+35.194.233.240 1 1 414 20230531201823
+23.129.64.216 1 1 416 20230531215354
+156.235.89.62 3 3 403200 20230530085333
+67.205.43.165 1 1 414 20230531160715
+47.88.90.156 1 1 154213 20230525212347
+171.244.21.74 1 1 414 20230531235007
+164.163.127.108 4 16 193746 20230525092018
+192.0.89.239 5 5 370242 20230528222013
+86.48.28.141 3 3 1242 20230531185240
+45.32.116.169 1 1 414 20230531165832
+47.251.11.3 1 2 24212 20230525212345
+35.201.224.83 1 1 152040 20230528080504
+42.83.147.54 2 2 308466 20230531170408
+152.32.191.185 1 1 414 20230531155226
+85.255.20.171 1 1 0 20230526164912
+104.239.40.30 3 3 12940 20230525092019
+193.189.100.196 4 4 1664 20230531154211
+141.148.159.69 1 1 414 20230531172253
+87.236.176.12 1 1 12103 20230526235546
+185.220.101.33 4 4 1664 20230531235814
+104.248.204.195 0 1 2170 
+165.22.74.203 2 2 49155 20230525094649
+34.139.11.221 1 1 614 20230531092856
+192.169.244.239 1 1 414 20230531225042
+209.97.152.248 0 2 43237 
+178.128.123.210 5 5 2070 20230531224132
+34.146.97.247 1 1 154233 20230529101148
+85.208.252.3 1 1 414 20230531222832
+5.189.183.215 2 2 828 20230531235304
+184.75.221.35 1 1 416 20230525212239
+43.156.204.23 4 4 477206 20230529081102
+157.245.107.85 1 1 154233 20230530060353
+148.72.209.73 3 3 109317 20230531100001
+80.82.124.132 2 2 18241 20230530214624
+34.221.166.158 1 1 152040 20230529062100
+51.195.107.222 1 1 414 20230531233741
+185.220.101.178 2 2 832 20230531113453
+187.189.129.68 5 51 3866136 20230527231605
+185.70.95.8 1 1 414 20230531194846
+107.181.152.55 3 3 12940 20230525094836
+192.252.220.92 1 1 125797 20230530061525
+104.254.90.203 1 1 416 20230525155651
+END_VISITOR
+
+# Date - Pages - Hits - Bandwidth - Visits
+BEGIN_DAY 7
+20230525 886 1113 16438423 46
+20230526 322 1146 59119605 27
+20230527 127 208 11618901 29
+20230528 163 282 16091742 22
+20230529 134 142 5288289 32
+20230530 112 113 6196310 38
+20230531 364 430 9270574 136
+END_DAY
+
+# Session range - Number of visits
+BEGIN_SESSION 7
+0s-30s 273
+5mn-15mn 3
+15mn-30mn 6
+30mn-1h 6
+2mn-5mn 9
+30s-2mn 4
+1h+ 29
+END_SESSION
+
+# URL - Pages - Bandwidth - Entry - Exit
+# The 25 first Pages must be first (order not required for others)
+BEGIN_SIDER 88
+/wp-cron.php 656 0 35 38
+/wp-admin/admin-ajax.php 508 23567 0 1
+/ 442 26668030 122 92
+/xmlrpc.php 158 69448 124 125
+/wp-login.php 44 376323 24 19
+/contacto/ 30 3712973 9 12
+//xmlrpc.php 23 9816 1 4
+/core/modules/f65f29574d/assets/lib/font-awesome/webfonts/fa-brands-400.woff2 12 767640 0 4
+/core/modules/f65f29574d/assets/lib/font-awesome/webfonts/fa-solid-900.woff2 12 781960 0 1
+/wp-json/reallysimplessl/v1/do_action/dismiss_modal 12 288 0 0
+/wp-content/uploads/useanyfont/2049gotham.woff2 12 231984 2 0
+/wp-admin/admin.php 10 1599663 0 0
+/wp-content/plugins/all-in-one-wp-migration/lib/view/assets/font/servmask.woff 9 13624 0 1
+/wp-admin/plugins.php 8 1007602 0 0
+/core/views/9dbb40d076/assets/fonts/astra.woff 8 26432 0 1
+/wp-admin/load-scripts.php 7 1494129 0 0
+/wp-admin/load-styles.php 7 2976385 0 0
+/wp-includes/js/ 6 126516 0 6
+/cPanel_magic_revision_1648610195/unprotected/cpanel/fonts/open_sans/OpenSans-Bold-webfont.woff 5 112160 0 3
+/cPanel_magic_revision_1648610195/unprotected/cpanel/fonts/open_sans/OpenSans-Semibold-webfont.woff 5 114540 0 0
+/wp-admin/css/colors/coffee/ 5 7845 4 3
+/_all_dbs 5 29927 0 5
+/cPanel_magic_revision_1648610195/unprotected/cpanel/fonts/open_sans/OpenSans-Regular-webfont.woff 5 113300 0 1
+/wp-admin/options-discussion.php 4 401342 0 0
+/wp-admin/ 4 502661 0 0
+/wp-content/plugins/really-simple-ssl/testssl/serverhttpson/ssl-test-page.html 1 159 0 0
+/wp-admin/plugin-install.php 2 136888 0 0
+/promociones/ 3 352061 0 1
+/wp-admin/css/colors/sunrise/ 2 3142 0 0
+/wp-json/wp/v2/posts 1 0 1 1
+/wp-content/themes/astra/assets/fonts/astra.woff 3 9912 0 1
+/comidas-y-cenas/ 2 271859 0 0
+/desayunos/ 4 519140 0 0
+/wp-sitemap-posts-post-1.xml 1 260 1 0
+/2023/04/14/hello-world/ 1 102358 0 1
+/feed/ 2 3730 0 0
+/wp-json/wp/v2/users 1 614 1 1
+/backend/admin-ajax.php 2 0 0 0
+/wp-content/plugins/really-simple-ssl/ssl-test-page.php 1 289 0 0
+/wp-json/reallysimplessl/v1/do_action/hardening_data 2 356 0 0
+/wp-content/uploads/useanyfont/2049gotham.woff 1 25668 0 0
+/wp-json/wp/v2/types 1 3752 0 0
+/wp-admin/options-general.php 3 365523 0 0
+// 1 99749 0 0
+/wp-json/wp/v2/pages/540 1 57312 0 0
+/wp-json/wp/v2/pages/1181 1 31442 0 0
+/comments/feed/ 3 4879 0 0
+/wp-json/reallysimplessl/v1/do_action/ssltest_get 2 74 0 0
+/newlogin 1 8779 0 0
+/wp-content/plugins/elementor/assets/lib/eicons/fonts/eicons.woff2 1 94248 0 0
+/core/modules/f65f29574d/assets/lib/font-awesome/webfonts/fa-regular-400.woff2 1 13276 0 0
+//wp-json/wp/v2/users/ 3 1842 0 0
+/wp-json/oembed/1.0/embed 2 4807 0 0
+/wp-content/plugins/under-construction-page/themes/fonts/fontawesome-webfont.woff2 2 154320 0 0
+/readme.html 2 0 0 0
+/sitemap.xml 2 24206 2 2
+/wp-json/ 1 213040 1 0
+/wp-admin/plugin-editor.php 4 463240 0 0
+/wp-json/wp/v2/pages/542 1 38250 0 0
+/wp-json/reallysimplessl/v1/tests/progressData 2 8742 0 0
+/wp-json/reallysimplessl/v1/do_action/get_modal_status 2 84 0 0
+/core/modules/f65f29574d/assets/lib/font-awesome/webfonts/fa-solid-900.ttf 1 202744 0 0
+/wp-json/wp/v2/pages/544 1 23652 0 1
+/wp-content/plugins/elementor/assets/lib/font-awesome/webfonts/fa-brands-400.woff2 3 153528 0 0
+/wp-content/plugins/hide-my-wp/view/assets/fonts/fontawesome-webfont.woff2 1 77160 0 0
+/author/adminmi/ 3 299088 1 1
+/core/modules/f65f29574d/assets/lib/font-awesome/webfonts/fa-brands-400.ttf 1 134040 0 1
+/wp-json/reallysimplessl/v1/do_action/onboarding_data 2 4677 0 0
+/wp-admin/update.php 1 29513 0 0
+/indexing-test/ 1 616 0 0
+/core/modules/f65f29574d/assets/lib/font-awesome/webfonts/fa-solid-900.woff 1 101652 0 0
+/wp-includes/Text/ 4 3932 0 0
+/wp-json/reallysimplessl/v1/do_action/otherpluginsdata 2 1946 0 0
+/wp-admin/customize.php 1 2413907 0 0
+/wp-json/wp/v2/pages/541 1 18684 0 0
+/wp-json/wp/v2/users/1 2 1224 2 1
+/wp-content/ 2 0 0 0
+//wp-includes/wlwmanifest.xml 3 3135 0 0
+/wp-json/wp/v2/widget-types 1 6543 0 0
+/wp-admin/install.php 2 0 0 0
+/wp-content/plugins/hide-my-wp2/view/assets/fonts/fontawesome-webfont.woff2 1 77160 0 0
+/core/modules/f65f29574d/assets/lib/font-awesome/webfonts/fa-brands-400.woff 1 90060 0 0
+/cpanel 1 33925 0 0
+/wp-content/plugins/elementor/assets/lib/font-awesome/webfonts/fa-solid-900.woff2 3 156392 0 0
+/unprotected/loader.html 1 905 0 0
+/wp-json/reallysimplessl/v1/fields/get 2 73639 0 0
+/wp-json/reallysimplessl/v1/tests/activate_ssl 1 63 0 0
+//wp-json/wp/v2/users/ 3 1842 0 3
+END_SIDER

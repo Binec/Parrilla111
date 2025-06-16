@@ -1,0 +1,4 @@
+[18-May-2025 06:29:56 America/New_York] PHP Fatal error:  Uncaught Error: Interface 'WpOrg\Requests\Proxy' not found in /home/parrilla111/public_html/wp-includes/Requests/src/Proxy/Http.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/parrilla111/public_html/wp-includes/Requests/src/Proxy/Http.php on line 24

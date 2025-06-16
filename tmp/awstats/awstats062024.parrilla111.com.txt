@@ -1,0 +1,1006 @@
+AWSTATS DATA FILE 7.8 (build 20200416)
+# If you remove this file, all statistics for date 202406 will be lost/reset.
+# Last config file used to build this data file was /home/parrilla111/tmp/awstats/awstats.parrilla111.com.conf.
+
+# Position (offset in bytes) in this file for beginning of each section for
+# direct I/O access. If you made changes somewhere in this file, you should
+# also remove completely the MAP section (AWStats will rewrite it at next
+# update).
+BEGIN_MAP 28
+POS_GENERAL 2015                
+POS_TIME 2679                
+POS_VISITOR 11971               
+POS_DAY 15681               
+POS_DOMAIN 3511                
+POS_LOGIN 3925                
+POS_ROBOT 4080                
+POS_WORMS 4298                
+POS_EMAILSENDER 4429                
+POS_EMAILRECEIVER 4572                
+POS_SESSION 16359               
+POS_SIDER 16561               
+POS_FILETYPES 4707                
+POS_DOWNLOADS 4884                
+POS_OS 4932                
+POS_BROWSER 5157                
+POS_SCREENSIZE 6064                
+POS_UNKNOWNREFERER 6138                
+POS_UNKNOWNREFERERBROWSER 6337                
+POS_ORIGIN 6531                
+POS_SEREFERRALS 6673                
+POS_PAGEREFS 6817                
+POS_SEARCHWORDS 6965                
+POS_KEYWORDS 7117                
+POS_MISC 2343                
+POS_ERRORS 7176                
+POS_CLUSTER 3781                
+POS_SIDER_404 7355                
+END_MAP
+
+# LastLine    = Date of last record processed - Last record line number in last log - Last record offset in last log - Last record signature value
+# FirstTime   = Date of first visit for history file
+# LastTime    = Date of last visit for history file
+# LastUpdate  = Date of last update - Nb of parsed records - Nb of parsed old records - Nb of parsed new records - Nb of parsed corrupted - Nb of parsed dropped
+# TotalVisits = Number of visits
+# TotalUnique = Number of unique visitors
+# MonthHostsKnown   = Number of hosts known
+# MonthHostsUnKnown = Number of hosts unknown
+BEGIN_GENERAL 8
+LastLine 20240701001952 49 9484 9462795439940
+FirstTime 0
+LastTime 20240629232222
+LastUpdate 20240701073104 49 0 48 0 0
+TotalVisits 113                 
+TotalUnique 90                  
+MonthHostsKnown 0                   
+MonthHostsUnknown 91                  
+END_GENERAL
+
+# Misc ID - Pages - Hits - Bandwidth
+BEGIN_MISC 10
+JavascriptDisabled 0 0 0
+FlashSupport 0 0 0
+TotalMisc 0 0 0
+JavaEnabled 0 0 0
+PDFSupport 0 0 0
+WindowsMediaPlayerSupport 0 0 0
+QuickTimeSupport 0 0 0
+RealPlayerSupport 0 0 0
+DirectorSupport 0 0 0
+AddToFavourites 0 1 0
+END_MISC
+
+# Hour - Pages - Hits - Bandwidth - Not viewed Pages - Not viewed Hits - Not viewed Bandwidth
+BEGIN_TIME 24
+0 99 99 352745 66 77 455
+1 411 411 1197494 600 612 90875
+2 99 99 352745 137 141 289082
+3 3 3 0 225 231 7502
+4 0 0 0 271 275 1009
+5 416 416 569470 1454 1460 11568
+6 70 70 284415 708 713 17938
+7 212 212 782972 549 555 3428
+8 20 21 382327 102 104 1015
+9 67 67 216337 115 119 595
+10 100 100 352745 95 99 350
+11 590 590 991683 1664 1670 8296
+12 0 0 0 256 266 90894
+13 218 218 106100 811 815 8507
+14 680 680 1314979 1735 1742 8227
+15 697 697 2470249 2936 2945 15428
+16 569 584 2057529 3059 3064 5648
+17 506 506 973402 805 816 373619
+18 203 203 706769 172 183 10425
+19 3 3 1279 117 126 910
+20 166 166 78972 769 776 7876
+21 607 607 924587 1997 2009 10894
+22 297 297 1058235 114 126 1365
+23 5 5 4976 217 228 87764
+END_TIME
+
+# Domain - Pages - Hits - Bandwidth
+# The 25 first Pages must be first (order not required for others)
+BEGIN_DOMAIN 12
+us 2280 2296 7265881
+de 1167 1167 2527188
+fr 481 481 985090
+no 422 422 984008
+ro 396 396 578622
+il 383 383 501140
+it 383 383 501140
+au 312 312 846028
+bg 201 201 705490
+in 9 9 284445
+ru 3 3 0
+cl 1 1 978
+END_DOMAIN
+
+# Cluster ID - Pages - Hits - Bandwidth
+BEGIN_CLUSTER 0
+END_CLUSTER
+
+# Login - Pages - Hits - Bandwidth - Last visit
+# The 10 first Pages must be first (order not required for others)
+BEGIN_LOGIN 0
+END_LOGIN
+
+# Robot ID - Hits - Bandwidth - Last visit - Hits on robots.txt
+# The 25 first Hits must be first (order not required for others)
+BEGIN_ROBOT 2
+no_user_agent 15 577063 20240622063007 0
+Go\-http\-client/ 13 376253 20240619123720 0
+END_ROBOT
+
+# Worm ID - Hits - Bandwidth - Last visit
+# The 5 first Hits must be first (order not required for others)
+BEGIN_WORMS 0
+END_WORMS
+
+# EMail - Hits - Bandwidth - Last visit
+# The 20 first Hits must be first (order not required for others)
+BEGIN_EMAILSENDER 0
+END_EMAILSENDER
+
+# EMail - Hits - Bandwidth - Last visit
+# The 20 first hits must be first (order not required for others)
+BEGIN_EMAILRECEIVER 0
+END_EMAILRECEIVER
+
+# Files type - Hits - Bandwidth - Bandwidth without compression - Bandwidth after compression
+BEGIN_FILETYPES 6
+woff2 4 276064 0 0
+php 3986 2152336 0 0
+js 1 285334 0 0
+css 15 402629 0 0
+woff 1 3304 0 0
+html 2047 12060343 0 0
+END_FILETYPES
+
+# Downloads - Hits - Bandwidth
+BEGIN_DOWNLOADS 0
+END_DOWNLOADS
+
+# OS ID - Hits
+BEGIN_OS ID - Hits - Pages 10
+androidnougat 101 100
+win10 4529 4514
+macosx10 67 67
+linuxubuntu 117 117
+Unknown 20 20
+win8.1 77 77
+macosx12 83 83
+linux 328 328
+win7 450 450
+macosx15 282 282
+END_OS
+
+# Browser ID - Hits - Pages
+BEGIN_BROWSER 37
+Unknown 20 20
+chrome84.0.4147.105 345 345
+firefox71.0 81 81
+chrome83.0.4103.97 78 78
+chrome78.0.3904.108 70 70
+chrome74.0.3729.169 146 146
+chrome79.0.3945.79 72 72
+chrome39.0.2171.95 67 67
+opera70.0.3728.95 282 282
+firefox66.0 82 82
+firefox75.0 85 85
+chrome125.0.0.0 20 5
+firefox76.0 77 77
+firefox79.0 467 467
+chrome70.0.3538.110 82 82
+firefox67.0 78 78
+chrome70.0.3538.77 76 76
+chrome58.0.3029.110 234 234
+chrome77.0.3865.90 73 73
+chrome75.0.3770.100 84 84
+chrome60.0.3112.107 101 100
+firefox77.0 65 65
+mozilla 54 54
+msie10.0 82 82
+chrome84.0.4147.125 72 72
+firefox74.0 75 75
+chrome80.0.3987.149 138 138
+firefox73.0 160 160
+chrome74.0.3729.157 74 74
+chrome69.0.3497.100 75 75
+chrome83.0.4103.61 54 54
+chrome81.0.4044.129 76 76
+chrome79.0.3945.88 68 68
+firefox72.0 82 82
+chrome90.0.4430.85 2079 2079
+chrome79.0.3945.130 140 140
+chrome72.0.3626.121 140 140
+END_BROWSER
+
+# Screen size - Hits
+BEGIN_SCREENSIZE 0
+END_SCREENSIZE
+
+# Unknown referer OS - Last visit date
+BEGIN_UNKNOWNREFERER 2
+WordPress/6.5.4;_https://parrilla111.com 20240622170117
+WordPress/6.5.3;_https://parrilla111.com 20240605110112
+END_UNKNOWNREFERER
+
+# Unknown referer Browser - Last visit date
+BEGIN_UNKNOWNREFERERBROWSER 2
+WordPress/6.5.4;_https://parrilla111.com 20240622170117
+WordPress/6.5.3;_https://parrilla111.com 20240605110112
+END_UNKNOWNREFERERBROWSER
+
+# Origin - Pages - Hits 
+BEGIN_ORIGIN 6
+From0 3872 3887
+From1 2166 2167
+From2 0 0
+From3 0 0
+From4 0 0
+From5 0 0
+END_ORIGIN
+
+# Search engine referers ID - Pages - Hits
+BEGIN_SEREFERRALS 0
+END_SEREFERRALS
+
+# External page referers - Pages - Hits
+# The 25 first Pages must be first (order not required for others)
+BEGIN_PAGEREFS 0
+END_PAGEREFS
+
+# Search keyphrases - Number of search
+# The 10 first number of search must be first (order not required for others)
+BEGIN_SEARCHWORDS 0
+END_SEARCHWORDS
+
+# Search keywords - Number of search
+# The 25 first number of search must be first (order not required for others)
+BEGIN_KEYWORDS 0
+END_KEYWORDS
+
+# Errors - Hits - Bandwidth
+BEGIN_ERRORS 9
+101 3 0
+409 8 21168
+400 16 16
+405 7 0
+301 13849 1969
+403 530 45676
+404 274 0
+302 2160 0
+500 2276 31525
+END_ERRORS
+
+# URL with 404 errors - Hits - Last URL referrer
+BEGIN_SIDER_404 100
+/.well-known/pki-validation/doc.php 3 -
+/.well-known/pki-validation/class_api.php 2 -
+/.well-known/pki-validation/adminfuns.php 1 -
+//.well-known/pki-validation/wp-login.php 1 -
+/.well-known/pki-validation/min.php 2 -
+/.well-known/pki-validation/moon.php 8 -
+/.well-known/pki-validation/admin1.php 2 -
+/.well-known/pki-validation/amaxx.php 1 -
+/.well-known/pki-validation/indexx.php 2 -
+/.well-known/pki-validation/setup.php 1 -
+/.well-known/pki-validation/license.php 1 -
+/.well-known/pki-validation/wp-login.php 8 -
+/.well-known/pki-validation/gix.php 2 -
+/.well-known/pki-validation/fond.php 1 -
+/.well-known/pki-validation/css.php 1 -
+/.well-known/pki-validation/settings.php 2 -
+/.well-known/pki-validation/dropdown.php 3 -
+/.well-known/pki-validation/input.php 1 -
+/.well-known/pki-validation/flame.php 1 -
+/.well-known/pki-validation/403.php 2 -
+/.well-known/pki-validation/bypass.php 2 -
+/.well-known/pki-validation/book.php 1 -
+/.well-known/pki-validation/007spy.php 1 -
+/.well-known/pki-validation/iR7SzrsOUEP.php 14 -
+/.well-known/pki-validation/sclass_api.php 2 -
+/.well-known/pki-validation/sitemaps.php 1 -
+/.well-known/pki-validation/action.class.php 1 -
+/.well-known/pki-validation/cloud.php 19 -
+/.well-known/pki-validation/autoload_classmap.php 2 -
+/.well-known/pki-validation/wp-blog.php 2 -
+/.well-known/pki-validation/file.php 6 -
+/.well-known/pki-validation/wp-theme.php 2 -
+/.well-known/pki-validation/network.php 1 -
+/.well-known/pki-validation/install.php 8 -
+/.well-known/pki-validation/upfile_%282%29.php 1 -
+/.well-known/pki-validation/users.php 1 -
+/.well-known/pki-validation/update.php 1 -
+/.well-known/pki-validation/zh-cns.php 1 -
+/.well-known/pki-validation/themes.php 3 -
+/.well-known/pki-validation/cloud11.php 1 -
+/.well-known/pki-validation/progress.php 1 -
+/.well-known/pki-validation/about.php 14 -
+/.well-known/pki-validation/connects.php 1 -
+/.well-known/pki-validation/chtmlfuns.php 1 -
+/.well-known/pki-validation/shell.php 2 -
+/.well-known/pki-validation/xmrlpc.php 14 -
+/.well-known/pki-validation/index.php 7 -
+/.well-known/pki-validation/load.php 1 -
+/.well-known/pki-validation/validation.php 2 -
+/.well-known/pki-validation/radio.php 1 -
+/.well-known/pki-validation/phplogin.php 1 -
+/.well-known/pki-validation/user.php 2 -
+/.well-known/pki-validation/moon1.php 2 -
+/.well-known/pki-validation/cloud1.php 2 -
+/.well-known/pki-validation/monkey.php 1 -
+/.well-known/pki-validation/zlink.php 1 -
+/.well-known/pki-validation/ssl.php 6 -
+/.well-known/pki-validation/1.php 1 -
+/.well-known/pki-validation/web.php 2 -
+/.well-known/pki-validation/404.php 7 -
+/.well-known/pki-validation/content.php 2 -
+/.well-known/pki-validation/linus.php 1 -
+/.well-known/pki-validation/test.php 1 -
+/.well-known/pki-validation/wp-load.php 2 -
+/.well-known/pki-validation/sts.php 6 -
+/.well-known/pki-validation/delpaths.php 2 -
+/.well-known/pki-validation/afnew.php 1 -
+/.well-known/pki-validation/termps.php 1 -
+/.well-known/pki-validation/class.api.php 1 -
+/.well-known/pki-validation/lofter.php 1 -
+//.well-known/pki-validation/cloud.php 1 -
+/.well-known/pki-validation/edit.php 1 -
+/.well-known/pki-validation/tiny.php 1 -
+/.well-known/pki-validation/server.php 2 -
+/.well-known/pki-validation/colors/ 7 -
+/.well-known/pki-validation/w.php 2 -
+/.well-known/pki-validation/lock.php 2 -
+/.well-known/pki-validation/mar.php 2 -
+/.well-known/pki-validation/heads_1.php 1 -
+/.well-known/pki-validation/init.site-sitemaps.php 1 -
+/.well-known/pki-validation/wp-admin.php 1 -
+/.well-known/pki-validation/mm.php 1 -
+/.well-known/pki-validation/mariju.php 7 -
+/.well-known/pki-validation/gif.php 2 -
+/.well-known/pki-validation/atomlib.php 3 -
+/.well-known/pki-validation/sx.php 4 -
+/.well-known/pki-validation/xl2023.php 6 -
+/.well-known/pki-validation/fm.php 1 -
+/.well-known/pki-validation/top.php 2 -
+/.well-known/pki-validation/wp-sigunq.php 2 -
+/.well-known/pki-validation/x.php 7 -
+/.well-known/pki-validation/classwithtostring.php 1 -
+/.well-known/pki-validation/worksec.php 2 -
+//.well-known/pki-validation/xmrlpc.php 1 -
+/.well-known/pki-validation/LA.php 2 -
+/.well-known/pki-validation/admin.php 2 -
+/.well-known/pki-validation/plugins.php 4 -
+/.well-known/pki-validation/cong.php 1 -
+/.well-known/pki-validation/system.php 2 -
+/.well-known/pki-validation/cux.php 1 -
+END_SIDER_404
+
+# Host - Pages - Hits - Bandwidth - Last visit date - [Start date of last visit] - [Last page of last visit]
+# [Start date of last visit] and [Last page of last visit] are saved only if session is not finished
+# The 25 first Hits must be first (order not required for others)
+BEGIN_VISITOR 91
+84.247.144.90 422 422 984008 20240605111029
+62.72.43.97 400 400 654483 20240622170849
+2.58.81.65 383 383 501140 20240610211056
+91.90.122.24 383 383 501140 20240613150410
+212.102.53.31 383 383 501140 20240616060403
+5.180.149.167 383 383 501140 20240609141029
+216.24.213.19 383 383 501140 20240621212910
+149.88.109.154 379 379 499679 20240620115700
+203.55.81.173 211 211 492004 20240607014234
+20.172.25.54 198 198 705490 20240625151810
+4.227.89.165 198 198 705490 20240621071720
+94.156.64.199 198 198 705490 20240613015222
+4.242.221.96 99 99 352745 20240603223513
+139.59.35.109 99 99 352745 20240618014247
+62.146.177.39 99 99 352745 20240625004518
+62.146.177.36 99 99 352745 20240627221233
+20.171.146.7 99 99 352745 20240616151625
+143.110.245.168 99 99 352745 20240610160029
+52.140.98.217 99 99 352745 20240620171223
+4.242.216.5 99 99 352745 20240628141338
+165.232.189.51 99 99 352745 20240627054737
+20.171.43.52 99 99 352745 20240622185306
+20.172.25.87 99 99 352745 20240602143318
+62.146.177.43 99 99 352745 20240626152150
+20.172.16.75 99 99 352745 20240608222716
+193.176.211.166 26 26 37888 20240604170101
+193.26.115.188 87 87 313330 20240619090420
+193.176.211.172 3 3 0 20240604164622
+193.176.211.164 22 22 52586 20240604164415
+193.176.211.155 3 3 0 20240604164712
+34.83.221.62 1 5 297021 20240612165607
+193.176.211.194 8 8 16660 20240604164523
+193.176.211.170 10 10 0 20240604164710
+191.101.157.24 1 1 978 20240629231233
+193.176.211.196 26 26 1966 20240604165334
+34.105.37.64 3 12 363797 20240612165537
+89.149.23.97 13 13 77482 20240601072515
+193.176.211.163 1 1 0 20240604165444
+103.102.228.73 8 8 284445 20240611154829
+193.176.211.158 2 2 0 20240604162811
+185.205.246.107 3 3 0 20240629033644
+193.176.211.179 24 24 45604 20240604164700
+193.176.211.167 7 7 7400 20240604170810
+193.176.211.197 2 2 0 20240604164238
+193.176.211.171 31 31 623410 20240604165648
+193.176.211.168 6 6 0 20240604164320
+193.176.211.189 7 7 0 20240604164619
+91.92.243.107 3 3 0 20240616182702
+193.176.211.181 4 4 6223 20240604165442
+45.178.180.49 1 1 0 20240620014600
+107.161.179.87 20 20 0 20240622170117
+193.176.211.198 24 24 19962 20240604165303
+193.176.211.154 17 17 5146 20240604165318
+216.24.213.55 4 4 3998 20240629232222
+193.176.211.165 2 2 0 20240604164549
+165.232.179.231 2 2 1279 20240616194024
+193.176.211.182 20 20 16073 20240604165222
+193.176.211.156 2 2 0 20240604164600
+193.176.211.180 1 1 1279 20240604153302
+193.176.211.195 8 8 11510 20240604165404
+20.151.239.159 2 2 1279 20240614180837
+193.176.211.184 11 11 17196 20240604165351
+193.176.211.175 1 1 0 20240604164359
+193.176.211.186 35 35 2067 20240604170642
+193.176.211.152 11 11 0 20240604164353
+193.176.211.58 17 17 14499 20240604165500
+193.176.211.151 4 4 0 20240604164308
+139.59.31.231 2 2 1279 20240602201004
+34.168.171.29 1 3 21179 20240612165537
+193.176.211.159 1 1 0 20240604164147
+193.176.211.178 4 4 0 20240604164652
+193.176.211.187 1 1 0 20240604154030
+193.176.211.183 3 3 0 20240604164723
+193.176.211.199 6 6 0 20240604164322
+193.176.211.161 1 1 0 20240604164649
+193.176.211.200 3 3 0 20240604164557
+193.176.211.191 35 35 79829 20240604170731
+193.176.211.173 2 2 0 20240604164705
+45.32.149.178 0 1 285334 
+193.176.211.188 14 14 18844 20240604165731
+193.176.211.169 7 7 0 20240604164727
+193.176.211.177 7 7 0 20240604164714
+193.176.211.160 5 5 22 20240604165245
+193.176.211.192 6 6 0 20240604164634
+193.176.211.176 1 1 0 20240604164407
+193.176.211.162 16 16 4621 20240604164748
+193.176.211.190 14 14 29 20240604164720
+193.176.211.174 18 18 2276 20240604165239
+20.171.80.143 99 99 352745 20240602075528
+4.242.220.4 99 99 352745 20240605021322
+193.176.211.185 2 2 0 20240604164304
+END_VISITOR
+
+# Date - Pages - Hits - Bandwidth - Visits
+BEGIN_DAY 25
+20240601 14 14 77482 2
+20240602 200 200 706769 3
+20240603 311 311 844749 3
+20240604 482 482 985090 54
+20240605 311 312 1130083 3
+20240606 99 99 352745 1
+20240607 212 212 492004 2
+20240608 99 99 352745 1
+20240609 483 483 853885 3
+20240610 483 483 853885 3
+20240611 9 9 284445 2
+20240612 5 20 681997 3
+20240613 484 484 853885 3
+20240614 5 5 1279 3
+20240616 489 489 855164 5
+20240618 99 99 352745 1
+20240619 186 186 666075 2
+20240620 479 479 852424 3
+20240621 484 484 853885 3
+20240622 502 502 1007228 4
+20240625 198 198 705490 2
+20240626 99 99 352745 1
+20240627 198 198 705490 2
+20240628 99 99 352745 1
+20240629 8 8 4976 3
+END_DAY
+
+# Session range - Number of visits
+BEGIN_SESSION 6
+0s-30s 41
+30s-2mn 9
+15mn-30mn 12
+30mn-1h 2
+2mn-5mn 9
+5mn-15mn 40
+END_SESSION
+
+# URL - Pages - Bandwidth - Entry - Exit
+# The 25 first Pages must be first (order not required for others)
+BEGIN_SIDER 487
+/wp-includes/Text/ 55 54065 0 0
+/wp-includes/ID3/ 55 222310 0 0
+/wp-includes/ 55 2766500 0 1
+/wp-content/languages/ 53 852982 0 0
+/wp-includes/fonts/ 52 131144 0 0
+/wp-includes/widgets/ 52 240292 0 1
+/wp-includes/IXR/ 52 131976 0 0
+/wp-includes/pomo/ 52 88712 0 0
+/wp-includes/sitemaps/ 51 102663 0 0
+/wp-includes/PHPMailer/ 51 60282 0 0
+/wp-includes/sitemaps/providers/ 51 64770 0 0
+/wp-admin/maint/ 51 41055 0 0
+/wp-includes/Text/Diff/Engine/ 51 70278 0 0
+/wp-includes/Text/Diff/Renderer/ 51 43350 0 0
+/wp-includes/Text/Diff/ 45 53145 0 0
+/wp-admin/css/ 45 871605 21 0
+/wp-admin/includes/ 45 944820 0 0
+/wp-content/upgrade/ 37 23569 0 1
+/.well-known/ 35 34230 2 22
+/wp-admin/js/ 33 616539 0 0
+/wp-cron.php 33 0 17 15
+/wp-includes/style-engine.php 32 0 0 0
+/wp-includes/class-wp-theme-json-resolver.php 32 0 0 0
+/wp-includes/robots-template.php 32 0 0 0
+/wp-content/languages/es_ES.l10n.php 32 0 0 0
+/.well-known/pki-validation/ 13 8502 0 0
+/wp-includes/ID3/module.audio-video.quicktime.php 11 0 0 0
+/wp-includes/js/tinymce/skins/wordpress/images/ 7 21518 0 0
+/wp-includes/theme-compat/header-embed.php 8 176 0 1
+/wp-admin/includes/ms-deprecated.php 2 0 0 0
+/wp-admin/css/colors/sunrise/ 7 10997 0 0
+/wp-includes/version.php 11 0 1 0
+/wp-includes/template.php 11 0 0 0
+/wp-admin/includes/dashboard.php 2 0 0 0
+/wp-includes/atomlib.php 11 0 0 0
+/wp-admin/includes/list-table.php 2 0 0 0
+/wp-includes/sodium_compat/src/Core/Curve25519/Ge/ 7 11291 0 0
+/wp-includes/IXR/class-IXR-client.php 8 0 0 0
+/wp-admin/js/widgets/ 28 92764 1 0
+/wp-includes/js/tinymce/themes/ 7 7147 0 0
+/wp-includes/functions.wp-scripts.php 11 0 1 0
+/wp-includes/class-wp-customize-nav-menus.php 11 0 0 0
+/wp-includes/class-wp-network-query.php 11 0 0 0
+/wp-content/uploads/2023/12/ 7 4662 0 0
+/wp-content/plugins/elementor/ 7 20797 0 0
+/wp-includes/html-api/ 9 23967 0 0
+/wp-includes/Requests/ 10 9900 0 0
+/wp-includes/rest-api/ 13 22854 0 0
+/wp-includes/rest-api/endpoints/ 9 84033 0 1
+/wp-includes/ms-default-constants.php 11 0 1 1
+/wp-includes/SimplePie/Content/ 3 2529 0 0
+/wp-admin/includes/privacy-tools.php 2 0 0 0
+/wp-includes/cache-compat.php 11 0 0 0
+/wp-includes/class-wp-recovery-mode-key-service.php 11 0 0 0
+/wp-includes/class-wp-rewrite.php 11 0 0 0
+/wp-content/uploads/2023/ 7 15358 0 0
+/wp-includes/customize/ 10 82700 0 0
+/wp-includes/class-wp-block-parser.php 11 0 0 0
+/wp-admin/includes/plugin.php 2 0 0 0
+/wp-admin/css/colors/ocean/ 28 43876 1 0
+/wp-includes/cron.php 11 0 1 0
+/wp-includes/class-wp-comment.php 11 0 0 0
+/wp-includes/IXR/class-IXR-request.php 8 0 0 0
+/wp-includes/Text/Diff/Engine/string.php 8 0 0 0
+/wp-admin/includes/media.php 2 0 0 1
+/wp-includes/css/dist/list-reusable-blocks/ 7 9919 0 0
+/wp-includes/option.php 11 0 0 0
+/wp-includes/class-wp-session-tokens.php 11 0 1 0
+/wp-includes/ID3/getid3.lib.php 11 0 0 0
+/wp-includes/sodium_compat/src/Core/Curve25519/Ge/Cached.php 7 0 0 0
+/wp-includes/IXR/class-IXR-server.php 8 0 0 0
+/wp-load.php 7 0 0 1
+/wp-includes/assets/script-loader-react-refresh-entry.min.php 8 0 0 0
+/wp-includes/class-wp-network.php 11 0 0 0
+/wp-includes/feed.php 11 0 0 0
+/wp-includes/sitemaps/class-wp-sitemaps-stylesheet.php 8 0 0 0
+/wp-includes/block-patterns/ 9 18135 0 0
+/wp-content/uploads/useanyfont/2049gotham.woff2 1 19332 1 1
+/wp-content/languages/admin-es_ES.l10n.php 32 0 0 0
+/wp-includes/rest-api/class-wp-rest-server.php 11 0 0 0
+/wp-content/plugins/elementor/elementor.php 7 0 0 0
+/wp-includes/SimplePie/ 10 56100 0 0
+/wp-includes/plugin.php 11 0 0 0
+/wp-admin/includes/noop.php 2 0 0 0
+/wp-includes/functions.wp-styles.php 11 0 0 0
+/wp-includes/class-wp-script-modules.php 32 0 0 0
+/wp-includes/SimplePie/IRI.php 8 0 0 0
+/wp-includes/block-bindings.php 32 0 0 0
+/wp-includes/js/tinymce/utils/ 7 9751 0 0
+/wp-content/plugins/elementor/includes/settings/tools.php 7 0 0 0
+/wp-admin/includes/class-wp-list-table.php 2 0 0 1
+/wp-admin/includes/class-wp-site-health-auto-updates.php 2 0 0 0
+/wp-includes/theme-previews.php 32 0 0 0
+/wp-includes/canonical.php 11 0 0 0
+/wp-includes/class-wp-roles.php 11 0 0 0
+/wp-admin/includes/post.php 2 0 0 0
+/wp-includes/ID3/module.tag.id3v2.php 11 0 0 0
+/wp-includes/rest-api/endpoints/class-wp-rest-controller.php 8 0 0 1
+/wp-admin/includes/class-wp-screen.php 2 0 1 0
+/wp-includes/pomo/streams.php 8 0 0 0
+/wp-includes/SimplePie/Cache.php 8 0 0 0
+/wp-includes/IXR/class-IXR-date.php 8 0 1 0
+/wp-content/uploads/2023/11/ 7 4662 0 0
+/wp-includes/class-wp.php 11 0 0 0
+/wp-admin/includes/bookmark.php 2 0 0 1
+/wp-admin/css/colors/ 31 80135 0 0
+/wp-content/uploads/ 32 54784 1 1
+/wp-includes/class-wp-meta-query.php 11 0 0 0
+/wp-includes/SimplePie/Locator.php 8 0 0 0
+/core/modules/f65f29574d/assets/lib/font-awesome/webfonts/fa-solid-900.woff2 1 78196 0 1
+/wp-content/plugins/elementor/includes/settings/ 7 12670 0 0
+/wp-includes/html-api/class-wp-html-active-formatting-elements.php 8 0 0 0
+/wp-includes/class-wp-recovery-mode.php 11 0 0 0
+/wp-includes/ID3/module.audio-video.matroska.php 11 0 0 0
+/wp-includes/ms-functions.php 11 0 0 0
+/wp-includes/js/tinymce/plugins/compat3x/ 4 4916 0 0
+/wp-includes/block-editor.php 32 0 0 0
+/wp-includes/ms-site.php 11 0 1 1
+/wp-content/ 7 0 0 0
+/wp-includes/sitemaps.php 11 0 0 0
+/wp-includes/SimplePie/Cache/Base.php 9 0 0 1
+/wp-includes/Requests/library/ 7 5929 0 0
+/wp-includes/class-wp-textdomain-registry.php 32 0 1 0
+/wp-includes/capabilities.php 11 0 0 0
+/wp-content/uploads/2023/05/ 7 4662 0 0
+/wp-content/themes/twentytwentythree/ 1 2272 0 0
+/wp-admin/includes/image.php 2 0 0 0
+/wp-includes/bookmark-template.php 11 0 0 0
+/wp-includes/class-wp-plugin-dependencies.php 32 0 0 0
+/wp-admin/includes/class-ftp.php 2 0 0 1
+/wp-includes/rest-api/class-wp-rest-request.php 11 0 0 1
+/wp-content/uploads/2024/ 1 1681 0 0
+/wp-includes/class-wp-walker.php 11 0 0 0
+/wp-content/languages/admin-network-es_ES.l10n.php 32 0 0 0
+/wp-includes/post-formats.php 11 0 0 0
+/wp-includes/class-wp-block.php 11 0 0 0
+/wp-includes/rss-functions.php 11 0 0 0
+/wp-includes/pluggable-deprecated.php 11 0 0 0
+/wp-includes/class-wp-http-curl.php 11 0 0 0
+/wp-includes/style-engine/class-wp-style-engine-css-rule.php 8 0 0 0
+/wp-includes/sodium_compat/src/Core/Curve25519/Ge/Precomp.php 7 0 0 6
+/wp-includes/js/jcrop/ 7 8379 0 0
+/wp-admin/includes/class-wp-importer.php 2 0 0 0
+/wp-includes/certificates/ 10 8310 0 0
+/wp-includes/css/dist/widgets/ 7 9737 0 0
+/wp-includes/ID3/module.audio.dts.php 11 0 0 0
+/wp-includes/SimplePie/Parser.php 8 0 0 0
+/wp-includes/css/ 31 258385 0 0
+/wp-admin/includes/revision.php 2 0 0 1
+/wp-content/themes/twentytwentythree/patterns/hidden-comments.php 1 522 0 0
+/wp-includes/ID3/module.tag.lyrics3.php 11 0 0 3
+/wp-includes/class-wp-paused-extensions-storage.php 11 0 0 0
+/wp-includes/rest-api/fields/class-wp-rest-meta-fields.php 8 0 1 1
+/wp-includes/SimplePie/Registry.php 8 0 0 0
+/wp-includes/IXR/class-IXR-base64.php 8 0 0 0
+/wp-includes/class-wp-admin-bar.php 11 0 1 0
+/wp-includes/js/plupload/ 28 63784 0 0
+/wp-includes/embed.php 11 0 1 0
+/wp-includes/ID3/getid3.php 11 0 0 0
+/wp-includes/class-wp-taxonomy.php 11 0 0 0
+/wp-includes/customize/class-wp-customize-selective-refresh.php 8 0 0 0
+/wp-includes/fonts/class-wp-font-face.php 31 0 0 0
+/wp-content/uploads/2023/07/ 7 4662 0 0
+/wp-includes/ID3/module.audio-video.asf.php 11 0 0 0
+/wp-includes/SimplePie/Sanitize.php 8 0 0 0
+/wp-admin/includes/class-file-upload-upgrader.php 2 0 0 1
+/wp-includes/class-wp-query.php 11 0 0 0
+/wp-includes/style-engine/class-wp-style-engine-processor.php 8 0 0 0
+/wp-includes/taxonomy.php 11 0 0 0
+/wp-includes/Text/Diff/Renderer/inline.php 9 0 1 1
+/wp-includes/class-wpdb.php 32 0 0 1
+/wp-includes/fonts.php 32 0 0 0
+/wp-includes/ms-network.php 11 0 0 0
+/wp-includes/SimplePie/Cache/ 9 17163 0 0
+/wp-includes/SimplePie/Enclosure.php 8 0 0 0
+/wp-includes/class-wp-http-streams.php 11 0 0 1
+/wp-includes/assets/script-loader-react-refresh-runtime.min.php 8 0 0 0
+/wp-includes/class-wp-application-passwords.php 11 0 0 0
+/wp-includes/formatting.php 11 0 0 0
+/wp-includes/assets/script-loader-packages.php 8 0 0 0
+/wp-content/themes/index.php 2 0 0 0
+/wp-admin/includes/taxonomy.php 2 0 0 1
+/wp-content/themes/twentytwentythree/patterns/call-to-action.php 1 279 0 0
+/wp-includes/fonts/class-wp-font-utils.php 31 0 0 0
+/wp-includes/class-wp-user.php 11 0 0 0
+/wp-includes/sodium_compat/src/SodiumException.php 2 0 0 0
+/wp-includes/SimplePie/Source.php 8 0 0 0
+/wp-includes/class-wp-locale.php 11 0 0 0
+/wp-includes/class-phpmailer.php 11 0 0 0
+/wp-includes/class-wp-block-pattern-categories-registry.php 11 0 0 0
+/wp-content/themes/twentytwentythree/patterns/ 1 1825 0 0
+/wp-includes/Text/Diff/Engine/xdiff.php 8 0 0 0
+/storage/ 7 11984 0 1
+/wp-includes/class-wp-widget-factory.php 11 0 0 0
+/wp-content/plugins/index.php 19 0 1 7
+/wp-includes/Text/Diff.php 12 0 1 1
+/wp-admin/includes/class-wp-site-health.php 2 0 0 0
+/wp-includes/js/codemirror/ 30 63150 0 0
+/wp-includes/ID3/module.audio-video.flv.php 11 0 0 0
+/wp-includes/js/mediaelement/ 7 29939 0 0
+/wp-includes/block-template.php 32 0 0 0
+/wp-includes/ID3/module.tag.id3v1.php 11 0 0 0
+/wp-includes/bookmark.php 11 0 0 0
+/wp-includes/class-wp-ajax-response.php 11 0 0 0
+/.well-known/acme-challenge/ 12 7848 0 0
+/wp-includes/class-wp-block-supports.php 11 0 0 0
+/wp-includes/js/tinymce/plugins/compat3x/css/ 12 10728 0 0
+/wp-content/themes/twentytwentytwo/inc/patterns/ 1 13742 0 0
+/wp-includes/class-wp-oembed.php 11 0 0 0
+/wp-includes/sodium_compat/lib/stream-xchacha20.php 7 0 0 0
+/wp-admin/includes/plugin-install.php 2 0 0 0
+/wp-includes/class-wp-theme-json-schema.php 32 0 0 0
+/wp-includes/widgets.php 11 0 0 0
+/wp-includes/theme-templates.php 32 0 0 0
+/wp-includes/revision.php 11 0 0 0
+/wp-includes/IXR/class-IXR-message.php 8 0 0 0
+/wp-includes/sodium_compat/src/Compat.php 2 0 0 0
+/wp-includes/sitemaps/class-wp-sitemaps-index.php 8 0 0 0
+/wp-includes/https-detection.php 32 0 0 0
+/wp-includes/block-supports/ 9 31887 0 1
+/wp-includes/fonts/class-wp-font-library.php 29 0 0 0
+/wp-content/themes/twentytwentythree/templates/ 1 1370 0 0
+/wp-includes/html-api/class-wp-html-tag-processor.php 8 0 0 0
+/wp-includes/class-wp-block-list.php 11 0 0 0
+/wp-content/plugins/ 7 0 0 0
+/wp-includes/class-wp-oembed-controller.php 11 0 0 0
+/wp-admin/css/colors/midnight/ 28 44044 0 0
+/wp-includes/sodium_compat/lib/constants.php 7 0 0 0
+/wp-includes/class-wp-recovery-mode-link-service.php 11 0 0 0
+/wp-includes/class-wp-hook.php 11 0 1 0
+/wp-includes/php-compat/ 9 7434 1 0
+/wp-content/themes/twentytwentytwo/index.php 5 0 0 0
+/wp-includes/customize/class-wp-customize-partial.php 8 0 0 0
+/wp-content/uploads/2024/06/ 21 13986 0 0
+/wp-includes/blocks/freeform/ 1 1569 0 0
+/wp-content/themes/twentytwentythree/patterns/hidden-no-results.php 1 26 0 0
+/wp-includes/link-template.php 11 0 0 0
+/wp-includes/sodium_compat/src/Core/Curve25519/Ge/P3.php 7 0 0 0
+/wp-includes/nav-menu.php 11 0 0 0
+/wp-includes/class-wp-block-type.php 11 0 0 0
+/wp-includes/sitemaps/class-wp-sitemaps.php 8 0 0 1
+/wp-admin/includes/widgets.php 2 0 0 1
+/wp-includes/class-wp-error.php 11 0 0 0
+/wp-includes/class-wp-dependencies.php 32 0 0 0
+/wp-includes/js/tinymce/skins/lightgray/fonts/ 1 2175 0 0
+/wp-includes/class-wp-site-query.php 11 0 1 0
+/wp-includes/style-engine/class-wp-style-engine-css-rules-store.php 8 0 0 0
+/wp-includes/ms-deprecated.php 11 0 1 0
+/wp-admin/includes/meta-boxes.php 2 0 0 0
+/wp-content/themes/ 6 0 0 0
+/core/modules/f65f29574d/assets/lib/font-awesome/webfonts/fa-brands-400.woff2 1 81612 0 0
+/wp-includes/default-constants.php 11 0 0 0
+/wp-content/themes/twentytwentythree/patterns/post-meta.php 1 1025 0 0
+/wp-includes/style-engine/class-wp-style-engine.php 8 0 0 0
+/wp-includes/http.php 11 0 0 0
+/wp-includes/SimplePie/Category.php 8 0 0 0
+/wp-includes/category-template.php 11 0 0 0
+/wp-includes/post-thumbnail-template.php 11 0 0 0
+/wp-includes/SimplePie/Content/Type/Sniffer.php 9 0 0 0
+/wp-includes/js/tinymce/wp-tinymce.php 6 2128336 0 1
+/wp-includes/class-wp-block-type-registry.php 11 0 0 0
+/wp-includes/sodium_compat/ 3 5688 0 0
+/wp-includes/SimplePie/Content/Type/ 9 7803 0 0
+/wp-admin/includes/credits.php 2 0 0 0
+/wp-includes/class-wp-dependency.php 11 0 0 0
+/wp-includes/Requests/src/Exception/Http/ 1 6680 0 1
+/wp-includes/block-template-utils.php 32 0 1 0
+/wp-admin/includes/theme-install.php 2 0 0 0
+/wp-includes/sodium_compat/src/Core/Curve25519/Ge/P2.php 7 0 0 0
+/wp-content/plugins/elementor/includes/settings/controls.php 7 0 0 0
+/wp-includes/js/tinymce/skins/wordpress/ 1 1052 0 0
+/wp-admin/includes/class-custom-background.php 2 0 1 0
+/wp-includes/class-wp-block-patterns-registry.php 11 0 0 0
+/wp-includes/rest-api.php 11 0 1 0
+/wp-links-opml.php 7 1274 1 1
+/wp-includes/js/ 7 147602 0 0
+/wp-includes/ID3/module.audio.mp3.php 11 0 0 0
+/wp-includes/css/dist/block-directory/ 7 9849 0 0
+/wp-admin/css/colors/light/ 28 43876 0 0
+/wp-content/index.php 17 0 15 1
+/wp-admin/includes/update.php 3 0 1 1
+/wp-includes/class-wp-classic-to-block-menu-converter.php 32 0 0 0
+/wp-includes/class-wp-theme-json.php 32 0 0 0
+/wp-content/plugins/elementor/includes/settings/validations.php 7 0 0 0
+/wp-includes/html-api/class-wp-html-text-replacement.php 8 0 0 0
+/wp-includes/user.php 11 0 1 0
+/wp-includes/post-template.php 11 0 0 0
+/wp-content/themes/twentytwentythree/patterns/hidden-404.php 1 254 0 0
+/wp-admin/includes/screen.php 2 0 0 0
+/wp-includes/class-wp-feed-cache-transient.php 11 0 0 0
+/wp-includes/post.php 11 0 0 0
+/wp-admin/includes/class-wp-site-icon.php 2 0 0 1
+/wp-includes/sodium_compat/autoload-php7.php 3 0 0 0
+/wp-includes/https-migration.php 32 0 0 0
+/wp-includes/css/dist/editor/ 1 1389 0 0
+/wp-includes/sodium_compat/autoload.php 2 0 0 0
+/wp-admin/includes/class-wp-privacy-policy-content.php 2 0 1 1
+/wp-includes/media-template.php 11 0 1 0
+/wp-includes/class-wp-comment-query.php 11 0 0 0
+/wp-includes/class-wp-locale-switcher.php 11 0 0 0
+/wp-admin/install.php 15 19185 5 1
+/wp-includes/css/dist/nux/ 7 9681 0 0
+/wp-includes/class-wp-image-editor.php 11 0 1 0
+/wp-admin/includes/update-core.php 2 0 0 0
+/wp-admin/includes/class-wp-debug-data.php 2 0 0 0
+/wp-content/uploads/2023/04/ 7 1570205 0 1
+/wp-includes/ID3/module.tag.apetag.php 11 0 0 0
+/wp-admin/includes/class-pclzip.php 2 0 1 0
+/wp-admin/includes/class-wp-automatic-updater.php 2 0 0 1
+/wp-includes/sodium_compat/src/ 2 4190 0 0
+/wp-includes/SimplePie/Restriction.php 8 0 0 0
+/wp-includes/author-template.php 11 0 0 0
+/wp-includes/rest-api/fields/ 9 15192 0 1
+/wp-includes/class-avif-info.php 32 0 1 1
+/wp-includes/rest-api/search/ 2 2998 0 0
+/wp-includes/class-wp-customize-widgets.php 11 0 1 0
+/wp-includes/class-wp-theme.php 11 0 0 0
+/wp-includes/class-wp-customize-manager.php 11 0 1 0
+/wp-includes/class-wp-list-util.php 11 0 0 0
+/wp-admin/includes/translation-install.php 2 0 0 0
+/wp-content/uploads/2024/01/ 1 666 0 0
+/wp-includes/SimplePie/Caption.php 8 0 0 0
+/wp-includes/SimplePie/HTTP/Parser.php 7 0 0 0
+/wp-includes/images/crystal/ 30 73500 0 0
+/wp-includes/pluggable.php 11 0 0 0
+/wp-includes/global-styles-and-settings.php 32 0 0 0
+/wp-includes/sodium_compat/src/Crypto32.php 2 0 0 0
+/wp-includes/class-wp-block-parser-frame.php 32 0 0 0
+/wp-includes/load.php 11 0 0 1
+/wp-includes/class-pop3.php 11 0 0 0
+/wp-admin/css/colors/coffee/ 32 50208 0 0
+/wp-admin/includes/options.php 2 0 0 0
+/wp-includes/SimplePie/Item.php 8 0 0 0
+/wp-includes/html-api/class-wp-html-span.php 9 0 0 0
+/wp-includes/class-wp-recovery-mode-email-service.php 11 0 0 0
+/wp-includes/ID3/module.audio-video.riff.php 11 0 0 0
+/wp-content/themes/astra/inc/ 1 0 0 0
+/wp-includes/html-api/class-wp-html-token.php 9 0 0 0
+/wp-includes/images/ 31 178808 0 0
+/wp-includes/js/tinymce/langs/ 7 5957 0 0
+/wp-includes/html-api/class-wp-html-processor-state.php 8 0 0 1
+/wp-includes/css/dist/ 28 103824 0 0
+/wp-includes/pomo/po.php 8 0 0 0
+/wp-includes/class-wp-fatal-error-handler.php 11 0 0 0
+/wp-admin/includes/comment.php 2 0 0 1
+/wp-includes/style-engine/ 9 15138 0 0
+/wp-includes/css/dist/edit-widgets/ 7 9807 0 1
+/wp-includes/general-template.php 11 0 0 0
+/wp-admin/includes/class-custom-image-header.php 2 0 0 0
+/wp-admin/includes/class-wp-internal-pointers.php 2 0 0 0
+/wp-includes/error-protection.php 11 0 0 0
+/wp-includes/html-api/class-wp-html-unsupported-exception.php 8 0 0 0
+/wp-includes/SimplePie/File.php 8 0 0 0
+/wp-includes/style-engine/class-wp-style-engine-css-declarations.php 8 0 0 0
+/wp-admin/includes/ajax-actions.php 2 0 1 0
+/wp-includes/css/dist/components/ 7 9779 0 0
+/wp-includes/class-wp-editor.php 11 0 0 0
+/wp-admin/includes/misc.php 2 0 0 1
+/wp-includes/theme.php 11 0 0 0
+/wp-includes/class-wp-http-proxy.php 11 0 1 0
+/wp-includes/sodium_compat/lib/ 7 13762 0 0
+/wp-includes/block-supports/utils.php 9 0 0 0
+/wp-includes/fonts/class-wp-font-face-resolver.php 29 0 0 0
+/wp-includes/script-modules.php 32 0 1 0
+/wp-includes/blocks/avatar/ 1 2289 0 0
+/wp-includes/IXR/class-IXR-value.php 8 0 0 0
+/wp-includes/class-wp-embed.php 11 0 0 0
+/wp-includes/l10n.php 11 0 0 0
+/wp-includes/SimplePie/Rating.php 8 0 0 0
+/wp-includes/images/smilies/ 30 161910 0 0
+/wp-includes/blocks/shortcode/ 1 1571 0 1
+/wp-admin/includes/class-wp-community-events.php 2 0 1 0
+/wp-includes/pomo/mo.php 8 0 0 0
+/wp-includes/html-api/class-wp-html-attribute-token.php 8 0 0 0
+/wp-admin/includes/export.php 2 0 0 1
+/wp-includes/class-wp-user-request.php 11 0 0 0
+/wp-includes/admin-bar.php 12 0 1 0
+/wp-content/uploads/elementor/ 1 1012 0 0
+/wp-includes/sodium_compat/lib/namespaced.php 7 0 0 0
+/wp-includes/class-requests.php 11 0 0 0
+/wp-includes/blocks/audio/ 1 3011 0 0
+/wp-includes/shortcodes.php 11 0 1 0
+/wp-includes/Text/Diff/Engine/native.php 8 0 0 0
+/wp-includes/class-wp-term.php 11 0 0 1
+/wp-includes/fonts/class-wp-font-collection.php 29 0 0 0
+/wp-includes/theme-compat/ 9 20484 0 1
+/wp-includes/class-wp-object-cache.php 11 0 0 0
+/wp-includes/assets/ 9 16920 0 0
+/wp-includes/class-wp-block-editor-context.php 32 0 0 0
+/wp-includes/rewrite.php 11 0 0 0
+/wp-includes/sitemaps/class-wp-sitemaps-registry.php 8 0 0 0
+/wp-includes/SimplePie/Credit.php 8 0 1 0
+/wp-includes/comment.php 11 0 0 0
+/wp-includes/ID3/module.audio.flac.php 11 0 0 0
+/wp-includes/sodium_compat/lib/php72compat.php 7 0 0 0
+/wp-includes/ms-files.php 12 348 0 1
+/wp-includes/deprecated.php 11 0 1 0
+/wp-includes/pomo/entry.php 8 0 0 0
+/wp-content/plugins/elementor/includes/settings/settings.php 7 0 0 0
+/wp-includes/sodium_compat/src/Core/Curve25519/Ge/P1p1.php 7 0 0 0
+/wp-admin/includes/import.php 2 0 0 0
+/wp-includes/class-wp-tax-query.php 11 0 1 0
+/wp-admin/includes/network.php 2 0 0 0
+/wp-admin/includes/theme.php 2 0 0 0
+/wp-includes/class-wp-site.php 11 0 0 1
+/wp-includes/images/media/ 30 116310 0 0
+/wp-includes/theme-compat/embed-404.php 8 416 0 0
+/wp-includes/class-wp-block-bindings-registry.php 32 0 0 0
+/wp-includes/Requests/library/Requests.php 7 0 0 0
+/wp-includes/class-wp-navigation-fallback.php 32 0 0 0
+/wp-includes/class-wp-metadata-lazyloader.php 11 0 0 0
+/wp-includes/class-wp-block-template.php 32 0 0 0
+/wp-includes/js/tinymce/ 6 14586 0 0
+/wp-includes/ms-load.php 11 0 0 0
+/wp-admin/css/colors/ectoplasm/ 30 47250 0 0
+/wp-includes/kses.php 11 0 0 0
+/wp-includes/class-wp-term-query.php 11 0 0 0
+/wp-includes/PHPMailer/Exception.php 8 0 0 0
+/wp-content/plugins/elementor/includes/settings/settings-page.php 7 0 0 0
+/wp-includes/assets/script-loader-react-refresh-entry.php 8 0 0 0
+/wp-includes/sodium_compat/lib/php72compat_const.php 7 0 0 1
+/wp-admin/images/ 30 447060 0 0
+/wp-includes/class-wp-theme-json-data.php 32 0 0 0
+/wp-includes/php-compat/readonly.php 9 0 0 0
+/wp-admin/includes/class-wp-upgrader-skin.php 2 0 1 0
+/core/modules/f65f29574d/assets/lib/eicons/fonts/eicons.woff2 1 96924 1 1
+/wp-includes/SimplePie/gzdecode.php 9 0 1 0
+/wp-includes/sitemaps/class-wp-sitemaps-provider.php 8 0 0 0
+/wp-includes/SimplePie/HTTP/ 7 5894 0 0
+/wp-admin/includes/class-wp-filesystem-base.php 2 0 0 1
+/wp-includes/query.php 11 0 0 1
+/wp-admin/includes/user.php 2 0 0 0
+/wp-includes/class-wp-block-styles-registry.php 11 0 0 0
+/wp-includes/js/tinymce/skins/lightgray/img/ 7 9968 0 1
+/wp-includes/class-wp-user-query.php 11 0 1 0
+/wp-includes/html-api/class-wp-html-open-elements.php 8 0 0 0
+/wp-includes/PHPMailer/PHPMailer.php 8 0 0 0
+/wp-includes/pomo/translations.php 8 0 0 0
+/wp-includes/js/crop/ 9 12303 0 0
+/wp-includes/rest-api/search/class-wp-rest-search-handler.php 1 0 0 0
+/wp-includes/wp-db.php 11 0 0 0
+/wp-includes/class-wp-http-response.php 11 0 1 0
+/wp-includes/class-wp-role.php 11 0 0 0
+/wp-includes/class-wp-block-parser-block.php 32 0 0 0
+/wp-includes/PHPMailer/SMTP.php 8 0 0 0
+/wp-includes/class-wp-post-type.php 11 0 0 0
+/wp-includes/category.php 11 0 0 0
+/wp-includes/class-phpass.php 11 0 1 0
+/wp-includes/class-wp-recovery-mode-cookie-service.php 11 0 0 0
+/wp-includes/sitemaps/class-wp-sitemaps-renderer.php 8 0 0 0
+/wp-includes/ID3/module.audio.ogg.php 11 0 0 0
+/wp-includes/class-wp-http-encoding.php 11 0 0 0
+/wp-admin/css/colors/modern/ 28 43932 0 0
+/wp-includes/sodium_compat/src/Crypto.php 2 0 0 0
+/wp-includes/class-wp-widget.php 11 0 0 1
+/wp-includes/comment-template.php 11 0 0 0
+/wp-content/themes/twentytwentythree/patterns/footer-default.php 1 447 0 0
+/core/views/9dbb40d076/assets/fonts/astra.woff 1 3304 1 0
+/wp-includes/js/dist/vendor/ 7 44597 0 0
+/wp-content/uploads/2023/10/ 7 4662 0 0
+/wp-includes/IXR/class-IXR-error.php 8 0 0 0
+/wp-content/uploads/2024/05/ 21 13986 0 0
+/wp-includes/Text/Diff/Renderer.php 2 0 0 0
+/wp-admin/includes/ms.php 2 0 0 1
+/wp-includes/blocks.php 11 0 0 0
+/wp-content/languages/continents-cities-es_ES.l10n.php 32 0 0 0
+/wp-content/uploads/2023/06/ 7 4662 0 0
+/wp-includes/SimplePie/Misc.php 8 0 0 0
+/wp-includes/class-wp-http-cookie.php 11 0 0 0
+/wp-includes/class-wp-matchesmapregex.php 11 0 0 0
+/wp-includes/class-wp-post.php 11 0 0 0
+/wp-admin/css/colors/blue/ 28 43820 0 0
+/wp-includes/pomo/plural-forms.php 8 0 0 0
+/wp-includes/SimplePie/Copyright.php 8 0 0 0
+/wp-includes/blocks/block/ 1 1563 0 0
+/wp-includes/Text/Diff/Engine/shell.php 10 0 1 0
+/wp-includes/class-wp-duotone.php 32 0 0 0
+/wp-includes/theme-compat/embed-content.php 8 48 0 0
+/wp-admin/includes/image-edit.php 2 0 0 0
+/wp-includes/assets/script-loader-packages.min.php 8 0 0 0
+/wp-includes/class-wp-date-query.php 11 0 0 0
+/wp-includes/assets/script-loader-react-refresh-runtime.php 8 0 0 0
+/wp-includes/ID3/module.audio.ac3.php 11 0 0 0
+/wp-includes/sodium_compat/lib/sodium_compat.php 7 0 0 0
+/wp-includes/class-wp-block-bindings-source.php 32 0 0 0
+/wp-includes/SimplePie/Author.php 9 0 0 0
+/wp-includes/SimplePie/Exception.php 8 0 0 0
+END_SIDER

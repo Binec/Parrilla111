@@ -1,0 +1,8 @@
+[18-May-2025 06:31:21 America/New_York] PHP Fatal error:  Uncaught Error: Interface 'WpOrg\Requests\Transport' not found in /home/parrilla111/public_html/wp-includes/Requests/src/Transport/Curl.php:25
+Stack trace:
+#0 {main}
+  thrown in /home/parrilla111/public_html/wp-includes/Requests/src/Transport/Curl.php on line 25
+[18-May-2025 06:31:28 America/New_York] PHP Fatal error:  Uncaught Error: Interface 'WpOrg\Requests\Transport' not found in /home/parrilla111/public_html/wp-includes/Requests/src/Transport/Fsockopen.php:25
+Stack trace:
+#0 {main}
+  thrown in /home/parrilla111/public_html/wp-includes/Requests/src/Transport/Fsockopen.php on line 25

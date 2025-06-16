@@ -1,0 +1,336 @@
+Return-Path: <>
+Delivered-To: parrilla111@rmx12.dizinc.com
+Received: from rmx12.dizinc.com
+	by rmx12.dizinc.com with LMTP
+	id cI8zCcSGd2ew7D4AhmHcww
+	(envelope-from <>)
+	for <parrilla111@rmx12.dizinc.com>; Fri, 03 Jan 2025 00:42:12 -0600
+Return-path: <>
+Envelope-to: parrilla111@rmx12.dizinc.com
+Delivery-date: Fri, 03 Jan 2025 00:42:12 -0600
+Received: from mailnull by rmx12.dizinc.com with local (Exim 4.98)
+	id 1tTbNs-0000000HJHv-0L5y
+	for parrilla111@rmx12.dizinc.com;
+	Fri, 03 Jan 2025 00:42:12 -0600
+X-Failed-Recipients: reserva@parrilla111.com
+Auto-Submitted: auto-replied
+From: Mail Delivery System <Mailer-Daemon@rmx12.dizinc.com>
+To: parrilla111@rmx12.dizinc.com
+References: <lxA61p3fFUUbY2yYkY2jK8UMdDAN2IU9jrk53FyC0@parrilla111.com>
+Content-Type: multipart/report; report-type=delivery-status; boundary=1735886532-eximdsn-736150738
+MIME-Version: 1.0
+Subject: Mail delivery failed: returning message to sender
+Message-Id: <E1tTbNs-0000000HJHv-0L5y@rmx12.dizinc.com>
+Date: Fri, 03 Jan 2025 00:42:12 -0600
+
+--1735886532-eximdsn-736150738
+Content-type: text/plain; charset=us-ascii
+
+This message was created automatically by mail delivery software.
+
+A message that you sent could not be delivered to one or more of its
+recipients. This is a permanent error. The following address(es) failed:
+
+  reserva@parrilla111.com
+    No Such User Here
+
+--1735886532-eximdsn-736150738
+Content-type: message/delivery-status
+
+Reporting-MTA: dns; rmx12.dizinc.com
+
+Action: failed
+Final-Recipient: rfc822;reserva@parrilla111.com
+Status: 5.0.0
+
+--1735886532-eximdsn-736150738
+Content-type: message/rfc822
+
+Return-path: <parrilla111@rmx12.dizinc.com>
+Received: from parrilla111 by rmx12.dizinc.com with local (Exim 4.98)
+	(envelope-from <parrilla111@rmx12.dizinc.com>)
+	id 1tTbNr-0000000HJHq-3xwt
+	for reserva@parrilla111.com;
+	Fri, 03 Jan 2025 00:42:11 -0600
+To: reserva@parrilla111.com
+Subject: FORMULARIO PAGINA WEB
+X-PHP-Script: parrilla111.com/index.php for 23.105.5.74
+X-PHP-Originating-Script: 2203:PHPMailer.php
+Date: Fri, 3 Jan 2025 06:42:11 +0000
+From: Stan Duffield <reserva@parrilla111.com>
+Reply-To: duffield.stan@gmail.com
+Message-ID: <lxA61p3fFUUbY2yYkY2jK8UMdDAN2IU9jrk53FyC0@parrilla111.com>
+X-Mailer: PHPMailer 6.9.1 (https://github.com/PHPMailer/PHPMailer)
+MIME-Version: 1.0
+Content-Type: text/html; charset=utf-8
+Content-Transfer-Encoding: quoted-printable
+
+<!doctype html>=0A<html lang=3D"es">=0A<head>=0A=09<meta http-equiv=3D"Cont=
+ent-Type" content=3D"text/html; charset=3DUTF-8">=0A=09<meta content=3D"wid=
+th=3Ddevice-width, initial-scale=3D1.0" name=3D"viewport">=0A=09<meta http-=
+equiv=3D"X-UA-Compatible" content=3D"IE=3Dedge">=0A=09<meta name=3D"color-s=
+cheme" content=3D"light dark">=0A=09<title>WPForms</title>=0A<style type=3D=
+"text/css">/**=0A * Adjusts the display of header images based on the user'=
+s preference for dark color schemes.=0A */=0A@media (prefers-color-scheme: =
+light) {=0A  .header-wrapper.dark-mode {=0A    display: none !important;=0A=
+  }=0A}=0A=0A@media (prefers-color-scheme: dark) {=0A  .header-wrapper.dark=
+-mode {=0A    display: table-row !important;=0A  }=0A  .header-wrapper.dark=
+-mode + .light-mode {=0A    display: none !important;=0A  }=0A}=0A=0A@media=
+ only screen and (max-width: 599px) {=0A  .body-inner {=0A    padding-top: =
+25px !important;=0A    padding-bottom: 25px !important;=0A  }=0A  .wrapper-=
+inner {=0A    padding: 0 25px 25px 25px !important;=0A  }=0A  .header {=0A =
+   padding-bottom: 25px !important;=0A  }=0A  .header .has-image-size-small=
+ img {=0A    max-height: 100px !important;=0A  }=0A  .header .has-image-siz=
+e-medium img {=0A    max-height: 140px !important;=0A  }=0A  .header .has-i=
+mage-size-large img {=0A    max-height: 180px !important;=0A  }=0A}=0A=0A/*=
+# sourceMappingURL=3Ddata:application/json;charset=3Dutf8;base64,eyJ2ZXJzaW=
+9uIjozLCJmaWxlIjoiYXNzZXRzL2Nzcy9lbWFpbHMvcGFydGlhbHMvY2xhc3NpY19tZWRpYV9xd=
+WVyaWVzLmNzcyIsInNvdXJjZXMiOlsiYXNzZXRzL3Njc3MvZW1haWxzL3BhcnRpYWxzL2NsYXNz=
+aWNfbWVkaWFfcXVlcmllcy5zY3NzIiwiYXNzZXRzL3Njc3MvZW1haWxzL3BhcnRpYWxzL19hcHB=
+lYXJhbmNlLnNjc3MiXSwic291cmNlc0NvbnRlbnQiOlsiQGltcG9ydCAnYXBwZWFyYW5jZSc7XG=
+5cbkBtZWRpYSBvbmx5IHNjcmVlbiBhbmQgKG1heC13aWR0aDogNTk5cHgpIHtcblx0LmJvZHkta=
+W5uZXIge1xuXHRcdHBhZGRpbmctdG9wOiAyNXB4ICFpbXBvcnRhbnQ7XG5cdFx0cGFkZGluZy1i=
+b3R0b206IDI1cHggIWltcG9ydGFudDtcblx0fVxuXG5cdC53cmFwcGVyLWlubmVyIHtcblx0XHR=
+wYWRkaW5nOiAwIDI1cHggMjVweCAyNXB4ICFpbXBvcnRhbnQ7XG5cdH1cblxuXHQuaGVhZGVyIH=
+tcblx0XHRwYWRkaW5nLWJvdHRvbTogMjVweCAhaW1wb3J0YW50O1xuXG5cdFx0Ly8gTWF4aW11b=
+SBoZWlnaHQgc2l6ZXMgdG8gc2NhbGUgZG93biB0aGUgaGVhZGVyIGltYWdlLlxuXHRcdCRzaXpl=
+czpcblx0XHRcdFwic21hbGxcIiAxMDAsXG5cdFx0XHRcIm1lZGl1bVwiIDE0MCxcblx0XHRcdFw=
+ibGFyZ2VcIiAxODA7XG5cblx0XHRAZWFjaCAkbmFtZSwgJGhlaWdodCBpbiAkc2l6ZXMge1xuXH=
+RcdFx0Lmhhcy1pbWFnZS1zaXplLSN7JG5hbWV9IHtcblx0XHRcdFx0aW1nIHtcblx0XHRcdFx0X=
+HRtYXgtaGVpZ2h0OiAjeyRoZWlnaHR9cHggIWltcG9ydGFudDtcblx0XHRcdFx0fVxuXHRcdFx0=
+fVxuXHRcdH1cblx0fVxufVxuXG4iLCIvKipcbiAqIEFkanVzdHMgdGhlIGRpc3BsYXkgb2YgaGV=
+hZGVyIGltYWdlcyBiYXNlZCBvbiB0aGUgdXNlcidzIHByZWZlcmVuY2UgZm9yIGRhcmsgY29sb3=
+Igc2NoZW1lcy5cbiAqL1xuQG1lZGlhIChwcmVmZXJzLWNvbG9yLXNjaGVtZTogbGlnaHQpIHtcb=
+lxuXHQuaGVhZGVyLXdyYXBwZXIge1xuXHRcdCYuZGFyay1tb2RlIHtcblx0XHRcdC8vIEhpZGUg=
+dGhlIGRhcmsgaGVhZGVyIGltYWdlLlxuXHRcdFx0ZGlzcGxheTogbm9uZSAhaW1wb3J0YW50O1x=
+uXHRcdH1cblx0fVxufVxuXG5AbWVkaWEgKHByZWZlcnMtY29sb3Itc2NoZW1lOiBkYXJrKSB7XG=
+5cblx0LmhlYWRlci13cmFwcGVyIHtcblx0XHQmLmRhcmstbW9kZSB7XG5cdFx0XHQvLyBTaG93I=
+HRoZSBkYXJrIGhlYWRlciBpbWFnZS5cblx0XHRcdGRpc3BsYXk6IHRhYmxlLXJvdyAhaW1wb3J0=
+YW50O1xuXG5cdFx0XHQvLyBIaWRlIHRoZSBsaWdodCBoZWFkZXIgaW1hZ2UuXG5cdFx0XHQrIC5=
+saWdodC1tb2RlIHtcblx0XHRcdFx0ZGlzcGxheTogbm9uZSAhaW1wb3J0YW50O1xuXHRcdFx0fV=
+xuXHRcdH1cblx0fVxufVxuIl0sIm5hbWVzIjpbXSwibWFwcGluZ3MiOiJBQ0FBOztHQUVHO0FBQ=
+0gsTUFBTSxFQUFFLG9CQUFvQixFQUFFLEtBQUs7RUFFbEMsQUFDQyxlQURjLEFBQ2IsVUFBVSxD=
+QUFDO0lBRVgsT0FBTyxFQUFFLGVBQWU7R0FDeEI7OztBQUlILE1BQU0sRUFBRSxvQkFBb0IsRUF=
+BRSxJQUFJO0VBRWpDLEFBQ0MsZUFEYyxBQUNiLFVBQVUsQ0FBQztJQUVYLE9BQU8sRUFBRSxvQk=
+FBb0I7R0FNN0I7RUFURixBQU1FLGVBTmEsQUFDYixVQUFVLEdBS1IsV0FBVyxDQUFDO0lBQ2IsT=
+0FBTyxFQUFFLGVBQWU7R0FDeEI7OztBRHJCSixNQUFNLE1BQU0sTUFBTSxNQUFNLFNBQVMsRUFB=
+RSxLQUFLO0VBQ3ZDLEFBQUEsV0FBVyxDQUFDO0lBQ1gsV0FBVyxFQUFFLGVBQWU7SUFDNUIsY0F=
+BYyxFQUFFLGVBQWU7R0FDL0I7RUFFRCxBQUFBLGNBQWMsQ0FBQztJQUNkLE9BQU8sRUFBRSwyQk=
+FBMkI7R0FDcEM7RUFFRCxBQUFBLE9BQU8sQ0FBQztJQUNQLGNBQWMsRUFBRSxlQUFlO0dBZS9CO=
+0VBaEJELEFBV0csT0FYSSxDQVVMLHFCQUFxQixDQUNwQixHQUFHLENBQUM7SUFDSCxVQUFVLEVB=
+QUUsS0FBYyxDQUFDLFVBQVU7R0FDckM7RUFiSixBQVdHLE9BWEksQ0FVTCxzQkFBc0IsQ0FDckI=
+sR0FBRyxDQUFDO0lBQ0gsVUFBVSxFQUFFLEtBQWMsQ0FBQyxVQUFVO0dBQ3JDO0VBYkosQUFXRy=
+xPQVhJLENBVUwscUJBQXFCLENBQ3BCLEdBQUcsQ0FBQztJQUNILFVBQVUsRUFBRSxLQUFjLENBQ=
+UMsVUFBVTtHQUNyQyJ9 */=0A=0A@media (prefers-color-scheme: dark) {=0A=09body=
+, .body {=0A=09=09background-color: #2d2f31 !important;=0A=09}=0A=0A=09.wra=
+pper-inner {=0A=09=09background-color: #1f1f1f !important;=0A=09=09border: =
+1px solid #525252 !important;=0A=09}=0A=0A=09body, table.body, h1, h2, h3, =
+h4, h5, h6, p, td, th, a {=0A=09=09color: #dddddd !important;=0A=09=09font-=
+family: -apple-system, BlinkMacSystemFont, avenir next, avenir, segoe ui, h=
+elvetica neue, helvetica, Cantarell, Ubuntu, roboto, noto, arial, sans-seri=
+f !important;=0A=09}=0A=0A=09a, a:visited,=0A=09a:hover, a:active,=0A=09h1 =
+a, h1 a:visited,=0A=09h2 a, h2 a:visited,=0A=09h3 a, h3 a:visited,=0A=09h4 =
+a, h4 a:visited,=0A=09h5 a, h5 a:visited,=0A=09h6 a, h6 a:visited {=0A=09=
+=09color: #e27730 !important;=0A=09}=0A=0A=09a.button-link {=0A=09=09backgr=
+ound-color: #1f1f1f !important;=0A=09=09border: 1px solid #e27730 !importan=
+t;=0A=09=09color: #e27730 !important;=0A=09}=0A=0A=09.content .field-value =
+{=0A=09=09border-bottom: 1px solid #3e3e3e !important;=0A=09}=0A=0A=09.foot=
+er, .footer a {=0A=09=09color: #7a7a7a !important;=0A=09}=0A=0A=09table.wpf=
+orms-order-summary-preview {=0A=09=09border: 1px solid #3e3e3e !important;=
+=0A=09}=0A=0A=09table.wpforms-order-summary-preview td {=0A=09=09border-top=
+: 1px solid #3e3e3e !important;=0A=09}=0A=0A=09=09.dark-mode .header-image =
+{=0A=09=09max-width: 350px !important;=0A=09}=0A=09.dark-mode .header-image=
+ img {=0A=09=09max-height: 180px !important;=0A=09}=0A=09}=0A</style>=0A</h=
+ead>=0A<body leftmargin=3D"0" marginwidth=3D"0" topmargin=3D"0" marginheigh=
+t=3D"0" offset=3D"0" bgcolor=3D"#e9eaec" class=3D"ltr" style=3D"height: 100=
+% !important; width: 100% !important; min-width: 100%; -moz-box-sizing: bor=
+der-box; -webkit-box-sizing: border-box; box-sizing: border-box; -webkit-fo=
+nt-smoothing: antialiased !important; -moz-osx-font-smoothing: grayscale !i=
+mportant; -ms-text-size-adjust: 100%; -webkit-text-size-adjust: 100%; font-=
+weight: normal; margin: 0; Margin: 0; font-size: 14px; mso-line-height-rule=
+: exactly; text-align: center; padding: 0 25px 0 25px; line-height: 22px; b=
+ackground-color: #e9eaec; color: #333333; font-family: -apple-system, Blink=
+MacSystemFont, avenir next, avenir, segoe ui, helvetica neue, helvetica, Ca=
+ntarell, Ubuntu, roboto, noto, arial, sans-serif;">=0A<table border=3D"0" c=
+ellpadding=3D"0" cellspacing=3D"0" width=3D"100%" height=3D"100%" class=3D"=
+body" role=3D"presentation" style=3D"border-collapse: collapse; border-spac=
+ing: 0; vertical-align: top; mso-table-lspace: 0pt; mso-table-rspace: 0pt; =
+-ms-text-size-adjust: 100%; -webkit-text-size-adjust: 100%; height: 100% !i=
+mportant; width: 100% !important; min-width: 100%; -moz-box-sizing: border-=
+box; -webkit-box-sizing: border-box; box-sizing: border-box; -webkit-font-s=
+moothing: antialiased !important; -moz-osx-font-smoothing: grayscale !impor=
+tant; text-align: center; background-color: #e9eaec; font-weight: normal; p=
+adding: 0; margin: 0; Margin: 0; font-size: 14px; mso-line-height-rule: exa=
+ctly; line-height: 22px; color: #333333; font-family: -apple-system, BlinkM=
+acSystemFont, avenir next, avenir, segoe ui, helvetica neue, helvetica, Can=
+tarell, Ubuntu, roboto, noto, arial, sans-serif;">=0A=09<tr style=3D"paddin=
+g: 0; vertical-align: top;">=0A=09=09<td style=3D"word-wrap: break-word; -w=
+ebkit-hyphens: auto; -moz-hyphens: auto; hyphens: auto; border-collapse: co=
+llapse !important; vertical-align: top; mso-table-lspace: 0pt; mso-table-rs=
+pace: 0pt; -ms-text-size-adjust: 100%; -webkit-text-size-adjust: 100%; font=
+-weight: normal; padding: 0; margin: 0; Margin: 0; font-size: 14px; mso-lin=
+e-height-rule: exactly; color: #333333; font-family: -apple-system, BlinkMa=
+cSystemFont, avenir next, avenir, segoe ui, helvetica neue, helvetica, Cant=
+arell, Ubuntu, roboto, noto, arial, sans-serif; line-height: 22px;"><!-- De=
+liberately empty to support consistent sizing and layout across multiple em=
+ail clients. --></td>=0A=09=09<td align=3D"center" valign=3D"top" class=3D"=
+body-inner" width=3D"660" style=3D"word-wrap: break-word; -webkit-hyphens: =
+auto; -moz-hyphens: auto; hyphens: auto; border-collapse: collapse !importa=
+nt; vertical-align: top; mso-table-lspace: 0pt; mso-table-rspace: 0pt; -ms-=
+text-size-adjust: 100%; -webkit-text-size-adjust: 100%; font-weight: normal=
+; padding: 0; margin: 0; Margin: 0; font-size: 14px; mso-line-height-rule: =
+exactly; color: #333333; font-family: -apple-system, BlinkMacSystemFont, av=
+enir next, avenir, segoe ui, helvetica neue, helvetica, Cantarell, Ubuntu, =
+roboto, noto, arial, sans-serif; padding-top: 50px; padding-bottom: 50px; l=
+ine-height: 22px;">=0A=09=09=09<div class=3D"wrapper" width=3D"100%" dir=3D=
+"ltr" style=3D"max-width: 660px;">=0A=09=09=09=09<table border=3D"0" cellpa=
+dding=3D"0" cellspacing=3D"0" width=3D"100%" class=3D"container" role=3D"pr=
+esentation" style=3D"border-collapse: collapse; border-spacing: 0; padding:=
+ 0; vertical-align: top; mso-table-lspace: 0pt; mso-table-rspace: 0pt; -ms-=
+text-size-adjust: 100%; -webkit-text-size-adjust: 100%; margin: 0 auto 0 au=
+to; Margin: 0 auto 0 auto;">=0A=09=09=09=09=09=09=09=09=09=09=09=09=09=09=
+=09<tr style=3D"padding: 0; vertical-align: top;">=0A=09=09=09=09=09=09<td =
+class=3D"wrapper-inner" bgcolor=3D"#ffffff" style=3D"word-wrap: break-word;=
+ -webkit-hyphens: auto; -moz-hyphens: auto; hyphens: auto; border-collapse:=
+ collapse !important; vertical-align: top; mso-table-lspace: 0pt; mso-table=
+-rspace: 0pt; -ms-text-size-adjust: 100%; -webkit-text-size-adjust: 100%; f=
+ont-weight: normal; margin: 0; Margin: 0; font-size: 14px; mso-line-height-=
+rule: exactly; color: #333333; font-family: -apple-system, BlinkMacSystemFo=
+nt, avenir next, avenir, segoe ui, helvetica neue, helvetica, Cantarell, Ub=
+untu, roboto, noto, arial, sans-serif; padding: 25px 30px 50px 30px; backgr=
+ound-color: #ffffff; border: 1px solid #c6c6c6; line-height: 22px;">=0A=09=
+=09=09=09=09=09=09<table border=3D"0" cellpadding=3D"0" cellspacing=3D"0" w=
+idth=3D"100%" role=3D"presentation" style=3D"border-collapse: collapse; bor=
+der-spacing: 0; padding: 0; vertical-align: top; mso-table-lspace: 0pt; mso=
+-table-rspace: 0pt; -ms-text-size-adjust: 100%; -webkit-text-size-adjust: 1=
+00%;">=0A=09=09=09=09=09=09=09=09<tr style=3D"padding: 0; vertical-align: t=
+op;">=0A=09=09=09=09=09=09=09=09=09<td valign=3D"top" class=3D"content" sty=
+le=3D"word-wrap: break-word; -webkit-hyphens: auto; -moz-hyphens: auto; hyp=
+hens: auto; border-collapse: collapse !important; vertical-align: top; mso-=
+table-lspace: 0pt; mso-table-rspace: 0pt; -ms-text-size-adjust: 100%; -webk=
+it-text-size-adjust: 100%; font-weight: normal; padding: 0; margin: 0; Marg=
+in: 0; font-size: 14px; mso-line-height-rule: exactly; color: #333333; font=
+-family: -apple-system, BlinkMacSystemFont, avenir next, avenir, segoe ui, =
+helvetica neue, helvetica, Cantarell, Ubuntu, roboto, noto, arial, sans-ser=
+if; line-height: 22px;">=0A=0A<table border=3D"0" cellpadding=3D"0" cellspa=
+cing=3D"0" width=3D"100%" role=3D"presentation" style=3D"border-collapse: c=
+ollapse; border-spacing: 0; padding: 0; vertical-align: top; mso-table-lspa=
+ce: 0pt; mso-table-rspace: 0pt; -ms-text-size-adjust: 100%; -webkit-text-si=
+ze-adjust: 100%;">=0A=09<tbody>=0A=09=09=0A<tr style=3D"padding: 0; vertica=
+l-align: top;">=0A=09<td class=3D"field-name" style=3D"word-wrap: break-wor=
+d; -webkit-hyphens: auto; -moz-hyphens: auto; hyphens: auto; border-collaps=
+e: collapse !important; vertical-align: top; mso-table-lspace: 0pt; mso-tab=
+le-rspace: 0pt; -ms-text-size-adjust: 100%; -webkit-text-size-adjust: 100%;=
+ font-weight: normal; padding: 0; margin: 0; Margin: 0; font-size: 14px; ms=
+o-line-height-rule: exactly; color: #333333; font-family: -apple-system, Bl=
+inkMacSystemFont, avenir next, avenir, segoe ui, helvetica neue, helvetica,=
+ Cantarell, Ubuntu, roboto, noto, arial, sans-serif; line-height: 22px; pad=
+ding-top: 25px; padding-bottom: 7px;"><strong style=3D"margin-bottom: 0; Ma=
+rgin-bottom: 0;">Tu nombre</strong></td>=0A</tr>=0A<tr class=3D"field-name"=
+ style=3D"padding: 0; vertical-align: top; padding-top: 25px; padding-botto=
+m: 7px;">=0A=09<td class=3D"field-value" style=3D"word-wrap: break-word; -w=
+ebkit-hyphens: auto; -moz-hyphens: auto; hyphens: auto; border-collapse: co=
+llapse !important; vertical-align: top; mso-table-lspace: 0pt; mso-table-rs=
+pace: 0pt; -ms-text-size-adjust: 100%; -webkit-text-size-adjust: 100%; font=
+-weight: normal; padding: 0; margin: 0; Margin: 0; font-size: 14px; mso-lin=
+e-height-rule: exactly; color: #333333; font-family: -apple-system, BlinkMa=
+cSystemFont, avenir next, avenir, segoe ui, helvetica neue, helvetica, Cant=
+arell, Ubuntu, roboto, noto, arial, sans-serif; line-height: 22px; padding-=
+bottom: 25px; border-bottom: 1px solid #e2e2e2;">Stan Duffield</td>=0A</tr>=
+=0A=0A<tr style=3D"padding: 0; vertical-align: top;">=0A=09<td class=3D"fie=
+ld-name" style=3D"word-wrap: break-word; -webkit-hyphens: auto; -moz-hyphen=
+s: auto; hyphens: auto; border-collapse: collapse !important; vertical-alig=
+n: top; mso-table-lspace: 0pt; mso-table-rspace: 0pt; -ms-text-size-adjust:=
+ 100%; -webkit-text-size-adjust: 100%; font-weight: normal; padding: 0; mar=
+gin: 0; Margin: 0; font-size: 14px; mso-line-height-rule: exactly; color: #=
+333333; font-family: -apple-system, BlinkMacSystemFont, avenir next, avenir=
+, segoe ui, helvetica neue, helvetica, Cantarell, Ubuntu, roboto, noto, ari=
+al, sans-serif; line-height: 22px; padding-top: 25px; padding-bottom: 7px;"=
+><strong style=3D"margin-bottom: 0; Margin-bottom: 0;">Email</strong></td>=
+=0A</tr>=0A<tr class=3D"field-email" style=3D"padding: 0; vertical-align: t=
+op;">=0A=09<td class=3D"field-value" style=3D"word-wrap: break-word; -webki=
+t-hyphens: auto; -moz-hyphens: auto; hyphens: auto; border-collapse: collap=
+se !important; vertical-align: top; mso-table-lspace: 0pt; mso-table-rspace=
+: 0pt; -ms-text-size-adjust: 100%; -webkit-text-size-adjust: 100%; font-wei=
+ght: normal; padding: 0; margin: 0; Margin: 0; font-size: 14px; mso-line-he=
+ight-rule: exactly; color: #333333; font-family: -apple-system, BlinkMacSys=
+temFont, avenir next, avenir, segoe ui, helvetica neue, helvetica, Cantarel=
+l, Ubuntu, roboto, noto, arial, sans-serif; line-height: 22px; padding-bott=
+om: 25px; border-bottom: 1px solid #e2e2e2;"><a href=3D"mailto:duffield.sta=
+n@gmail.com" style=3D"-ms-text-size-adjust: 100%; -webkit-text-size-adjust:=
+ 100%; font-weight: normal; padding: 0; margin: 0; Margin: 0; mso-line-heig=
+ht-rule: exactly; line-height: 22px; font-family: -apple-system, BlinkMacSy=
+stemFont, avenir next, avenir, segoe ui, helvetica neue, helvetica, Cantare=
+ll, Ubuntu, roboto, noto, arial, sans-serif; color: #e27730; -ms-word-break=
+: break-word; word-break: break-word; margin-bottom: 0; Margin-bottom: 0;">=
+duffield.stan@gmail.com</a></td>=0A</tr>=0A=0A<tr style=3D"padding: 0; vert=
+ical-align: top;">=0A=09<td class=3D"field-name" style=3D"word-wrap: break-=
+word; -webkit-hyphens: auto; -moz-hyphens: auto; hyphens: auto; border-coll=
+apse: collapse !important; vertical-align: top; mso-table-lspace: 0pt; mso-=
+table-rspace: 0pt; -ms-text-size-adjust: 100%; -webkit-text-size-adjust: 10=
+0%; font-weight: normal; padding: 0; margin: 0; Margin: 0; font-size: 14px;=
+ mso-line-height-rule: exactly; color: #333333; font-family: -apple-system,=
+ BlinkMacSystemFont, avenir next, avenir, segoe ui, helvetica neue, helveti=
+ca, Cantarell, Ubuntu, roboto, noto, arial, sans-serif; line-height: 22px; =
+padding-top: 25px; padding-bottom: 7px;"><strong style=3D"margin-bottom: 0;=
+ Margin-bottom: 0;">Mensaje</strong></td>=0A</tr>=0A<tr class=3D"field-text=
+area" style=3D"padding: 0; vertical-align: top;">=0A=09<td class=3D"field-v=
+alue" style=3D"word-wrap: break-word; -webkit-hyphens: auto; -moz-hyphens: =
+auto; hyphens: auto; border-collapse: collapse !important; vertical-align: =
+top; mso-table-lspace: 0pt; mso-table-rspace: 0pt; -ms-text-size-adjust: 10=
+0%; -webkit-text-size-adjust: 100%; font-weight: normal; padding: 0; margin=
+: 0; Margin: 0; font-size: 14px; mso-line-height-rule: exactly; color: #333=
+333; font-family: -apple-system, BlinkMacSystemFont, avenir next, avenir, s=
+egoe ui, helvetica neue, helvetica, Cantarell, Ubuntu, roboto, noto, arial,=
+ sans-serif; line-height: 22px; padding-bottom: 25px; border-bottom: 1px so=
+lid #e2e2e2;">Get more leads for your parrilla111.com website by using AI o=
+n Instagram. If you're looking to drive more traffic, generate leads, and g=
+row your brand's reach, you can get more information and start a free trial=
+ here: <a href=3D"https://shorten.world/OCCwP" rel=3D"nofollow" style=3D"-m=
+s-text-size-adjust: 100%; -webkit-text-size-adjust: 100%; font-weight: norm=
+al; padding: 0; margin: 0; Margin: 0; mso-line-height-rule: exactly; line-h=
+eight: 22px; font-family: -apple-system, BlinkMacSystemFont, avenir next, a=
+venir, segoe ui, helvetica neue, helvetica, Cantarell, Ubuntu, roboto, noto=
+, arial, sans-serif; color: #e27730; -ms-word-break: break-word; word-break=
+: break-word;">https://shorten.world/OCCwP</a><br><br>This is an AI-powered=
+ Instagram growth service that:<br>-Increases followers with targeted, high=
+-quality audiences.<br>-Boosts engagement through smart AI algorithms.<br>-=
+Targets users based on hashtags and accounts they follow. <br>-Saves you ti=
+me by automating tedious Instagram tasks.<br><br style=3D"margin-bottom: 0;=
+ Margin-bottom: 0;">Our service focuses on real, organic growth=E2=80=94no =
+bots, no fake followers. It=E2=80=99s perfect for brands like yours that wa=
+nt to turn Instagram into a lead generation powerhouse. Better yet, our ser=
+vice is provided on a month-by-month subscription basis so you can cancel a=
+ny time you like. No contracts and a 7 day free trial.</td>=0A</tr>=0A=09</=
+tbody>=0A</table>=0A=0A=09=09=09=09=09=09=09=09=09</td>=0A=09=09=09=09=09=
+=09=09=09</tr>=0A=09=09=09=09=09=09=09=09<tr style=3D"padding: 0; vertical-=
+align: top;">=0A=09=09=09=09=09=09=09=09=09<td align=3D"center" valign=3D"t=
+op" class=3D"footer" style=3D"word-wrap: break-word; -webkit-hyphens: auto;=
+ -moz-hyphens: auto; hyphens: auto; border-collapse: collapse !important; v=
+ertical-align: top; mso-table-lspace: 0pt; mso-table-rspace: 0pt; -ms-text-=
+size-adjust: 100%; -webkit-text-size-adjust: 100%; font-weight: normal; pad=
+ding: 0; margin: 0; Margin: 0; mso-line-height-rule: exactly; font-family: =
+-apple-system, BlinkMacSystemFont, avenir next, avenir, segoe ui, helvetica=
+ neue, helvetica, Cantarell, Ubuntu, roboto, noto, arial, sans-serif; font-=
+size: 12px; text-align: center; padding-top: 25px; color: #999999; line-hei=
+ght: 22px;">=0A=09=09=09=09=09=09=09=09=09=09Enviado desde <a href=3D"https=
+://parrilla111.com" style=3D"-ms-text-size-adjust: 100%; -webkit-text-size-=
+adjust: 100%; font-weight: normal; padding: 0; margin: 0; Margin: 0; mso-li=
+ne-height-rule: exactly; line-height: 22px; font-family: -apple-system, Bli=
+nkMacSystemFont, avenir next, avenir, segoe ui, helvetica neue, helvetica, =
+Cantarell, Ubuntu, roboto, noto, arial, sans-serif; text-decoration: underl=
+ine; color: #999999;"></a>=09=09=09=09=09=09=09=09=09</td>=0A=09=09=09=09=
+=09=09=09=09</tr>=0A=09=09=09=09=09=09=09</table>=0A=09=09=09=09=09=09</td>=
+=0A=09=09=09=09=09</tr>=0A=09=09=09=09</table>=0A=09=09=09</div>=0A=09=09</=
+td>=0A=09=09<td style=3D"word-wrap: break-word; -webkit-hyphens: auto; -moz=
+-hyphens: auto; hyphens: auto; border-collapse: collapse !important; vertic=
+al-align: top; mso-table-lspace: 0pt; mso-table-rspace: 0pt; -ms-text-size-=
+adjust: 100%; -webkit-text-size-adjust: 100%; font-weight: normal; padding:=
+ 0; margin: 0; Margin: 0; font-size: 14px; mso-line-height-rule: exactly; c=
+olor: #333333; font-family: -apple-system, BlinkMacSystemFont, avenir next,=
+ avenir, segoe ui, helvetica neue, helvetica, Cantarell, Ubuntu, roboto, no=
+to, arial, sans-serif; line-height: 22px;"><!-- Deliberately empty to suppo=
+rt consistent sizing and layout across multiple email clients. --></td>=0A=
+=09</tr>=0A</table>=0A</body>=0A</html>
+
+--1735886532-eximdsn-736150738--

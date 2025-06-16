@@ -1,0 +1,200 @@
+[15-Jun-2023 08:30:08 America/New_York] PHP Fatal error:  Uncaught Error: Class 'ParagonIE_Sodium_Core_Curve25519_Fe' not found in /home/parrilla111/public_html/wp-includes/sodium_compat/namespaced/Core/Curve25519/Fe.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/parrilla111/public_html/wp-includes/sodium_compat/namespaced/Core/Curve25519/Fe.php on line 4
+[15-Jun-2023 08:30:09 America/New_York] PHP Fatal error:  Uncaught Error: Class 'ParagonIE_Sodium_Core_Curve25519_Fe' not found in /home/parrilla111/public_html/wp-includes/sodium_compat/namespaced/Core/Curve25519/Fe.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/parrilla111/public_html/wp-includes/sodium_compat/namespaced/Core/Curve25519/Fe.php on line 4
+[15-Jun-2023 08:30:22 America/New_York] PHP Fatal error:  Uncaught Error: Class 'ParagonIE_Sodium_Core_Curve25519_H' not found in /home/parrilla111/public_html/wp-includes/sodium_compat/namespaced/Core/Curve25519/H.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/parrilla111/public_html/wp-includes/sodium_compat/namespaced/Core/Curve25519/H.php on line 4
+[15-Jun-2023 08:30:23 America/New_York] PHP Fatal error:  Uncaught Error: Class 'ParagonIE_Sodium_Core_Curve25519_H' not found in /home/parrilla111/public_html/wp-includes/sodium_compat/namespaced/Core/Curve25519/H.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/parrilla111/public_html/wp-includes/sodium_compat/namespaced/Core/Curve25519/H.php on line 4
+[15-Jun-2023 08:33:58 America/New_York] PHP Fatal error:  Uncaught Error: Class 'ParagonIE_Sodium_Core_Curve25519_Fe' not found in /home/parrilla111/public_html/wp-includes/sodium_compat/namespaced/Core/Curve25519/Fe.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/parrilla111/public_html/wp-includes/sodium_compat/namespaced/Core/Curve25519/Fe.php on line 4
+[15-Jun-2023 08:33:59 America/New_York] PHP Fatal error:  Uncaught Error: Class 'ParagonIE_Sodium_Core_Curve25519_Fe' not found in /home/parrilla111/public_html/wp-includes/sodium_compat/namespaced/Core/Curve25519/Fe.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/parrilla111/public_html/wp-includes/sodium_compat/namespaced/Core/Curve25519/Fe.php on line 4
+[15-Jun-2023 08:35:24 America/New_York] PHP Fatal error:  Uncaught Error: Class 'ParagonIE_Sodium_Core_Curve25519_H' not found in /home/parrilla111/public_html/wp-includes/sodium_compat/namespaced/Core/Curve25519/H.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/parrilla111/public_html/wp-includes/sodium_compat/namespaced/Core/Curve25519/H.php on line 4
+[15-Jun-2023 08:35:25 America/New_York] PHP Fatal error:  Uncaught Error: Class 'ParagonIE_Sodium_Core_Curve25519_H' not found in /home/parrilla111/public_html/wp-includes/sodium_compat/namespaced/Core/Curve25519/H.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/parrilla111/public_html/wp-includes/sodium_compat/namespaced/Core/Curve25519/H.php on line 4
+[27-Jun-2023 06:44:22 America/New_York] PHP Fatal error:  Uncaught Error: Class 'ParagonIE_Sodium_Core_Curve25519_Fe' not found in /home/parrilla111/public_html/wp-includes/sodium_compat/namespaced/Core/Curve25519/Fe.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/parrilla111/public_html/wp-includes/sodium_compat/namespaced/Core/Curve25519/Fe.php on line 4
+[27-Jun-2023 06:44:23 America/New_York] PHP Fatal error:  Uncaught Error: Class 'ParagonIE_Sodium_Core_Curve25519_Fe' not found in /home/parrilla111/public_html/wp-includes/sodium_compat/namespaced/Core/Curve25519/Fe.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/parrilla111/public_html/wp-includes/sodium_compat/namespaced/Core/Curve25519/Fe.php on line 4
+[27-Jun-2023 06:44:33 America/New_York] PHP Fatal error:  Uncaught Error: Class 'ParagonIE_Sodium_Core_Curve25519_H' not found in /home/parrilla111/public_html/wp-includes/sodium_compat/namespaced/Core/Curve25519/H.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/parrilla111/public_html/wp-includes/sodium_compat/namespaced/Core/Curve25519/H.php on line 4
+[27-Jun-2023 06:44:34 America/New_York] PHP Fatal error:  Uncaught Error: Class 'ParagonIE_Sodium_Core_Curve25519_H' not found in /home/parrilla111/public_html/wp-includes/sodium_compat/namespaced/Core/Curve25519/H.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/parrilla111/public_html/wp-includes/sodium_compat/namespaced/Core/Curve25519/H.php on line 4
+[30-Jun-2023 18:19:33 America/New_York] PHP Fatal error:  Uncaught Error: Class 'ParagonIE_Sodium_Core_Curve25519_Fe' not found in /home/parrilla111/public_html/wp-includes/sodium_compat/namespaced/Core/Curve25519/Fe.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/parrilla111/public_html/wp-includes/sodium_compat/namespaced/Core/Curve25519/Fe.php on line 4
+[30-Jun-2023 18:19:58 America/New_York] PHP Fatal error:  Uncaught Error: Class 'ParagonIE_Sodium_Core_Curve25519_Fe' not found in /home/parrilla111/public_html/wp-includes/sodium_compat/namespaced/Core/Curve25519/Fe.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/parrilla111/public_html/wp-includes/sodium_compat/namespaced/Core/Curve25519/Fe.php on line 4
+[30-Jun-2023 18:20:21 America/New_York] PHP Fatal error:  Uncaught Error: Class 'ParagonIE_Sodium_Core_Curve25519_H' not found in /home/parrilla111/public_html/wp-includes/sodium_compat/namespaced/Core/Curve25519/H.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/parrilla111/public_html/wp-includes/sodium_compat/namespaced/Core/Curve25519/H.php on line 4
+[30-Jun-2023 18:20:46 America/New_York] PHP Fatal error:  Uncaught Error: Class 'ParagonIE_Sodium_Core_Curve25519_H' not found in /home/parrilla111/public_html/wp-includes/sodium_compat/namespaced/Core/Curve25519/H.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/parrilla111/public_html/wp-includes/sodium_compat/namespaced/Core/Curve25519/H.php on line 4
+[06-Jul-2023 05:22:53 America/New_York] PHP Fatal error:  Uncaught Error: Class 'ParagonIE_Sodium_Core_Curve25519_Fe' not found in /home/parrilla111/public_html/wp-includes/sodium_compat/namespaced/Core/Curve25519/Fe.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/parrilla111/public_html/wp-includes/sodium_compat/namespaced/Core/Curve25519/Fe.php on line 4
+[06-Jul-2023 05:22:53 America/New_York] PHP Fatal error:  Uncaught Error: Class 'ParagonIE_Sodium_Core_Curve25519_Fe' not found in /home/parrilla111/public_html/wp-includes/sodium_compat/namespaced/Core/Curve25519/Fe.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/parrilla111/public_html/wp-includes/sodium_compat/namespaced/Core/Curve25519/Fe.php on line 4
+[06-Jul-2023 05:22:53 America/New_York] PHP Fatal error:  Uncaught Error: Class 'ParagonIE_Sodium_Core_Curve25519_H' not found in /home/parrilla111/public_html/wp-includes/sodium_compat/namespaced/Core/Curve25519/H.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/parrilla111/public_html/wp-includes/sodium_compat/namespaced/Core/Curve25519/H.php on line 4
+[06-Jul-2023 05:22:53 America/New_York] PHP Fatal error:  Uncaught Error: Class 'ParagonIE_Sodium_Core_Curve25519_H' not found in /home/parrilla111/public_html/wp-includes/sodium_compat/namespaced/Core/Curve25519/H.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/parrilla111/public_html/wp-includes/sodium_compat/namespaced/Core/Curve25519/H.php on line 4
+[19-Jul-2023 15:26:27 America/New_York] PHP Fatal error:  Uncaught Error: Class 'ParagonIE_Sodium_Core_Curve25519_Fe' not found in /home/parrilla111/public_html/wp-includes/sodium_compat/namespaced/Core/Curve25519/Fe.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/parrilla111/public_html/wp-includes/sodium_compat/namespaced/Core/Curve25519/Fe.php on line 4
+[19-Jul-2023 15:26:28 America/New_York] PHP Fatal error:  Uncaught Error: Class 'ParagonIE_Sodium_Core_Curve25519_Fe' not found in /home/parrilla111/public_html/wp-includes/sodium_compat/namespaced/Core/Curve25519/Fe.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/parrilla111/public_html/wp-includes/sodium_compat/namespaced/Core/Curve25519/Fe.php on line 4
+[19-Jul-2023 15:27:01 America/New_York] PHP Fatal error:  Uncaught Error: Class 'ParagonIE_Sodium_Core_Curve25519_H' not found in /home/parrilla111/public_html/wp-includes/sodium_compat/namespaced/Core/Curve25519/H.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/parrilla111/public_html/wp-includes/sodium_compat/namespaced/Core/Curve25519/H.php on line 4
+[19-Jul-2023 15:27:16 America/New_York] PHP Fatal error:  Uncaught Error: Class 'ParagonIE_Sodium_Core_Curve25519_H' not found in /home/parrilla111/public_html/wp-includes/sodium_compat/namespaced/Core/Curve25519/H.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/parrilla111/public_html/wp-includes/sodium_compat/namespaced/Core/Curve25519/H.php on line 4
+[19-Jul-2023 15:33:21 America/New_York] PHP Fatal error:  Uncaught Error: Class 'ParagonIE_Sodium_Core_Curve25519_Fe' not found in /home/parrilla111/public_html/wp-includes/sodium_compat/namespaced/Core/Curve25519/Fe.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/parrilla111/public_html/wp-includes/sodium_compat/namespaced/Core/Curve25519/Fe.php on line 4
+[19-Jul-2023 15:33:22 America/New_York] PHP Fatal error:  Uncaught Error: Class 'ParagonIE_Sodium_Core_Curve25519_Fe' not found in /home/parrilla111/public_html/wp-includes/sodium_compat/namespaced/Core/Curve25519/Fe.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/parrilla111/public_html/wp-includes/sodium_compat/namespaced/Core/Curve25519/Fe.php on line 4
+[19-Jul-2023 15:36:05 America/New_York] PHP Fatal error:  Uncaught Error: Class 'ParagonIE_Sodium_Core_Curve25519_H' not found in /home/parrilla111/public_html/wp-includes/sodium_compat/namespaced/Core/Curve25519/H.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/parrilla111/public_html/wp-includes/sodium_compat/namespaced/Core/Curve25519/H.php on line 4
+[19-Jul-2023 15:36:06 America/New_York] PHP Fatal error:  Uncaught Error: Class 'ParagonIE_Sodium_Core_Curve25519_H' not found in /home/parrilla111/public_html/wp-includes/sodium_compat/namespaced/Core/Curve25519/H.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/parrilla111/public_html/wp-includes/sodium_compat/namespaced/Core/Curve25519/H.php on line 4
+[25-Jul-2023 15:36:34 America/New_York] PHP Fatal error:  Uncaught Error: Class 'ParagonIE_Sodium_Core_Curve25519_Fe' not found in /home/parrilla111/public_html/wp-includes/sodium_compat/namespaced/Core/Curve25519/Fe.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/parrilla111/public_html/wp-includes/sodium_compat/namespaced/Core/Curve25519/Fe.php on line 4
+[25-Jul-2023 15:36:41 America/New_York] PHP Fatal error:  Uncaught Error: Class 'ParagonIE_Sodium_Core_Curve25519_Fe' not found in /home/parrilla111/public_html/wp-includes/sodium_compat/namespaced/Core/Curve25519/Fe.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/parrilla111/public_html/wp-includes/sodium_compat/namespaced/Core/Curve25519/Fe.php on line 4
+[25-Jul-2023 15:36:49 America/New_York] PHP Fatal error:  Uncaught Error: Class 'ParagonIE_Sodium_Core_Curve25519_H' not found in /home/parrilla111/public_html/wp-includes/sodium_compat/namespaced/Core/Curve25519/H.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/parrilla111/public_html/wp-includes/sodium_compat/namespaced/Core/Curve25519/H.php on line 4
+[25-Jul-2023 15:36:52 America/New_York] PHP Fatal error:  Uncaught Error: Class 'ParagonIE_Sodium_Core_Curve25519_H' not found in /home/parrilla111/public_html/wp-includes/sodium_compat/namespaced/Core/Curve25519/H.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/parrilla111/public_html/wp-includes/sodium_compat/namespaced/Core/Curve25519/H.php on line 4
+[25-Jul-2023 15:41:36 America/New_York] PHP Fatal error:  Uncaught Error: Class 'ParagonIE_Sodium_Core_Curve25519_Fe' not found in /home/parrilla111/public_html/wp-includes/sodium_compat/namespaced/Core/Curve25519/Fe.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/parrilla111/public_html/wp-includes/sodium_compat/namespaced/Core/Curve25519/Fe.php on line 4
+[25-Jul-2023 15:41:36 America/New_York] PHP Fatal error:  Uncaught Error: Class 'ParagonIE_Sodium_Core_Curve25519_Fe' not found in /home/parrilla111/public_html/wp-includes/sodium_compat/namespaced/Core/Curve25519/Fe.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/parrilla111/public_html/wp-includes/sodium_compat/namespaced/Core/Curve25519/Fe.php on line 4
+[25-Jul-2023 15:43:22 America/New_York] PHP Fatal error:  Uncaught Error: Class 'ParagonIE_Sodium_Core_Curve25519_H' not found in /home/parrilla111/public_html/wp-includes/sodium_compat/namespaced/Core/Curve25519/H.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/parrilla111/public_html/wp-includes/sodium_compat/namespaced/Core/Curve25519/H.php on line 4
+[25-Jul-2023 15:43:23 America/New_York] PHP Fatal error:  Uncaught Error: Class 'ParagonIE_Sodium_Core_Curve25519_H' not found in /home/parrilla111/public_html/wp-includes/sodium_compat/namespaced/Core/Curve25519/H.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/parrilla111/public_html/wp-includes/sodium_compat/namespaced/Core/Curve25519/H.php on line 4
+[31-Jul-2023 07:32:15 America/New_York] PHP Fatal error:  Uncaught Error: Class 'ParagonIE_Sodium_Core_Curve25519_Fe' not found in /home/parrilla111/public_html/wp-includes/sodium_compat/namespaced/Core/Curve25519/Fe.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/parrilla111/public_html/wp-includes/sodium_compat/namespaced/Core/Curve25519/Fe.php on line 4
+[31-Jul-2023 07:32:16 America/New_York] PHP Fatal error:  Uncaught Error: Class 'ParagonIE_Sodium_Core_Curve25519_Fe' not found in /home/parrilla111/public_html/wp-includes/sodium_compat/namespaced/Core/Curve25519/Fe.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/parrilla111/public_html/wp-includes/sodium_compat/namespaced/Core/Curve25519/Fe.php on line 4
+[31-Jul-2023 07:32:16 America/New_York] PHP Fatal error:  Uncaught Error: Class 'ParagonIE_Sodium_Core_Curve25519_H' not found in /home/parrilla111/public_html/wp-includes/sodium_compat/namespaced/Core/Curve25519/H.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/parrilla111/public_html/wp-includes/sodium_compat/namespaced/Core/Curve25519/H.php on line 4
+[31-Jul-2023 07:32:17 America/New_York] PHP Fatal error:  Uncaught Error: Class 'ParagonIE_Sodium_Core_Curve25519_H' not found in /home/parrilla111/public_html/wp-includes/sodium_compat/namespaced/Core/Curve25519/H.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/parrilla111/public_html/wp-includes/sodium_compat/namespaced/Core/Curve25519/H.php on line 4
+[05-Aug-2023 19:59:39 America/New_York] PHP Fatal error:  Uncaught Error: Class 'ParagonIE_Sodium_Core_Curve25519_Fe' not found in /home/parrilla111/public_html/wp-includes/sodium_compat/namespaced/Core/Curve25519/Fe.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/parrilla111/public_html/wp-includes/sodium_compat/namespaced/Core/Curve25519/Fe.php on line 4
+[05-Aug-2023 19:59:44 America/New_York] PHP Fatal error:  Uncaught Error: Class 'ParagonIE_Sodium_Core_Curve25519_Fe' not found in /home/parrilla111/public_html/wp-includes/sodium_compat/namespaced/Core/Curve25519/Fe.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/parrilla111/public_html/wp-includes/sodium_compat/namespaced/Core/Curve25519/Fe.php on line 4
+[05-Aug-2023 19:59:49 America/New_York] PHP Fatal error:  Uncaught Error: Class 'ParagonIE_Sodium_Core_Curve25519_H' not found in /home/parrilla111/public_html/wp-includes/sodium_compat/namespaced/Core/Curve25519/H.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/parrilla111/public_html/wp-includes/sodium_compat/namespaced/Core/Curve25519/H.php on line 4
+[05-Aug-2023 19:59:54 America/New_York] PHP Fatal error:  Uncaught Error: Class 'ParagonIE_Sodium_Core_Curve25519_H' not found in /home/parrilla111/public_html/wp-includes/sodium_compat/namespaced/Core/Curve25519/H.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/parrilla111/public_html/wp-includes/sodium_compat/namespaced/Core/Curve25519/H.php on line 4
+[05-Aug-2023 20:03:09 America/New_York] PHP Fatal error:  Uncaught Error: Class 'ParagonIE_Sodium_Core_Curve25519_Fe' not found in /home/parrilla111/public_html/wp-includes/sodium_compat/namespaced/Core/Curve25519/Fe.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/parrilla111/public_html/wp-includes/sodium_compat/namespaced/Core/Curve25519/Fe.php on line 4
+[05-Aug-2023 20:03:21 America/New_York] PHP Fatal error:  Uncaught Error: Class 'ParagonIE_Sodium_Core_Curve25519_Fe' not found in /home/parrilla111/public_html/wp-includes/sodium_compat/namespaced/Core/Curve25519/Fe.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/parrilla111/public_html/wp-includes/sodium_compat/namespaced/Core/Curve25519/Fe.php on line 4
+[05-Aug-2023 20:04:24 America/New_York] PHP Fatal error:  Uncaught Error: Class 'ParagonIE_Sodium_Core_Curve25519_H' not found in /home/parrilla111/public_html/wp-includes/sodium_compat/namespaced/Core/Curve25519/H.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/parrilla111/public_html/wp-includes/sodium_compat/namespaced/Core/Curve25519/H.php on line 4
+[05-Aug-2023 20:04:28 America/New_York] PHP Fatal error:  Uncaught Error: Class 'ParagonIE_Sodium_Core_Curve25519_H' not found in /home/parrilla111/public_html/wp-includes/sodium_compat/namespaced/Core/Curve25519/H.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/parrilla111/public_html/wp-includes/sodium_compat/namespaced/Core/Curve25519/H.php on line 4
+[18-May-2025 07:59:23 America/New_York] PHP Fatal error:  Uncaught Error: Class 'ParagonIE_Sodium_Core_Curve25519_Fe' not found in /home/parrilla111/public_html/wp-includes/sodium_compat/namespaced/Core/Curve25519/Fe.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/parrilla111/public_html/wp-includes/sodium_compat/namespaced/Core/Curve25519/Fe.php on line 4
+[18-May-2025 07:59:29 America/New_York] PHP Fatal error:  Uncaught Error: Class 'ParagonIE_Sodium_Core_Curve25519_H' not found in /home/parrilla111/public_html/wp-includes/sodium_compat/namespaced/Core/Curve25519/H.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/parrilla111/public_html/wp-includes/sodium_compat/namespaced/Core/Curve25519/H.php on line 4

@@ -1,0 +1,4 @@
+[18-May-2025 06:34:55 America/New_York] PHP Fatal error:  Uncaught Error: Class 'SimplePie' not found in /home/parrilla111/public_html/wp-includes/SimplePie/library/SimplePie/Core.php:54
+Stack trace:
+#0 {main}
+  thrown in /home/parrilla111/public_html/wp-includes/SimplePie/library/SimplePie/Core.php on line 54
